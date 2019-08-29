@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik user account
+2. Klik Favorit
+3. Klik ok button tcash
+</description>
+   <name>FavoritSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0d26249-f4db-4755-86ee-f4ec21a1aaee</testCaseGuid>
+</TestCaseEntity>

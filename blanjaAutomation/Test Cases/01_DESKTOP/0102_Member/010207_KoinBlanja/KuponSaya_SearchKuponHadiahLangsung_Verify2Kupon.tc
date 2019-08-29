@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search kupon undian
+2 produk</description>
+   <name>KuponSaya_SearchKuponHadiahLangsung_Verify2Kupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb29303a-18a2-41a9-b04d-958ba087061b</testCaseGuid>
+</TestCaseEntity>

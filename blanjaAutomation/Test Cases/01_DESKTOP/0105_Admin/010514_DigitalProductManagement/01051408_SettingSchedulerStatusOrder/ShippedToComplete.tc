@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID
+- Click button search
+- Click radio button of the choosen SKUID
+- Click check box shipped to complete
+- Click submit</description>
+   <name>ShippedToComplete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21701a1c-b669-4134-9059-94fbab3f9eac</testCaseGuid>
+</TestCaseEntity>

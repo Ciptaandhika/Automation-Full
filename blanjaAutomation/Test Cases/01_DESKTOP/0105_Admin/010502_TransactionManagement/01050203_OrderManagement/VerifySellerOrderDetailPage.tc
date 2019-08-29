@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system berhasil mendaftarkan store ke dalam list exclude being verified</description>
+   <name>VerifySellerOrderDetailPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b31fe238-05ce-4f4f-9cb1-5556121cd8a4</testCaseGuid>
+</TestCaseEntity>

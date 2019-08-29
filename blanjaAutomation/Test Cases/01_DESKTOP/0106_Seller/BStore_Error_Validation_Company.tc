@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify kondisi error input (empty) form company pada halaman dokumen penunjang (business store)</description>
+   <name>BStore_Error_Validation_Company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42230246-ca34-4506-a9d0-e2c4702a2405</testCaseGuid>
+</TestCaseEntity>

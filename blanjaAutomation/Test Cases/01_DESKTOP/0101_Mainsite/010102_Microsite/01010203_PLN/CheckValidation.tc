@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill id pelanggan field
+- Verify validation</description>
+   <name>CheckValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb5aa287-ca85-479c-98fd-72af81e1a12e</testCaseGuid>
+</TestCaseEntity>

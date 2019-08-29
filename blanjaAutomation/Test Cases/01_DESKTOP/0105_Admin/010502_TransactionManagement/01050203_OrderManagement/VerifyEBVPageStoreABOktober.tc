@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Store A1 dan B2 akan muncul di tab Active dengan status Exclude Being Verified = Active
+2. Tab Active menampilkan kolom :
+- Store Id 
+- Store name
+- Start date
+- End date. End date akan menampilkan No Expired jika admin memilih periode = No Expired
+- status
+- last operation by
+- last operation time
+- action (Edit | Deactivated)</description>
+   <name>VerifyEBVPageStoreABOktober</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45f785e6-8183-4f12-a994-f454a858ea00</testCaseGuid>
+</TestCaseEntity>

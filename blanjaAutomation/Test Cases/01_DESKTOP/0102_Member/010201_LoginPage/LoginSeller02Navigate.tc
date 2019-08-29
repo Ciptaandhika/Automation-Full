@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Login sebagai member seller02 (Type store = Business Store)</description>
+   <name>LoginSeller02Navigate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab75a469-b26f-479c-8863-976b1d2919bd</testCaseGuid>
+</TestCaseEntity>

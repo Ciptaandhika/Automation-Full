@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Campaign koin blanja
+no creteria
+set extra koin
+admin create prize</description>
+   <name>Create Campaign no Creteria Set Extra Koin No Coupon (Lottery)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0e0267f-937b-4a23-b780-4a5a1125ed65</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Batalkan Promo Free Shipping</description>
+   <name>BatalkanPromoFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07002d94-22e4-4cd7-89a5-36ebd8659a28</testCaseGuid>
+</TestCaseEntity>

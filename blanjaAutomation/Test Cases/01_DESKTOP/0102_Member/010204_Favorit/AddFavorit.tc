@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik button favorit</description>
+   <name>AddFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9107e839-a5fc-40bd-b7af-8cfb910bba93</testCaseGuid>
+</TestCaseEntity>

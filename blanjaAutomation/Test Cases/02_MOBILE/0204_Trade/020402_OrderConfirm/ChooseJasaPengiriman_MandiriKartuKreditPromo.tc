@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'mandiri 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_MandiriKartuKreditPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1959bf5e-a8d0-44d8-91e2-1384d91f723a</testCaseGuid>
+</TestCaseEntity>

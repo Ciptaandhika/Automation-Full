@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll to element promo shipping
+click info promo shipping</description>
+   <name>ClickInfoPromoShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27ad5581-9301-4954-9643-6377aedc6bdb</testCaseGuid>
+</TestCaseEntity>

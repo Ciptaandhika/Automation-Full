@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik label brand store pilihan
+2. klik button lihat semua
+3. scroll ke footer blanja
+scroll up and down page
+system will display 1-4 brand on list</description>
+   <name>ScrollUpDownBrandStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a72e608e-ce82-4b7d-8118-ca5d5c518b6d</testCaseGuid>
+</TestCaseEntity>

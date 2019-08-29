@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Verify text present</description>
+   <name>verifyErrorScanningMoreThan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2c0c0c1-de3b-47f4-8a33-d6e31dc111f5</testCaseGuid>
+</TestCaseEntity>

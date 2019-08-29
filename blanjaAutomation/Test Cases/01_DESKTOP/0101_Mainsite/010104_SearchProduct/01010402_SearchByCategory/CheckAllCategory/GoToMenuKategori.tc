@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Menu Kategori</description>
+   <name>GoToMenuKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bcdc614-a6ff-468d-ba45-34e03220b445</testCaseGuid>
+</TestCaseEntity>

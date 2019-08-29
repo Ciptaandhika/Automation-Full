@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik coin blanja management
+- search test06
+- klik edit
+- add 100
+- add deskripsi
+- klik konfirmasi</description>
+   <name>Add_CoinBlanja_Test06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0de7b52-863c-47fc-9154-02e150d88c78</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search order number.
+Click cari.
+Check order number.
+Click button complete.
+Click ok.</description>
+   <name>AdminApproveRefund2OrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d42a681d-29ea-434a-9214-c134e723ed34</testCaseGuid>
+</TestCaseEntity>

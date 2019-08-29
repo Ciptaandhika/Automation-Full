@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify text under btn preview desktop, preview mobile</description>
+   <name>verifyText</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec9e4ee9-e1f8-4b50-8739-a348b04b861d</testCaseGuid>
+</TestCaseEntity>

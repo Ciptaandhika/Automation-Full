@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Transaksi Penjualan Menu.
+Fill Order Number.
+Click button Cari.
+Click Detail Logistic.</description>
+   <name>VerifyLogisticDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac6ee729-c8fe-4fdd-8216-2cc0042a330b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik kategori anak bayi dan mainan
+sistem akan menampilkan produk sesuai</description>
+   <name>AnakBayidanMainan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c1dc007-c888-4473-9c4b-ff32c9497ce4</testCaseGuid>
+</TestCaseEntity>

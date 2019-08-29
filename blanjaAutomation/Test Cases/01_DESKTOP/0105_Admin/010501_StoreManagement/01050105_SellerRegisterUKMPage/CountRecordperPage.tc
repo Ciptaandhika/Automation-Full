@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Count total record in one page</description>
+   <name>CountRecordperPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e44415e-ef5e-4a01-a3de-fa33076141c7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik view
+sistem akan memverifikasi redeemtime</description>
+   <name>ViewRedeemTime - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c26549c7-f3d3-4a67-9331-1a3d7be9d81f</testCaseGuid>
+</TestCaseEntity>

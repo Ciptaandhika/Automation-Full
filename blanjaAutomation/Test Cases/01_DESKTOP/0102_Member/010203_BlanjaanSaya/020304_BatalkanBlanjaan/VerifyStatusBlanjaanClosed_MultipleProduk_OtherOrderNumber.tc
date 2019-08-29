@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that status will changed to closed</description>
+   <name>VerifyStatusBlanjaanClosed_MultipleProduk_OtherOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b6f5c0e-475e-476e-8c35-53ac97eef7f7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik btn UbahMetodePembayaran
+Pilih Metode BCA VA
+Konfirmasi</description>
+   <name>UbahMetodePembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e41f1221-c76f-4942-8c9e-242683393291</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Tanggapan Page</description>
+   <name>ClickTanggapan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf2489d7-f859-49c0-be97-d1c7a4a2edd2</testCaseGuid>
+</TestCaseEntity>

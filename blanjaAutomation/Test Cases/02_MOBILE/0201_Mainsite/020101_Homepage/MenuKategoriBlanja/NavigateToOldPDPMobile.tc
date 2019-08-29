@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Old PDP
+'https://m.bljstaging.com/p/hnb/pantene-hairfall-control-shampo-sachet-19757047'</description>
+   <name>NavigateToOldPDPMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6d21f50-fbb0-4ef3-8dff-ecf7cb7d93fb</testCaseGuid>
+</TestCaseEntity>

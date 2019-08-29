@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. admin input Promotion Name = 50 char
+
+tidak bisa lebih dari 50char</description>
+   <name>Campaign Name 50 Max Lenght</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18ea914a-2a31-473e-9223-923903ff037a</testCaseGuid>
+</TestCaseEntity>

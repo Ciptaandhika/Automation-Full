@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada Halaman Seller Register UKM klik View dari salah satu event
+- verify URL dari view detail mengandung ukmRegistration/viewPage 
+</description>
+   <name>Admin_Click_Detail_Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>577e09ed-d188-4658-998b-1ed141f3b6c4</testCaseGuid>
+</TestCaseEntity>

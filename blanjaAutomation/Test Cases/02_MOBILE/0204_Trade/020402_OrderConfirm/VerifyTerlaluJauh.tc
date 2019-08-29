@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure warning appear as buyer address is to far</description>
+   <name>VerifyTerlaluJauh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d1e03e1-2d57-46af-b1f5-764533a5dbac</testCaseGuid>
+</TestCaseEntity>

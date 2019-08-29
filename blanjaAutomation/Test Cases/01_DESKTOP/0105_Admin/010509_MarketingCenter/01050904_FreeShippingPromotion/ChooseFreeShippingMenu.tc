@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Free Shipping Menu.</description>
+   <name>ChooseFreeShippingMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce870868-c8f4-457c-a59d-148290de5e85</testCaseGuid>
+</TestCaseEntity>

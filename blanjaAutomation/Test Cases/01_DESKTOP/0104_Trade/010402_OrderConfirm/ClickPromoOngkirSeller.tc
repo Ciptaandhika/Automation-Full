@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Promosi Ongkir yang dibuat Seller</description>
+   <name>ClickPromoOngkirSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6899bf70-3504-4b3c-863b-d7af6f92dde7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on the dashboard page</description>
+   <name>SearchProdukToDashboardPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>777d0591-e338-4df3-b39c-b77a58ac9190</testCaseGuid>
+</TestCaseEntity>

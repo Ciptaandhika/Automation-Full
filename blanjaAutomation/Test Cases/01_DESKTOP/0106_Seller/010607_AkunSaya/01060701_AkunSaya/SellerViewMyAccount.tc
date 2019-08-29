@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Informasi Akun.
+click Dompet Belanja.
+choose Order Number.
+click Expand.</description>
+   <name>SellerViewMyAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fc97955-ca3f-4581-92d9-8489c5472201</testCaseGuid>
+</TestCaseEntity>

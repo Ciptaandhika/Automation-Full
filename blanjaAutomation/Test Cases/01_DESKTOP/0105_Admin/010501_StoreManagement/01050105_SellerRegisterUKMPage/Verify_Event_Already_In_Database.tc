@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin klik Add New Page
+- Admin input  nama Event yang sama
+- Admin input Generated URL yang sama
+- Admin input Start Date Event
+- Admin input  Start Time
+- Admin input End Date Event
+- Verify Label dan Warnin Error (Already in DataBase)</description>
+   <name>Verify_Event_Already_In_Database</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab9330b8-095d-470d-a063-0992a4ea72d7</testCaseGuid>
+</TestCaseEntity>

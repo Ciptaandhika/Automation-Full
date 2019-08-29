@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoToCashbackManagement_VerifyCashbackAfterOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbcec888-fbbf-4fe7-9b9f-73b8f25269df</testCaseGuid>
+</TestCaseEntity>

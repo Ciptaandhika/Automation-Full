@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. scroll produk populer
+2.  klik button swiper next
+3. sistem akan  scroll up and down page 30 item produk
+</description>
+   <name>SwipeProdukPopuler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b477e44-6e17-4eea-8db1-95f553a34c15</testCaseGuid>
+</TestCaseEntity>

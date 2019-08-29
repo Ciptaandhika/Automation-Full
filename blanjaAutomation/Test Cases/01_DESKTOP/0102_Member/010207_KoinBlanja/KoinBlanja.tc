@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to koin blanja page</description>
+   <name>KoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b93616d2-2f03-4252-ac22-c093e88146fe</testCaseGuid>
+</TestCaseEntity>

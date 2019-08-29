@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Add Product(s)
+Input store id/ product id and click Search</description>
+   <name>LTDShowPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98a7be22-47ba-4066-aa43-73e5c60b2a35</testCaseGuid>
+</TestCaseEntity>

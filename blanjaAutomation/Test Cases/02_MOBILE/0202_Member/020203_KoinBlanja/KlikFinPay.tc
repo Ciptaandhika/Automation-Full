@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik finpay</description>
+   <name>KlikFinPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>437f5e21-84f5-451b-ab24-ed01fe94da56</testCaseGuid>
+</TestCaseEntity>

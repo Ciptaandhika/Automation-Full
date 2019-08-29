@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Store name
+Click filter</description>
+   <name>SearchByFilterMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dda3f24-f4fa-454b-b417-11a9e372f0dd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Instant Courier Menu
+Input store name in column search</description>
+   <name>AdminDeleteSearchStoreID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>924011c9-f6f9-490e-b9a2-5b3a873a33a7</testCaseGuid>
+</TestCaseEntity>

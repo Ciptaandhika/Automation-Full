@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Aktivasi LinkAja
+Delay
+Get URL
+Verify Equal</description>
+   <name>activateLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df9160fa-2af2-479a-bfdd-c0afb34f2cb7</testCaseGuid>
+</TestCaseEntity>

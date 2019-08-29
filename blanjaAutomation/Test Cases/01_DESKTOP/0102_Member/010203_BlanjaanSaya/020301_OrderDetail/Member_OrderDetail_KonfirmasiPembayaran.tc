@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik 'Konfirmasi Pembayaran'
+Verify pop up 'Konfirmasi Pembayaran' tampil
+Fill the konfirmation form
+Click on &quot;Pilih File&quot; button
+Select the image file with format .png, .jpg, .jpg
+Click on &quot;Simpan&quot; button
+
+</description>
+   <name>Member_OrderDetail_KonfirmasiPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1d9c2e8-a291-46e6-92fb-b9c4b532f0e8</testCaseGuid>
+</TestCaseEntity>

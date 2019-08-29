@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih child category office laptop
+- pilih 2 produk yang akan di migrate di current category
+- pilih new category
+- klik submit
+- verify seperate per product di halaman history migrate listing</description>
+   <name>Verify_Seperate_Per_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b421b80-e366-401c-abb8-9e0588360618</testCaseGuid>
+</TestCaseEntity>

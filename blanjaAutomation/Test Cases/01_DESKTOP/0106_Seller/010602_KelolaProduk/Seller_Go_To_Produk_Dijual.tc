@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik button teman blanja
+- klik produk dijual</description>
+   <name>Seller_Go_To_Produk_Dijual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61ad4a4e-26b3-42b0-8c48-aa964dabae04</testCaseGuid>
+</TestCaseEntity>

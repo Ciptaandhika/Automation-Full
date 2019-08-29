@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click menu best seller di homepage</description>
+   <name>ClickBestSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8822838-384d-4cf0-ad21-8d2d4fd5fe62</testCaseGuid>
+</TestCaseEntity>

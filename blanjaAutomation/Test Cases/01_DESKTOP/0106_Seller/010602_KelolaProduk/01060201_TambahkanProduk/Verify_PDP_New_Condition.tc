@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik salah satu produk
+- verify pada PDP tersebut terdapat kondisi new</description>
+   <name>Verify_PDP_New_Condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>719e0c38-77c2-4231-880f-add513e247ce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi text Seller Agreement dapat di klik
+- jika text Seller Agreement di klik maka akan muncul pop up tentang Seller Agreement</description>
+   <name>Verify_Link_SellerAgreement_Clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36b659ca-77b5-46a8-a24c-8072f19c5df1</testCaseGuid>
+</TestCaseEntity>

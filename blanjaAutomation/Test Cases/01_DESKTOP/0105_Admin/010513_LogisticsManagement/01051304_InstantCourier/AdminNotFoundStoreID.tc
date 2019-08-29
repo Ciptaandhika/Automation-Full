@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Instant Courier Menu
+Check Same Day checkbox
+Input store's id
+Click Save</description>
+   <name>AdminNotFoundStoreID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4328905-082d-481e-9170-7973383ab57f</testCaseGuid>
+</TestCaseEntity>

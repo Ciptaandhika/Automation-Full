@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BNI
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'bni 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_BNIKartuKreditCicilan_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d83c51f3-1be2-46ae-b51c-f8d64f9dac6c</testCaseGuid>
+</TestCaseEntity>

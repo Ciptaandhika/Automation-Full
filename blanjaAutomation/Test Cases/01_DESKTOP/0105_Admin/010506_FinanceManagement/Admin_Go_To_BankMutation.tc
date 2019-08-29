@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- click bank mutation</description>
+   <name>Admin_Go_To_BankMutation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85499d33-4e25-45b1-adb9-a025a8e80b1a</testCaseGuid>
+</TestCaseEntity>

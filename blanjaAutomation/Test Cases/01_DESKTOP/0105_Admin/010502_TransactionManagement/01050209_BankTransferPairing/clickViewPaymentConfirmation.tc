@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button View Payment Confirmation</description>
+   <name>clickViewPaymentConfirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4783991-6919-4596-869e-962870b5668f</testCaseGuid>
+</TestCaseEntity>

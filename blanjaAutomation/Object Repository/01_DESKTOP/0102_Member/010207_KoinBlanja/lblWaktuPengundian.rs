@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lblWaktuPengundian</name>
+   <tag></tag>
+   <elementGuidId>b2370d3b-98e6-4841-a1b7-3e47cbc1e27c</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shopnwin-modals-body-coupon-expired__detail-date</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            15 May 2019
+                        </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopnwin&quot;)/div[@class=&quot;shopnwin-list&quot;]/div[@class=&quot;shopnwin-list-body&quot;]/div[2]/div[@class=&quot;shopnwin-mycoupon&quot;]/div[@class=&quot;shopnwin-overlay&quot;]/div[@class=&quot;shopnwin-overlay-modals&quot;]/div[@class=&quot;shopnwin-modals&quot;]/div[@class=&quot;shopnwin-modals-body&quot;]/div[@class=&quot;shopnwin-modals-body-coupon-expired&quot;]/div[@class=&quot;shopnwin-modals-body-coupon-expired__detail&quot;]/div[@class=&quot;shopnwin-modals-body-coupon-expired__detail-date&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='shopnwin']/div[4]/div[2]/div[2]/div/div[3]/div/div/div[2]/div[2]/div[2]/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waktu pengundian:'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cobacoba.'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Undian:'])[1]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan'])[1]/preceding::div[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[3]/div/div/div[2]/div[2]/div[2]/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

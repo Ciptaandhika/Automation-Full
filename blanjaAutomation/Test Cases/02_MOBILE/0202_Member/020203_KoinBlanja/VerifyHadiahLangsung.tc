@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.</description>
+   <name>VerifyHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eecad764-5457-428d-89de-0d887a7b3c0b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, user input thematic code coupon on kupon blanja field
+ e.g :
+ product name :
+ code coupon :
+ value coupon :
+ exclude : all promotion
+2. click on 'USE' button
+3. then choose payment method : points, VA, or online payment
+4. click on 'Confirm' button
+
+2.1 on payment page, after click on 'USE' button, system will validate coupon.
+2.2 then if coupon valid, system will deducted total payment, and display coupon nominal.
+3.1 system will tick on selected online payment method, if user paid using points or VA, system will deducted total payment due the input amount and coupon amount</description>
+   <name>ChoosePaymentBCAVAUsingThematicCoupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1039f61-d642-4171-a39b-36dec5ff3627</testCaseGuid>
+</TestCaseEntity>

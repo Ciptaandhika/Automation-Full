@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click board Username
+sistem menampilkan verifikasi username
+</description>
+   <name>UserName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5baed21b-5103-450a-9f2a-a8f4affb5538</testCaseGuid>
+</TestCaseEntity>

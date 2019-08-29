@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Seller klik salah satu pesan / chat
+- Pada halaman detail conversation click Back
+- Verify URL setelah click Back</description>
+   <name>Seller_ClickBack_From_DetailConversation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25f08b6d-fa47-40d2-a66c-72b19ea590bb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url pdp cake</description>
+   <name>GoToMPDPCakeBacaSelengkapnyaKlik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93fcf331-7e33-423f-adb1-7637b669801e</testCaseGuid>
+</TestCaseEntity>

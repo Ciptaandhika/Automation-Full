@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Jasa Pengiriman Go Send.
+Choose Jenis Pengiriman Same Day Delivery.</description>
+   <name>BuyerChooseSameDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d878565-de4b-491e-972b-b2d814db2bab</testCaseGuid>
+</TestCaseEntity>

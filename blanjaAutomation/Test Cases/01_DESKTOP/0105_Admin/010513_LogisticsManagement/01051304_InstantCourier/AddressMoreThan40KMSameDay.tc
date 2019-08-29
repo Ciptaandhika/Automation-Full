@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product go send.
+choose jasa pengiriman Go Send (Same Day Delivery) and distance of buyer and seller more than 40 KM.</description>
+   <name>AddressMoreThan40KMSameDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4842f79-d166-4ed3-88e4-5784e03ce103</testCaseGuid>
+</TestCaseEntity>

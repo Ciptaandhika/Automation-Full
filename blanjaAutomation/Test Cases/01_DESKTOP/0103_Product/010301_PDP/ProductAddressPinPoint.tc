@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+click button Blanja Sekarang.
+</description>
+   <name>ProductAddressPinPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c82669cf-3ba3-4648-802c-d2c893056f02</testCaseGuid>
+</TestCaseEntity>

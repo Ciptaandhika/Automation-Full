@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin-Transaksi Penjualan
+Masukkan nomor order
+Klik tombol Cari
+Verify payment methode = 'Mandiri E-Cash'
+Klik 'Detail Pesanan'</description>
+   <name>GoToTransaksiPenjualan_FPSL_Pos_InputOrderNumber_KlikBtnCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89ec913f-38ff-4cc1-8f7b-60e29d8f2a0a</testCaseGuid>
+</TestCaseEntity>

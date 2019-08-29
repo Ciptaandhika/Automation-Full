@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to PDP
+2. Click store name on top right of the PDP</description>
+   <name>RedirectToStoreNameTopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb766b41-0766-451e-9331-112acc4e3787</testCaseGuid>
+</TestCaseEntity>

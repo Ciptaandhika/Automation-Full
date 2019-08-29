@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search suggestion is showed up
+2. Search suggestion is using Bahasa</description>
+   <name>verifyShowUp-Bahasa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32b55501-6e98-4409-9bab-80f33a85d2e0</testCaseGuid>
+</TestCaseEntity>

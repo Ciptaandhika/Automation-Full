@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. go to withdrawal management
+
+admin checklist select all then click complete/hold status of all swift number selected will be change to complete/hold</description>
+   <name>WithdrawalManagementChangeFromHoldToCompleteAllSwift</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4c64e05-dd03-4852-9ad0-e120021bd97d</testCaseGuid>
+</TestCaseEntity>

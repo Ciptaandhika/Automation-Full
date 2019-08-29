@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik logo belanja untuk menampilkan homepage</description>
+   <name>ClickBackHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0ea9b40-4381-4c3a-8a6a-4de947f125e2</testCaseGuid>
+</TestCaseEntity>

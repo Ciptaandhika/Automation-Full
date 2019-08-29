@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access koin blanja.
+</description>
+   <name>AksesKoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdaa9661-9579-406b-9d9d-93eca0b92ba9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Seller input URL produk tokopedia
+- Seller Pilih Kategori (Misalnya Komputer)
+- Klik Lanjutkan
+- Verify URL yang mengandung tokopedia</description>
+   <name>Seller_Create_Product_With_URLProdukTokopedia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02906a62-68b2-4a55-a851-c826e5fd96f0</testCaseGuid>
+</TestCaseEntity>

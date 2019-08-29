@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Input Periode = spesific time (input start date &amp; end date)
+2. Take rate = Flat
+3. Scope = Category Group, and select group name
+4. Click Save button</description>
+   <name>TakeRateSettingGroupFlatSpesificTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9370429-a3e0-47aa-af18-605b3b9f5398</testCaseGuid>
+</TestCaseEntity>

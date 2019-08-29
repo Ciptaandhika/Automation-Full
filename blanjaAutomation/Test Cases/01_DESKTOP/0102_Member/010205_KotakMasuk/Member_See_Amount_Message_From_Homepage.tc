@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada homepage buyer klik profile
+-  verify pada label kotak masuk terdapat jumlah message yang muncul</description>
+   <name>Member_See_Amount_Message_From_Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>633e507d-64a8-4ec1-8e98-06bb71df0cd8</testCaseGuid>
+</TestCaseEntity>

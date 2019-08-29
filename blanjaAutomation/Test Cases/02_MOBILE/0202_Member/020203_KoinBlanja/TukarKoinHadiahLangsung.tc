@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tukar
+click ya
+click lihat kupon</description>
+   <name>TukarKoinHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42fab9f4-2e75-413d-8863-63af02be87e1</testCaseGuid>
+</TestCaseEntity>

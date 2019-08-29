@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Akun saya
+2. User access Dompet Blanja
+Show all transaction that user done</description>
+   <name>DompetBlanjaAllTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50c72016-55d5-4a6f-bac4-07df9e29e7c0</testCaseGuid>
+</TestCaseEntity>

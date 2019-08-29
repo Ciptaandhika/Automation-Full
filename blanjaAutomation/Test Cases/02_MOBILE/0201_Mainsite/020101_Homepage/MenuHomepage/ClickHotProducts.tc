@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu hot produk</description>
+   <name>ClickHotProducts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af0c43e8-0f5b-4965-b15e-584dc5b7dc00</testCaseGuid>
+</TestCaseEntity>

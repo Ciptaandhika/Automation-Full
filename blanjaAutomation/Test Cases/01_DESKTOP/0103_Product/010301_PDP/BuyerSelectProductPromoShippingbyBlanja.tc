@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+click button Tambahkan ke Troli.
+click Troli.
+click button Lanjutkan Pembayaran.</description>
+   <name>BuyerSelectProductPromoShippingbyBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c23e0d2d-9172-4aea-9505-18c06e6c01f1</testCaseGuid>
+</TestCaseEntity>

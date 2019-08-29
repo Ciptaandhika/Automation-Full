@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url
+verify equal</description>
+   <name>verifyLtdPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf709026-a93d-4b1d-b463-016f8cb721b8</testCaseGuid>
+</TestCaseEntity>

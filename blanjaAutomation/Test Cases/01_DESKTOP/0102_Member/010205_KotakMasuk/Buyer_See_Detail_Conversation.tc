@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik btn tcash
+- klik label belum terbaca
+- klik salah satu pesan yang belum terbaca
+- verifikasi jika buyer sudah berada di chatbox detail conversation dengan seller</description>
+   <name>Buyer_See_Detail_Conversation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fabdbd9-f668-44d1-8218-fcb7e019fd6a</testCaseGuid>
+</TestCaseEntity>

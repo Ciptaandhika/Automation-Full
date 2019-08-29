@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Condition 1 : 
+- Jika member belum pernah memilih tipe toko maka akan di direct ke halaman type store
+- member klik open individual store
+- member mengisi form Postal Code berdasarkan Provinsi, Kecamatan dan   Kabupaten yang di pilih
+Condition 2 : 
+- Jika member sudah pernah memilih tipe toko maka langsung di direct ke form registrasi individual store
+- member mengisi form Postal Code berdasarkan Provinsi, Kecamatan dan   Kabupaten yang di pilih</description>
+   <name>Register_Individual_Store_SetText_PostalCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0103997-eff7-44d5-a487-c5625fac2fb6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya mweb
+- Klik tombol Batalkan
+- Pilih alasan pembatalan
+- Klik tombol OK
+- Verify status 'Tutup'
+- Klik 'Ubah Pembayaran' untuk another order (tidak ada fitur search)</description>
+   <name>GoToBlanjaanSaya_CancelOrder_KlikUbahMetodePembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc775650-f688-4d50-97b9-0b4980b14036</testCaseGuid>
+</TestCaseEntity>

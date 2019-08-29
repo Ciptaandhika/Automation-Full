@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User redirected to store page
+2. URL of the storepage is m.blanja.com/store/[storename]</description>
+   <name>verifyClickProdukPDPMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09bdf3cb-c341-4bb9-9dda-f27998d527f5</testCaseGuid>
+</TestCaseEntity>

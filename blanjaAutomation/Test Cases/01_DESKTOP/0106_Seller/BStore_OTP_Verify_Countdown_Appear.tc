@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi countdown 60 detik muncul saat tombol lanjutkan pertama kali di klik</description>
+   <name>BStore_OTP_Verify_Countdown_Appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e51b1aaf-52d3-441e-98da-4176eb5035d9</testCaseGuid>
+</TestCaseEntity>

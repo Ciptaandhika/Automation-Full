@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;app.sandbox.midtrans.com&quot;
+Verify jumlah, order ID, dan user information info tampil</description>
+   <name>ThankYouPage_BNIDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e161a5a7-d3a4-4884-9b3a-3b1c8856d903</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Delay</description>
+   <name>goToPDPShampooAquaWKitaLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>deb3d7c2-48de-4507-b308-9ce054093f0a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Input Periode = specific time (input start date &amp; end date)
+2. Take rate = discount
+3. Scope = Category Group, and select group name
+4. Click Save button</description>
+   <name>TakeRateSettingGroupDiscountSpesificTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b7805ff-4321-4f74-81a5-b9ad0511c93e</testCaseGuid>
+</TestCaseEntity>

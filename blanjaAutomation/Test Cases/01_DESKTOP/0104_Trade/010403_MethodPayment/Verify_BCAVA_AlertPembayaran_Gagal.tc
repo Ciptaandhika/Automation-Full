@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify pembayaran gagal
+- verify pembayaran minimal 10k</description>
+   <name>Verify_BCAVA_AlertPembayaran_Gagal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b354b70e-0e9b-4343-b093-0f08a036a34d</testCaseGuid>
+</TestCaseEntity>

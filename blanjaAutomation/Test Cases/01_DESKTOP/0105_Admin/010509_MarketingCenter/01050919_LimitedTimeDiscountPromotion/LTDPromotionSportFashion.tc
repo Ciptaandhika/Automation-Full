@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Add Product(s)
+Input Product ID/ Store ID and click Search</description>
+   <name>LTDPromotionSportFashion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c171b6f3-5557-48c0-86d2-d1604dd45801</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirect to order management page</description>
+   <name>GoToOrderManagement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cec42c1e-b5f8-498e-9b27-2d6526e9b756</testCaseGuid>
+</TestCaseEntity>

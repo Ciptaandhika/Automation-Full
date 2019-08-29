@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih kelas penerbangan</description>
+   <name>AddLandingPage(JenisKelas)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f19f538a-c704-4670-8b2c-2a7e22c546df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada kolom product ID isi 21689348
+- pada kolom product name isi pantene black shine	
+- clear text pada tanggal mulai dan tanggal selesai
+- klik search
+- klik view
+- klik view difference
+- verify perbedaan di div view difference</description>
+   <name>Admin_Go_To_View_Detail_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15a8741d-e3e2-4d90-960e-ce9c63d9d4cf</testCaseGuid>
+</TestCaseEntity>

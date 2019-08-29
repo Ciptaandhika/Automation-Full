@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Editing master product billing</description>
+   <name>EditMasterProductBilling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd5a6498-3127-4740-98d6-b1046dc0142a</testCaseGuid>
+</TestCaseEntity>

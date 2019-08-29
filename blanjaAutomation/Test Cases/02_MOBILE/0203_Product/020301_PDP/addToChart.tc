@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click cart
+Delay
+Click Troli</description>
+   <name>addToChart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05d5a3e5-a759-4b52-816b-654e65640b32</testCaseGuid>
+</TestCaseEntity>

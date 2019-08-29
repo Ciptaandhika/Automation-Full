@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User type 'samsung' on search bar (homepage)
+delay 
+Click on &quot;Samsung&quot; (without category) search result</description>
+   <name>SearchSamsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e26f037-47a7-4925-9a70-2a9ff5cd2054</testCaseGuid>
+</TestCaseEntity>

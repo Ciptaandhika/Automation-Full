@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman seller.bljstaging.com pilih menu / klik  sub menu transaksi penjualan</description>
+   <name>Seller01_Go_To_TransaksiPenjualan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1dff1c60-af4d-40cc-b9ce-9ae05bf98d2f</testCaseGuid>
+</TestCaseEntity>

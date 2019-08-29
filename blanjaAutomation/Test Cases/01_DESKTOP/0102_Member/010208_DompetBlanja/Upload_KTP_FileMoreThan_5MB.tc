@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- upload KTP dengan file lebih dari 5MB
+- verifikasi label warning error muncul</description>
+   <name>Upload_KTP_FileMoreThan_5MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f377d9f-c9c0-4821-aeb4-fde6ac45eb6d</testCaseGuid>
+</TestCaseEntity>

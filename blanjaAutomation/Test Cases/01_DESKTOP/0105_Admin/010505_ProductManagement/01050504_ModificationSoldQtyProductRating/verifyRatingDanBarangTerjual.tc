@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify rating product dan barang terjual di pdp berubah setelah dimodify di admin</description>
+   <name>verifyRatingDanBarangTerjual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a283f81a-65bf-449a-a6e8-f71c569c809a</testCaseGuid>
+</TestCaseEntity>

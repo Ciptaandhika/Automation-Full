@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify tombol disabled.</description>
+   <name>VerifyTombolDisabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b493879-e68b-4694-b8f3-ff6e5ba61f2e</testCaseGuid>
+</TestCaseEntity>

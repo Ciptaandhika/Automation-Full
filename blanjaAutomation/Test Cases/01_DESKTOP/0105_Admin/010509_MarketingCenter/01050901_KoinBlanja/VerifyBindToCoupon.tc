@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click edit
+add new direct price
+set title
+set image
+se exchange koin
+set bind coupon
+set start time
+set end time
+set auto</description>
+   <name>VerifyBindToCoupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f02fe9c-72f9-4ed7-82ed-3635bf30ab17</testCaseGuid>
+</TestCaseEntity>

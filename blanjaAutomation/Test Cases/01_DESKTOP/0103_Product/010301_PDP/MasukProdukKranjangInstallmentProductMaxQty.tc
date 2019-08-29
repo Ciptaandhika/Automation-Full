@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select one or more product(s)
+2. Get max stock
+3. Set max stock 
+4. Go to PDP page 
+5. Click on &quot;Tambahkan ke Troli&quot;</description>
+   <name>MasukProdukKranjangInstallmentProductMaxQty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>911e58d1-d953-4bde-a15d-85eb3cb811de</testCaseGuid>
+</TestCaseEntity>

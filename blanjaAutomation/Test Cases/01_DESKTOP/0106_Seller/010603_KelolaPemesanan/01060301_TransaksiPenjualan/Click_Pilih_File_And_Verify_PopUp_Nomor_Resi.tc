@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman transaksi penjualan pilih tab paid / dibayar
+- klik pop up saya mengerti
+- verify terdapat tombol upload nomor resi pada bayar yang sudah dibayar</description>
+   <name>Click_Pilih_File_And_Verify_PopUp_Nomor_Resi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2940efc3-6201-433b-ba72-5c9d6d658c3b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik btn tcash ok
+- klik link pesan yang belum dibaca
+- klik salah satu detail pesan
+- verify link loadmore muncul jika terdapat pesan lebih dari 3</description>
+   <name>Buyer_Verify_Folded_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>364ffe27-f647-4708-bddf-9e8bc74e1bc1</testCaseGuid>
+</TestCaseEntity>

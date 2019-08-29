@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify informasi 'Payment Method' tampil
+Verify state = 'placed'</description>
+   <name>OrderDetail_VerifyOrderInformationBTNCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4d88722-3c00-4064-a18a-794e2c0448e4</testCaseGuid>
+</TestCaseEntity>

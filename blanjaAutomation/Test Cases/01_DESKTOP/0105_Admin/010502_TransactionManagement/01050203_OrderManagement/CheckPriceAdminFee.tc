@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek admin fee in order details</description>
+   <name>CheckPriceAdminFee</name>
+   <tag></tag>
+   <comment>ordertotal = adminfee+price</comment>
+   <testCaseGuid>3bd03e35-ec07-440c-8efa-47775ad956d2</testCaseGuid>
+</TestCaseEntity>

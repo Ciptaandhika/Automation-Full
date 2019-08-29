@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- jika member belum pernah memilih tipe toko maka click open store (individual)
+- jika sudah pernah memilih, maka akan langsung di direct ke halaman input form</description>
+   <name>Individual_Store_Go_To_Input_Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>071f4477-27b4-4120-918f-d045d4d245f6</testCaseGuid>
+</TestCaseEntity>

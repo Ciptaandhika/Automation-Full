@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To Chart Page Mobile</description>
+   <name>NavigateToChartPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a5c5839-ef42-46a3-a196-a5da432a5a99</testCaseGuid>
+</TestCaseEntity>

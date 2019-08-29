@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BNI SMS Payment
+verify text box phone number is appeared
+verify +62 is displayed</description>
+   <name>ChoosePayment_BNISmsPayment_VerifyPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3da24c72-df68-4a3f-b5fe-80cb41b529dd</testCaseGuid>
+</TestCaseEntity>

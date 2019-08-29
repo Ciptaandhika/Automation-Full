@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on the alamat page</description>
+   <name>SearchProdukToAlamatPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e480122c-b506-437e-920c-010e9cbcc196</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User click board Profile
+Show active tab Ubah Profile</description>
+   <name>Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea281855-297f-4a6b-80e8-f25a3458d5ab</testCaseGuid>
+</TestCaseEntity>

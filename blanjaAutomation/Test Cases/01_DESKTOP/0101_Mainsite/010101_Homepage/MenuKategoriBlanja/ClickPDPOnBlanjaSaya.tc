@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to order list page
+- Click the PDP on it</description>
+   <name>ClickPDPOnBlanjaSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca70490a-2d43-49af-96d0-e9c8488f44e6</testCaseGuid>
+</TestCaseEntity>

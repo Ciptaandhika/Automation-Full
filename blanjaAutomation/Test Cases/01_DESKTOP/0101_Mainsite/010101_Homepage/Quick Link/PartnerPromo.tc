@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik bank partner mandiri 
+2. sistem akan menampilkan detail promo</description>
+   <name>PartnerPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a0f77d7-cc3b-4738-948a-a04fa51f5ad5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada kolom product ID isi Pantene Black Shine	
+- clear text pada tanggal mulai dan tanggal selesai
+- klik search
+- verify nama produk berdasarkan nama yang disearch</description>
+   <name>Admin_Go_Search_Product_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba35ede7-d58b-4735-ac98-c052c3552321</testCaseGuid>
+</TestCaseEntity>

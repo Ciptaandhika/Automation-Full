@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display edit address pop-up page include the contents that has been filled in accordance shipping address data that has been stored previously
+2. success editing address</description>
+   <name>OrderConfirmPageAlamatEdit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>075dde47-ea61-4661-af11-6c4acaade09c</testCaseGuid>
+</TestCaseEntity>

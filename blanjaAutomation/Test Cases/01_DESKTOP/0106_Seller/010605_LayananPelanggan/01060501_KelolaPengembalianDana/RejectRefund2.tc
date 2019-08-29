@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Seller does reject refund submitted by. buyer</description>
+   <name>RejectRefund2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>678493d8-8c76-4c7c-8d14-deafbcf50d12</testCaseGuid>
+</TestCaseEntity>

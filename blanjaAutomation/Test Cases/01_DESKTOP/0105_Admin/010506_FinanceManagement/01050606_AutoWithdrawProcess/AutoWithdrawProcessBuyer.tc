@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. From admin blanja select Auto Withdraw Process
+ 2. Click Process on specific year &amp; category member = Seller</description>
+   <name>AutoWithdrawProcessBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35186d93-476b-413f-a229-aabd77aa1cd9</testCaseGuid>
+</TestCaseEntity>

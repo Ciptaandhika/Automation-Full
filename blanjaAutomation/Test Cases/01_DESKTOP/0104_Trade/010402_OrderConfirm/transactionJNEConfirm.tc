@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih Kurir JNE/JNE reg
+Verify Total Produk + Biaya Pengiriman
+Klik Lanjutkan Pembayaran</description>
+   <name>transactionJNEConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d51c4d3-6672-451d-b3c9-f4066fc9fcf3</testCaseGuid>
+</TestCaseEntity>

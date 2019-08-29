@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>OrderConfirmVerifyFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c021b08d-ffdf-4b41-97b7-41aff91300da</testCaseGuid>
+</TestCaseEntity>

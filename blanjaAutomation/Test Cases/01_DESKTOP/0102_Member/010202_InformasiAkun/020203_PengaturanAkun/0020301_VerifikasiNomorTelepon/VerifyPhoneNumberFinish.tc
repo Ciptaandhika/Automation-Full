@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set Text kode keamanan
+Klik Next/Selanjutnya</description>
+   <name>VerifyPhoneNumberFinish</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14e07ce5-ab03-4c0a-973a-6ab5adab559e</testCaseGuid>
+</TestCaseEntity>

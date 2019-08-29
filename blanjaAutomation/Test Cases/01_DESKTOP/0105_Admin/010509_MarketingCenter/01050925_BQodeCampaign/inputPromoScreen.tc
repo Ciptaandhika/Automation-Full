@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text limit
+Upload file
+Set text url
+Set text label</description>
+   <name>inputPromoScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f2766d2-94a6-4c61-801b-4e464b83cbab</testCaseGuid>
+</TestCaseEntity>

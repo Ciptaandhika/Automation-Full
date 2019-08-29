@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search product
+- Click search button
+- Click rincian blanjaan</description>
+   <name>GoToRincianBlanjaanScheduler4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcdf809f-15f2-489b-8604-d8d47ffbc035</testCaseGuid>
+</TestCaseEntity>

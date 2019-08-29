@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih jasa pengiriman: Kurir Standar
+2. Delay 3s
+3. Get text Total Produk
+4. Get text Biaya Pengiriman
+5. Klik Lanjutkan Pembayaran</description>
+   <name>transactionOrderConfirm_PilihJasaPengirim_ShippingFee</name>
+   <tag></tag>
+   <comment>Shipping Fee</comment>
+   <testCaseGuid>39abeeff-dd41-403c-a456-f03cd4c6b0ea</testCaseGuid>
+</TestCaseEntity>

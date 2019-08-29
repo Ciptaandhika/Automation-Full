@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buka PDP produk yang baru dibuat</description>
+   <name>GoToProductCreated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6b96935-e015-4f9a-a287-8e0a6a27f830</testCaseGuid>
+</TestCaseEntity>

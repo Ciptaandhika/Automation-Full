@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click hapus</description>
+   <name>DeleteSunsilkHijabRefreshFromFavorite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>321b0eaf-1781-41b7-9f60-eec9ae13cea8</testCaseGuid>
+</TestCaseEntity>

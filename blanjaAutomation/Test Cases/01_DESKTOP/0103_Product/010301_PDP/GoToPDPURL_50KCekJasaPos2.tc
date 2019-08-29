@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL Produk
+2. If button Go send Appear, Close
+3. else go to step 4
+4.  dd Pilih KotaMadya
+5. dd Pilih kecamatan
+6. dd pillih jasa pengiriman Pos
+7. dd pilih jenis jasa pengiriman Pos Kilat
+8. dd pilih jenis jasa pengiriman Pos Express Nexy Day
+9. Verifiy Label biaya Pengiriman</description>
+   <name>GoToPDPURL_50KCekJasaPos2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8e5cdfd-5aee-4944-a830-78d9dc24c7de</testCaseGuid>
+</TestCaseEntity>

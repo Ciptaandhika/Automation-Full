@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking and verifying countdown in order list</description>
+   <name>CheckCountdownOrderList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d97b60fd-8e90-4a59-b8eb-f6b78d34657a</testCaseGuid>
+</TestCaseEntity>

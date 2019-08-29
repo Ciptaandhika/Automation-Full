@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify upload selain jpg, jpeg, png maka tidak berhasil di upload</description>
+   <name>verifyErrorFormatImage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f2c41d3-9eb9-40a2-bc5d-bea3564de1f7</testCaseGuid>
+</TestCaseEntity>

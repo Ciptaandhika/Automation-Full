@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada halaman utama / homepage klik profile
+- klik kotak masuk</description>
+   <name>memberGoToKotakMasuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5066d158-b28b-4bdd-accb-99cd45ca95ee</testCaseGuid>
+</TestCaseEntity>

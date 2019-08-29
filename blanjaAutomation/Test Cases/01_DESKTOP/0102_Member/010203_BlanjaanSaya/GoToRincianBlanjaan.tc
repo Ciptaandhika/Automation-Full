@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirect to Rincian Blanjaan Page</description>
+   <name>GoToRincianBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ccba787-1f33-42ed-8129-9338127bbff6</testCaseGuid>
+</TestCaseEntity>

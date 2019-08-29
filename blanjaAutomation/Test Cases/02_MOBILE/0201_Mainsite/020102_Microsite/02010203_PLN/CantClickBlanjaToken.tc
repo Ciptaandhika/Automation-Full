@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure buyer can't click button blanja token before choosing pln token denom</description>
+   <name>CantClickBlanjaToken</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe715c05-6a1d-4e35-a96d-6e0b4cd7f9d6</testCaseGuid>
+</TestCaseEntity>

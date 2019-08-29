@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Akun saya
+2. User access Dompet Blanja
+3. User select 'Penarikan Dana' then Cari
+Show result data Penarikan Dana</description>
+   <name>FilterPenarikanDanaDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1f7f9e0-64b0-4581-9994-25b0173bc5ce</testCaseGuid>
+</TestCaseEntity>

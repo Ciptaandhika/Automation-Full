@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get sku id</description>
+   <name>GetSKUID2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51e6dac2-81d5-42f1-948a-f5a58c055e27</testCaseGuid>
+</TestCaseEntity>

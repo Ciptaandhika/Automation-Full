@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See article per page is 9.</description>
+   <name>SellerSeeMax9PerPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f2efd25-5f19-4257-b701-b87dde919d87</testCaseGuid>
+</TestCaseEntity>

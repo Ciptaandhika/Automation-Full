@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify cara mendapatkan koin</description>
+   <name>VerifyHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32739ba4-0bf8-4514-b3ac-300d7e1d2293</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+Get Text Verify tulisan 'Pembayaran :BRI e-Pay'
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.
+Klik Order Detail sesuai order yang telah dilakukan</description>
+   <name>Member_OrderList_Cashback_SearchSpesificOrder_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c112eb60-5bec-405a-a9bf-824dff7ff1c9</testCaseGuid>
+</TestCaseEntity>

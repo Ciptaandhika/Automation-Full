@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Installment payment pop-up is working well on the PDP</description>
+   <name>verifyInstallmentInformationPopup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acb99117-076f-4478-8ef8-b7e0502e6412</testCaseGuid>
+</TestCaseEntity>

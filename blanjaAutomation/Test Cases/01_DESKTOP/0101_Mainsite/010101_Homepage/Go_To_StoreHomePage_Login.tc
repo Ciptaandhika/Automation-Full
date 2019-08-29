@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke store homepage dari salah satu toko, misalnya   warungkami dengan kondisi login terlebih dahulu
+- Click Hubungi Penjual </description>
+   <name>Go_To_StoreHomePage_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb46581b-6681-41c0-9f3c-ceb4129939df</testCaseGuid>
+</TestCaseEntity>

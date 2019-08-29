@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Verifikasi jika URL yang di tuju mengandung  registration/shop/type</description>
+   <name>Verify_Individual_Store_Link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c55b710-f56d-4218-ba19-e8d334909473</testCaseGuid>
+</TestCaseEntity>

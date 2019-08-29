@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Akun saya
+2. User click board Profile/Username
+3. User access Pengaturan Akun
+Show active tab Pengaturan Akun</description>
+   <name>AksesPengaturanAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d32f092-b589-4a76-a419-d1c383fd8cd9</testCaseGuid>
+</TestCaseEntity>

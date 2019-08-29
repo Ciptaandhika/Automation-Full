@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search product
+- Click search button
+- Click rincian blanjaan</description>
+   <name>GoToRincianBlanjaanPulsa30k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfae3055-cae4-43c8-9692-30682d2eb11d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify upload banner success</description>
+   <name>verifyUploadBannerSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8975010-b4b3-4bfe-94df-0f28b522b33e</testCaseGuid>
+</TestCaseEntity>

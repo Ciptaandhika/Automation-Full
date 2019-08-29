@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klick btn &quot;Lihat Lowongan&quot;</description>
+   <name>lihatLowongan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3692e92-b901-4acd-99cf-e9b196cb7df5</testCaseGuid>
+</TestCaseEntity>

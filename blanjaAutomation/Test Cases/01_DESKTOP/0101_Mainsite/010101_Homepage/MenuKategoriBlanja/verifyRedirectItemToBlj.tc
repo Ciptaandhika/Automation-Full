@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The page redirected to bljstaging.com</description>
+   <name>verifyRedirectItemToBlj</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b47bdcc2-465d-4643-ada4-0403c072ce6f</testCaseGuid>
+</TestCaseEntity>

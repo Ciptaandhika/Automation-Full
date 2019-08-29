@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata &quot;success'
+
+Verify no pesanan > 1
+
+Verify 'tanggal bayar sebelum' harus 1 hari + current date
+Verify 3 digit kode unik di total pembayaran
+Klik 'Detail Pembayaran'
+Verify informasi 'Detail Pembayaran' is appeared
+- Verify 'Sub Total Pembayaran' is appeared
+- Verify 'Kode Unik' is appeared
+- Verify 'Total Pembayaran' is appeared
+- Verify 'Total Pembayaran = Sub Total + Kode Unik'
+
+Verify metode pembayaran Mandiri Transfer Bank is appeared
+</description>
+   <name>ThankYouPage_MandiriDirectTransferMultipleProduct_VerifyPaymentInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9157b498-0b70-442c-832e-0dfaaee6bc96</testCaseGuid>
+</TestCaseEntity>

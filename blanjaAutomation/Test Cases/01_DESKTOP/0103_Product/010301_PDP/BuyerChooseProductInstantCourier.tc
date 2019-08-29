@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose the product.
+choose jasa pengiriman 'Kurir Standar'.
+
+</description>
+   <name>BuyerChooseProductInstantCourier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4ef78b3-0448-498a-84a2-ef7bad32b2b7</testCaseGuid>
+</TestCaseEntity>

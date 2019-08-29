@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Input phonenumber
+- Verify buyer could choose nominal</description>
+   <name>PilihNominal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a84aeb39-d024-44ce-9204-a9afcb01fb54</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PDP URL
+Add product to cart
+Open Cart</description>
+   <name>GoToPDPURL_ClickTambahKeTroli_OpenTroli1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac15b63b-98be-4bf7-8062-7cb160df3b2b</testCaseGuid>
+</TestCaseEntity>

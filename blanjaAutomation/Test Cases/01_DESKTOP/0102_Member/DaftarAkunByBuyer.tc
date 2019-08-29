@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set username.
+Set nomor telepon.
+Set email.
+Set password.
+Fill captcha (manual).
+Click daftar akun.</description>
+   <name>DaftarAkunByBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3ac7b2d-e48f-48c3-ad42-4dab21f5658c</testCaseGuid>
+</TestCaseEntity>

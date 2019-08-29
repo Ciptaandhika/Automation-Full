@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih Jasa pengiriman
+2. Pilih metode pembayaran Mandiri Kartu Kredit
+3. Verifikasi diskon yang muncul</description>
+   <name>ChooseJasaPengirimanMultipleProducts_MandiriCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85ac7dbd-2c0d-454f-b087-74320dfecd75</testCaseGuid>
+</TestCaseEntity>

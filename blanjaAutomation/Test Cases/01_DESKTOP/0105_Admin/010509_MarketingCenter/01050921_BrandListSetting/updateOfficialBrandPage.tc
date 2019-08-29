@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Admin Page
+Go to Brand List Setting
+Click Preview Desktop</description>
+   <name>updateOfficialBrandPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>906a5d12-eda7-47ed-a066-c73649a25752</testCaseGuid>
+</TestCaseEntity>

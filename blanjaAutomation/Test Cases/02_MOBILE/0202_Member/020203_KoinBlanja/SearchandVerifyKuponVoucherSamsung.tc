@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Kode Kupon langsung 1
+Get Kode Kupon langsung 2
+Search Kupon 1 
+Search Kupon 2</description>
+   <name>SearchandVerifyKuponVoucherSamsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e36195e-a92e-4963-8c8a-ef8144a1ba4e</testCaseGuid>
+</TestCaseEntity>

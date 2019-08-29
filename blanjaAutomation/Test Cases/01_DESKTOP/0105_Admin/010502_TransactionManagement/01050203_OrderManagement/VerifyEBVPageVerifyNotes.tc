@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Verify Edit Notes
+2. Notes yang diinput oleh admin berhasil disimpan</description>
+   <name>VerifyEBVPageVerifyNotes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bb37f93-d630-465b-8f78-07a03c1ede79</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Order Management
+isi order Number 
+click Search
+verify informasi payment method: 'Payment Method :BRI e-Pay'
+verify status 'placed'
+Klik Order Detail sesuai nomor order yang dimasukkan</description>
+   <name>GoToOrderManagement_VerifyIndomaret_InputOrderNumber_KlikSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58162230-357a-4169-a132-fae01254e6f7</testCaseGuid>
+</TestCaseEntity>

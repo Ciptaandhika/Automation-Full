@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL is https://www.bljstaging.com/store/[storename]</description>
+   <name>verifyURLProdukPopuler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8fc9c1e-c7b4-4d9b-8cbd-630b700bcf41</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin.blanjadev.com
+2. go to withdrawal management
+
+admin can update status into Hold and Complete</description>
+   <name>WithdrawalManagementChangeToHoldThenComplete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6fa2e8-c9ed-496c-9728-4cff5a003245</testCaseGuid>
+</TestCaseEntity>

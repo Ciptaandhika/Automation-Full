@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Transaksi Penjualan Menu.</description>
+   <name>VerifyShipped</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>794906c5-edb3-4f84-8cb2-6beff009f558</testCaseGuid>
+</TestCaseEntity>

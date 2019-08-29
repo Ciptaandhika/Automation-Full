@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Go to old PCP url 
+https://m.bljstaging.com/items/fas/fashion</description>
+   <name>NavigateToNewURLMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e92a3693-2905-40e3-bbd7-2f67ccc825cd</testCaseGuid>
+</TestCaseEntity>

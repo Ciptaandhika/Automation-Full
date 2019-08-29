@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number 
+click Search
+Get Text Verify tulisan 'Pembayaran :Kartu Kredit Cicilan'
+
+Klik 'Batalkan Blanjaan'
+Select reason 
+Klik 'OK' 
+Verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup
+
+</description>
+   <name>Member_OrderList_MandiriDebitOnline_SearchSpesificOrder_KlikBatalkanBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faa886d3-abfe-4083-915d-a72aba973444</testCaseGuid>
+</TestCaseEntity>

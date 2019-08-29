@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify metode pembayaran BNIVA</description>
+   <name>verifyMetodePembayaranLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec9a46b6-10bf-43e8-8fec-9efd8dc5be27</testCaseGuid>
+</TestCaseEntity>

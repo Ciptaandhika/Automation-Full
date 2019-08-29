@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Others Kartu Kredit
+Get Label Others Kartu Kredit
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_OthersKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>754fe929-b302-4152-9670-2d81d74751fe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set nama toko.
+Set alamat toko.
+Choose provinsi.
+Choose kecamatan.
+Choose kota.
+Set nomor KTP.
+Choose bank.
+Set nama bank.
+Set cabang bank.
+Set nama pemilik nomor rekening.
+Upload KTP.
+Click Mulai Berjualan.</description>
+   <name>DaftarToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a327db4-3bf5-4c6e-a25e-db8cea1fd630</testCaseGuid>
+</TestCaseEntity>

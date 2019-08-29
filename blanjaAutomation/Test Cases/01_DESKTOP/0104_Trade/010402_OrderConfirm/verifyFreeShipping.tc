@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify show detail shipping calculation (shipping free total, discount, buyer paid)</description>
+   <name>verifyFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2b7426a-0347-4395-8a4a-16a7bbfa877d</testCaseGuid>
+</TestCaseEntity>

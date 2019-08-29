@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- login sebagai buyer tblanja121</description>
+   <name>LoginTblanja121</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07c1bb4c-5eab-4b7d-8a46-69c92298bfea</testCaseGuid>
+</TestCaseEntity>

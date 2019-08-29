@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create and Select option &quot;JaBoDeTaBek&quot; in coverage area</description>
+   <name>FreeShippingPromotionJabodetabek</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdd6b03a-4d78-4d49-9957-e40244824944</testCaseGuid>
+</TestCaseEntity>

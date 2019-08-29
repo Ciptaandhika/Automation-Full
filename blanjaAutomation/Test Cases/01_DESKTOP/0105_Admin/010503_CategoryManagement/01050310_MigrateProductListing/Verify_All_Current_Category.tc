@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- click ROOT pada current category
+- verify semua category yang ada pada current category</description>
+   <name>Verify_All_Current_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3b4a2b2-684d-4ec6-9657-931ee48ca078</testCaseGuid>
+</TestCaseEntity>

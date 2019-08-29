@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Different Order Number
+Verify ClickBCA
+klik RB Others Kartu Kredit
+Get Label Others Kartu Kredit
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_OthersKartuKredit_VerifyDifferentOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1efe9f79-173a-4115-aa3d-70d8e035f815</testCaseGuid>
+</TestCaseEntity>

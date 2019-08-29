@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke halaman member.bljstaging.com
+- input username test13
+- input password 123qwe
+- klik lanjutkan
+- klik button X</description>
+   <name>LoginBuyer13_CloseButtonX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc5442b1-a65f-49de-943b-2fdc7e02c1e4</testCaseGuid>
+</TestCaseEntity>

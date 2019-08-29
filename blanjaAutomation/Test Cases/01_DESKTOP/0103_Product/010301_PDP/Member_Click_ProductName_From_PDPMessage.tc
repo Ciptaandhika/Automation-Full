@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Member akses salah satu PDP
+- Member Klik Kirim Pesan
+- Pada Halaman Detail Conversation member akses link dari nama product tersebut
+- get URL dari halaman yang di akses 
+- verify halaman tersebut mengandung value dari Global Variabel yang di navigate pada step awal</description>
+   <name>Member_Click_ProductName_From_PDPMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efc255e6-3b91-40b7-874a-f02da68fd151</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Lihat Semua
+Get URL
+Verify Equal
+Verify Element</description>
+   <name>goToAllBrand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>145cd319-64a4-4a93-8f2d-2e39cc914b38</testCaseGuid>
+</TestCaseEntity>

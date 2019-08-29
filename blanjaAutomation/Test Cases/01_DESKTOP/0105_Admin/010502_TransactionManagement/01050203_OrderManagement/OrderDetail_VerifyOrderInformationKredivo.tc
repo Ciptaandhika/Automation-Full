@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify tulisan 'Payment method :  Online (Kredivo)' tampil
+Verify state = 'paid'</description>
+   <name>OrderDetail_VerifyOrderInformationKredivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a506baf-5ee8-4690-897b-e42edc03b32f</testCaseGuid>
+</TestCaseEntity>

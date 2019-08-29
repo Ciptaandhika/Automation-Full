@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click menu List Brand
+Choose one brand
+Click button edit 
+Delay
+Set no image
+Set no brand title
+Click update
+Verify error text</description>
+   <name>editListBrandEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1e2ba86-79bf-4471-8df5-5f9089cd3b90</testCaseGuid>
+</TestCaseEntity>

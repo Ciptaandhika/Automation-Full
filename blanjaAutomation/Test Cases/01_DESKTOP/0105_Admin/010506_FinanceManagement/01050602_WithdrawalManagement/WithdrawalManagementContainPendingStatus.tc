@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin.blanjadev.com
+2. go to withdrawal management
+
+pending tab is only contain pending status</description>
+   <name>WithdrawalManagementContainPendingStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d03543b8-a859-47d8-9115-dfbc6b601b76</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to URL Transaksi Penjualan Seller
+Get Text Nomor Pesanan Barang terakhir
+Set Text Nomor Pesanan Barang terakhir
+Search Nomor pesanan barang terakhir
+Ship Nomor pesanan Terakhir
+Set Nomor Pesanan Terakhir
+Btn Simpan resi Pengiriman</description>
+   <name>GoToTransaksiPenjualan_Cashback_SearchSpesificOrder_KlikKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f36b76f4-89d8-4b2a-b6bc-ecc57ce887f8</testCaseGuid>
+</TestCaseEntity>

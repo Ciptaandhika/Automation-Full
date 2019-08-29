@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When TR's periode is ended, then TR status = Expired</description>
+   <name>TakeRateSettingVerifyExpiredStatusSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15709a73-d13a-4f46-b488-2efb230dec05</testCaseGuid>
+</TestCaseEntity>

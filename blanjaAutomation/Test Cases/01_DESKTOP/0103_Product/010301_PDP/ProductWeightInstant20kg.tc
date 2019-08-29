@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+add quantity of product (20kg).
+choose jasa pengiriman Go Send and jenis pengiriman Same Day.
+</description>
+   <name>ProductWeightInstant20kg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b116959-67fa-4736-baba-de8cf3976868</testCaseGuid>
+</TestCaseEntity>

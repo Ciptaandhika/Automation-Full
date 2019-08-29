@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Recommendation product is showed
+2. The URL is correct</description>
+   <name>verifyRecomendationProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0acc9a34-aef9-4adb-8da7-e40f1f07d0e6</testCaseGuid>
+</TestCaseEntity>

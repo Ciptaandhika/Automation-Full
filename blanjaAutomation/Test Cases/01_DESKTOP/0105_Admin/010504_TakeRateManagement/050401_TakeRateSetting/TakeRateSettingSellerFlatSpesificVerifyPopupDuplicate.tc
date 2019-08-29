@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create TR settings for seller same with point 1
+
+When admin save TR setting from point 2, admin will show error message &quot;can not create duplicate TR settings for seller&quot;</description>
+   <name>TakeRateSettingSellerFlatSpesificVerifyPopupDuplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>027de15a-5be9-4980-90a0-f1add54340e5</testCaseGuid>
+</TestCaseEntity>

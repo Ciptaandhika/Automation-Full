@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BNI
+- Pilih BNI Virtual Account
+- Scroll to element button Bayar
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_klikBNIBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcce4c5d-965c-45a0-9751-2217229951da</testCaseGuid>
+</TestCaseEntity>

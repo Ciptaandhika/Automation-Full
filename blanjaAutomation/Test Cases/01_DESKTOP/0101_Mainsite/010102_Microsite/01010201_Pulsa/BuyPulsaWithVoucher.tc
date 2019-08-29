@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy pulsa with inserting voucher code</description>
+   <name>BuyPulsaWithVoucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df091d2f-e860-4fd6-9bc4-a5b00567a96f</testCaseGuid>
+</TestCaseEntity>

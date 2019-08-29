@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu free shipping promotion</description>
+   <name>FreeShippingPromotionMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8d60207-7b86-478a-993e-a789c4030315</testCaseGuid>
+</TestCaseEntity>

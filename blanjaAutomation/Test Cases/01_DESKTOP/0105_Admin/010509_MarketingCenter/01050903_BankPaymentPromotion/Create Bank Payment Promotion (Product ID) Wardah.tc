@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'Add Promotion' button
+2. Choose Payment Type = 'Credit Card' and filled Installment Plan
+ex : 
+06 month | 0% inst = YES
+12 month | 0% inst = YES
+3. Fill all mandatory fields, then select 'Applied To' = 'Product ID'
+4. then input Product ID(s)  which will support this campaign
+5. click button 'Save'
+
+Note :
+Promotion name tidak ada yg sama, agar verify berhasil</description>
+   <name>Create Bank Payment Promotion (Product ID) Wardah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4274bf39-6f72-47dd-939b-e0753760e4c1</testCaseGuid>
+</TestCaseEntity>

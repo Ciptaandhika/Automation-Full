@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Admin Page
+Go to Brand List Setting
+Click Preview MWeb
+Get URL
+Verify with contains</description>
+   <name>previewTemplateMWeb</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfa6e6a1-a57f-4f89-82de-67b559a09844</testCaseGuid>
+</TestCaseEntity>

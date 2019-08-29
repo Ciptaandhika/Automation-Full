@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Open menu Product Management E-Ticketing on Admin
+2. Admin input product id then click &quot;Search&quot;
+3. Add attribute : TanggalPengambilan then click &quot;Add&quot;
+4. Choose attribute type : Date
+5. Click Submit</description>
+   <name>ProductManagementETicketingSetAttribute</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f37eb96a-5e45-4cff-9646-37f6383ae14c</testCaseGuid>
+</TestCaseEntity>

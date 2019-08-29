@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Input Period = All
+2. Take rate = Flat
+3. Scope = Seller
+4. Input Seller ID
+5. Click Save button</description>
+   <name>TakeRateSettingSellerFlatAllPeriodRejected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32d46a96-59ed-4480-a841-00bbc3f231e3</testCaseGuid>
+</TestCaseEntity>

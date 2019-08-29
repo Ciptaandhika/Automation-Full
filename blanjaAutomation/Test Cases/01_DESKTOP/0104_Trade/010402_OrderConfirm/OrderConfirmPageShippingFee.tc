@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display order confirm page
+2. choose shipping destination
+3. on total payment calculation, will display fixed shipping fee which determined by seller</description>
+   <name>OrderConfirmPageShippingFee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4315969-aa2e-4a09-9759-02f7153111eb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product on 'Hobi,Buku &amp; Mainan'
+system will display PDP for the selected product</description>
+   <name>PDPProdukHobiBukudanMainan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>833343a8-6d84-4e50-a0c1-c89ef8f057a1</testCaseGuid>
+</TestCaseEntity>

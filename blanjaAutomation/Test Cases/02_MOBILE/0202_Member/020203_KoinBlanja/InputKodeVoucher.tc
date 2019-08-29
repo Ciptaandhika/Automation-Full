@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik punya kode voucher
+setelah di masukan kode
+klik gunakan</description>
+   <name>InputKodeVoucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8bcf168-a3ec-41dc-bb40-0d846a2558eb</testCaseGuid>
+</TestCaseEntity>

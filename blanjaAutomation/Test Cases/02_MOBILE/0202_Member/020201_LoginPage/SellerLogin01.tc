@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>opern Browser
+Max windows
+set text di box username
+set text box password
+click button masuk</description>
+   <name>SellerLogin01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9f2acca-468d-40ec-8014-0abd959e2a13</testCaseGuid>
+</TestCaseEntity>

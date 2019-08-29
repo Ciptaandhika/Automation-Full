@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik edit salah satu product
+- Tanpa edit product /form apapun klik lanjutkan</description>
+   <name>Click_Lanjutkan_Without_Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2f4eb65-188e-413e-b705-e0f93fe5c7ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+
+- Jika member belum pernah mengisi form halaman dokumen penunjang maka isi semua form di halaman tersebut
+- member click lanjutkan
+- member di direct ke halaman konfirmasi (Bussiness Store)
+- klik tombol back pada halaman konfirmasi
+
+Kondisi 2 : 
+-jika sudah pernah mengisi semua data /form langsung klik tombol back pada halaman konfirmasi
+</description>
+   <name>BStore_BackFrom_Confirmation_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a021af2-332e-4521-a3d9-c22f7f1b87a7</testCaseGuid>
+</TestCaseEntity>

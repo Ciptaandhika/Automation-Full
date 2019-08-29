@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Get Text Last Order dan di simpan di Global Variable
+Get Text Verify Pembayaran
+Verify Ada kata Pembayaran :Klik BCA</description>
+   <name>Member_OrderList_BCAKlik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f77bf94a-0354-48bc-8da3-0920b5f256cc</testCaseGuid>
+</TestCaseEntity>

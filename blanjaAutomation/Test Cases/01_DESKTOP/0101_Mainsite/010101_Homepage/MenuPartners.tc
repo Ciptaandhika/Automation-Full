@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Partner di Main Menu
+sistem akan menampilkan daftar halaman promo</description>
+   <name>MenuPartners</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>311f69ba-bc37-4a3b-9727-0d847317f9bf</testCaseGuid>
+</TestCaseEntity>

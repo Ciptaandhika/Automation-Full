@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body2</name>
+   <tag></tag>
+   <elementGuidId>14c4af17-9497-4d8c-9204-ff8f73f4fd50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;ke-content&quot;][count(. | //html[(text() = '/html[1]/body[@class=&quot;ke-content&quot;]' or . = '/html[1]/body[@class=&quot;ke-content&quot;]') and @ref_element = 'Object Repository/01_DESKTOP/0106_Seller/010602_KelolaProduk/01060201_TambahkanProduk/TambahProdukBaru/Page_/iframe__ke-edit-iframe']) = count(//html[(text() = '/html[1]/body[@class=&quot;ke-content&quot;]' or . = '/html[1]/body[@class=&quot;ke-content&quot;]') and @ref_element = 'Object Repository/01_DESKTOP/0106_Seller/010602_KelolaProduk/01060201_TambahkanProduk/TambahProdukBaru/Page_/iframe__ke-edit-iframe'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>html</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ke-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ke-content&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ke-content&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/01_DESKTOP/0106_Seller/010602_KelolaProduk/01060201_TambahkanProduk/TambahProdukBaru/Page_/iframe__ke-edit-iframe</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//body</value>
+   </webElementXpaths>
+</WebElementEntity>

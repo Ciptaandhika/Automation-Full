@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_BNIVirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64653bc8-4126-4a27-be5e-d82b96f70e12</testCaseGuid>
+</TestCaseEntity>

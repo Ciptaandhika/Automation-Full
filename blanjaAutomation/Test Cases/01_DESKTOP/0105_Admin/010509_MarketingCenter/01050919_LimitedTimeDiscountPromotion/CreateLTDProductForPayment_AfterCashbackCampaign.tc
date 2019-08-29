@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Add Product(s)
+Input Product ID/ Store ID and click Search</description>
+   <name>CreateLTDProductForPayment_AfterCashbackCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ab0ee8a-c308-4090-ba19-cf7a4cdd312a</testCaseGuid>
+</TestCaseEntity>

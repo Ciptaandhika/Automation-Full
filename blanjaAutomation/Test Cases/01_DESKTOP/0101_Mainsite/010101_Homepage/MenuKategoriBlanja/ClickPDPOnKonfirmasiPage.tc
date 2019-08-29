@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click the PDP on it</description>
+   <name>ClickPDPOnKonfirmasiPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33b25512-7cb5-4538-8cce-cb34dab38c61</testCaseGuid>
+</TestCaseEntity>

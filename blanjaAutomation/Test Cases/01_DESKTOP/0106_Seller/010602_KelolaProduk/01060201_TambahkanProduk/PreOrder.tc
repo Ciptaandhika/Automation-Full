@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text kategori
+Click button Cari Kategori
+Click radio button
+Click button Lanjutkan
+Click radio button
+Set text Panjang
+Set text Lebar
+Set text Tinggi
+Set text Berat
+Set text Nama Produk
+Set text Label harga
+Set text Harga jual
+Set text stok
+Upuload file
+Set text Desc Produk
+Click dropdown Lokasi1
+Click dropdown Lokasi2
+Click radio button Ya
+Click dropdown Periode Dari
+Click dropdown Periode Sampai
+Click dropdown Periode Pengiriman
+Delay
+Set text maksimal beli
+Click button Simpan</description>
+   <name>PreOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d7dfe1-e4a8-46b7-b52a-7988e7610e79</testCaseGuid>
+</TestCaseEntity>

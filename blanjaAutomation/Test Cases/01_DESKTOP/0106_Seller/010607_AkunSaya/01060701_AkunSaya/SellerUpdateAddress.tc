@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose Alamat Pengiriman.
+click Ubah.</description>
+   <name>SellerUpdateAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b19adaa-babf-42d0-8ae2-f31fd0ad9899</testCaseGuid>
+</TestCaseEntity>

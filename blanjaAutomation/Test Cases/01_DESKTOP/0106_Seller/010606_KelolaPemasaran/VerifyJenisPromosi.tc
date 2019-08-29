@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify jenis promosi</description>
+   <name>VerifyJenisPromosi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1095d7ed-b493-4606-a53d-1e6886bfd359</testCaseGuid>
+</TestCaseEntity>

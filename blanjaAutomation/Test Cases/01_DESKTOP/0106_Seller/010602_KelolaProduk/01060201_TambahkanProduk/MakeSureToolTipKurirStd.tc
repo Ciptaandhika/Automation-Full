@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Display Tool Tip Kurir Standar
+Scroll ke Detail Pengiriman
+Mouse over i Kurir Standar</description>
+   <name>MakeSureToolTipKurirStd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef4fd42a-4032-4be7-940c-9c95a3e87b34</testCaseGuid>
+</TestCaseEntity>

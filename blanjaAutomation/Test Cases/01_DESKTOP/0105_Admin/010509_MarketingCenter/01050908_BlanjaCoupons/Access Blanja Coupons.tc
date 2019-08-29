@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access Blanja Coupons
+verify access Blanja Coupons</description>
+   <name>Access Blanja Coupons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>393db02a-68ab-4839-98a6-5230574947dc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that billing transaction is opened</description>
+   <name>VerifyPageBillingTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e52215c1-8da2-4c74-afdd-8b706ae2fbae</testCaseGuid>
+</TestCaseEntity>

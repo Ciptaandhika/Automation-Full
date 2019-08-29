@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik tab Penerimaan
+2. Verify operation time
+3. Verify amount
+4. Verify status
+5. Verify order number</description>
+   <name>KlikTabPenerimaan_VerifyDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbd50152-ce9c-4164-a237-2ca9e2213dea</testCaseGuid>
+</TestCaseEntity>

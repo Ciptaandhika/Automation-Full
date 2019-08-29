@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click hrefBatalkanBlanjaan
+select alasanPembatalan
+click btnOkBatalkanBlanjaan
+verify element present labelTutup</description>
+   <name>CancelOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f08e0138-378f-4ae7-b5e6-5ada0e82dd95</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_Kredivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e23e1929-c02c-4202-9039-46c6800224df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that system display Koin Blanja </description>
+   <name>VerifyKoinBlanjaDidapatkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>435aacca-1212-4a61-8968-9611eae986b5</testCaseGuid>
+</TestCaseEntity>

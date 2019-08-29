@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- cek total left budget</description>
+   <name>Check_Last_LeftBudget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe8ea499-5dec-4630-bc8b-99bebdf392c0</testCaseGuid>
+</TestCaseEntity>

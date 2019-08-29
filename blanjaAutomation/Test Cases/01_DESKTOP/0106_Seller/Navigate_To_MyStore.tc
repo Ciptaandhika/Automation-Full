@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke seller.bljstaging.com</description>
+   <name>Navigate_To_MyStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7f57211-ffe3-4d5c-b2ea-afb043e8044d</testCaseGuid>
+</TestCaseEntity>

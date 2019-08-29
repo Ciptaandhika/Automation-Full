@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik brand store
+sistem akan memverifikasi brand store sniper indonesia</description>
+   <name>VerifyBrandStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b494147f-416a-4ef2-b776-f50b557f2368</testCaseGuid>
+</TestCaseEntity>

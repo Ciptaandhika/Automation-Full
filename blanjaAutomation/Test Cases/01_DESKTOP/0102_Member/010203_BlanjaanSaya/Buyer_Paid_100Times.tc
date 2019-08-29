@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Buyer paid sebanyak 100 kali</description>
+   <name>Buyer_Paid_100Times</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be68ad2b-fde6-403a-a7d7-55d45ecab165</testCaseGuid>
+</TestCaseEntity>

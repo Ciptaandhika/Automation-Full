@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click diskon</description>
+   <name>PengaturanDiskon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a652df43-cf02-4c6a-90a9-1620c96343d7</testCaseGuid>
+</TestCaseEntity>

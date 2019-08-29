@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi halaman ebay blanja.com</description>
+   <name>VerifyebayBlanjaMob</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdcb0db5-3f85-48d9-ab62-f56d252d1696</testCaseGuid>
+</TestCaseEntity>

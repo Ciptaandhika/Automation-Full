@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to url blanjaan saya
+delay
+verify element clickable
+click btnKonfirmasiPembayaran</description>
+   <name>GoToBlanjaanSaya_Pembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23f05cc3-4e2c-403e-a534-f2a275bb426b</testCaseGuid>
+</TestCaseEntity>

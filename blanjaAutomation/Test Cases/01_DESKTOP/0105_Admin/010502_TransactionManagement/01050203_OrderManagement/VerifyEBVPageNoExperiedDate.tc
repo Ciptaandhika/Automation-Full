@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Store setting berhasil di update
+2. End Time diisi oleh No Expired
+3. Store status = active
+</description>
+   <name>VerifyEBVPageNoExperiedDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6b94d40-0c72-451a-a433-f7e072dd4251</testCaseGuid>
+</TestCaseEntity>

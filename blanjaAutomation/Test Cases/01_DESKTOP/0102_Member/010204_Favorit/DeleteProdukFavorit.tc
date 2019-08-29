@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure user can delete product at “Produk Favorit” tab
+1. User access tab Favorit
+2. User checklist and click button delete at “Produk Favorit” tab
+Ensure user can delete product at “Produk Favorit” tab</description>
+   <name>DeleteProdukFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbb61e9c-9f1a-4926-a7f4-2fe6920746b1</testCaseGuid>
+</TestCaseEntity>

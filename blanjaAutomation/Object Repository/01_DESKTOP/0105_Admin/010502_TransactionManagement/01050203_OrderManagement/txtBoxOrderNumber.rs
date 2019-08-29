@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtBoxOrderNumber</name>
+   <tag></tag>
+   <elementGuidId>b76d06f4-5c72-46bb-9de1-e6a757e10724</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;queryForm&quot;]/div/div[1]/div[5]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;queryForm&quot;]/div/div[1]/div[5]/input</value>
+   </webElementProperties>
+</WebElementEntity>

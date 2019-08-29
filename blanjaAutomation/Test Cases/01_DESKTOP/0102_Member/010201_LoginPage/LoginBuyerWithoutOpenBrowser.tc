@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in as Buyer</description>
+   <name>LoginBuyerWithoutOpenBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e32028d9-8a7d-4c41-b1a3-018b8c6b76c2</testCaseGuid>
+</TestCaseEntity>

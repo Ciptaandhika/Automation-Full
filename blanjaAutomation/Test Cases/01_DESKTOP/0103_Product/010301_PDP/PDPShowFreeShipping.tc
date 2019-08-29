@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik produk
+close layanan express</description>
+   <name>PDPShowFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c994c969-ce74-49a9-8e7f-daf530fcc1ca</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User access this URL https://m.bljstaging.com/katalog/p/mnb/TAS-GENDONGAN-BANTAL-GULING-ALAS-TIDUR-BAYI-SET-4-in-1-merk-chekiddo-15686396</description>
+   <name>NavigateToURLUppercaseMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1308db10-e81c-42a3-816a-bfbb731dbe27</testCaseGuid>
+</TestCaseEntity>

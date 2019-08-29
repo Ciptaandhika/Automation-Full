@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. go to withdrawal management
+2. search status is PENDING</description>
+   <name>WithdrawalManagementMatchAllTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6dce336-dfaa-4e21-9460-22b70b6ad20c</testCaseGuid>
+</TestCaseEntity>

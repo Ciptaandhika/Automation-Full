@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>buyer add product free shipping promotion</description>
+   <name>AddFreeShippingPromotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcce385a-483b-4585-bce2-1339168756db</testCaseGuid>
+</TestCaseEntity>

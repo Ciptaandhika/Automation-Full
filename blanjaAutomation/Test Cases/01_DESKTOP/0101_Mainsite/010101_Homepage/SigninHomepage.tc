@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browse
+max windows
+nagigate url homepage</description>
+   <name>SigninHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5084113a-2dc3-4da8-a8e9-0227278638a9</testCaseGuid>
+</TestCaseEntity>

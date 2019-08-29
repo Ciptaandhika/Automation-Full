@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya
+- Klik link order number</description>
+   <name>GoToBlanjaanSaya_VerifyBNIDebitOnline_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4e50657-7c26-40bd-9c1d-6a8a77379928</testCaseGuid>
+</TestCaseEntity>

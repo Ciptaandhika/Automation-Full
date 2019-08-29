@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik bni debit online
+pilih promo</description>
+   <name>ChooseBNIDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a837b3c2-0233-4d2f-b95d-4f9c8cf00909</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to hadiah langsung,
+tukar coupon
+</description>
+   <name>tukarHadiahLangsung_KlikTukarKoin_2Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d49758a-1f8e-48ec-b094-97baa95488e8</testCaseGuid>
+</TestCaseEntity>

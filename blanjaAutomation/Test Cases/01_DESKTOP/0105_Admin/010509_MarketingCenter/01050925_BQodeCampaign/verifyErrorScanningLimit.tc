@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present</description>
+   <name>verifyErrorScanningLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be023723-5395-40cb-ba07-8fc5cbbcac8f</testCaseGuid>
+</TestCaseEntity>

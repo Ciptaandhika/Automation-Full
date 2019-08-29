@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment with finpay</description>
+   <name>PaymentFinpay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcd521e2-b03f-45aa-8354-e81b91dc5ac4</testCaseGuid>
+</TestCaseEntity>

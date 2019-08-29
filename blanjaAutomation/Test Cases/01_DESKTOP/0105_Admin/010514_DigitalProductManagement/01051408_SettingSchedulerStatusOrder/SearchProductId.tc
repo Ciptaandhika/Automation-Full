@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search using product id
+- Fill product id 
+- Click search button</description>
+   <name>SearchProductId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14b7ad55-c8a2-4a10-ad63-f486a929a87c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Pembayaran
+Pilih opsi pengiriman: Kurir Standar A
+Klik button Kode Voucher A
+Set text Kode Voucher A
+Klik button Gunakan A
+Pilih opsi pengiriman: Kurir Standar B
+Klik button Kode Voucher B
+Set text Kode Voucher B
+Klik button Gunakan B
+Click button VA
+Delay
+Click button Mandiri
+Click button Transfer Mandiri
+Delay
+Click Bayar
+Get URL
+Verify url success payment</description>
+   <name>ChooseJasaPembayaran2Store_DompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0fc0bb6-bfb2-4ceb-b67e-97b204240f21</testCaseGuid>
+</TestCaseEntity>

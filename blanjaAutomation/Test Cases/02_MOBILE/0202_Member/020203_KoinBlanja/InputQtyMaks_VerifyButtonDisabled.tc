@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Lainnya.
+Set Jumlah Koin.
+Click Button Tukar.
+Verify Koin Berkurang.</description>
+   <name>InputQtyMaks_VerifyButtonDisabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>079e049c-feb9-4455-8c1b-c89161098f2c</testCaseGuid>
+</TestCaseEntity>

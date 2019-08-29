@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Search
+Type Keyword
+Enter</description>
+   <name>SellerSearchNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>067f7b57-e50f-4379-ae3e-2496650eb27e</testCaseGuid>
+</TestCaseEntity>

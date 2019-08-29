@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click Add New button
+- Verify all new element</description>
+   <name>AddRowLotteryForm_VerifyNewForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fa99c7c-7adb-4735-9939-f2b0c8b6a564</testCaseGuid>
+</TestCaseEntity>

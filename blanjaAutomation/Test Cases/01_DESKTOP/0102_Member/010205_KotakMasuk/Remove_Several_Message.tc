@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih atau check beberapa pesan (pada case ini misalnya 2 pesan)
+- klik delete</description>
+   <name>Remove_Several_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>996478ce-7b9a-40a7-bcd7-7e8afdee3a18</testCaseGuid>
+</TestCaseEntity>

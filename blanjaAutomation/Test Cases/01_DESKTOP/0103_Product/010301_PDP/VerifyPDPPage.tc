@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Directed to “PDP” page</description>
+   <name>VerifyPDPPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca83cf15-2770-4c92-a0a6-c7c96b5d2b98</testCaseGuid>
+</TestCaseEntity>

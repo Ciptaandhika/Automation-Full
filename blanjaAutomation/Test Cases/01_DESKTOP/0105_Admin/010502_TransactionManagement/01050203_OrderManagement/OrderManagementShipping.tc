@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To URL Order Management
+isi order Number 
+click Search 
+Get Payment Code
+Btn Kirim Order Admin
+Set Text Box Input Last Order nUmber pada pop up Ship
+Verify label Ship Admin Paid</description>
+   <name>OrderManagementShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43cafe40-6d9d-4268-b4b0-dfee3e4d581b</testCaseGuid>
+</TestCaseEntity>

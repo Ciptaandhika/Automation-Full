@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create specific periode product TR 
+ - periode = 16 mei 2017 - 30 juni 2017
+ - take rate discount = 30%
+ - product id = 
+
+Take rate for discount TR is created</description>
+   <name>TakeRateSettingProductDiscountSpesificTime30PercentLTDProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ff5d40c-fe68-42c3-9a39-f58a7b1cf653</testCaseGuid>
+</TestCaseEntity>

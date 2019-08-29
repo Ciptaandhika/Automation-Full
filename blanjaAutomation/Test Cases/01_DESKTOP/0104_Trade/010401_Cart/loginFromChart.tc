@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- go to PDP page (https://www.bljstaging.com/katalog/p/hnb/sunsilk-hijab-botol-21689117)
+- close btn layanan express
+- klik btn blanja sekarang
+- input username
+- input password
+- klik btn masuk</description>
+   <name>loginFromChart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>300a2bec-90a4-41b7-a213-a73133315270</testCaseGuid>
+</TestCaseEntity>

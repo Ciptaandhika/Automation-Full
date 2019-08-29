@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klick btn video play</description>
+   <name>videoPlayButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>696e0163-b8b0-49a1-a036-ea8d68ef8b9f</testCaseGuid>
+</TestCaseEntity>

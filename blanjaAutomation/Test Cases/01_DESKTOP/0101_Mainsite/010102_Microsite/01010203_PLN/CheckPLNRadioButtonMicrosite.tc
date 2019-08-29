@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek radio button di microsite</description>
+   <name>CheckPLNRadioButtonMicrosite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5118314c-e682-42b5-82de-d556ae6c4f18</testCaseGuid>
+</TestCaseEntity>

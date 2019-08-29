@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pulsa Admin
+
+Search SKU id di phone credit setting
+
+Step :
+1. Masukkan sku id yang ada di list search
+2. klik button search</description>
+   <name>ShopPulsaInputNoTelp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29838d05-e2bc-440e-9ce2-0e992f63db47</testCaseGuid>
+</TestCaseEntity>

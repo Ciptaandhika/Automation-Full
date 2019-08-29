@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. In header menu, If member click “Dompet Blanja” menu, member will be redirected to “Saldo dan Penarikan Dana” page
+If member click “Dompet Blanja” menu, member will be redirected to “Saldo dan Penarikan Dana” page</description>
+   <name>VerifySaldodanPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b497cef-3015-495f-9a26-e3c280019d19</testCaseGuid>
+</TestCaseEntity>

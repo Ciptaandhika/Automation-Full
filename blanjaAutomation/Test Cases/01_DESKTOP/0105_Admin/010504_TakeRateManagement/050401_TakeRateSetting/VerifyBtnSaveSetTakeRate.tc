@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify btn save clickable</description>
+   <name>VerifyBtnSaveSetTakeRate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aeaa357-c4c5-4d97-93f3-a9d25b57960f</testCaseGuid>
+</TestCaseEntity>

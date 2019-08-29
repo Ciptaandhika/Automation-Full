@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to ulasan page</description>
+   <name>UlasanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b26689bc-0091-4b79-bce3-a134f9570b50</testCaseGuid>
+</TestCaseEntity>

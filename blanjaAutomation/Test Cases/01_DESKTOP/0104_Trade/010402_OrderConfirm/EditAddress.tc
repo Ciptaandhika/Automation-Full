@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Ubah Alamat.
+fill Kode Pos.
+click Ubah Lokasi.
+fill Cari Alamat.
+click Gunakan Lokasi.</description>
+   <name>EditAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a18bc144-4b08-44d7-a993-e9ef4eee025b</testCaseGuid>
+</TestCaseEntity>

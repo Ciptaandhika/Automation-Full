@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk semua produk: Kurir Standar
+- Klik tab Bank BNI
+- Pilih Debit Online
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_BNIDebitOnline_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96da33c4-c115-4c95-b11a-f8d69a209c7f</testCaseGuid>
+</TestCaseEntity>

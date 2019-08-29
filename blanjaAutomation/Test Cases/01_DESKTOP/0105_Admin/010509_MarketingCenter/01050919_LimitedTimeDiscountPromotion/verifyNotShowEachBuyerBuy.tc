@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text not present</description>
+   <name>verifyNotShowEachBuyerBuy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeacf0ac-d29b-477c-9dba-1311a33b7dbf</testCaseGuid>
+</TestCaseEntity>

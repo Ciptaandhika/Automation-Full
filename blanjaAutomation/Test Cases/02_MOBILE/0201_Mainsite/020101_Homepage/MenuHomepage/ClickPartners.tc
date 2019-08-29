@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu partners</description>
+   <name>ClickPartners</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec3b06bf-7963-4293-a9fe-8fc1d55d11a4</testCaseGuid>
+</TestCaseEntity>

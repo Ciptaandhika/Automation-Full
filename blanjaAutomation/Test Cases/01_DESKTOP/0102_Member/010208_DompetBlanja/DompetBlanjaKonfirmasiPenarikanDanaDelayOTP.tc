@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input password
+input kode verifikasi
+kirim kode verifikasi
+klik konfirmasi</description>
+   <name>DompetBlanjaKonfirmasiPenarikanDanaDelayOTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61ef035e-1a3d-4c02-8c58-a92b4a80fcf1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'My Store' button in top right page
+2. User choose store type 'Business Store'
+3. Fill all fields store info
+4. Click 'Next' button to confirm page
+5. Click 'Next' button to verification phone number page
+6. Verify input OTP clickable</description>
+   <name>BStore_Verify_OTP_BlueLine</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c89ee8ce-1036-48a3-bb2e-8f4b17441995</testCaseGuid>
+</TestCaseEntity>

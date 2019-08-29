@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Alfamart
+Get Label Alfamart
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_FinpayModernChannel_Alfamart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1a29888-ce6d-4937-9b9f-63bfee608a45</testCaseGuid>
+</TestCaseEntity>

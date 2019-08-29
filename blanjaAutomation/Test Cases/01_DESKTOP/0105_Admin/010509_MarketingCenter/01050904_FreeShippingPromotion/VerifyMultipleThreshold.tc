@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify threshold free shiping promotion</description>
+   <name>VerifyMultipleThreshold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>436ec04f-9375-4921-99e8-b6997e760dea</testCaseGuid>
+</TestCaseEntity>

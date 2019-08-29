@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure on search result page total product is displayed
+1. Access blanja.com and access each menu
+Counter is displayed on top of header section</description>
+   <name>SearchTotalProductKopi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f11da49-ccc9-488a-82cd-978514dfe131</testCaseGuid>
+</TestCaseEntity>

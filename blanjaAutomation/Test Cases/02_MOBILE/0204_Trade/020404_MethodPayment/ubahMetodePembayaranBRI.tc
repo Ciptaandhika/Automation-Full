@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose metode pembayaran
+click btn konfirmasi</description>
+   <name>ubahMetodePembayaranBRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>658bb591-e455-43b7-9be6-2a1f7ad53d47</testCaseGuid>
+</TestCaseEntity>

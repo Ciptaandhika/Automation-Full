@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL is https://m.bljstaging.com/c/fnb/makanan-minuman</description>
+   <name>verifyURLCategoryManakanMinuman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4a542c2-14c7-4909-a289-0a984887727d</testCaseGuid>
+</TestCaseEntity>

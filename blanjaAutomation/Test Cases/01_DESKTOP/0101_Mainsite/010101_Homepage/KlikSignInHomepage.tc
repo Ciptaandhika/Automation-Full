@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik button masuk
+sistem akan menampilkan kolom login</description>
+   <name>KlikSignInHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d137345d-36ee-4d1e-b4d8-b22f80db7f1d</testCaseGuid>
+</TestCaseEntity>

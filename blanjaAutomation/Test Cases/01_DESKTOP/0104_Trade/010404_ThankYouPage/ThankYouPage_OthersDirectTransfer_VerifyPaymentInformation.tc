@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata &quot;success'
+Verify no pesanan is appeared
+Verify 'tanggal bayar sebelum' harus 1 hari + current date
+Verify 3 digit kode unik di total pembayaran
+Klik 'Detail Pembayaran'
+Verify informasi 'Detail Pembayaran' is appeared
+- Verify 'Sub Total Pembayaran' is appeared
+- Verify 'Kode Unik' is appeared
+- Verify 'Total Pembayaran' is appeared
+- Verify 'Total Pembayaran = Sub Total + Kode Unik'
+
+Verify informasi 'Nomor Rekening Pembayaran' is appeared
+- Verify logo Bank Mandiri
+- Verify nomor rekening 127 006 6611 110
+- Verify a/n PT Metraplasa Cabang Pejaten Jakarta
+- Verify informasi 'Proses verifikasi dilakukan pada jam kerja.'
+- Verify link 'Salin Nomor'
+
+Verify metode pembayaran Mandiri Transfer Bank is appeared
+</description>
+   <name>ThankYouPage_OthersDirectTransfer_VerifyPaymentInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08d6300e-b9d5-4ed5-bdf5-7961dc41aa61</testCaseGuid>
+</TestCaseEntity>

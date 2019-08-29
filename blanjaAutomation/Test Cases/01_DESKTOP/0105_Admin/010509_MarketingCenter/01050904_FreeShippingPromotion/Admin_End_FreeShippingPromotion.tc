@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin end freeshipping promotion</description>
+   <name>Admin_End_FreeShippingPromotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf4d5163-a1f1-438a-9a2f-1cca0c985aa4</testCaseGuid>
+</TestCaseEntity>

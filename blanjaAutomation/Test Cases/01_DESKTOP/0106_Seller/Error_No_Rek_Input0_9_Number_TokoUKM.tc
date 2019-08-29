@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>NOTE :
+Sistem tidak menampilkan pop up sesuai dengan yang diminta pasa Expected Result, sehingga diganti dengan validasi menggunakan logInfo.
+
+- pilih tab perusahaan
+- input no rekening dengan menggunakan alphabet
+</description>
+   <name>Error_No_Rek_Input0_9_Number_TokoUKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9b1cd60-b43a-429e-8fc1-2819c965a744</testCaseGuid>
+</TestCaseEntity>

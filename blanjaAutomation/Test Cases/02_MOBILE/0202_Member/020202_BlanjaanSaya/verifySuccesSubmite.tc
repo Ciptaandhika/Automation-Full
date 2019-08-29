@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get text alert
+verify equal succes
+accept alert</description>
+   <name>verifySuccesSubmite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>974f099c-d8eb-4c4e-8861-e769754c4186</testCaseGuid>
+</TestCaseEntity>

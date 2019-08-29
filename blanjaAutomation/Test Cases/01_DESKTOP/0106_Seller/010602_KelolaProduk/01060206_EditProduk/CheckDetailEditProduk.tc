@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit 1 Produk pada Seller
+
+menu Produk Dijual
+pilih Produk untuk di Edit
+Set Propinsi dan kabupaten
+Edit</description>
+   <name>CheckDetailEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e116098a-0e33-411d-a12a-7328657aad8f</testCaseGuid>
+</TestCaseEntity>

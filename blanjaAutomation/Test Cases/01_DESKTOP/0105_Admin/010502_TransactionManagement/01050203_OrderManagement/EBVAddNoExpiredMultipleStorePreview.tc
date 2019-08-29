@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin menampilkan halaman Add new settings
+2. Pilih start date &amp; time
+3. Centang No Expired atau pilih End Time
+4. Input multiple store id di Store List yang dipisahkan dengan koma (,)
+5. Klik Preview Store
+6. Halaman admin menampilkan list store id dan store name yang di input di Store List
+</description>
+   <name>EBVAddNoExpiredMultipleStorePreview</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>179ac27b-91a1-40fa-be40-cbe56249df2a</testCaseGuid>
+</TestCaseEntity>

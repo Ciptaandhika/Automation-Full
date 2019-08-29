@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>ClickButtonOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e50e912f-b5c9-42d6-bf8d-7067e68af92a</testCaseGuid>
+</TestCaseEntity>

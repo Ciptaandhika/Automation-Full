@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy pulsa and in the confirmation page click seller</description>
+   <name>BuyPulsaAndClickSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>457b42db-68d8-4544-a5b9-dff8acc49ce8</testCaseGuid>
+</TestCaseEntity>

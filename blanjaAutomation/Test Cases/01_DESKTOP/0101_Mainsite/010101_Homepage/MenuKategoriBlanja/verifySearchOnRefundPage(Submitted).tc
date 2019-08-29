@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search URL is correct
+2. Product on search result page has correct URL</description>
+   <name>verifySearchOnRefundPage(Submitted)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9af0c322-b6af-468c-b94c-36a738c3169b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Ok.</description>
+   <name>SellerClickOkKelola</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5b652d5-6f14-424f-9397-620258006b56</testCaseGuid>
+</TestCaseEntity>

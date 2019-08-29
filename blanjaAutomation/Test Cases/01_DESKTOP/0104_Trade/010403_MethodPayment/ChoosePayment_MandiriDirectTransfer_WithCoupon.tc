@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Transfer Bank di kotak Bank Mandiri
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_MandiriDirectTransfer_WithCoupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3864984-3bcd-46f1-b347-9bfadcd72410</testCaseGuid>
+</TestCaseEntity>

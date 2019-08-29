@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pilih kategori Ibu Bayi dan Anak
+sistem akan menampilkan semua produk yang terkait
+pilih salah satu produk yang ada di menu tsb</description>
+   <name>ProdukIbuBayidanAnak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53520d79-2f4d-4807-b53e-0e3c013d40ec</testCaseGuid>
+</TestCaseEntity>

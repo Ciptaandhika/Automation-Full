@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Seller does not input pin point
+Seller Click Save button</description>
+   <name>SellerDoesNotPinPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b810ebda-a1b2-40a1-99f0-190bdbe2b557</testCaseGuid>
+</TestCaseEntity>

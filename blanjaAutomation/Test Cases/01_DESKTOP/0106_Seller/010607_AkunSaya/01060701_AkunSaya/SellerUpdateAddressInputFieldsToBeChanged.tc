@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose Alamat Pengiriman.
+click Ubah.
+fill first name seller.
+fill shipping address seller.
+choose province's seller.
+choose city's seller.
+choose sub-district's seller.
+fill code post's seller.
+fill phone number's seller.
+fill company name's seller.
+click Choose Location.
+click Use Location.
+click button Save.
+
+
+</description>
+   <name>SellerUpdateAddressInputFieldsToBeChanged</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3efbff15-d477-4737-8a9e-6c3536965515</testCaseGuid>
+</TestCaseEntity>

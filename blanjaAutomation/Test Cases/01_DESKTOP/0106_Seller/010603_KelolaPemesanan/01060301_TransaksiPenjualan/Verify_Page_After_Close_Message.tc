@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik hubungi penjual / message buyer
+- close pop up message yang muncul
+- verifikasi halaman orderlist setelah klik close pada pop up message</description>
+   <name>Verify_Page_After_Close_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8431caaf-cff4-43c8-95e6-5b2e667e41dd</testCaseGuid>
+</TestCaseEntity>

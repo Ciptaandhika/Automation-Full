@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Buyer Name.
+choose Blanjaan Saya Menu.</description>
+   <name>BuyerSelectProductPaidFriday10AM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03db9de4-aad8-4d87-ac76-b4f47a84aabd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>melakukan off shelf untuk product statis</description>
+   <name>OffShelfProductSpecified</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c8426f0-ac19-4876-b371-bc1a9ed6d30e</testCaseGuid>
+</TestCaseEntity>

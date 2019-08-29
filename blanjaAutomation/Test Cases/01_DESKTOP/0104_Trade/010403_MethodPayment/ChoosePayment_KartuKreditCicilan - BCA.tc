@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Last Order Number
+Choose Radio Button Debit Niaga
+Select Option Pilih Nama Promosi
+Verify label Diskon Blanja
+Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_KartuKreditCicilan - BCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4722e45d-f6b0-45c4-9ae0-249f730a93ee</testCaseGuid>
+</TestCaseEntity>

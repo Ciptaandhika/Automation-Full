@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;app.sandbox.midtrans.com&quot;
+Verify nominal payment dan installment info tampil</description>
+   <name>ThankYouPage_MandiriKartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>609a31e2-d356-4c8e-9258-28f254bf8edb</testCaseGuid>
+</TestCaseEntity>

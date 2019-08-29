@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik menu bank promotion
+- create bank promotion CC</description>
+   <name>Create New Bank Promotio CC Mandiri Midtrans</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ef3b944-4e46-4531-be05-0ff8e044d6a1</testCaseGuid>
+</TestCaseEntity>

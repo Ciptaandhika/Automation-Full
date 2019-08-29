@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik kirim kode verifikasi
+Set Text kode keamanan
+Klik Next/Selanjutnya</description>
+   <name>VerifyPhone_KirimKode_Finish</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d705cddd-b3d2-498c-9570-8c4e90575faa</testCaseGuid>
+</TestCaseEntity>

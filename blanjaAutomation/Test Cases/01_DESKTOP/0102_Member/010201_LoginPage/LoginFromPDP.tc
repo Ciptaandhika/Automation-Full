@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to PDP
+Click button Masuk from header
+Set text username
+Set text password
+Click button Masuk</description>
+   <name>LoginFromPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7da5ab9f-a227-4a59-b496-2bbc2c88e791</testCaseGuid>
+</TestCaseEntity>

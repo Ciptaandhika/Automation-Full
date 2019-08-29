@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login with valid credentials
+ 2. Open Order List page
+ 3. Check all orders with states : Placed, Paid, Shipped, Completed</description>
+   <name>Verify_All_Status_Kirim_Pesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>094b190c-1d99-4d2e-8acc-958c35a3d89a</testCaseGuid>
+</TestCaseEntity>

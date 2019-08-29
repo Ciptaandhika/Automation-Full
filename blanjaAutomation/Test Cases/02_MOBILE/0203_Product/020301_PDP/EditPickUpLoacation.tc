@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer can change selected pick up location</description>
+   <name>EditPickUpLoacation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d05db952-231e-45a8-b5ab-7cff963c46e5</testCaseGuid>
+</TestCaseEntity>

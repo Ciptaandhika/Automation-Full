@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search order number
+
+nb : order number harus sudah ada di list order management terlebih dahulu</description>
+   <name>OMSearchOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adb36909-3bb3-4962-9017-bb1a8c2a94ce</testCaseGuid>
+</TestCaseEntity>

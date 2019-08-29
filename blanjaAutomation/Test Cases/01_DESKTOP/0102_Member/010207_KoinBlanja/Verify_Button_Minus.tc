@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User login as buyer di halaman desktop
+ 2. Dari header profile/ Sidebar Akun Saya klik Koin Blanja
+ 3. Desktop menampilkan halaman Koin Blanja 
+4. Klik tab Hadian Undian 
+5. Buyer memilih prize 5 di tab Hadiah Undian dan klik tombol - di tukar koin 
+6. Atau Buyer memilih prize 5 di tab Hadiah Undian dan input qty di tukar koin dengan qty yang lebih kecil dari sebelumnya
+. Contoh : update qty tukar prize dari qty = 6 menjadi 3.</description>
+   <name>Verify_Button_Minus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4016ecd-a783-415f-a8e6-579a1c463aba</testCaseGuid>
+</TestCaseEntity>

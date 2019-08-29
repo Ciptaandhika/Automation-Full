@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify kupon undian
+</description>
+   <name>Verify_Kupon_5Row</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf13c71b-205d-4b9c-bd40-3b367dcc1064</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke url homepage 
+- search kopi bubuk
+- filter second condition atau bekas
+- verify result tersebut</description>
+   <name>Verify_Second_Product_KopiBubuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db70e0d0-0711-45a7-837b-762191ed7542</testCaseGuid>
+</TestCaseEntity>

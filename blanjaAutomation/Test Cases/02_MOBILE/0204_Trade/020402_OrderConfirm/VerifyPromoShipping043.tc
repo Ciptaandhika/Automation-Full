@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Jasa Pengiriman &quot;Go Send&quot;.
+Choose Jenis Pengiriman &quot;Same Day&quot;.
+See pop up &quot;Jarajk Terlalu Jauh ...&quot;.</description>
+   <name>VerifyPromoShipping043</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3a2761d-a762-44fc-98db-59d3f30fe68a</testCaseGuid>
+</TestCaseEntity>

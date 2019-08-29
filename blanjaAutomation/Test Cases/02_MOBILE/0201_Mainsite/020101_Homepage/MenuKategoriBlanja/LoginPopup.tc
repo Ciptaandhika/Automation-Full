@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan login pada saat klik blanja sekarang</description>
+   <name>LoginPopup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ac5d8ca-14a5-40eb-b3a0-89b409d50553</testCaseGuid>
+</TestCaseEntity>

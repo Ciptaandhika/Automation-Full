@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition :
+Akun yang digunakan belum pernah memilih type store baik itu individual maupun business store
+
+1. navigate to member.bljstaging.com
+2. input username
+3. input password
+4. click masuk
+</description>
+   <name>LoginOpenStore(Fresh Account)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcf05a50-bb7d-4e39-af45-cad2c1554860</testCaseGuid>
+</TestCaseEntity>

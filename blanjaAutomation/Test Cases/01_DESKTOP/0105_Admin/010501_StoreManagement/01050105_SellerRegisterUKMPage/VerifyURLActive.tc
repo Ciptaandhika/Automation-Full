@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>accsess url event.</description>
+   <name>VerifyURLActive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>864e8555-9891-4911-9923-0bd6c2ca6236</testCaseGuid>
+</TestCaseEntity>

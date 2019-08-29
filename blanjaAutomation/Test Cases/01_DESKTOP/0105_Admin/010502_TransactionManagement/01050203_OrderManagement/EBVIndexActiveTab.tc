@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih menu System Management >> Exclude Being Verified Management
+2. Pilih tab Active 
+3. Pilih store dengan periode = no expired, kemudian klik Edit
+</description>
+   <name>EBVIndexActiveTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69782fcf-1603-49dc-a4d7-98bd5df032c2</testCaseGuid>
+</TestCaseEntity>

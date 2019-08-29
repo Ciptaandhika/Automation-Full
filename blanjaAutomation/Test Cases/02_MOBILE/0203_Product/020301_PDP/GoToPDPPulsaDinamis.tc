@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate ke PDP Pulsa yang baru saja dibuat
+Klik Blanja sekarang</description>
+   <name>GoToPDPPulsaDinamis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e53b7313-cdd2-42d1-be36-549a00e00e60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Klik Create Campaign
+Input Campaign Name
+Pilih Campaign time
+Pilih Points Expiration Time
+Tick Use Redeem Time
+Pilih start date &amp; end date redeem time
+Input threshold
+Tick Applies Multiply
+Input maximum get point in one order
+Pilih Use Criteria = No
+Input Prize
+Get attribute startDate 
+Get attribute endDate 
+Println startDate 
+Println endDate </description>
+   <name>Create Campaign No Criteria Multiply Prize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa825e94-4f3c-4f8e-afed-91e2a88f597e</testCaseGuid>
+</TestCaseEntity>

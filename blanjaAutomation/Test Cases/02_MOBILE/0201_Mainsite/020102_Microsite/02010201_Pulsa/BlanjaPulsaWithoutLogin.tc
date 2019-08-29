@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to pulsa
+- Input phone number
+- Choose nominal
+- Click blanja pulsa
+- Login</description>
+   <name>BlanjaPulsaWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9347d400-d81f-4765-ae67-ec29431f59c8</testCaseGuid>
+</TestCaseEntity>

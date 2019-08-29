@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button 'Lihat Lebih Banyak'</description>
+   <name>HotProductMore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faa6202f-721b-4d3d-b3e8-bb4766fc9c57</testCaseGuid>
+</TestCaseEntity>

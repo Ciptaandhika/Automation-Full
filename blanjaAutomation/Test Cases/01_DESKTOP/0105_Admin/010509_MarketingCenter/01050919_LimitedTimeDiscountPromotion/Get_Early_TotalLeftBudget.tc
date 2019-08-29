@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search LTD product yang telah di buat
+- klik view
+- get Total Left Budget</description>
+   <name>Get_Early_TotalLeftBudget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>baab4146-b333-4a9c-8b48-073307bdb3d6</testCaseGuid>
+</TestCaseEntity>

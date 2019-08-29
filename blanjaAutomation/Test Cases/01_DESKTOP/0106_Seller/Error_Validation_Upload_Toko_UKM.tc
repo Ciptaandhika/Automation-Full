@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Member klik tab perusahaan
+- Upload File ke form NPWP dengan size lebih dari 5MB
+- Upload File ke form SIUP dengan size lebih dari 5 MB</description>
+   <name>Error_Validation_Upload_Toko_UKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b2ae876-c9fb-4329-8ad5-ae3235219c98</testCaseGuid>
+</TestCaseEntity>

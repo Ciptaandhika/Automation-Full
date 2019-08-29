@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Inactive
+Navigate to URL
+Click button close
+Verify element not present</description>
+   <name>clickButtonInactive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a774f22c-9f66-4b24-9df9-7eb811261f4e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hapus Sub Akun yang sudah dibuat</description>
+   <name>TutupSubAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63adeeb2-df6f-4135-9f32-9bae97cbf3c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create coupon
+Lock Payment select 1 payment method (Ex : Select Only &quot;Klik BCA&quot;)
+verify coupon
+
+The same step from point 1 to 13 and from point 15 to 16. Point 14 is below ;
+14. Select one bank (only one payment method) on Lock Payment which is at list of Bank.</description>
+   <name>Create Coupons Only Blanja Unique Code (Lock Payment Klik BCA)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55802bf6-4625-4a48-8c58-df5a7f60a62c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click search bar
+2. Input Store name
+3. Choose Filter
+4. Set Country and Province
+5. Terapkan</description>
+   <name>Filter_StoreName_By_Country_And_Province</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d697aeab-f867-46b3-9901-59b038acb0fe</testCaseGuid>
+</TestCaseEntity>

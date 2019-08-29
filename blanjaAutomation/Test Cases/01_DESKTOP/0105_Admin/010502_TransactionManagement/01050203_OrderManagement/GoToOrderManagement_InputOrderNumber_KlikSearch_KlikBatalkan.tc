@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Order Management
+isi order Number 
+click Search
+verify informasi payment method: 'Payment Method :BNI Credit Card Installment (Midtrans)'
+Klik Order Detail sesuai nomor order yang dimasukkan</description>
+   <name>GoToOrderManagement_InputOrderNumber_KlikSearch_KlikBatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ec9730c-7151-4526-bc68-75550a84e642</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- akses order list / blanjaan saya
+- klik hubungi penjual
+- isi pesan pada pop up message
+- klik kirim / send
+- verifikasi alert pesan berhasil terkirim muncul</description>
+   <name>Verify_PopUp_Message_Send</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0beef546-6632-4fbc-8c0f-b87cd3b30280</testCaseGuid>
+</TestCaseEntity>

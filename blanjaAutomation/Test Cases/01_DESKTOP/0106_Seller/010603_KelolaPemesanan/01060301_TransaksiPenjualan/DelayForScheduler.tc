@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay 400s</description>
+   <name>DelayForScheduler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f548c0f-fab4-4e62-b1b3-253097a4ad37</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- validasi kondisi error pada dropdown kota/kabupaten (member tidak memilih kabupaten)
+- verifi label warning &quot;Mohon Pilih Kota&quot;</description>
+   <name>Error_Validation_City</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4e7206c-f82e-4845-9cff-5be2eeb0021f</testCaseGuid>
+</TestCaseEntity>

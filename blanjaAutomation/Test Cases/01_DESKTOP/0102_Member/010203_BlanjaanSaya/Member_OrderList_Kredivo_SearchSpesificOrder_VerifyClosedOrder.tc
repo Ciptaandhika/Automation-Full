@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+isi order Number (dari test suite precondition)
+click Search
+verify methode pembayaran 'Pembayaran :Kredivo' tampil
+Verify order must be 'Tutup'</description>
+   <name>Member_OrderList_Kredivo_SearchSpesificOrder_VerifyClosedOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce97f2f6-b124-4dbe-83bd-00709ce5daf3</testCaseGuid>
+</TestCaseEntity>

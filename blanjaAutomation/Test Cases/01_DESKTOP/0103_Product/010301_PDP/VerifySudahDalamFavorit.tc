@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text 'Sudah dalam Favorit'</description>
+   <name>VerifySudahDalamFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7daa6e56-1f55-4e06-80e9-d6103ab6eedd</testCaseGuid>
+</TestCaseEntity>

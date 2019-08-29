@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+- Jika user belum pernah memilih type store maka akan di direct ke halaman typestore
+- pilih button open store (individual store)
+- Input Semua Form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+-  User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi button lanjutkan pada pop up OTP disable 
+Kondisi 2 : 
+- Jika user sudah pernah memilih type store maka akan langsung di direct ke halaman form registrasi
+- Input semua form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+- User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi button lanjutkan pada pop up OTP disable 
+</description>
+   <name>Verify_BtnVerifikasi_Disabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec3e4461-e837-4d6c-a975-bcfbf6b64343</testCaseGuid>
+</TestCaseEntity>

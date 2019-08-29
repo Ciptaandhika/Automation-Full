@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser url store warung kami
+Tambahkan ke favorit</description>
+   <name>goToWarungKami_AddToFav</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88e21f12-afba-4f76-a51b-463ec369bf26</testCaseGuid>
+</TestCaseEntity>

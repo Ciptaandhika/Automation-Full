@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url
+verify equal url</description>
+   <name>VerifyToRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1c6e99b-9d2f-49a0-a3e8-7212497351e8</testCaseGuid>
+</TestCaseEntity>

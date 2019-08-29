@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See Shipping Fee.</description>
+   <name>VerifyInstantCourierMoreThan26K</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>843f3b4b-062e-44b7-aa34-cbd46e708f71</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input coupon code unique
+- input coupon code thematic
+- verify label warning tidak bisa digunakan bersamaan</description>
+   <name>Coupon Code Combination - 2 Coupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f054f7a-10a2-47fe-9235-d7ca2ae6fa09</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search category computer
+- pada textbox product ID input 12345
+- verify label warning Product Not Found</description>
+   <name>Admin_Search_Product_ID_Not_Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba1bcbf7-7a48-42e1-b953-059355eedc97</testCaseGuid>
+</TestCaseEntity>

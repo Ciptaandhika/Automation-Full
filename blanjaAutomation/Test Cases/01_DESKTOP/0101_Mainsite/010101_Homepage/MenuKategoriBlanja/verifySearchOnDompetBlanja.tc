@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search URL is correct
+2. Product on search result page has correct URL</description>
+   <name>verifySearchOnDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2267e2a-0414-4df3-b72f-b39d3de82589</testCaseGuid>
+</TestCaseEntity>

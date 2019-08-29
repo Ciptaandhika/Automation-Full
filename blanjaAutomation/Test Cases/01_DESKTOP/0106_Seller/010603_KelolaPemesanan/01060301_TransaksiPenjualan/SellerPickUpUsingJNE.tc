@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button pick up.
+Select jasa pengiriman JNE.
+Fill Nomor Resi.</description>
+   <name>SellerPickUpUsingJNE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e29688c3-6eb8-44e1-98d6-4849549b199f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Add product to cart 
+ 2. At Order confirmation page, choose ninja Xpress
+ 3. Click lanjutkan
+ 4. Go to payment page</description>
+   <name>NinjaExpressBeratLebihdari20kg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1108c464-88a2-4f92-8317-2c95f60af009</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify next button pada halaman konfirmasi saat checkbox unchecked adalah disabled</description>
+   <name>B_Store_Verify_Next_Button_Disabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7643afe-179e-4819-a378-7a1c7fc66a8d</testCaseGuid>
+</TestCaseEntity>

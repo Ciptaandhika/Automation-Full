@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi produk favorit</description>
+   <name>VerifyProdFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09a5d1fb-7dcf-4587-8b39-160208ce7092</testCaseGuid>
+</TestCaseEntity>

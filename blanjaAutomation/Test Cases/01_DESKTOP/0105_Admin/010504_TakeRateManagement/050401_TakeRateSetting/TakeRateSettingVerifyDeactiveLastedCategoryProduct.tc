@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. TR product status will be deactivated</description>
+   <name>TakeRateSettingVerifyDeactiveLastedCategoryProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30c1c23f-1116-4aa5-9166-ba151690fd65</testCaseGuid>
+</TestCaseEntity>

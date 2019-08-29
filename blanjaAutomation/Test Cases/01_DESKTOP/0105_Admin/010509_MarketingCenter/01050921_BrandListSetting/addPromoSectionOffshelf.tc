@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text promo name
+Upload file promo
+Set text banner title
+Upload file promo mobile
+Set text banner title mobile
+Set text product list
+Spload file inner promo 
+Upload file inner promo mobile
+Click button add promo
+Verify text present &quot;Error Information&quot;
+Verify text present &quot;These product IDs are not on-shelf, please check again&quot;</description>
+   <name>addPromoSectionOffshelf</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e12b26fe-63af-4441-a34b-c7b87b95eff5</testCaseGuid>
+</TestCaseEntity>

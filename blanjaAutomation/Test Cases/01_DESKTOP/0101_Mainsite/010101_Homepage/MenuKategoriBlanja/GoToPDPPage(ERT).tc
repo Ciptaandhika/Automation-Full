@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PDP page 
+    - Elektronik Rumah Tangga</description>
+   <name>GoToPDPPage(ERT)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a22c627-8d5c-47ed-bea5-f1aeea737b47</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Only Blanja (Unique Code)
+3. Pilih Lock Payment Bank Transfer</description>
+   <name>Coupon Unique Code 20k Bank_Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71463996-2ad4-42ce-b142-7cc2944b2b75</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Button Link Aja.
+Click Dompet Blanja.
+Verify Dompet Blanja Seller.</description>
+   <name>VerifyDompetBlanjaSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>866a5f44-d239-4e56-a2fd-ed4408bbfd1b</testCaseGuid>
+</TestCaseEntity>

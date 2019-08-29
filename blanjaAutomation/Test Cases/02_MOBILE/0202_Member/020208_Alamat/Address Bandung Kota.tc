@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Informasi Akun.
+Choose Daftar Alamat.
+Fill Alamat.</description>
+   <name>Address Bandung Kota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25f3f48f-fd90-476b-a762-7328543d2ede</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set txtXontextText empty
+click btn save</description>
+   <name>fillinInfoBar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db47e121-1253-4796-85cd-f1b371af1c8d</testCaseGuid>
+</TestCaseEntity>

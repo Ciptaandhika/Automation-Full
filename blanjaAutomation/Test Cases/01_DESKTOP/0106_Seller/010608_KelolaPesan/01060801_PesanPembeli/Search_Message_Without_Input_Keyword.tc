@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman message list (seller) klik go tanpa input keyword</description>
+   <name>Search_Message_Without_Input_Keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac665c16-310f-4205-a52f-663384a7605a</testCaseGuid>
+</TestCaseEntity>

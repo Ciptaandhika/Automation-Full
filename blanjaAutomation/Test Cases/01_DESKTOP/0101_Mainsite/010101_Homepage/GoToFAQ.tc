@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to faq page</description>
+   <name>GoToFAQ</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdaebb24-968c-48e4-83c1-9f3296b590d6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Bank Mutation page
+
+Verify Bank Mutation Report page is showing contain :
+- Upload Mutation Report
+- Bank Mutation Report
+- Admin Logs</description>
+   <name>goToBankMutation_VerifyPageContain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0528ba7-58d2-4494-9fad-c3c60c4af79e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding new prepaid credit setting
+- Fill SKUID, description, top up field
+- Choose operator, provider, type option
+- Choose show public and unlimited stock option
+- Click create setting button</description>
+   <name>AddNewPrepaidCreditSetting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0507578-c83b-44c1-898b-a9a13f1959ad</testCaseGuid>
+</TestCaseEntity>

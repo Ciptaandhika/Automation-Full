@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Klik Tab Perusahaan
+- klik drop down Bank
+- Verify Nama Bank yang terdapat di dropdown tersebut
+
+Note :
+Data yang diverify dari dropdown dimasukan ke dalam list/array sehingga tidak menggunakan global variable</description>
+   <name>Verify_All_Option_From_DDBank_TokoUKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a5b3d9b-86fc-4d6c-8770-3f5010355e7e</testCaseGuid>
+</TestCaseEntity>

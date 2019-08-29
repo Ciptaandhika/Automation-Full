@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify promo free shipping on cart</description>
+   <name>VerifyFSPCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc90639e-7429-4bec-9b01-f39ef233c39e</testCaseGuid>
+</TestCaseEntity>

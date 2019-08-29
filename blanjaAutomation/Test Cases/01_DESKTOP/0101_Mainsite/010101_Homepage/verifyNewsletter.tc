@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify txt box newsletter is clickable</description>
+   <name>verifyNewsletter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e62fb3d1-5d82-44f6-b620-8b1a5142b255</testCaseGuid>
+</TestCaseEntity>

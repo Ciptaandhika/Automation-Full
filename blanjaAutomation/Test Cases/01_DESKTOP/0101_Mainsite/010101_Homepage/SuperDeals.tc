@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik produk yang ada di super deal
+2. sisgtem menampilan PDP produk</description>
+   <name>SuperDeals</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f08bb6d2-99db-4b38-8725-13dbe381ada1</testCaseGuid>
+</TestCaseEntity>

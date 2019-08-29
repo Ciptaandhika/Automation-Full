@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input semua form untuk penarikan dana</description>
+   <name>InputDataForWithdrawal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc67c6a6-a60e-4054-a4f1-8ecdaa06c1b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik button Kode Voucher
+- Set text Kode Voucher
+- Klik button Gunakan
+- Klik tab Bank Mandiri
+- Pilih transfer bank
+- Klik button Bayar
+- Get URL
+- Verify contains</description>
+   <name>ChooseJasaPengiriman_UniqueCoupon_MandiriTrfBankBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a1dec0b-e05e-495b-986b-51ef0ab71f32</testCaseGuid>
+</TestCaseEntity>

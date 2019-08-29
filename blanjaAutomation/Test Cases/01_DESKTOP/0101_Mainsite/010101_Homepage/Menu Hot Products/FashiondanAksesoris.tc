@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik kategori fashion dan aksesoris di hot produk
+sistem akan menampilkan semua produk yang berkaitan</description>
+   <name>FashiondanAksesoris</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e88f7b1b-29b6-4c03-99ea-145e37a02a53</testCaseGuid>
+</TestCaseEntity>

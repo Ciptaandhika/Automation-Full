@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Icon Account 
+sistem akan menampilkan halaman login page</description>
+   <name>ClickIconAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f88846d6-bc28-469b-bca8-76d46b9ac975</testCaseGuid>
+</TestCaseEntity>

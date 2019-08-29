@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Lanjutkan Pembayaran
+Get text
+Click slider cashback
+Set text cashback
+Delay
+Click button Konfirmasi Pembayaran
+Delay</description>
+   <name>PaymentCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1f6d95c-0005-4909-a370-8ca912d8c318</testCaseGuid>
+</TestCaseEntity>

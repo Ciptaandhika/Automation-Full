@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to url</description>
+   <name>goToHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50137492-ea52-48b4-bf5b-e1bdbe857a91</testCaseGuid>
+</TestCaseEntity>

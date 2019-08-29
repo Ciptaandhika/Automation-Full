@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify that email has been registered on newsletter</description>
+   <name>verifyEmailRegistered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdd57b6c-5ae5-418e-b873-1054c387b5ee</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. All tick Partners Indirect Supports
+3. Verify</description>
+   <name>All tick Partners Indirect Supports</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d29e1ab5-a2c5-47f4-9924-63fd236baa28</testCaseGuid>
+</TestCaseEntity>

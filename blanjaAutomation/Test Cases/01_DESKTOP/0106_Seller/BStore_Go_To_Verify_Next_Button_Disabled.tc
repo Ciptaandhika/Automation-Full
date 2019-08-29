@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+
+- Jika member belum pernah mengisi form halaman dokumen penunjang maka isi semua form di halaman tersebut
+- member click lanjutkan
+- member di direct ke halaman konfirmasi (Bussiness Store)
+- verifikasi tombol lanjutkan disabled pada halaman konfirmasi
+
+Kondisi 2 : 
+-jika sudah pernah mengisi semua data /form langsung verifikasi tombol lanjutkan disabled pada halaman konfirmasi
+</description>
+   <name>BStore_Go_To_Verify_Next_Button_Disabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c150e7bd-fb8a-45b7-8c38-9c3d2bb56a85</testCaseGuid>
+</TestCaseEntity>

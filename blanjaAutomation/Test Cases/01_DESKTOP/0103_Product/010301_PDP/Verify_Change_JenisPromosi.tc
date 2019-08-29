@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih jasa pengiriman kurir standar
+- verify dan get harga pengiriman
+- pilih default
+- verify dan get harga pengiriman</description>
+   <name>Verify_Change_JenisPromosi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bec4dc8f-9b5a-4575-aa1f-663eaed44aff</testCaseGuid>
+</TestCaseEntity>

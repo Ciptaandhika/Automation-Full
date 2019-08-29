@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to homepage</description>
+   <name>NavigateToHome</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ba18d3a-f779-4cb6-b473-cbfb4ece3c81</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Only Blanja (Unique Code)
+3. Exclude Digital Product</description>
+   <name>Coupons_Unique_Code20k_Exclude_DigitalProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cbbca9f-6bee-4d99-a69c-0b969b42430b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See pagination in seller center page.</description>
+   <name>PaginationTipsPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f576a79f-5b6b-478a-9e6b-cc3ddeeb8f9f</testCaseGuid>
+</TestCaseEntity>

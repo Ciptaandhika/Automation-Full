@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik punya kode voucher
+- input kupon thematic
+- verify sub total</description>
+   <name>Input_Coupon_Thematic_Cashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87d1cc8c-2825-4fce-88c4-ad76428546f4</testCaseGuid>
+</TestCaseEntity>

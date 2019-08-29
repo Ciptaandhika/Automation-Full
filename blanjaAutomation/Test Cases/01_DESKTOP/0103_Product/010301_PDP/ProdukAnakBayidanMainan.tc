@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih kategori Anak Bayi dan Mainan
+Pilih satu produk
+Sistem akan menampilkan produk tsb secara detail</description>
+   <name>ProdukAnakBayidanMainan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>797f4f2d-0356-46dd-8781-627d6dd92f72</testCaseGuid>
+</TestCaseEntity>

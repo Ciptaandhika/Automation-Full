@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL PDP Warungkami (harga 10K)
+2. Klik button close Gojek, jika ada
+3. Catch exception
+4. Clear Text Box QTY
+5. set Text Box QTY
+6. Klik button blanja sekarang</description>
+   <name>GoToPDPURL_BarangDinamis_WarungKami_Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3306f8c6-ff7c-498e-8c15-cd384d060132</testCaseGuid>
+</TestCaseEntity>

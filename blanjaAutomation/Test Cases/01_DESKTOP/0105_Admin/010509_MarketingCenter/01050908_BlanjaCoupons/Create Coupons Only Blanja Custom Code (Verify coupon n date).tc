@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as an Admin, on web admin, want to create thematic coupon (tanpa Mob)</description>
+   <name>Create Coupons Only Blanja Custom Code (Verify coupon n date)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccc517ae-f612-4f8e-ad1e-3be33c904c06</testCaseGuid>
+</TestCaseEntity>

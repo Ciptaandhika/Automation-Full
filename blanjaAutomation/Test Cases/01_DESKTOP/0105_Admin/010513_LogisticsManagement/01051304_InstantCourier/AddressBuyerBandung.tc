@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product go send.
+choose jasa pengiriman Go Send (Same Day Delivery or Instant Delivery) and address buyer in Bandung.</description>
+   <name>AddressBuyerBandung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c211ae08-7671-4fcf-919b-fe8384c9d9f2</testCaseGuid>
+</TestCaseEntity>

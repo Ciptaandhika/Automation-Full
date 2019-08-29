@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Delay
+Click Cetaphil
+Get URL
+Verify Equal
+</description>
+   <name>verifyUrlFerroxBrandSetting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b858597c-d505-4999-adca-49b181d4a29f</testCaseGuid>
+</TestCaseEntity>

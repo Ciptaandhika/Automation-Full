@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill order number.
+Click button cari.
+See button pick up.</description>
+   <name>SellerVerifyButtonPickUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>147f9dc8-afd0-4797-a046-60adf82aa1b1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi member mempunyai akun tapi tidak mempunyai toko
+- verifikasi jika setelah klik toko saya / mystore tidak ada button tambahkan produk maka member tidak mempunyai toko</description>
+   <name>Verify_Member_Not_Have_Store</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d155acae-aed1-410d-acd9-7604181fc36f</testCaseGuid>
+</TestCaseEntity>

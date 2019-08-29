@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get url
+Verify equal</description>
+   <name>VerifyPageSamsung8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>306729a4-601d-4d5e-a19d-400093ac4625</testCaseGuid>
+</TestCaseEntity>

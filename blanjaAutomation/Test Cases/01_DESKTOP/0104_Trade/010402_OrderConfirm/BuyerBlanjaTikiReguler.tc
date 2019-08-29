@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to transaction page (select courier).
+
+Dropdown pilih kurir main (TIKI)
+Verify/Get Text Dropdown sub Pilihan jenis kurir 
+Sub pilihan Jenis Kurir (Standar, express)
+Click btn Lanjutkan pembayaran</description>
+   <name>BuyerBlanjaTikiReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a56e04ff-789c-4874-acca-b6bd64227f6f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose brand store on 'Brand'
+system will be redirected to page that has been set</description>
+   <name>ChooseBrandStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca5c8e61-ac15-4b5e-9c31-70970756d864</testCaseGuid>
+</TestCaseEntity>

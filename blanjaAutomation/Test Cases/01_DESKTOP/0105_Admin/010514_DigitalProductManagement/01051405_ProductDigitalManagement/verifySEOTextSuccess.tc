@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify input SEO Text success</description>
+   <name>verifySEOTextSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d375e0da-573f-498d-a8c2-7f80f74b914c</testCaseGuid>
+</TestCaseEntity>

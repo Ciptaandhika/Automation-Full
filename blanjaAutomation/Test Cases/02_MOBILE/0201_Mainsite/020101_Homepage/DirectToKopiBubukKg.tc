@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer go to pdp kopi bubuk 150gr</description>
+   <name>DirectToKopiBubukKg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc78a518-e364-4ff2-8229-09ffc9a80e46</testCaseGuid>
+</TestCaseEntity>

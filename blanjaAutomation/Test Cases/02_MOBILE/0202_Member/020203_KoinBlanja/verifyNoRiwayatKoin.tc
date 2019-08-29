@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify text</description>
+   <name>verifyNoRiwayatKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f962d1a1-64c0-4e17-bd2c-875819ffe5cb</testCaseGuid>
+</TestCaseEntity>

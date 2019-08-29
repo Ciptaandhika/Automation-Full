@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create partial type limited time discount</description>
+   <name>LTD Created Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6e722bd-7448-4e91-88eb-d70517f2a73a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text 'Tipe Pembayaran :  Kartu Kredit Cicilan' is appeared
+Verify informasi total pembayaran
+Verify informasi cicilan per bulan
+Verify informasi tenor</description>
+   <name>Member_OrderDetail_VerifyKKCicilanMDRCoveredByBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1382438-3c43-4c1a-aeab-aa5baa7e9107</testCaseGuid>
+</TestCaseEntity>

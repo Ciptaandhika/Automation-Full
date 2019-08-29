@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page with online payment 
+2. choose online payment 
+3. click on 'Confirm' button, system will display sprint asia or veritrans payment page or success payment page</description>
+   <name>ChoosePaymentBCAVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ec5f7d0-4714-4b91-b6df-f37a69672f8f</testCaseGuid>
+</TestCaseEntity>

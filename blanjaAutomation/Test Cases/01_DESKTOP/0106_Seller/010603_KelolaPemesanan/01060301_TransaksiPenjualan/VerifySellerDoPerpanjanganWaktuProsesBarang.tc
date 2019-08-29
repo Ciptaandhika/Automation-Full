@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Transaksi Penjualan Menu.
+Go to Tab Telah Dikirim.
+Sub account should be able to propose extended time to buyer.
+Button &quot;Perpanjang Waktu Proses Barang&quot; will disapear when propose extended time submited.</description>
+   <name>VerifySellerDoPerpanjanganWaktuProsesBarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0928991-fe54-493a-a216-da5fffcae8ec</testCaseGuid>
+</TestCaseEntity>

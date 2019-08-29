@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify:
+1. Koin berkurang
+2. Button (-) disabled</description>
+   <name>Verify_Qty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc1e49aa-7dc3-464d-b27d-58f54cc0555f</testCaseGuid>
+</TestCaseEntity>

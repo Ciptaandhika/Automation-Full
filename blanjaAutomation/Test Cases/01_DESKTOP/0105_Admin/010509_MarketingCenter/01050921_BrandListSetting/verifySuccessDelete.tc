@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify text present</description>
+   <name>verifySuccessDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f644bd5d-4c50-466d-9ea7-7b7b23e57fed</testCaseGuid>
+</TestCaseEntity>

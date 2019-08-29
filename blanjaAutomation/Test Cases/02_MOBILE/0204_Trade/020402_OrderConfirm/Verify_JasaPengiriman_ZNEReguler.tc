@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi zne reguler</description>
+   <name>Verify_JasaPengiriman_ZNEReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f6acbf6-26bc-439a-9bd5-7ecbc0294e52</testCaseGuid>
+</TestCaseEntity>

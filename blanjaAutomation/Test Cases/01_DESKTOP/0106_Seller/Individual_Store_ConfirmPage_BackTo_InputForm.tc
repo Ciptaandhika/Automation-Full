@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada Halaman Register Confirmation(Individual Store) klik tombol kembali</description>
+   <name>Individual_Store_ConfirmPage_BackTo_InputForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ace0e86-340b-4562-a042-b58cf5cc5ea9</testCaseGuid>
+</TestCaseEntity>

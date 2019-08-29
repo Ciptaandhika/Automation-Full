@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik Kupon Hadiah Langsung
+2. Verify
+3. Klik Tukar Koin</description>
+   <name>Verify Kupon Masih Kosong - Klik Tukar Koin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0ecfb8e-c5b0-478c-862c-88b22153ed84</testCaseGuid>
+</TestCaseEntity>

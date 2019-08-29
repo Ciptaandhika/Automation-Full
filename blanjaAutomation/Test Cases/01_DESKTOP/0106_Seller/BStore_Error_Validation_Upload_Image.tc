@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi semua kondisi error untuk upload gambar</description>
+   <name>BStore_Error_Validation_Upload_Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf11a7b7-60d2-48f7-be74-fc399c4a8ee5</testCaseGuid>
+</TestCaseEntity>

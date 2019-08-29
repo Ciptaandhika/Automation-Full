@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click aMasterProductBilling to redirect to Master Product Billing Page</description>
+   <name>ClickMasterProductBilling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6acd69a-96ab-4167-8fe2-50db60250654</testCaseGuid>
+</TestCaseEntity>

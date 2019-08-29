@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. The store name is clickable
+2. The store name color style is correct
+3. User redirected to www.blanja.com/store/[storename]</description>
+   <name>verifyStorePhoto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1e60a6d-b95e-4333-a38a-5359c5b86006</testCaseGuid>
+</TestCaseEntity>

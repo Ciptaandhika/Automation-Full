@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On order management, order status show = paid</description>
+   <name>OrderManagementOrderListVerifyPaidStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f73eb592-0c35-4627-9f92-95d96aa716de</testCaseGuid>
+</TestCaseEntity>

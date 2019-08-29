@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL Koin Blanja
+2. Verify tombol 'Create Campaign' tidak tampil</description>
+   <name>EditPage_EditExtendEndTime_KlikSave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfd0dfde-3832-4633-920a-b5f70651e354</testCaseGuid>
+</TestCaseEntity>

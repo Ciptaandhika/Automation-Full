@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url PDP</description>
+   <name>GoToPDPMMoreThan1Day</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e67a0da-06fc-4496-96d0-5993bdbff75e</testCaseGuid>
+</TestCaseEntity>

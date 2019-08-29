@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin akses menu Koin Blanja
+ 2. System menampilkan halaman Koin Blanja Setting
+ 3. Pilih Campaign B01 dan klik tombol Edit
+ 4. System menampilkan halaman Edit Campaign 
+5. Admin terminate criteria untuk Kupon non-cashback NCB02 
+6. Admin create criteria untuk Kupon non-cashback NCB02 dengan extra koin = 11 
+7. Admin klik tombol Save</description>
+   <name>Edit_Campaign_Terminate_VoucherNonCashBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4f96ca2-4153-4265-af72-6d49685452be</testCaseGuid>
+</TestCaseEntity>

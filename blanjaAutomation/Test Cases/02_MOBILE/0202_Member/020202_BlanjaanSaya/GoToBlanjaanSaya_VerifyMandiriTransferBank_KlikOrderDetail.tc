@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya
+- Klik link order number</description>
+   <name>GoToBlanjaanSaya_VerifyMandiriTransferBank_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70d8df87-cf77-45f7-ac5a-11224332e1b3</testCaseGuid>
+</TestCaseEntity>

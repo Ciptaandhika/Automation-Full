@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click &quot;Order Detail&quot;
+Verify Pickup Address</description>
+   <name>AdminVerifyPickupAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a390b1b-a2f9-4407-9728-e2d99f270e96</testCaseGuid>
+</TestCaseEntity>

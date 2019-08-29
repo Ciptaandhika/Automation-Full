@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Only Blanja (Unique Code)
+3. Verify Coupon</description>
+   <name>Coupons_Unique_Code_FixAmount20k_CashBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>360c385f-3dc6-4b32-ab21-e19cf39cea2e</testCaseGuid>
+</TestCaseEntity>

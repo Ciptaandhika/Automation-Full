@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik menu bank promotion
+- create bank promotion CC</description>
+   <name>Create New Bank Promotio CC Midtrans - Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1dc1e176-0df3-4c29-9d1c-8fb924e3adea</testCaseGuid>
+</TestCaseEntity>

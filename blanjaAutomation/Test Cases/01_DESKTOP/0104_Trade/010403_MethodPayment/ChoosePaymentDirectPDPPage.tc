@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page
+2. tap on order number</description>
+   <name>ChoosePaymentDirectPDPPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a6d9018-75c1-4379-81f0-baac1250dbc4</testCaseGuid>
+</TestCaseEntity>

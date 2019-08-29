@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Verify text present</description>
+   <name>VerifyAddPreOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f71552dc-6be7-47da-90c6-5e6141f6638d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click search bar
+2. Input store name 
+3. Verify Filter Checkbox Disable</description>
+   <name>Verify_Filter_Checkbox_Disable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b06539c3-3bd9-473b-a71f-fdd1aa701a16</testCaseGuid>
+</TestCaseEntity>

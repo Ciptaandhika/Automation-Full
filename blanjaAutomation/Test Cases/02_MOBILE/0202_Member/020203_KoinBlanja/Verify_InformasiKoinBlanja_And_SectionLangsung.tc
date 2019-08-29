@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai buyer
+ 2. Dari halaman Akun Saya tap Koin Blanja
+ 3. Halaman mweb menampilkan halaman Koin Blanja</description>
+   <name>Verify_InformasiKoinBlanja_And_SectionLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8dbd611-cf59-4c37-b6d7-240245b6856f</testCaseGuid>
+</TestCaseEntity>

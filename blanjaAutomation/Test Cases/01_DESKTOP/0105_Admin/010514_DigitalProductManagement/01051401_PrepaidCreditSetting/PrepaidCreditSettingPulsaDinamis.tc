@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add new prepaid credit setting for pulsa 30k</description>
+   <name>PrepaidCreditSettingPulsaDinamis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a646913b-6585-41ab-9c5f-c5b0ec0e79f3</testCaseGuid>
+</TestCaseEntity>

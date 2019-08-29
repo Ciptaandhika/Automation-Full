@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek order detail (admin fee)</description>
+   <name>CheckOrderDetailAdminFee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f03a08e1-e720-4694-8ae4-f9b0848fe3e0</testCaseGuid>
+</TestCaseEntity>

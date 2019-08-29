@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Hitung Biaya Pengiriman.
+Choose Jasa Pengiriman.
+Click Hitung.</description>
+   <name>ChooseJasapengirimanGoSend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b0a2fe7-2231-41c6-8d22-e14fdb89e061</testCaseGuid>
+</TestCaseEntity>

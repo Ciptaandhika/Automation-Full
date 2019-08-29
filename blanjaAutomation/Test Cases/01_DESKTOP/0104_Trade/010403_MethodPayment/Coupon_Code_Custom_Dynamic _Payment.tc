@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kupon tematik 20k</description>
+   <name>Coupon_Code_Custom_Dynamic _Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac801f09-ee40-4332-958b-a06adef5791c</testCaseGuid>
+</TestCaseEntity>

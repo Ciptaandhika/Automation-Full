@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Pos
+Get Label Pos
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_FinpayModernChannel_ATMTelkom_Campaign_Unique_2Store</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c45b2e3-53cf-4b6c-b6bd-3ec9790cdacd</testCaseGuid>
+</TestCaseEntity>

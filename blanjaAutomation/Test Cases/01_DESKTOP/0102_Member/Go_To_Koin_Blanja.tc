@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik btn close
+- klik koin blanja</description>
+   <name>Go_To_Koin_Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e37f46d4-a137-46a3-b1f0-70f87e5ae1f2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ddBrandSpesification</name>
+   <tag></tag>
+   <elementGuidId>4b3f1295-826f-4f21-b22e-709e2f498239</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blanja-default-form data-spesifikasi-true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-produk</name>
+      <type>Main</type>
+      <value>fashion-brand</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mandatory</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Fashion Brand1001sepatukorea109styleshoes3H3R3Second3lacesA to ZA-Kha JewelryA.AntonioAFCAIUAKOAL Men'sALBAALIVEALMOSTAMANTEANDRE MICHELAP BootsARROW APPLE MATERNITYAVAILABLEAZCOSTAcupresAdamsbellAdelia BatikAdidasAdmiralAeromaticAgnes FashionAignerAirbacAixaggioAl-Qolam-KuAlain DelonAldo brueAlexander ChristieAlisanAllevAluzAmandaAmanda JanesAmazakiAmerican PomadeAndoAndre ValentinoAndretelliAnelloAngelAnggunsAnimalAnyamanApp BootsApparel LabAqua SwissArdilesArlisaArrow AppleArrow Apple KidsArrow Apple TeensArt FashionArthesianArviaAzkaSyahAzzuraBE-BOBBEREADYBEYONDSKINBEYONDSKIN BIA by Zaskia MeccaBIKE TO WORKBLACKMASTERBLEUGENESBMW WatchBONIABOSSWAYBRADLEYBRANDOBRODOBSMBabushkaBaby-GBafashBaglisBajutokoBananaBanananaBandage FeverBarBarBath and Body WorksBatik AlhadiBatik Etniq CraftBatik Putri Ayu SoloBatik SyahbanaBe Proud of IndonesiaBeauty BarnBeauty ShoesBeer BuddiesBelvanianBerghausBertiniBest BlazerBillabongBillstoneBitnessBlack MambaBlack MasterBlackkellyBodyVineBodypackBombboogieBonjourBourzuBoxfreshBreytenbachBrogan BagsBrooksBrowncolaBurberryBvlgaryC2CASERINICATENACERRUTI 1881CHCK BandanaCKEYCROCODILE KIDSCROCODILE MENCalvin KleinCalvingCannonCarboniCardienCartierCase LogicCasioCatCatenzoCelliniCereliaCerry JourdanCevanyCeviroChanelCharles &amp; KeithChatelainChief PomadeChina GlazeChocolatte ShoesChrist VerraChristian DiorChromeChrysantCircoCitizenCoachComfeetCondottiConverseCool ShoesCotton OnCountry BootsCoupCrocodileCronoforceCrosse MaraCrown InternationalCrows DenimCurrenD CollectionD'renbellonyD-IslandDAMN! I LOVE INDONESIADCDC ComicsDFDIVINCESDKNYDOWNYDR.FARISDamonDane And DineDaniel WelingtonDeaDeer And DoeDelseyDfL.HIJABDiamondDickiesDieselDifitecDigitecDinantiDisneyDlineDobujackDolce &amp; GabbanaDominatorDondhiceroDr. BeccoDr. DenimDr. Kevin ShoesDr. MartensDurbanDzinerECHOESEIBAGELLEEMINENTEagleEagle Genuine LeatherEastpakEd HardyEdberthEdificeEdifierEigerElementElizabethElizabeth ArdenEllen WangElponteEpriseEsgotadoEspritEssieEstee LauderEtienne Aigner USAEtphisEvaldoEverflowEverlastEvioEvrawoodExitExpandExpeditionExportExsportEzpressoFBWFILAFINY GIRLSFIREFLYFansFarrelFashion CityFasterFavFeiFanFelix BuhlerFesyenzoneFinyFinyuanliFlipFlopsFlipstersFollosFollos BagsFonbeltFootstepForHerForklifFortunerFossilFrozenshopG-ShockGEELAGILDANGT-ManGUCHIGaia Clothe LineGarselGayasriGel ColorGeneral ApparelGenethicsGiant FlamesGiordanoGiorgio ArmaniGiri EstraGiriestraGivenchyGlobeGlutaGo GirlsGo ViyarGold GGoodstoryGrand TouringGrande+Great IndonesiaGrivanoGriya Geulis Fashion CollectionGucciGuessGunzeGuy LarocheGykacoGymboreeH&amp;RHBmanHERJASHKB LuggageHOJAHONESTYHQoHalomischaHanleeHavaiannasHaznaHeadway FootwearHectorHegnerHelder DenimHello KittyHerbalifeHerbert &amp; BrothersHerschelHigh81HomypedHoozlerHouse of CuffHugoHummerHurleyHush PuppiesHype BoxIGEARILSVIMPRESIPINGERSOLLINVICTAImperialImpresifInficloInvictusIron SteelIstana AccessoriesItaly LadiesIvoryJCFJFRJINSHOUSEJKCollectionJOHNRITZJSKJacoJacque MartinJaguarJakarta LingerieJava SevenJeccoJeepJening BatikJim JokerJo &amp; NicJoeyJonas JasminJordan CavalliJuliusJustineKANOKICKERSKIKKIMOCHI ME LINGERIEKMESKOMONOKanggaroKarakoreaKate SpadeKawaii PotatoKazoustoreKedungKeng GoldKenzKertacu Wines AbadiKhakasy KidsKhiutezKids n CoKimKimioKipzKapzKokoa JewelryL'EggsL'OrealLERYSTUFFLGSLINA LEELOGOLULUDILa Mer CollectionsLabLaborcLady FemLady GLanccelotLatuscaLazzardiLeaLeagueLeeLee CooperLee Leo'sLeeLaLegraLejelLelan VitalLes FemmesLevi'sLevon &amp; HoshiLevuLiZY ScarfLiebeskindLinesaLinkgraphixLiptonLittle BigLiz LadiesLocal BrandLocalsLoisLojelLola VogueLombergLoricaLouis AndreanoLozLuteceLuxuryM+YMAX BAGHIMBMELILEAMICMILLENIAMITHRILMITREMOCMacBearMadonaMahirahMakarizoMangoMarel SocksMarleeMarvelMastermanMayura BatikMeccanismMegirMeitavi'sMeitavis MenswearMelselynMen's RepublicMeru StyleMichael ErnestMichael KorsMilk TeddyMiltonMinottiMiraelMirageMisturaMizunoMobile PowerMoltoMoodsMorrycko morryMoshaictMounte ChristMr.Jo3MundoMurrayMyOOTDMykawaiistyleNIELNIKENOCHENagarihardja BatikNataciaKidsNaughty Naughty PetsNauticaNavy ClubNeosackNew BalanceNew SoulNichelinNicholas KeithNinety DegreesNixonNo BrandNobbyNoir VetementsNolly ArfiandiNose UpNovel MiceOBLONGKUODMOPIORLYOZZY BatikOakleyObeyOcean PacificOcean SevenOdioliOdzaOgivanoOh Man! PomadeOld NavyOmahAtqoOmegaOnemarketsOppastyleOrientOrtlerOspreyOspreyOvomaltineOxonePAKALOLOPAULS BOUTIQUEPICHBOYPIERRE UNO KIDSPOLO MILANOPaduziPanamaPanty-OPapeteriePatek PhilippePavillionPeakPedroPierre UnoPierre Uno TeensPieter JacksonPilotPineapple ShoesPlanet OceanPlayboyPointOnePolhamPolicePolo ClassicPolo LouisPolo SasiPolo TexasPredatorPremium GemstoneProsportPulcher BagsPumaPutriMaritzaQ&amp;QQ-LabQ1 BrandQIANNOQnigirlsQuicksilverQuintaREDWINEROBELLIROHDERSD HijabRUMAH SAJADAHRVCARadiantRailCarRave HabbitRay RuccuReal PoloRed WineRedknotRedstokReflectRenomaRevolter storeReylRhumellRhythmRich BossRiderRip CurlRockfordRolexRomulusRooberRoyal CrownRoyal MountainRudy HadisuwarnoRumah Batik AzmiahS'emaSEENSHARKSSKMEISKOneSON ALTESSESOPHIESO[PHIS]TIXSTEVE &amp; COSUNGLASSSankyoSanta BarbaraSarang MudaSaxolineSchwarzkopfSeikoShasmiraSimply EstraSkechersSlazengerSmuasmuaSnoopySpicegiftSportStefania BaldoStraticStudio NineSuavecitoSubwaySulaman Melati UnguSumma BagsSuncoSuntorySupraSuuntoSuzuranSwarovskiSwatchSwiss ArmyT-OSTIGERNUTORCHTOYWATCHTRAVEL CLUBTRISETTROOP LONDONTVGTWINSANGELTag HeuerTajimaTanpa BatasTatuisTauchmeisterTeiweTemu PutihTesutoTetonisThe Ideabox ExclusiveThe North FaceThreepointTientoTimberlandTimexTongaToodsTootalTory BurchTrumphTrusmiUMAMAUneedUrban ActVALENTINO FRANCHINIVARKAVEGA SHOESVOLTUSValentine BatikVandysVansVerageVerbotenViky TailoredVintageVisvalVogliaVolcomVonaWACOALWATCHOUTWINGGOWISE T-ShirtWISHWMNWWWestpakWhoopeesWinnerWonder LegsWonlexX YesX'YESXABAXOXOYESMODEYONGKIDZYSLYongki KomaladiYonkersYou'veYumeidaYura CollectionZGOZOYAZUNA SPORTZaraZecaZeintinZipperZippoZoo Yorkarenaclothesaxcezbipbipbrand kids n cocantik kerudungd'LiLoede velvethenmatenorthedgerab and bitsorexuninamuwolfword.owwoor</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result-spesifikasi&quot;)/div[@class=&quot;form-group-row&quot;]/div[@class=&quot;data-produk&quot;]/select[@class=&quot;blanja-default-form data-spesifikasi-true&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='result-spesifikasi']/div/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu belum megisi Fashion Brand'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Varian'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div/select</value>
+   </webElementXpaths>
+</WebElementEntity>

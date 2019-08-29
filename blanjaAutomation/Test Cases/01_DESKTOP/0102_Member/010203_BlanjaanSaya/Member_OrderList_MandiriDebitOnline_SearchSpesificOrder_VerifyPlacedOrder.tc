@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+isi order Number 
+click Search
+Verify order must be 'Closed'</description>
+   <name>Member_OrderList_MandiriDebitOnline_SearchSpesificOrder_VerifyPlacedOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>394968b9-42fd-41c5-9f6b-30e781f80ad7</testCaseGuid>
+</TestCaseEntity>

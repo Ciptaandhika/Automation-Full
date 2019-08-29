@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>From Admin blanja -> Category Group -> click Create New Group. Admin create Group name A1 (Fashion) with backend category C1 (Girl's Clothes)</description>
+   <name>CategoryGroupCreateNewGroupA1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdfc9260-9fcc-483c-b5ee-5b03decb8f73</testCaseGuid>
+</TestCaseEntity>

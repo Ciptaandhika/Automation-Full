@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User click panduan pembayaran BPJS and directed to panduan pembayaran BPJS page</description>
+   <name>ClickPanduanPembayaranBPJS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5412a869-84a0-4ec2-b2f0-ab66e506973b</testCaseGuid>
+</TestCaseEntity>

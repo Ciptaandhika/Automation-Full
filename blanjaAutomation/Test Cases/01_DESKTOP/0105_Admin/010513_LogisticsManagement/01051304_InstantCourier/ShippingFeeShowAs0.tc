@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product
+Click Select Courier
+Choose &quot;Go Send&quot;</description>
+   <name>ShippingFeeShowAs0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a118a9c-040e-4242-8a03-888fd6b403d1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih barang dengan harga kurang dari 10 ribu (termasuk ongkos kirim)</description>
+   <name>GoToPDPURL_AddQty_Price_LessThan10k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46e2e259-c4e0-4081-a103-3898d1f0c196</testCaseGuid>
+</TestCaseEntity>

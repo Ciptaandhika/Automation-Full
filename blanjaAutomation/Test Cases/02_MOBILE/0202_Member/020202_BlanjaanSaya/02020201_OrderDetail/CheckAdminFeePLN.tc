@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check admin fee PLN in order details</description>
+   <name>CheckAdminFeePLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1955f1e-adff-435c-b5e6-4537a1fa70a4</testCaseGuid>
+</TestCaseEntity>

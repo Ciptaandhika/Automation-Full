@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Check dompet blanja checkbox
+- Input nominal
+- Input password
+- click konfirmasi pembayaran</description>
+   <name>PayViaDompetBlanjaPLNBilling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff6376eb-a2ab-4a30-88b3-468c426a436c</testCaseGuid>
+</TestCaseEntity>

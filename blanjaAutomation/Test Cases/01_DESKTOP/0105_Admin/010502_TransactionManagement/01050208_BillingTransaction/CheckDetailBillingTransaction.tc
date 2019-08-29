@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that order detail showing correct data</description>
+   <name>CheckDetailBillingTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55d30118-4ba4-4454-964a-63c05c5b5b43</testCaseGuid>
+</TestCaseEntity>

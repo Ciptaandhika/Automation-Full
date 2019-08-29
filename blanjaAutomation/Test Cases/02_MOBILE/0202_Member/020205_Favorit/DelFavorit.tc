@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik love red untuk menghapus favorit</description>
+   <name>DelFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bed3cff9-4fa7-495c-8475-ef46d483b766</testCaseGuid>
+</TestCaseEntity>

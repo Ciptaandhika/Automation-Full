@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text 'Tipe Pembayaran :  LinkAja' is appeared</description>
+   <name>Member_OrderDetail_VerifyLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0fcd4a9-b4db-4279-a4dc-a071fd171dc2</testCaseGuid>
+</TestCaseEntity>

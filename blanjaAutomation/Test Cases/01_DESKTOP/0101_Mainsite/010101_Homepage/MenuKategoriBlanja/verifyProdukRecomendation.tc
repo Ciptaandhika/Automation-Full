@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The page show product recommendation</description>
+   <name>verifyProdukRecomendation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eae8979f-e1a2-4469-93d5-81bfdf642f1e</testCaseGuid>
+</TestCaseEntity>

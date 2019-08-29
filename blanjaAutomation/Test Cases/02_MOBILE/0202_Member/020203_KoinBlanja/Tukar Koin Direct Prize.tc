@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click lihat
+click gunakan
+</description>
+   <name>Tukar Koin Direct Prize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f369b287-c387-45ba-8d3e-b459ada03c82</testCaseGuid>
+</TestCaseEntity>

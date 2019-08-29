@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Input invalid link tokopedia
+- pilih kategori (komputer)
+- verify alert invalid link</description>
+   <name>Verify_Invalid_Link_Import_Tokopedia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22ab4bf6-4910-4ed4-9c34-aad21a5aaf79</testCaseGuid>
+</TestCaseEntity>

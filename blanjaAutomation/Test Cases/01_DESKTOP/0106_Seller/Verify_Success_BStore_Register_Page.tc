@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi business store sukses register page</description>
+   <name>Verify_Success_BStore_Register_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc700b05-2714-4c04-96d2-7a1f537e7eee</testCaseGuid>
+</TestCaseEntity>

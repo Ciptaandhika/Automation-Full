@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Pilih Kartu Kredit
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_OthersKartuKredit_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dec1ca40-2e41-4c5a-94fb-5730506ba120</testCaseGuid>
+</TestCaseEntity>

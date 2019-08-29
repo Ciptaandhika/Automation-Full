@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- member upload file NPWP di halaman dokumen penunjang (Business Store)</description>
+   <name>Register_Business_Store_UploadNPWP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2a01a7a-0967-4b3b-ad22-f88e81449ebd</testCaseGuid>
+</TestCaseEntity>

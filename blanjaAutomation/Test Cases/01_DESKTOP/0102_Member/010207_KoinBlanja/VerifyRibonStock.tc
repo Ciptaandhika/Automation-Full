@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.
+Click Tukar.</description>
+   <name>VerifyRibonStock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f21403f3-86f1-42f4-a53e-6275e6c1a4a1</testCaseGuid>
+</TestCaseEntity>

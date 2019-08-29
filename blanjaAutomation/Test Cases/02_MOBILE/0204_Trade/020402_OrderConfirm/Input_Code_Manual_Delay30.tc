@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kode thematic yang sudah pernah digunakan
+- verify pop up yang muncul</description>
+   <name>Input_Code_Manual_Delay30</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a20b411c-d93f-4f23-898c-76b1aec003dc</testCaseGuid>
+</TestCaseEntity>

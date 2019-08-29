@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click menu List Brand
+Choose one brand
+Click button edit 
+Delay
+Set no image
+Set no brand title
+Set no link URL
+Click update
+Verify error text</description>
+   <name>editListBrandFullEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83265316-8378-4c8b-9737-61d090f19552</testCaseGuid>
+</TestCaseEntity>

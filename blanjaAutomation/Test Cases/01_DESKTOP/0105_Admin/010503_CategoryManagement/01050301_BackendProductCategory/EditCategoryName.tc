@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Edit Category Group Admin Page
+Btn Create New Group
+Set Text New Category Group
+Checkbox Sports
+Save</description>
+   <name>EditCategoryName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b81019e-2d4d-46af-8d32-6f02e7dcc108</testCaseGuid>
+</TestCaseEntity>

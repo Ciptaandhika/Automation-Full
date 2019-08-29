@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input keyword produk yang dicari: sunsilk hijab botol
+Klik tombol 'Cari'</description>
+   <name>GoToHomePage_InputKeywordSunsilkHijabBotol_ClickCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98ba58c0-cee3-476f-aa6b-d0f9f55b01fc</testCaseGuid>
+</TestCaseEntity>

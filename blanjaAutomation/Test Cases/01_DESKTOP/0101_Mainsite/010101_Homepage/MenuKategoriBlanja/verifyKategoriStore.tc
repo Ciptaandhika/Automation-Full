@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User redirected to category of the store page
+2. URL of the category is www.blanja.com/store/[storename]/[categoryname]</description>
+   <name>verifyKategoriStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>760797f2-f3b8-473b-ad53-9b7c2da47653</testCaseGuid>
+</TestCaseEntity>

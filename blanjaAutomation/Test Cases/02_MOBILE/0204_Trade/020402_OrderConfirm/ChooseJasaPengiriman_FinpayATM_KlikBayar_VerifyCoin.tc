@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab FinpayATM
+- Pilih Kartu Finpay
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_FinpayATM_KlikBayar_VerifyCoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76299641-4867-4cf9-9383-c96a8665e9b5</testCaseGuid>
+</TestCaseEntity>

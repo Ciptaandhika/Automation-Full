@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik kartu kredit cicilan
+select pilih opsi pembayaran
+verify opsi pembayaran
+konfirmasi pembayaran</description>
+   <name>VerifyMandiriCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98b4f95c-5625-4621-a01b-a352402e13b7</testCaseGuid>
+</TestCaseEntity>

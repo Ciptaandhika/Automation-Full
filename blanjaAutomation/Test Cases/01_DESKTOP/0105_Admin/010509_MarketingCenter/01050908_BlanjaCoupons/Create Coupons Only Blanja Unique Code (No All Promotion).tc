@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On web admin, want to create unique coupon which can't combine with all promotions
+
+The same step from point 1 to 9 and from point 12 to 16. Point 10 and 11 is below ;
+10. Select whether this coupon can be used on PC, Mobile, or Apps.
+11. Choose one/more promotions that can't combine with code coupon whether:
+ 'LTD Special', 'LTD seller ', 'Pre-Order', 'First Purchase', 'All-Kill',  'Time Deals', 'WOW!' on 'Exclude' field (Mandatory)
+ By default to LTD Special Price will checked(V) and disable 
+*select all promotions, based on this scenario for this TC number.</description>
+   <name>Create Coupons Only Blanja Unique Code (No All Promotion)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d762838a-23bf-4e34-8e7c-3eeb998299f0</testCaseGuid>
+</TestCaseEntity>

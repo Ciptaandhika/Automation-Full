@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access m.blanja.com
+2. Go to koin blanja page</description>
+   <name>GoToKoinBlanjaPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b27bf5f9-562d-4a23-ac02-4785614d263a</testCaseGuid>
+</TestCaseEntity>

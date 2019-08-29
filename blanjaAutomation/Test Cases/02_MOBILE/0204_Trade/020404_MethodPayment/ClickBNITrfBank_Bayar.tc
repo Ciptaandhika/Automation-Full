@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click radio button bank BCA 
+2. click radio button BCA Virtual account
+</description>
+   <name>ClickBNITrfBank_Bayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e936cf29-3a16-46bd-9e48-963e0f61163e</testCaseGuid>
+</TestCaseEntity>

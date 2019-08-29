@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search URL is correct
+2. Product on search result page has correct URL</description>
+   <name>verifyClickPDPOnUlasanPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a058170-356c-46be-9a81-bdee6c316c14</testCaseGuid>
+</TestCaseEntity>

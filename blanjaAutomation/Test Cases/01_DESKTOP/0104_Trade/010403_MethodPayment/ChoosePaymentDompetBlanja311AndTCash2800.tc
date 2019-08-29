@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page
+2. Input blanja coupon, point, Virtual account amount, and choose online payment method
+3. click on 'Confirm button'
+
+4.1 if buyer input blanja coupon, point, and VA correctly, total payment should be deducted 
+5.1 after choose online payment then confirm, system will display sprint asia or veritrans payment page or success payment page</description>
+   <name>ChoosePaymentDompetBlanja311AndTCash2800</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60013ca2-4aad-4793-b7e1-b8ef6185eb3e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik menu daftar alamat
+2. sitem akan menampilkan hal daftar alamat
+3. scroll ke alamat saya
+4. verifikasi ke alamat saya</description>
+   <name>AlamatSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46b6eb8e-cb58-49ff-b619-a39b36ee4ce8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll up and down brand store</description>
+   <name>ScrollUpDownBrandStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1595b1d-bf24-45ad-9f46-fa6365fb7778</testCaseGuid>
+</TestCaseEntity>

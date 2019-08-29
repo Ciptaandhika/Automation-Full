@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.Admin create discount TR settings for 
+ - product id = 
+ - periode = all
+ - take rate = discount 30%</description>
+   <name>TakeRateSettingProductDiscountAllPeriod30Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d19088da-2f46-4602-bce5-8bc62fd65dea</testCaseGuid>
+</TestCaseEntity>

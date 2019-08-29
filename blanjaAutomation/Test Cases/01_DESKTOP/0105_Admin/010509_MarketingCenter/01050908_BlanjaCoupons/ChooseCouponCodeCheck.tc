@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Distribution.
+Choose Coupon Code.</description>
+   <name>ChooseCouponCodeCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdf66e67-1c09-4cf0-97e9-0914a016743e</testCaseGuid>
+</TestCaseEntity>

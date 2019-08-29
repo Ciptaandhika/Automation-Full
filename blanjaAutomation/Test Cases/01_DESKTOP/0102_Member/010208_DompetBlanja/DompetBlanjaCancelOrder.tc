@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Akun saya
+2. User access Dompet Blanja
+3. User access Penarikan Dana
+4. User input all fields in form Penarikan Dana
+Penarikan Dana success</description>
+   <name>DompetBlanjaCancelOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d73d917-dc07-473f-b447-6781fce4a4ff</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify terdapat URL Produk  (Pada versi halaman ini adalah tokopedia)</description>
+   <name>Verify_URL_Produk_Shopee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec1a4ec6-e26a-4c4d-a83b-0e106cfe8496</testCaseGuid>
+</TestCaseEntity>

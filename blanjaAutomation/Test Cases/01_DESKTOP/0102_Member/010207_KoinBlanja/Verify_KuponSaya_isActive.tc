@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Kupon Undian is currently active</description>
+   <name>Verify_KuponSaya_isActive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14df8cdf-bb0e-4575-94aa-cf90af64968d</testCaseGuid>
+</TestCaseEntity>

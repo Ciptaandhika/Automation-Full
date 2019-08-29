@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Publish
+Delay
+Log info
+Accept alert</description>
+   <name>ClickPublish</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53f14467-33a9-47ad-8055-f8c5a14aaa6a</testCaseGuid>
+</TestCaseEntity>

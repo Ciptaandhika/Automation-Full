@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display order confirm page
+2. set qty barang
+3. tap button 'lanjutkan pembayaran' on order confirm page</description>
+   <name>OrderConfirmPageAddQtyDifferentStoreVerifyOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3a578fb-8406-48cc-b4ab-ace7f34e1c15</testCaseGuid>
+</TestCaseEntity>

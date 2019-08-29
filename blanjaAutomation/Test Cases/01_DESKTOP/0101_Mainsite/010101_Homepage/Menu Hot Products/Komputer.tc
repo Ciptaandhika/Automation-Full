@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih Kategori Komputer di menu hot kategori
+2. klik lebih banyak lagi untuk menampilkan produk terkait
+2. kilik kembali lebih banyak lagi untuk menampilkan keseluruhan produk terkait
+3. Sistem akan memverifikasi semua produk terkait</description>
+   <name>Komputer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b42aa238-84fd-4ffc-b4e6-d05a3973195d</testCaseGuid>
+</TestCaseEntity>

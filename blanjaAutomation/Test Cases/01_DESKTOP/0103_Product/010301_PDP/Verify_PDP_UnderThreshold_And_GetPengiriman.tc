@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description> - verify jika harga produk kurang dari threshold promotion maka pada halaman PDP akan menampilakn tidak ada kupon toko</description>
+   <name>Verify_PDP_UnderThreshold_And_GetPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de328b11-4d5c-4bad-867d-2ce1f4bc82ab</testCaseGuid>
+</TestCaseEntity>

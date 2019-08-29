@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure show product price after a denom is chosen</description>
+   <name>CheckLable20k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d9dc72b-a72e-4adf-8d08-24413f0d83cf</testCaseGuid>
+</TestCaseEntity>

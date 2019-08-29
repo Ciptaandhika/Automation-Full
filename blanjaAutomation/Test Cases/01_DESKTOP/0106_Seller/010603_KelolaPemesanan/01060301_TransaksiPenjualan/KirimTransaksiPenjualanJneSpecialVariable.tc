@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL Transaksi Penjualan Seller
+Get text Label nomor pesanan
+Set text nomor pesanan terakhir
+cari nomor pesanan terakhir
+ship nomor pesanan terakhir
+
+Set text nomor pesanan terakhir untuk shipping(global variabel Jne)-karena Input Pengiriman buyer berbeda dengan Input Pengiriman seller
+
+simpan resi pengiriman</description>
+   <name>KirimTransaksiPenjualanJneSpecialVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a10405f3-0f04-4c3c-b9b5-5b9eba0b1373</testCaseGuid>
+</TestCaseEntity>

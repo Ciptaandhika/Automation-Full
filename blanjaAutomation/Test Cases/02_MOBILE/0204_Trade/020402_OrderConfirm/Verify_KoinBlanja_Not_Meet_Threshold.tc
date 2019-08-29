@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify jika tidak sesuai campaign koin blanja yang ada di threshold, maka akan mendapatkan 0 koin blanja</description>
+   <name>Verify_KoinBlanja_Not_Meet_Threshold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>720fd311-4d82-4e29-b7fe-446b247afa50</testCaseGuid>
+</TestCaseEntity>

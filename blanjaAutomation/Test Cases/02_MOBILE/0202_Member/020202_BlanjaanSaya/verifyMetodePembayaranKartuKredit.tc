@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get text 
+verify equal kartu kredit</description>
+   <name>verifyMetodePembayaranKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42d76d09-6597-4afc-8ac2-d54664d7088a</testCaseGuid>
+</TestCaseEntity>

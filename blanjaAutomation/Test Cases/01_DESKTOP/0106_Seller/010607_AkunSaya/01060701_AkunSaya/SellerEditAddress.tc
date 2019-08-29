@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login as seller to seller center >> Shipping address
+Add new address/ edit address without set pin point</description>
+   <name>SellerEditAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a18d6f40-1246-40a7-bf63-be94e4bdbd34</testCaseGuid>
+</TestCaseEntity>

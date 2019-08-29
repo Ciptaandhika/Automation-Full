@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin > bank Payment Promotion
+1. Click on 'Add Promotion' button
+2. Choose Payment Type = 'Credit Card'
+3. Input tenor 
+ex : 3 month
+4. and choose : is 0% installment - Yes/No
+ex : 'No'
+5. then click button 'Add'</description>
+   <name>0Persent Installment Plan setting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be86cdb6-57eb-4df1-a384-e29207aa551d</testCaseGuid>
+</TestCaseEntity>

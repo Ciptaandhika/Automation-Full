@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik salah satu produk
+- verify pada PDP tersebut terdapat kondisi second</description>
+   <name>Verify_PDP_Second_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1719b24-fad3-44ff-9bc6-53e495b5e88e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL
+Verify contains</description>
+   <name>verifyBillingSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f442e5ec-c73a-416d-84b7-c7f2c4db45f2</testCaseGuid>
+</TestCaseEntity>

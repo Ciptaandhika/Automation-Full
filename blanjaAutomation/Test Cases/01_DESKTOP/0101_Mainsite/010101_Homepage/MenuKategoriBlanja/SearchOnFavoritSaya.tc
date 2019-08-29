@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on favorit page</description>
+   <name>SearchOnFavoritSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33a21c1a-ed44-4d5c-ac29-c129cd097426</testCaseGuid>
+</TestCaseEntity>

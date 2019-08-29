@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify kondisi error pada dropdown kecamatan, user tidak memilih kecamatan</description>
+   <name>BStore_Error_Validation_Kecamatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14e17cef-815c-4ae2-b78a-0ff94af830d3</testCaseGuid>
+</TestCaseEntity>

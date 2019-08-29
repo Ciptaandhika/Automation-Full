@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get url
+Verify equal</description>
+   <name>verifyBqodePage3Times</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>609838f8-7e7d-41cc-b24d-4b038de61eb1</testCaseGuid>
+</TestCaseEntity>

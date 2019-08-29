@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pulsa Admin
+
+Tidak dapat edit sku jika provider, type, nomial yang sama dan status public ON
+
+Step :
+1. Admin create product with type A, provider A, nominal A and sku id 0001, where publish status = ON
+</description>
+   <name>PulsaMenambahkanInformasiDisplayOnPDPTypeA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f18b4906-c127-4e40-b315-9c2ebf8546f5</testCaseGuid>
+</TestCaseEntity>

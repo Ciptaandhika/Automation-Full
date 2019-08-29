@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. verifikasi icon akun masuk</description>
+   <name>IconAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a84e93a4-56c3-446b-a7d0-aac6845a43b6</testCaseGuid>
+</TestCaseEntity>

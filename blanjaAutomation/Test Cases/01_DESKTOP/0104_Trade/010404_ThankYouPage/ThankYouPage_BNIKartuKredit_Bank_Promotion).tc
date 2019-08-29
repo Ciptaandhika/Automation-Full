@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Get URL Succes Thank You Page
+2. Verify ada kata &quot;success'</description>
+   <name>ThankYouPage_BNIKartuKredit_Bank_Promotion)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5225c581-fcdb-458a-bfa0-5c0935da0b70</testCaseGuid>
+</TestCaseEntity>

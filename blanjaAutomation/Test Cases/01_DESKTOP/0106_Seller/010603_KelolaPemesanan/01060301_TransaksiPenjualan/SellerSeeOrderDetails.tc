@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Transaksi Penjualan Menu.
+search order number.
+click Detail Pesanan.</description>
+   <name>SellerSeeOrderDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31575196-d285-41bb-ba51-e67804553de2</testCaseGuid>
+</TestCaseEntity>

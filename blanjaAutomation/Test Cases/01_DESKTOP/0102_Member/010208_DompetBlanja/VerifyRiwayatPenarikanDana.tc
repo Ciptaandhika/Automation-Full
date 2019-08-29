@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi halaman riwayat penarikan dana</description>
+   <name>VerifyRiwayatPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b08c4820-b0cc-415b-b8ed-1d49e6c6c04d</testCaseGuid>
+</TestCaseEntity>

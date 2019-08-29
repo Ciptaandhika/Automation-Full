@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Click button Pembayaran</description>
+   <name>GoToShoppingCart_KlikPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da4e97a4-a81c-497f-ad38-945aa677a0af</testCaseGuid>
+</TestCaseEntity>

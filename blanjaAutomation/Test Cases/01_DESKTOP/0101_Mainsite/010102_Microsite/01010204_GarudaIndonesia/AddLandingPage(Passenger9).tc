@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih Sekali Jalan
+2. Memunculkan kota dari dan kota tujuan
+3. Memunculkan tanggal pergi
+4. Memunculkan dewasa, anak, bayi
+5. Memunculkan kelas kabin
+	Value : Economy, Business, FirstClass
+6. Memunculkan kode promo</description>
+   <name>AddLandingPage(Passenger9)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f86edac3-d8b7-4455-a84b-9006f1163827</testCaseGuid>
+</TestCaseEntity>

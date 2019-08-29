@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search pesan dari buyer menggunakan keywords (berdasarkan content / isi pesan)
+- verifikasi pesan tersebut muncul berdasarkan keywords yang digunakan pada step awal</description>
+   <name>Search_Message_By_Contents</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1e51f2c-b4d9-4bc1-b387-bbff8f5d7c43</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click choose product from LTD
+Verify text present</description>
+   <name>verifyLtdOnProductFromLtd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7f571e4-3491-478b-84df-3a05469cecbb</testCaseGuid>
+</TestCaseEntity>

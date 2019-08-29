@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify promo section</description>
+   <name>verifyPromoSection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cba06dd-4f9d-4a35-a32d-02a1925f438a</testCaseGuid>
+</TestCaseEntity>

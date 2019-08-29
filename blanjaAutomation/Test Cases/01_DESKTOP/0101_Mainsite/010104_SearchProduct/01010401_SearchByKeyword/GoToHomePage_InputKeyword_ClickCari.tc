@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to homepage url
+Input keyword produk yang dicari sesuai global variable: 'oriflams'
+Klik tombol 'Cari'</description>
+   <name>GoToHomePage_InputKeyword_ClickCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0f9d420-b33b-450a-a015-8b24ef07734e</testCaseGuid>
+</TestCaseEntity>

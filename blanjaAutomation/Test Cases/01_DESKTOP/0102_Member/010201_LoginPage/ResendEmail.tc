@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Resend email verification if buyer didn't receive email verification from Blanja</description>
+   <name>ResendEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0a82be1-089f-4713-ae28-cc7ee1125008</testCaseGuid>
+</TestCaseEntity>

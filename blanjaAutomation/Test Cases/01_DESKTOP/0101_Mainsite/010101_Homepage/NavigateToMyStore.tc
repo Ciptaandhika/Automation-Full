@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigasi ke Halaman MyStore</description>
+   <name>NavigateToMyStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5589352-38ff-4147-a2e5-13242d018a9f</testCaseGuid>
+</TestCaseEntity>

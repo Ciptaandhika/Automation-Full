@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Dompet Blanja</description>
+   <name>ClickDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05653756-3c2f-42a2-b875-0b5633dddc70</testCaseGuid>
+</TestCaseEntity>

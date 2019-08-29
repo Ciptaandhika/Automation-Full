@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Image has been uploaded successfully</description>
+   <name>Verify Image LotteryPrize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b4da4c1-6047-40a2-afba-441497f49b78</testCaseGuid>
+</TestCaseEntity>

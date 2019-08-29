@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url my store warungsaya</description>
+   <name>GoToMyStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86f2a8ca-bbcb-4fc7-8810-653813a54452</testCaseGuid>
+</TestCaseEntity>

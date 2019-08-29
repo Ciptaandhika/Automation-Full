@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik create promotion
+input program name
+input promotion name
+input promotion date
+input store id
+input produk id
+input total budget
+input budget type
+input partner covereage
+inut partner name
+input each buyer
+input promotion inventory
+input seller net
+input chip-in
+save</description>
+   <name>LTDCreateBudgetMinus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86859339-dbc9-4987-8f0e-22fea90c9254</testCaseGuid>
+</TestCaseEntity>

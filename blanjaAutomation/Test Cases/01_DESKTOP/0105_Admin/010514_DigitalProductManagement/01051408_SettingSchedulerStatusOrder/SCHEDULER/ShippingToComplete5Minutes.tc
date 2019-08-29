@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID
+- Click radio button action
+- Click radio button shipping to complete
+- Submit changes
+- Search the edited product
+- Verify status</description>
+   <name>ShippingToComplete5Minutes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c405a9b8-42ef-487c-a91b-fba5fe43954e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>admin can input label for digital product (all fields mandatory)
+
+Step: 
+1. access Digital Product Management - Master Attribute Digital Product
+2. filled all mandatory fields 
+3. click button 'Clear' for clear data input</description>
+   <name>ClearSettingMasterAttribute</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5addc0e0-d689-4ad2-9956-f6cdf19bd2cb</testCaseGuid>
+</TestCaseEntity>

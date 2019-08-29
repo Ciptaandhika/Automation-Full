@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Note :
+
+- klik checkbox 
+- klik lanjutkan
+- pada pop up OTP input misalnya 1 
+- verify button verifikasi enable ketika 6 digit OTP di inputkan</description>
+   <name>Individual_Store_InputOTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd574186-17f8-4ba7-9a09-236dc52853f9</testCaseGuid>
+</TestCaseEntity>

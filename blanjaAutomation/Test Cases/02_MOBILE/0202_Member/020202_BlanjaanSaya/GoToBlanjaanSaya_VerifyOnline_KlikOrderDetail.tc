@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya
+- Klik link order number</description>
+   <name>GoToBlanjaanSaya_VerifyOnline_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ab0175d-ef66-4e89-bdcc-a27e9c7e80c3</testCaseGuid>
+</TestCaseEntity>

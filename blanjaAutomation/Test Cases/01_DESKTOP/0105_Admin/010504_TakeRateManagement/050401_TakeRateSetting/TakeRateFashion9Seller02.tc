@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create default TR setting for group name = Fashion.
+- Take Rate = 9% (flat)
+- Periode = All</description>
+   <name>TakeRateFashion9Seller02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34af0fc9-1715-49cc-9a63-86214551958c</testCaseGuid>
+</TestCaseEntity>

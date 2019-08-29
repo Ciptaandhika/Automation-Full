@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+Get Text Last Order dan di simpan di Global Variable
+Get Text Verify tulisan 'Pembayaran :BCA VA'
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.
+Get URL dari Order detail
+Klik Order Detail sesuai order yang telah dilakukan
+Switch window to tab Order Detail</description>
+   <name>Member_OrderList_KlikLatestOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>515852e1-37e9-45a1-8ec7-2a19df88b7d0</testCaseGuid>
+</TestCaseEntity>

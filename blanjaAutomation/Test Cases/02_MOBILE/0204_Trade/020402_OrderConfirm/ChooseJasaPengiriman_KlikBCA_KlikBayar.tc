@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BCA
+- Pilih BCA Virtual Account
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_KlikBCA_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e256ae96-148d-42ea-8a55-bd238cedf140</testCaseGuid>
+</TestCaseEntity>

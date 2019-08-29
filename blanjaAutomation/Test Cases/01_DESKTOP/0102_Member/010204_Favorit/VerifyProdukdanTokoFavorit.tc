@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Favorit	
+Ensure tab “Produk Favorit” and tab “Toko Favorit” were active.</description>
+   <name>VerifyProdukdanTokoFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07f7d9f6-b56f-4616-81f6-6f06b3e4889c</testCaseGuid>
+</TestCaseEntity>

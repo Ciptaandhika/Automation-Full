@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- jika field kosong maka akan muncul warning '' Mohon masukan nama toko''
+
+- jika nama toko kurang dari 1 karakter maka akan muncul warning '' Masukan minimal 2 karakter''
+
+- jika nama toko sudah terdaftar maka akan muncul warning '' Nama toko ini sudah terdaftar di sistem''</description>
+   <name>BStore_Error_Validation_Store_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cad701d-d647-4e97-8cef-e63df2f90d28</testCaseGuid>
+</TestCaseEntity>

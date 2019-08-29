@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan home</description>
+   <name>NavigateUrlHome</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aea6907c-9b7c-4a7d-8b1a-1be0e0b99e25</testCaseGuid>
+</TestCaseEntity>

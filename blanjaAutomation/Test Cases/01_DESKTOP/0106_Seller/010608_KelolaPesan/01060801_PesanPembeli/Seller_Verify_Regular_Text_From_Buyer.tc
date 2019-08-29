@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify regular text dari buyer menjadi tag a dan pada object propertiesnya tidak ada tag strong / bold</description>
+   <name>Seller_Verify_Regular_Text_From_Buyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49b1d970-6894-48e3-a718-b981b14fc378</testCaseGuid>
+</TestCaseEntity>

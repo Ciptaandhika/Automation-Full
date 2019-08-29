@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL list product Dijual
+Click Edit Produk Dijual</description>
+   <name>EditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c236b60f-54b3-466f-a524-49b6b5b1f583</testCaseGuid>
+</TestCaseEntity>

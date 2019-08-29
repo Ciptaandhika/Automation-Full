@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>ChooseJasaPengiriman_BCACCPromoAndCashback_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1c1f3e3-720e-467c-af7a-83c2cfd84f55</testCaseGuid>
+</TestCaseEntity>

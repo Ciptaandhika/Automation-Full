@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to blanja homepage</description>
+   <name>BlanjaHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80917d1a-fffe-4b2a-9197-ef9ab75bc845</testCaseGuid>
+</TestCaseEntity>

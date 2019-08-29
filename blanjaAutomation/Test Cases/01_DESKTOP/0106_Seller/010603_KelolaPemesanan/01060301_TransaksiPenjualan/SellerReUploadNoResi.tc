@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Lihat Status Upload.
+See Error Upload.
+See Button Upload Ulang.</description>
+   <name>SellerReUploadNoResi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca06dc9f-6f36-4992-b44e-325147af4fab</testCaseGuid>
+</TestCaseEntity>

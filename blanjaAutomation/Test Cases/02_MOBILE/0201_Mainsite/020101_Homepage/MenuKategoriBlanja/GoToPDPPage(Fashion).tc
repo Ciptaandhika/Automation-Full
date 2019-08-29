@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PCP page
+   - Fashion</description>
+   <name>GoToPDPPage(Fashion)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cabe14c2-3da5-47ce-8322-d4221f57aaac</testCaseGuid>
+</TestCaseEntity>

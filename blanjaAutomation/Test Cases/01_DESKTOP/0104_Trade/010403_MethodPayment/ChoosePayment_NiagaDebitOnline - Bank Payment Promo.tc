@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Last Order Number
+Choose Radio Button Debit Niaga
+Select Option Pilih Nama Promosi
+Verify label Diskon Blanja
+Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_NiagaDebitOnline - Bank Payment Promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5534d3a-a392-4fe0-b51d-ec743e5382f6</testCaseGuid>
+</TestCaseEntity>

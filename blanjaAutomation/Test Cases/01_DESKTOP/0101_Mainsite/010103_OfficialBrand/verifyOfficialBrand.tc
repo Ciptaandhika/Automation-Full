@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL
+Verify equal url
+Verify Element Brand Store
+Verify Element button Lihat Semua</description>
+   <name>verifyOfficialBrand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>175d2735-1804-448e-beef-efcfbe8a5aba</testCaseGuid>
+</TestCaseEntity>

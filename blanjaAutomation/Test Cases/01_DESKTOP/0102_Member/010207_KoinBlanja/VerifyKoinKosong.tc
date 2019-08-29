@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify koin kosong
+verify btn blanja sekarang</description>
+   <name>VerifyKoinKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13a4a521-a763-4899-a54d-3901704b261d</testCaseGuid>
+</TestCaseEntity>

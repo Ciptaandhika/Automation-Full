@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button X
+Verify element not visible</description>
+   <name>clickXInfoBar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cfb7701-2bf1-4e6f-95d7-b2e06571f80a</testCaseGuid>
+</TestCaseEntity>

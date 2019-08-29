@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rbBCAVirtualAccount</name>
+   <tag></tag>
+   <elementGuidId>91c1b6ed-23cc-4207-9ed8-b52113af599c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='KlikBCA'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/section[@class=&quot;inner-wrapper content clear&quot;]/div[@class=&quot;choosepay-panel choosepay&quot;]/div[@class=&quot;checkout-sec no-padding&quot;]/div[@class=&quot;input-content&quot;]/ul[@class=&quot;choosepay-method&quot;]/li[3]/div[@class=&quot;rdi-line&quot;]/div[@class=&quot;rdi-mode oh&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>bca_va</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;inner-wrapper content clear&quot;]/div[@class=&quot;choosepay-panel choosepay&quot;]/div[@class=&quot;checkout-sec no-padding&quot;]/div[@class=&quot;input-content&quot;]/ul[@class=&quot;choosepay-method&quot;]/li[2]/div[@class=&quot;rdi-line&quot;]/div[@class=&quot;rdi-box&quot;]/input[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>(//input[@name='pay'])[16]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank BCA'])[1]/following::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat selengkapnya'])[7]/following::input[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SISTEM BERJALAN OTOMATIS TIDAK PERLU KONFIRMASI'])[9]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//li[2]/div/div[2]/input</value>
+   </webElementXpaths>
+</WebElementEntity>

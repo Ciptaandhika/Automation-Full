@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>buyer select area uncoverage by blanja as shipping address
+blanja set max shipping fee covered by blanja</description>
+   <name>PDPFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6777e8c-6dc7-432d-9de7-0bb207c89efc</testCaseGuid>
+</TestCaseEntity>

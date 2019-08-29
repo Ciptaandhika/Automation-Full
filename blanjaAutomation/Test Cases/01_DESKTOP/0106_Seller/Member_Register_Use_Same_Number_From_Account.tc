@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Klik Tab Perusahaan
+- get value attribute dari nomor yang sudah digunakan untuk daftar account dari form phone number (perusahaan)
+- isi form number tersebut menggunakan value dari attribute yang di get (nomor yang sudah pernah digunakan untuk daftar akun)
+- verify tidak ada warning nomor sudah terdaftar/digunakan</description>
+   <name>Member_Register_Use_Same_Number_From_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82bb36d0-0a6c-461f-8e72-ca1d54d038c2</testCaseGuid>
+</TestCaseEntity>

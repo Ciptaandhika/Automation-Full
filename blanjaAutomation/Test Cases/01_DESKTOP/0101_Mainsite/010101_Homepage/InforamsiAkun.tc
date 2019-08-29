@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik menu icon Akun
+- klik informasi akun
+-sistem menampilkan menu pesan saya, pesanan saya, favorit saya, alamat saya, My Ebay, dan Keluar</description>
+   <name>InforamsiAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d72ef99-4fa1-4532-b48d-76495c251fe3</testCaseGuid>
+</TestCaseEntity>

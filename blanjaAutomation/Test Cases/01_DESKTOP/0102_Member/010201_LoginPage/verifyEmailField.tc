@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify email field is disable</description>
+   <name>verifyEmailField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f08e738-f65f-42e3-b4ad-047941fedee9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Seller Sub Account
+open browser
+max windows
+go to URLMemberMainsite
+isi txtBoxUsername
+isi txtBoxPassword
+klik masuk
+close btnX
+buka Toko Saya</description>
+   <name>LoginSellerSubAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4abd941b-4639-4057-97e8-0c717e7eb0d1</testCaseGuid>
+</TestCaseEntity>

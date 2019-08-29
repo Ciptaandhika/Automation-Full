@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer already add to cart 'Product A', 'Product B' and checkout order 
+ 2. Select payment method CC - Midtrans 
+ ie : payment method = 'Kartu Kredit'
+ 3. Select promotion on dropdown bank payment promotion
+ 4. Klik button 'Bayar'</description>
+   <name>Verify_Multiple_ProductID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d7d2ff8-c2df-4279-ba78-8fb4675d6bb2</testCaseGuid>
+</TestCaseEntity>

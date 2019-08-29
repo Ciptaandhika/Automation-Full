@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik ubah email
+set email baru
+klik batal</description>
+   <name>RegisterBatalEditEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82f2b020-4475-4e0d-beb3-bde99d9a2718</testCaseGuid>
+</TestCaseEntity>

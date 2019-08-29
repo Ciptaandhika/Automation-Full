@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Element Present &quot;btnDeleteSchedule&quot;</description>
+   <name>verifyBtnDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45fa57b9-1971-454f-a415-5d9e2d71d91d</testCaseGuid>
+</TestCaseEntity>

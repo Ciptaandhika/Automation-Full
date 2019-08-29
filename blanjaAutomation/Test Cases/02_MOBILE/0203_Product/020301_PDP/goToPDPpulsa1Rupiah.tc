@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Delay</description>
+   <name>goToPDPpulsa1Rupiah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47c43313-c91f-4264-8c46-d2d45b4b44d8</testCaseGuid>
+</TestCaseEntity>

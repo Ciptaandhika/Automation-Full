@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk semua produk: Kurir Standar
+- Klik tab Bank BNI
+- Pilih Debit Online
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_BNIVirtualAccount_KlikBayar_VerifyCoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>125b5010-29b4-45e7-b3d8-1091e1564c5a</testCaseGuid>
+</TestCaseEntity>

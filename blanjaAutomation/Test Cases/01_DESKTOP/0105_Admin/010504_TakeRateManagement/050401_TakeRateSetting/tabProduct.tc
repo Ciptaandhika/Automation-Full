@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btnSeller</description>
+   <name>tabProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c53ef2d1-a6d7-499b-ada4-0ee940c5ef6f</testCaseGuid>
+</TestCaseEntity>

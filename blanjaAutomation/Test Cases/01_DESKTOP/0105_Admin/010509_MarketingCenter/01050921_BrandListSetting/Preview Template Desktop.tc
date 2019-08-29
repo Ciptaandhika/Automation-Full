@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Admin Page
+Go to Brand List Setting
+Click Preview Desktop</description>
+   <name>Preview Template Desktop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>493548c8-b025-43ac-817d-5f7e2a78a403</testCaseGuid>
+</TestCaseEntity>

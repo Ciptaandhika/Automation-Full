@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. System will display order confirm page, e.g. :
+1. Shipping address
+2. Product that ordered, include :
+- product name
+- SKU (color, size, material)
+- Qty
+- Product coupon
+- Normal price or special price (if product support LTD.First purchase)
+- Store coupon
+- Message for seller
+- shipping fee
+- Subtotal order
+3. Total Order
+4 button &quot;Lanjutkan pembayaran&quot;
+5. Product will grouping by store when order more than one product
+6. if normal price combine with another product, it will display all products selected</description>
+   <name>VerifyURLOrderConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d15a7bd5-6b57-4c52-9b46-40e126da67fd</testCaseGuid>
+</TestCaseEntity>

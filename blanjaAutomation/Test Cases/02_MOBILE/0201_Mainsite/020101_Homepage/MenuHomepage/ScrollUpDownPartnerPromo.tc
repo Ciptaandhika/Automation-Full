@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll img indi home
+scroll butuh bantuan
+scroll keamanan</description>
+   <name>ScrollUpDownPartnerPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>845796b6-2a1d-43d1-8f5e-5b2819a4df12</testCaseGuid>
+</TestCaseEntity>

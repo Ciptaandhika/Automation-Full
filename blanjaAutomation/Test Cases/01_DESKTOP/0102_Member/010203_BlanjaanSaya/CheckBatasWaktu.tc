@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check batas waktu in order list</description>
+   <name>CheckBatasWaktu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfa31f19-0315-41ab-a6e6-0d0eed375eb4</testCaseGuid>
+</TestCaseEntity>

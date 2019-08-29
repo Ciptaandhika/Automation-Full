@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman dompet blanja click penarikan dana</description>
+   <name>clickPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68ba801c-6d01-4937-a5df-d53b8b031390</testCaseGuid>
+</TestCaseEntity>

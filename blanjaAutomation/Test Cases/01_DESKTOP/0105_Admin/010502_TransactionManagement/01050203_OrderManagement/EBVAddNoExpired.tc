@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih menu System Management >> Exclude Being Verified Management
+2. Pilih Add
+3. Admin menampilkan halaman Add new settings
+4. Pilih start date &amp; time
+5. Centang No Expired
+6. Input Store List
+7. Klik Preview Store
+8. Klik Save</description>
+   <name>EBVAddNoExpired</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57ff0e2f-1b32-455b-99cc-4d9c78b892ec</testCaseGuid>
+</TestCaseEntity>

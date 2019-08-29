@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgProductShoppingCart</name>
+   <tag></tag>
+   <elementGuidId>ea4882f0-0665-49ad-a5a2-551d4f3163a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/div[2]/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//s.blanja.com/picspace/980/220116/342.318_3c1e264fbdec4fecb338df7892151a64.jpg_80x80.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[1]/div[@class=&quot;wrapper shopping-cart&quot;]/div[@class=&quot;container940 clearfix&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-white p0 clearfix&quot;]/ul[@class=&quot;store-list&quot;]/li[@class=&quot;border-container border-cart-info pb0&quot;]/ul[@class=&quot;item-list&quot;]/li[@class=&quot;item clearfix pb20&quot;]/div[@class=&quot;product-container&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;product-pic&quot;]/a[1]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WARUNGKAMI'])[1]/following::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dikirim dari lokasi yang berbeda'])[1]/following::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pantene Black Shine Botol 180ml'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi : DKI Jakarta'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/div/div/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik dashboard
+verifikasi link yg dituju adalah dashboard</description>
+   <name>VerifyDashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04418358-558a-44fe-bc1f-3c90e0e9a5be</testCaseGuid>
+</TestCaseEntity>

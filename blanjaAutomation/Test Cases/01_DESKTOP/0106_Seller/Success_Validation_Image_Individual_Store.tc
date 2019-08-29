@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi ketika logo toko berhasil di upload pada halaman registrasi (individual store)</description>
+   <name>Success_Validation_Image_Individual_Store</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1bbb5a1-b964-4ecd-a174-cfcc8e5935a1</testCaseGuid>
+</TestCaseEntity>

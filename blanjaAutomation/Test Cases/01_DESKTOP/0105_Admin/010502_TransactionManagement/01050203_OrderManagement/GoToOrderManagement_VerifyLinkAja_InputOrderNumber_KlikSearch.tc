@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Order Management
+isi order Number 
+click Search
+verify informasi payment method: 'Payment Method :LinkAja'
+Klik Order Detail sesuai nomor order yang dimasukkan</description>
+   <name>GoToOrderManagement_VerifyLinkAja_InputOrderNumber_KlikSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e501c218-236e-4091-87bf-4d8b6602a072</testCaseGuid>
+</TestCaseEntity>

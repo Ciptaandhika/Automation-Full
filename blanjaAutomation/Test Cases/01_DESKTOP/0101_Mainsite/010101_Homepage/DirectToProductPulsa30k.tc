@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer redirect to product</description>
+   <name>DirectToProductPulsa30k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f969c2ec-c2f7-4f78-a31f-e2afe88d4b91</testCaseGuid>
+</TestCaseEntity>

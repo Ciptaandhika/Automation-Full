@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tab kupon undian
+verify text
+click tab kupon hadiah langsung
+verify text</description>
+   <name>noKuponUndianNoKuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f7ea0c1-273a-4c64-a7c7-e0ca32dc8c0c</testCaseGuid>
+</TestCaseEntity>

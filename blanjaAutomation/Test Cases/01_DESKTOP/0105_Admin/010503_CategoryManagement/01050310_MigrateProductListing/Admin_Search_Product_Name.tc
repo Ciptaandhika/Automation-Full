@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- admin klik history migrate listing
+- admin isi product name
+- clear text startdate
+- clear text end date
+- klik search
+- verify search result berdasarkan product name</description>
+   <name>Admin_Search_Product_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64a85c36-5927-447c-9fd7-852a9d32d54b</testCaseGuid>
+</TestCaseEntity>

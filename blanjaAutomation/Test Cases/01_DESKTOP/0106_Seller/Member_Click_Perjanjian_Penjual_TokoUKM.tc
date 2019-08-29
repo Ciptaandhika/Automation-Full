@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Member klik Tab Perusahaan
+- Member klik link Perjanjian Pengguna
+- Verify Pop Up Perjanjian Pengguna</description>
+   <name>Member_Click_Perjanjian_Penjual_TokoUKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>621cb806-b9b9-4377-baa9-29fb0a8cb422</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Close Informasi Biaya Transaksi
+2. Go to Seller Trades Order List Page</description>
+   <name>SellerTrades</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07c956b2-2bba-4918-ad92-a9e39521d4d7</testCaseGuid>
+</TestCaseEntity>

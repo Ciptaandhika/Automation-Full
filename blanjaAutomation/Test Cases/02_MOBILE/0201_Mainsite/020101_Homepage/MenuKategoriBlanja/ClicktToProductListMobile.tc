@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to old PDP url by click selected product</description>
+   <name>ClicktToProductListMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fba4262e-3177-4045-a577-c43a43697e63</testCaseGuid>
+</TestCaseEntity>

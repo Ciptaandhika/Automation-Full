@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to url koin blanja</description>
+   <name>KoinBlanjaNavigateUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1953a711-2977-49f3-9cca-9a4ca0ea2a1c</testCaseGuid>
+</TestCaseEntity>

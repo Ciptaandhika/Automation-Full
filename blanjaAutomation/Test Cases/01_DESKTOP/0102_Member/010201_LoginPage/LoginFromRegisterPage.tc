@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Login member/buyer test08</description>
+   <name>LoginFromRegisterPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4690e333-9ca9-4379-ad1d-2f1fbfa78805</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click product from pilih pembayaran page</description>
+   <name>ClickProduct2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d39a3ca-8dee-4a25-a495-fd1f578bd089</testCaseGuid>
+</TestCaseEntity>

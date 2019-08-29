@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify element present: 'Kartu Kredit Cicilan'
+- Verify text tampil: 'Estimasi cicilan per bulan'
+- Verify text tampil: 'Total Pembayaran'
+- Verify text tampil: 'Tenor'</description>
+   <name>VerifyPaymentMethod_BCAVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>291cacc3-72a3-4410-8401-ddee863c5ecb</testCaseGuid>
+</TestCaseEntity>

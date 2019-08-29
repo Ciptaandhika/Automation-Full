@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Pos
+Get Label Pos
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_Finpay_ATMTelkom_DompetBlanja_Cashback_CampaignUnique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>485dc801-c65e-4a58-94f9-149a32211691</testCaseGuid>
+</TestCaseEntity>

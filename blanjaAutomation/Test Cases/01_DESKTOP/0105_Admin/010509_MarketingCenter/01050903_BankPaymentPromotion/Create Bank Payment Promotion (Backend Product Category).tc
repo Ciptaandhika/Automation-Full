@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'Add Promotion' button
+2. Choose Payment Type = 'Credit Card' and filled Installment Plan
+3. Fill all mandatory fields, then select 'Applied To' = 'Backend Product Category'
+4. choose category which will support this campaign by tick selected category
+5. click button 'Save'
+
+Note :
+Promotion name tidak ada yg sama, agar verify berhasil</description>
+   <name>Create Bank Payment Promotion (Backend Product Category)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b240460-9caf-4fc8-b116-6409f399ebd6</testCaseGuid>
+</TestCaseEntity>

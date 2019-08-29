@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Campaign list, select campign name
+Click View</description>
+   <name>AdminViewCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e41a9eba-eed6-4935-a3a8-d154843b55de</testCaseGuid>
+</TestCaseEntity>

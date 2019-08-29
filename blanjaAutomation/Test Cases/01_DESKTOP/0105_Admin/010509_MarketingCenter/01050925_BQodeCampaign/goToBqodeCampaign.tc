@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href BQode Campaign</description>
+   <name>goToBqodeCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7674f3a8-f7b3-43db-943c-da24ceec0342</testCaseGuid>
+</TestCaseEntity>

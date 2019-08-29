@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search produck kopi bubuk
+- Click button cari
+- Verify countdown</description>
+   <name>CheckCountdownKopiBubuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a093a1df-8e0e-4410-a77d-33a052d2694f</testCaseGuid>
+</TestCaseEntity>

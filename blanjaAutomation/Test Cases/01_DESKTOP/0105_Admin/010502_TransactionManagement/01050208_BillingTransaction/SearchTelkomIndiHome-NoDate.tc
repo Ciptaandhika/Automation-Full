@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Filter transaction by Product Type, Billing State, Billing Time, Billing Number, Product Name, Payment Code
+- Click &quot;Search&quot;</description>
+   <name>SearchTelkomIndiHome-NoDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b1b29c-64ec-4df2-9d55-1734f98b25d3</testCaseGuid>
+</TestCaseEntity>

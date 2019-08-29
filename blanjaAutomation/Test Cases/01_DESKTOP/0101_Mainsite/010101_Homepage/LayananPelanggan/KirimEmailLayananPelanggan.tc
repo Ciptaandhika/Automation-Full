@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>system will refer to device email page</description>
+   <name>KirimEmailLayananPelanggan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db823a2e-0aa6-4b83-bb3b-e938c565778a</testCaseGuid>
+</TestCaseEntity>

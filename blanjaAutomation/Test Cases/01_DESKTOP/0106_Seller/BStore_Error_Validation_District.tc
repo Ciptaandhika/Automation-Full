@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify kondisi error drop down pilih kota, ketika pilih provinsi maka akan muncul drop down kota.
+- kosongkan pilihan pada dropdown kota</description>
+   <name>BStore_Error_Validation_District</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fef64251-93fa-46d0-a824-facb5b68813b</testCaseGuid>
+</TestCaseEntity>

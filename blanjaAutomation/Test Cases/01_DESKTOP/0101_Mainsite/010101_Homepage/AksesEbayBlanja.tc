@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Ebay
+1. jika pembeli tidak menginstal aplikasi ebay, sistem akan langsung menampilkan ebay.blanja.com di browser
+2. jika pembeli telah menginstal aplikasi ebay, sistem akan langsung menampilkan aplikasi ebay.blanja</description>
+   <name>AksesEbayBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55a6aef8-f593-470b-b83a-a751f4b5aa08</testCaseGuid>
+</TestCaseEntity>

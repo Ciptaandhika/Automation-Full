@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button end
+Click button ok
+Delay
+Click button ok</description>
+   <name>ClickEnds</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f416706-3cb3-4b41-9e27-05823c06aa72</testCaseGuid>
+</TestCaseEntity>

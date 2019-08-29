@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Lainnya.
+Set Jumlah Koin.
+Click Button Tukar.
+Verify Koin Berkurang.</description>
+   <name>BuyerTukarKoin_HadiahUndian_1Hadiah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>338262fd-a834-46d7-b942-1b5bea6eacaa</testCaseGuid>
+</TestCaseEntity>

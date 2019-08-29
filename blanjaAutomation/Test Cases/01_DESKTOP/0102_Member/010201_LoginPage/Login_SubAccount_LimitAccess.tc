@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- open browser
+- maximize window 
+- login sebagai sub akun seller
+- field password
+- klik OK</description>
+   <name>Login_SubAccount_LimitAccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9dc031ec-f3ec-4ae0-ae63-7bd133a93382</testCaseGuid>
+</TestCaseEntity>

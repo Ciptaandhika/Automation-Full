@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;app.sandbox.midtrans.com&quot;
+Verify nominal payment dan installment info tampil</description>
+   <name>ThankYouPage_BCAVirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8f3a27a-a293-4933-b196-c11651e6550a</testCaseGuid>
+</TestCaseEntity>

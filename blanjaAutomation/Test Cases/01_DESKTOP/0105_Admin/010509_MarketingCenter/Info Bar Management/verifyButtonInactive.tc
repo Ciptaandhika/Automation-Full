@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present</description>
+   <name>verifyButtonInactive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5dbeec0-d277-41a6-8105-1f1efd863138</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To URL Transaksi Penjualan
+2. Isi Nomor Order
+3. Klik tombol Cari
+4. On Seller Center order list ship button should be visible
+
+
+</description>
+   <name>TransaksiPenjualanSellerShipButtonVisible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e04f4a2c-1a9c-4f25-b09d-5a926a631e7c</testCaseGuid>
+</TestCaseEntity>

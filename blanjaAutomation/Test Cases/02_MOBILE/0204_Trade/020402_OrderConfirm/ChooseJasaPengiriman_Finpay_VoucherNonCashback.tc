@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'mandiri 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_Finpay_VoucherNonCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0197b3df-d283-4013-b153-e0dcad42d3e4</testCaseGuid>
+</TestCaseEntity>

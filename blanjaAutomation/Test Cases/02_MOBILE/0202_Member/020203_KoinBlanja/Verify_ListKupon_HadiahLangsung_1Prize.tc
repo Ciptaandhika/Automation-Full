@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai buyer
+ 2. Dari Halaman Akun saya tap Koin Blanja
+ 3. Dari halaman Koin Blanja, tap Lihat Lainnya pada section Hadiah Langsung
+ 4. Halaman mweb menampilkan halaman Hadiah Langsung
+ 5. Buyer memilih hadiah Langsung 10 dan tap tombol Tukar
+ 6. Halaman Hadiah Langsung menampilkan pop-up konfirmasi penukaran koin
+ 7. Buyer tap Ya
+ 10. Klik tombol Lihat Hadiah</description>
+   <name>Verify_ListKupon_HadiahLangsung_1Prize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed1cf902-b14d-402e-b9e8-6e9322bc30a6</testCaseGuid>
+</TestCaseEntity>

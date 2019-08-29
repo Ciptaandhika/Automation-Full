@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya
+- Verify tulisan Kartu Kredit tampil
+- Klik link order number</description>
+   <name>GoToBlanjaanSaya_VerifyKartuKreditPromo_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b93c6de-a2a0-4d57-b74a-0ed6168c9202</testCaseGuid>
+</TestCaseEntity>

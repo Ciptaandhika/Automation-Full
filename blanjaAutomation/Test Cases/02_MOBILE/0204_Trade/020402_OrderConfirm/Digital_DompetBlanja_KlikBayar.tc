@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Klik dropdown VA
+- Klik slider Dompet Blanja
+- Set text password Blanja
+- Klik txtBoxDompetBlanjaTerpakai
+- Send keys DELETE
+- Send keys BACK_SPACE
+- Send keys nominal
+- Klik button Bayar
+- Get URL
+- Verify contains
+- Verify text present</description>
+   <name>Digital_DompetBlanja_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0c976db-046a-4a32-9dac-01d95a2f8422</testCaseGuid>
+</TestCaseEntity>

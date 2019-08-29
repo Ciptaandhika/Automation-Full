@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Store From Store List in Add Exclude Store Being Verified Page Case TCT-BVBUY016</description>
+   <name>EBVAddNoExpiredInvalidStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed3fe2ac-301d-42b6-b9d5-c9fdd34b5238</testCaseGuid>
+</TestCaseEntity>

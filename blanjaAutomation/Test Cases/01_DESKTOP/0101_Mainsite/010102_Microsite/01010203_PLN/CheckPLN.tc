@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure on Homepage, Buyer can see PLN option on digital product box</description>
+   <name>CheckPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d96b18db-e479-4a41-b2c8-976f5fe2cb61</testCaseGuid>
+</TestCaseEntity>

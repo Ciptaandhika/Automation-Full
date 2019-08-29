@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify koin blanja.</description>
+   <name>VerifyKoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffc11769-d320-49ea-8662-46dfcd9c0482</testCaseGuid>
+</TestCaseEntity>

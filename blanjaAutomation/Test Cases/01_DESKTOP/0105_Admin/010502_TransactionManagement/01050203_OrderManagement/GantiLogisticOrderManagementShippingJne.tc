@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To URL Order Management
+isi order Number 
+click Search 
+Get Payment Code
+Btn Kirim Order Admin
+Set Text Box Input Last Order nUmber pada pop up Ship
+Click Btn OK 
+Verify Btn OK</description>
+   <name>GantiLogisticOrderManagementShippingJne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23188239-dcfd-4680-98be-ac475f36a568</testCaseGuid>
+</TestCaseEntity>

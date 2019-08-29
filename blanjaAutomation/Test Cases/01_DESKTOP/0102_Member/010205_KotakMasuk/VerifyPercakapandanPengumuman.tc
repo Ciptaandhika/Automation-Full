@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. Choose or click &quot;Kotak Masuk &quot; Menu
+4. See 2 active tabs (“Percakapan”, “Pengumuman”)
+“Kotak Masuk” menu, member can see 2 tabs (“Percakapan”, “Pengumuman”)</description>
+   <name>VerifyPercakapandanPengumuman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8c115e4-70b9-4614-b9b0-b9ec6cb7d022</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;1. On seller center click Transaksi Penjualan on Kelola Pemesanan
+2. Seller center shows Transaksi Penjualan page
+3. Select tab &quot;&quot;Sudah Dibayar&quot;&quot;
+4. Click Ship button on selected order
+5. Seller center shows Ship page
+6. Select &quot;&quot;Penyedia Jasa Pengiriman&quot;&quot;
+7. Enter nomor resi
+8. Click OK&quot;</description>
+   <name>CheckShipOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63f8ba6b-27f5-40bf-a83a-0e71b6e9261e</testCaseGuid>
+</TestCaseEntity>

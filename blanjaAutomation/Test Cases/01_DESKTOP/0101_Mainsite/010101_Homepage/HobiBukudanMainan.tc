@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih Menu Kategori
+2. Pilih Hobi,Buku &amp; Mainan'
+3. sistem akan memverifikasi semua produk yang ada di menu Hobi,Buku &amp; Mainan</description>
+   <name>HobiBukudanMainan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bda758f1-4f67-4773-b9b2-2cf85f1b959b</testCaseGuid>
+</TestCaseEntity>

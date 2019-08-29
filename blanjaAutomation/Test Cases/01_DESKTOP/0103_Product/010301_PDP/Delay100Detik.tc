@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambahkan Delay 100 detik untuk paralel test khusus checkout031</description>
+   <name>Delay100Detik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d9c32d9-6761-4dc0-985a-e9d51413e7af</testCaseGuid>
+</TestCaseEntity>

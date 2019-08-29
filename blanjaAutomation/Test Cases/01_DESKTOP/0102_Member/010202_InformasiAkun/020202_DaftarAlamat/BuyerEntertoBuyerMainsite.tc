@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click my address
+</description>
+   <name>BuyerEntertoBuyerMainsite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>312767cc-89b8-485f-b8b3-92585c56e5e0</testCaseGuid>
+</TestCaseEntity>

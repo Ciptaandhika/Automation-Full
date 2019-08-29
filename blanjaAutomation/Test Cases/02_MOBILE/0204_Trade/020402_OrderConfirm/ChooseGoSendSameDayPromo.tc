@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer choose shipping method - gosend same day</description>
+   <name>ChooseGoSendSameDayPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dace7c28-2165-42ee-8cb2-4e4a8cd7cead</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate URL sunsilk 50k
+- klik blanja sekarang</description>
+   <name>NavigateToURLSunsilk50kWarungKamiHitungBiayaKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f71123a5-72fa-44c8-ac4f-9a5e63dfd9ab</testCaseGuid>
+</TestCaseEntity>

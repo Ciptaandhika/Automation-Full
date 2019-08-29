@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To url Member Blanjaan Saya
+2. Klik button close TCash
+3. Get text last order number</description>
+   <name>Member_OrderList_Coupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77d8c023-a388-4a5f-818b-6699fe6b53bc</testCaseGuid>
+</TestCaseEntity>

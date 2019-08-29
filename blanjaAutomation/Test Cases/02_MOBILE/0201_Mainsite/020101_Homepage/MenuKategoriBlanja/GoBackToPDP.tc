@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go back to PDP</description>
+   <name>GoBackToPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90b89bb0-7757-4a83-808f-7c16040c6e65</testCaseGuid>
+</TestCaseEntity>

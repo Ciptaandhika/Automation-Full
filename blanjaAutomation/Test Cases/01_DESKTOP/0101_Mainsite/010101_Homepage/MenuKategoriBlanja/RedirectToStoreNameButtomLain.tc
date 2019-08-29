@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to PDP
+2. Click store name on top right of the PDP</description>
+   <name>RedirectToStoreNameButtomLain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3eb01fc8-9e22-4289-9617-277c89a9c4e4</testCaseGuid>
+</TestCaseEntity>

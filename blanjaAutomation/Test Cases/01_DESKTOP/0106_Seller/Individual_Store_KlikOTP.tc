@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Note :
+
+Kode verifikasi OTP didapatkan dari database sehingga tidak bisa masuk proses automate
+
+
+- klik checkbox 
+- klik lanjutkan
+- pada pop up OTP input misalnya 1 
+- verify button verifikasi enable ketika 6 digit OTP di inputkan
+- verify label warning input kode salah
+</description>
+   <name>Individual_Store_KlikOTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee9b489f-9a4a-46ff-b711-3abecd4d2309</testCaseGuid>
+</TestCaseEntity>

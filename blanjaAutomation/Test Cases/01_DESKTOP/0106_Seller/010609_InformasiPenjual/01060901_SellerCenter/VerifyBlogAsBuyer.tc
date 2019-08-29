@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify blog in seller center.</description>
+   <name>VerifyBlogAsBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d68ef65a-91f0-42c9-8904-9f088fea36ac</testCaseGuid>
+</TestCaseEntity>

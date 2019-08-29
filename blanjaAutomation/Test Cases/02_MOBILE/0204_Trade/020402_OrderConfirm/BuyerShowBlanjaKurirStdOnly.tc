@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik jasa Pengiriman, Pilih Kurir Standar
+Verifikasi Biaya pengiriman</description>
+   <name>BuyerShowBlanjaKurirStdOnly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2320d39-6ac7-42a5-a23f-69ae562ced65</testCaseGuid>
+</TestCaseEntity>

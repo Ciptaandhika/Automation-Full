@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Only Blanja (Unique Code)
+3. Tick cashback dan isi value persen
+4. Verify Coupon</description>
+   <name>Create Coupons Only Blanja Unique Code (Cashback n Value Persen)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39906341-0152-4418-afe9-ab82585b9fa2</testCaseGuid>
+</TestCaseEntity>

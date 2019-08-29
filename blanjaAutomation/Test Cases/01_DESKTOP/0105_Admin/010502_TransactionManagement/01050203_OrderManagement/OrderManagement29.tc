@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To URL Order Management
+2. Isi order Number 
+3. Klik tombol Search 
+4. Get Payment Code</description>
+   <name>OrderManagement29</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79941a22-0fc3-4173-ba60-d0617159adce</testCaseGuid>
+</TestCaseEntity>

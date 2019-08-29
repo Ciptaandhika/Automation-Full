@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input judul promosi
+input batas waktu promo
+input batas
+input isi promo
+pilih area cover</description>
+   <name>VerifyAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5dbf837-ffce-4624-8784-c4273d369906</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Click button close gosend</description>
+   <name>NavigateProdukReguler10k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3e539b0-8b96-409b-9b74-c4b365e069f7</testCaseGuid>
+</TestCaseEntity>

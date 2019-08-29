@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada textbox search kategori yang tidak ada di list tree (misalnya pada case ini adalah abcd12345)
+- klik search
+- verify label kategori tidak ditemukan</description>
+   <name>Verify_Search_Category_Not_Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40d3fd95-9a3d-48ec-92a7-98e01a012628</testCaseGuid>
+</TestCaseEntity>

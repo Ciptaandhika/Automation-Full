@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin.blanjadev.com
+2. go to withdrawal management
+
+Complete tab is only contain scomplate status</description>
+   <name>WithdrawalManagementContainCompleteStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87de744a-47ab-4897-bb3c-dacc5b12bf2b</testCaseGuid>
+</TestCaseEntity>

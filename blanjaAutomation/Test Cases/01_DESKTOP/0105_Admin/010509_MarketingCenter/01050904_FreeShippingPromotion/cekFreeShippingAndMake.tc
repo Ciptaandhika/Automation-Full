@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create free shipping promotion and Select option &quot;Seluruh Indonesia&quot; in coverage area</description>
+   <name>cekFreeShippingAndMake</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9f9a9cf-2020-4259-a656-b641b6bd7df8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Transaksi Penjualan Menu.
+Go to Tab Telah Dikirim.
+Order on tab &quot;&quot;Telah Dikirim&quot;&quot; &amp; &quot;&quot;Semua Pesanan&quot;&quot; should not show button &quot;&quot;Perpanjang Waktu Proses Barang&quot;&quot;
+2. Count down should not shown for pre-order product&quot;</description>
+   <name>VerifyStatusPreOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05758411-56c9-45e1-9d10-e7b8306c3ad0</testCaseGuid>
+</TestCaseEntity>

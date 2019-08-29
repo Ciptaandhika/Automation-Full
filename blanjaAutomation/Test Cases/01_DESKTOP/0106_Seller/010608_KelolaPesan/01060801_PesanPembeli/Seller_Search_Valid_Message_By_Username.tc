@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>NOTE : 
+
+dari sistem tidak bisa menampilkan pesan sesuai nama user, sehingga yang di verify adalah invalid condition / warningnya
+
+Step :
+
+seller search nama user (misalnya test08)
+validasi kondisi error pesan tidak ditemukan</description>
+   <name>Seller_Search_Valid_Message_By_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2139db73-caa3-4279-8dbc-552e8f7bccf4</testCaseGuid>
+</TestCaseEntity>

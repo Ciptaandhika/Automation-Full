@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create coupon
+as an OP, on web admin can applied coupons to all operator
+verify coupon
+
+1. OP already access and login on web admin
+2. OP open Coupons page
+3. Select coupon type : Unique Code
+3. Type all required field 
+4. Leave apllied only to operator unchecked
+5. Leave Backend Product Category unchecked
+6. Create coupon</description>
+   <name>Create Coupons Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b55d1a4-156a-4bc3-ae13-69434977b67d</testCaseGuid>
+</TestCaseEntity>

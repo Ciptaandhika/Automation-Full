@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify dropdown seluruh indonesia dan jabodetabek</description>
+   <name>VerifyDropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a96ca305-4b4c-4034-b6d4-30ba8d280f17</testCaseGuid>
+</TestCaseEntity>

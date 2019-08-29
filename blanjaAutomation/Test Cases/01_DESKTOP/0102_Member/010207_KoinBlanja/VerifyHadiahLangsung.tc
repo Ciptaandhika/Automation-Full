@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify hadiah langsung</description>
+   <name>VerifyHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>accd52a1-f872-468d-a80d-b2d30893bb7d</testCaseGuid>
+</TestCaseEntity>

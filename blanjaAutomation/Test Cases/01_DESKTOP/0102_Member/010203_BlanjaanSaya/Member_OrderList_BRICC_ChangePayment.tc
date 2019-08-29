@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To url Member Blanjaan Saya
+2. Get Text Last Order dan di simpan di Global Variable
+3. Get Text Verify Pembayaran
+4. Verify Ada kata sesuai Bank yang dipilih saat pembayaran.
+5. Klik Ganti Metode Pembayaran
+6. PilihVA BTN
+7. Klik Konfirmasi Pembayaran
+</description>
+   <name>Member_OrderList_BRICC_ChangePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d7831e5-1b9a-4ca6-8f70-023439a51b48</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click btnSimpanResiPengiriman
+Click btnConfirmSimpan Resi Pengiriman
+Verify Element Label Konfirmasi Pengiriman</description>
+   <name>VerifyBarangTerkirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6ea8fad-33aa-4d80-b350-c6a61c050378</testCaseGuid>
+</TestCaseEntity>

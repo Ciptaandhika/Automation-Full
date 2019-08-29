@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik checkbox 
+- klik lanjutkan
+- pada pop up OTP input kondisi invalid misalnya
+ huruf x
+- verify huruf x tersebut tidak muncul pada pop up OTP </description>
+   <name>BStore_Input_InvalidOTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0c7ba73-94da-4751-80e3-db20bf6c4c37</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Field is not mandatory
+3. Verify coupon</description>
+   <name>Create Coupons Field is not mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5673b78-9519-4046-b8f3-ff2cc0c42920</testCaseGuid>
+</TestCaseEntity>

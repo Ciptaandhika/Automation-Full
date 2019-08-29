@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin
+Masukkan nomor order, dari order yang sudah dijalankan sebelumnya di TC Pay Manually
+Klik tombol Cari
+Verify status 'Paid'</description>
+   <name>GoToTransaksiPenjualan_DompetBlanja_InputOrderNumber_KlikBtnCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45936a56-e1b7-4262-934b-c611c6bdc516</testCaseGuid>
+</TestCaseEntity>

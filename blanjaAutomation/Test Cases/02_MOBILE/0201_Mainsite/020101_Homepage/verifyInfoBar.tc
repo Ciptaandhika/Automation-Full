@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Verify element present
+Verify element present
+Verify element present</description>
+   <name>verifyInfoBar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a6c7a25-1910-4cd6-b1c8-c6e8fb56a8cb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre condition : 
+login menggunakan akun yang sudah mendapatkan izin
+
+step :
+
+verify menu Seller Register UKM Page muncul jika admin login menggunakan akun yang sudah mendapatkan izin
+
+
+Note :
+
+Akun admin yang diberikan dari metraplasa hanya 1 yaitu akun admin yang sudah mendapatkan izin untuk mengakses Seller Register UKM Page</description>
+   <name>Verify_Menu_Seller_Register_UKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48111149-a844-4a37-a737-d3e410785e72</testCaseGuid>
+</TestCaseEntity>

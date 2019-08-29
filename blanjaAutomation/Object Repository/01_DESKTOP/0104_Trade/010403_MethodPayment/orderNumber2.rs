@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>orderNumber2</name>
+   <tag></tag>
+   <elementGuidId>aa2c93b0-23ea-40e1-83ec-b1086ed1669c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/div[1]/div[2]/div[1]/div[4]/div[1]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/div[1]/div[2]/div[1]/div[4]/div[1]/a[2]</value>
+   </webElementProperties>
+</WebElementEntity>

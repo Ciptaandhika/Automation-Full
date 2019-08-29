@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer didn't choose payment</description>
+   <name>NotChoosePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f392380-d93c-4847-aab5-8911e2a0cdaf</testCaseGuid>
+</TestCaseEntity>

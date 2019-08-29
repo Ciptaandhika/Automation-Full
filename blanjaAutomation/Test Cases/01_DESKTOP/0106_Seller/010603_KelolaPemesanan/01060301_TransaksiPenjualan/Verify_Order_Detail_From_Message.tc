@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik tab placed / ditempatkan
+- klik menu hubungi pembeli
+- klik order ID saat pop up pesan muncul
+- verify link yang dituju dari order detail ID tersebut</description>
+   <name>Verify_Order_Detail_From_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58429fab-12f2-420e-9c66-be97598aff81</testCaseGuid>
+</TestCaseEntity>

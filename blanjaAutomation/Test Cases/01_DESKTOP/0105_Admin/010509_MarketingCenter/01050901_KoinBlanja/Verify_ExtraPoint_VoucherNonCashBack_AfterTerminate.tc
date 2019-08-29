@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik view
+- verify extra point voucher
+- klik edit
+- verify extra point voucher</description>
+   <name>Verify_ExtraPoint_VoucherNonCashBack_AfterTerminate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da6d0cc0-2cf2-4c1f-a039-9f873db751d8</testCaseGuid>
+</TestCaseEntity>

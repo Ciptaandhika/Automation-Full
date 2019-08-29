@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click &quot;Tambahkan ke Favorit&quot;
+2 system will display validation pop-up for make sure to move the product &quot;Are you sure you want ... &quot; 
+3 if click &quot;OK&quot;, product will be move to favorite</description>
+   <name>TroliIsiFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcc557f2-5e93-416f-969d-031201c1c495</testCaseGuid>
+</TestCaseEntity>

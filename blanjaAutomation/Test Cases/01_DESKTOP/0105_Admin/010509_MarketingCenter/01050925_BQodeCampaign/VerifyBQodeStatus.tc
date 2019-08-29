@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Status BQode</description>
+   <name>VerifyBQodeStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2ad18d6-9cf2-4881-9249-27d8d76110f3</testCaseGuid>
+</TestCaseEntity>

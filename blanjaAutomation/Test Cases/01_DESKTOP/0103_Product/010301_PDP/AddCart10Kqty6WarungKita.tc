@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url PDP 10k Warungkita
+Klik tombol Close Gojek, jika ada
+Clear text qty
+Input qty (6pcs)
+Klik tombol tambahkan ke troli</description>
+   <name>AddCart10Kqty6WarungKita</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fb9c516-3f96-4784-add8-bddff66fd219</testCaseGuid>
+</TestCaseEntity>

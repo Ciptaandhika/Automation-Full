@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi Yuk upload produk kamu sebanyak-banyaknya! Dapatkan kesempatan toko kamu untuk dipromosikan dengan mengupload lebih dari 10 produk di BLANJA.com</description>
+   <name>Verify_Success_BStore_LureUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3c7302f-3c63-4e81-867a-13db98c7d394</testCaseGuid>
+</TestCaseEntity>

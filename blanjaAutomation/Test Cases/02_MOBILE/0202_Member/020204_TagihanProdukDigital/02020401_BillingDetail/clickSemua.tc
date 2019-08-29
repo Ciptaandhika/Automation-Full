@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Semua
+Verify text present
+Verify text present
+Verify text present
+Verify text present
+Verify text present</description>
+   <name>clickSemua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24026a38-0bce-4a1e-bf3c-68dd25aa60b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.
+Click Tukar.</description>
+   <name>BuyerTukarKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92b6c4d9-f598-4e37-a22c-6c6e9313382b</testCaseGuid>
+</TestCaseEntity>

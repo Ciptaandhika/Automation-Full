@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browse
+max window
+navigate to url membersite
+set tex username buyer test01
+set tex password password123
+klik btn masuk</description>
+   <name>LoginBuyerTest01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b857a636-14fe-48c5-8efb-fcc6aba1bcff</testCaseGuid>
+</TestCaseEntity>

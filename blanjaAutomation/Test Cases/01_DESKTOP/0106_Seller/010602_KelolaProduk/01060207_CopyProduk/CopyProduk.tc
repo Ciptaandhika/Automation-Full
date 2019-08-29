@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigasi URL Produk Dijual
+Button Copy Salah Satu produk</description>
+   <name>CopyProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b667cd24-cf4d-4546-b386-0d8b2b8c6758</testCaseGuid>
+</TestCaseEntity>

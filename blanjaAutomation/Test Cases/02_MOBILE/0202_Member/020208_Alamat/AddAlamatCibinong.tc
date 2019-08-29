@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer add new address (cibinong)</description>
+   <name>AddAlamatCibinong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32154022-5d5e-46d1-a9e3-96e69512d94f</testCaseGuid>
+</TestCaseEntity>

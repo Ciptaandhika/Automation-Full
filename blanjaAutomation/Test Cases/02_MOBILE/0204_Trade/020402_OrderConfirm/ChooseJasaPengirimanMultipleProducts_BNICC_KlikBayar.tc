@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>ChooseJasaPengirimanMultipleProducts_BNICC_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fb9e21e-5ad8-4509-8ef1-ebfef850a02f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify free shipping to show biaya pengiriman Rp 0</description>
+   <name>verifyFreeshipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53321085-f62a-4f22-8b2e-a25569fe970e</testCaseGuid>
+</TestCaseEntity>

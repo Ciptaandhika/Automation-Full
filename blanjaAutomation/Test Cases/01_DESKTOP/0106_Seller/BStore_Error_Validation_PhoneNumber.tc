@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will be able to show Error Message: 
+~ If field is empty, display message: &quot;Mohon masukkan Nomor Telepon.&quot;
+~ If the length of numbers inserted are less than 8 or more than 12, display message: &quot;Ini bukan nomor telepon yang valid.&quot;
+~ If phone number has been registered, display message: 
+&quot;Nomor telepon sudah terdaftar di system. Mohon gunakan nomor telepon yang lain.&quot;
+
+ 
+ 
+ 	</description>
+   <name>BStore_Error_Validation_PhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a73b87b-efdb-46cb-bc25-4e09315ac978</testCaseGuid>
+</TestCaseEntity>

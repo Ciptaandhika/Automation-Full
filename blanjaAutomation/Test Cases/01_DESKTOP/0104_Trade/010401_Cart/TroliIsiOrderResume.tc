@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Product has been add on user shopping cart
+2. Scrool down shopping cart page to see another product
+3. when scroll down, order resumes will follow to down
+4. Verify List</description>
+   <name>TroliIsiOrderResume</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b173895-0dc0-4224-9386-09a3ec168d6d</testCaseGuid>
+</TestCaseEntity>

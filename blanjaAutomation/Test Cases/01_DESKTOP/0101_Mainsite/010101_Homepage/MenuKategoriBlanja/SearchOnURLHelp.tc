@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on www.blanja.com/help/... page</description>
+   <name>SearchOnURLHelp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee6d5011-28a6-49ac-ac54-1c1cedcbedb1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- member landing di confirm page (Business Store)
+- member akses confirm page beberapa saat kemudian</description>
+   <name>BStore_Access_Confirm_Page_Later</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>536834ca-228a-4483-b738-6b928c365ff8</testCaseGuid>
+</TestCaseEntity>

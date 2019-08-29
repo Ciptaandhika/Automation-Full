@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify text &quot;Content Text is mandatory&quot;</description>
+   <name>verifyContentTextMandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e870531f-39bf-4479-9a00-9181c01d0a1c</testCaseGuid>
+</TestCaseEntity>

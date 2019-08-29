@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Check order management to get transaction number
+- Go to pay manually
+- Pay the transaction</description>
+   <name>OrderManagementETicketing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>960c2207-5a17-4ca2-83e4-c8ee6edecf38</testCaseGuid>
+</TestCaseEntity>

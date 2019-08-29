@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click paket data
+- Fill no handphone field (with character, with more than 14 number, with correct phone number</description>
+   <name>ValidatePhoneNumberPaketData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81a14427-ea58-4ef3-82da-08720252b660</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser
+Maximize
+Navigate to URL</description>
+   <name>openHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2b4bd86-9fdc-4a50-9300-1ecdd89bfe1c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to url 'Blanjaan Saya'
+close button TCash
+Input last order number
+Klik Bayar
+click ok 
+verify url Mitrans IPG Page
+</description>
+   <name>Member_OrderList_BayarSisaBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d19bfc3-5deb-4d8c-bcd8-c19bff27e66a</testCaseGuid>
+</TestCaseEntity>

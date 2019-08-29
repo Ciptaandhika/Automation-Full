@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. scroll label pulsa
+2.  scroll label produk populer
+3. scroll label brand store
+4. scroll label hot produk
+5.  scroll label footer
+sistem akan menampilkan semua fitur hingga halaman terakhir</description>
+   <name>ScrollUpDownHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf4a50a6-49b1-4959-8ce8-bdb46311744a</testCaseGuid>
+</TestCaseEntity>

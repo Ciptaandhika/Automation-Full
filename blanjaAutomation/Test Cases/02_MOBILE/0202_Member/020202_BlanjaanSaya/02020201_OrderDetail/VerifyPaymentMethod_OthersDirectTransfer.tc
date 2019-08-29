@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify element present: 'Kartu Kredit Cicilan'
+- Verify text tampil: 'Estimasi cicilan per bulan'
+- Verify text tampil: 'Total Pembayaran'
+- Verify text tampil: 'Tenor'</description>
+   <name>VerifyPaymentMethod_OthersDirectTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95ec4acd-73c9-41c3-8397-94fa6ce789f4</testCaseGuid>
+</TestCaseEntity>

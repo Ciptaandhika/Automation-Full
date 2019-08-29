@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition : 
+
+1. seller already login
+ 2. seller already access Toko Saya
+ 3. seller already access Tambahkan Produk Page
+
+
+Step :
+
+1. seller set product condition as 'New'
+ 2. seller fill all mandatory fields
+ 3. seller click button 'Lanjutkan'</description>
+   <name>Seller_Create_New_Product_Camilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9704a856-abfe-4d1d-8764-b4f58986612b</testCaseGuid>
+</TestCaseEntity>

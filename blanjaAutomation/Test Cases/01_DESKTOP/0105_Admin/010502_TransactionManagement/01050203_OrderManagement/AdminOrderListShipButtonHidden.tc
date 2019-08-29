@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On order list, ship button should be hidden</description>
+   <name>AdminOrderListShipButtonHidden</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feaedc7b-2a67-4ba7-84f9-d678f4ea9dc8</testCaseGuid>
+</TestCaseEntity>

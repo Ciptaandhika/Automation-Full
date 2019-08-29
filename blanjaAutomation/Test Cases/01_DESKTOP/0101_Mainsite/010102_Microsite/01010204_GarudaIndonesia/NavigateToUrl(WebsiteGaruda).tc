@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition :
+
+Akses landing page https://www.blanja.com/tiket/pesawat/garuda-indonesia</description>
+   <name>NavigateToUrl(WebsiteGaruda)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afcdcff9-b604-4e94-a32a-288516977181</testCaseGuid>
+</TestCaseEntity>

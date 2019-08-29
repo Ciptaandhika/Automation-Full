@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number (order 1)
+click Search
+Get Text Verify tulisan 'Pembayaran :Mandiri E-Cash'
+
+Klik 'Batalkan Blanjaan'
+Select reason 
+Klik 'OK' 
+Verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup
+
+isi order Number (order 2 - yang diorder bersamaan dengan order 1)
+click Search
+Verify status blanjaan = 'Telah ditempatkan'</description>
+   <name>Member_OrderList_BCAKLIK_SearchSpesificOrder_KlikBatalkanBlanjaan_VerifyClosedPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a449f209-ed3a-4be8-89d1-0ed58f5fc104</testCaseGuid>
+</TestCaseEntity>

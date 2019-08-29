@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate To url seller Edit Hijab Refresh
+Select option Biaya by Seller</description>
+   <name>EditHijabRefreshWarungKamiBiayaBySeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3ea6d0a-db6e-4ef9-9cc5-da3a61023747</testCaseGuid>
+</TestCaseEntity>

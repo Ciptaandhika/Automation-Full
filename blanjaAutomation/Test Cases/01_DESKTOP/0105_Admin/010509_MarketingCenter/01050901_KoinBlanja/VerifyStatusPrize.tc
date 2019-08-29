@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify status prize</description>
+   <name>VerifyStatusPrize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6b3543b-657a-4d9e-80a4-768cbd4d57d7</testCaseGuid>
+</TestCaseEntity>

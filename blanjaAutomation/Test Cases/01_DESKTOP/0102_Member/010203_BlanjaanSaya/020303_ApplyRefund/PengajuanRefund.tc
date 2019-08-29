@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do refund until it submitted</description>
+   <name>PengajuanRefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c722205-f8cf-4080-8932-ab2f09499b0d</testCaseGuid>
+</TestCaseEntity>

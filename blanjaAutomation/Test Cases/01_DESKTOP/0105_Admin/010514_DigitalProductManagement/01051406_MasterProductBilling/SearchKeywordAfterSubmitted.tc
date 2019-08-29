@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill data on &quot;Search&quot; with keyword product name submitted</description>
+   <name>SearchKeywordAfterSubmitted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>101a45a1-3277-4d58-bba2-9f688f305552</testCaseGuid>
+</TestCaseEntity>

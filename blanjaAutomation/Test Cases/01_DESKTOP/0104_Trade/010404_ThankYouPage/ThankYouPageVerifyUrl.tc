@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Thank You Page
+Direct Penarikan Dana Page</description>
+   <name>ThankYouPageVerifyUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca438360-8a8a-44e4-b0fc-b7d1201a02c7</testCaseGuid>
+</TestCaseEntity>

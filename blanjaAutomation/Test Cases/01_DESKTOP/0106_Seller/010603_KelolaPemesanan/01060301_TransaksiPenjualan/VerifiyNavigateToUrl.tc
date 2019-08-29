@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi halaman yang dituju adalah halaman konfirmasi (Order Details)</description>
+   <name>VerifiyNavigateToUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36b75022-6c83-4262-9b29-7b0d3fcc2c9f</testCaseGuid>
+</TestCaseEntity>

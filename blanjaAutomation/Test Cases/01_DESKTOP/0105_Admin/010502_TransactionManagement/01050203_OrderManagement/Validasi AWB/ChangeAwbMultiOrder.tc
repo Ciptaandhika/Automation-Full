@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ChangeAwbMultiOrder</name>
+   <tag></tag>
+   <comment>OrderNumber 2</comment>
+   <testCaseGuid>0fc7e5a4-640d-4260-a522-7e1cb722be35</testCaseGuid>
+</TestCaseEntity>

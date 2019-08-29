@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik simulasi cicilan
+sistem akan memverifikasi installment payment</description>
+   <name>ClickSimulasiCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d5d32fc-c8fc-4458-ad64-1d071d659ebf</testCaseGuid>
+</TestCaseEntity>

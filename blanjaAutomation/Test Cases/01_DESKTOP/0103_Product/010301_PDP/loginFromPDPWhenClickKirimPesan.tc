@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to PDP page
+klik btn kirim pesan</description>
+   <name>loginFromPDPWhenClickKirimPesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87feb5d8-018d-4187-b0aa-58f2c0ab570a</testCaseGuid>
+</TestCaseEntity>

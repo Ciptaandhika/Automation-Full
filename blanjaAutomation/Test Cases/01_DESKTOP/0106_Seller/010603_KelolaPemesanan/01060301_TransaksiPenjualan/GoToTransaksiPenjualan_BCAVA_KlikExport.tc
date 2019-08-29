@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin-Transaksi Penjualan
+Masukkan nomor order
+Klik tombol Cari
+Verify payment methode = 'Credit Card Installment' atau 'Installment Credit Card' atau 'Kartu Kredit Cicilan'
+Klik 'Detail Pesanan'</description>
+   <name>GoToTransaksiPenjualan_BCAVA_KlikExport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0bc679e-a93c-4843-b6ad-fe3f75488165</testCaseGuid>
+</TestCaseEntity>

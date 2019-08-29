@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Nomor Pesanan</description>
+   <name>VerifyProdukImage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6665aa0-92fa-44d1-853f-2253f3d71170</testCaseGuid>
+</TestCaseEntity>

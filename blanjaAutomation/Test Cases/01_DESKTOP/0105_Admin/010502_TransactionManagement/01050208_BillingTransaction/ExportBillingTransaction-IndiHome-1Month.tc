@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Select product with the dropdown
+- Click button search
+- Click button export</description>
+   <name>ExportBillingTransaction-IndiHome-1Month</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>390300ce-7617-491d-9a07-31684c2bcc65</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create specific TR periode for seller TR
+ - Periode = 9 Agt 2017 - 9 Agt 2017
+ - Take rate = 1.5%
+ - Scope = Seller (seller id = 100433)</description>
+   <name>TakeRateSettingSellerFlatSpesificTime15Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d06290b-9714-4f16-ae74-dffb0c1f341b</testCaseGuid>
+</TestCaseEntity>

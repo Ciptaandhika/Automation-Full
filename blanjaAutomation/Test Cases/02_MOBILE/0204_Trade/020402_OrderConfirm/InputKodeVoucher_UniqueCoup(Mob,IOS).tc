@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Kode Voucher</description>
+   <name>InputKodeVoucher_UniqueCoup(Mob,IOS)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aee9043b-a3ae-4258-bac1-91882cb86ef6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search kupon
+verify kupon</description>
+   <name>KuponSaya_SearchKuponHadiahUndian_Verify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba4a7573-c376-45a8-935a-056ed1682c85</testCaseGuid>
+</TestCaseEntity>

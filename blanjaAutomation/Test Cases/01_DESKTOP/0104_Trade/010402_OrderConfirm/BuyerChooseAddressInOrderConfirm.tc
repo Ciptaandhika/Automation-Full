@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Alamat Lainnya.
+choose Alamat.</description>
+   <name>BuyerChooseAddressInOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f46e70ea-a6d6-4b26-b0bc-b409223577b2</testCaseGuid>
+</TestCaseEntity>

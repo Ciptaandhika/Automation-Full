@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi halaman kategori kesehatan dan kecantikan</description>
+   <name>VerifyKesehatandanKecantikan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42153121-0cc4-4a6b-a98b-ac64d2d03dd3</testCaseGuid>
+</TestCaseEntity>

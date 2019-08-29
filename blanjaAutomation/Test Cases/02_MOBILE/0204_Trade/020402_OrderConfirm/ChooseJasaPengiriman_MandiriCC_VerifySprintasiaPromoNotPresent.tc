@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>ChooseJasaPengiriman_MandiriCC_VerifySprintasiaPromoNotPresent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40a90cd9-742c-44b5-90e4-6ba5e6516b8f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL PDP (harga 50k) WarungKami
+2. Klik tombol Close Gojek, jika ada
+3. Clear Text Box QTY
+4. set Text Box yang sudah di atur di global variable
+5. Button Add to Cart</description>
+   <name>GoToPDPURLPRodukA_WarungKami_AddtoCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eda3b4a5-44be-4963-80eb-25211d3d6697</testCaseGuid>
+</TestCaseEntity>

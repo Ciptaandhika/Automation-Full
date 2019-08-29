@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+- Jika user belum pernah memilih type store maka akan di direct ke halaman typestore
+- pilih button open store (individual store)
+- Input Semua Form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+-  User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi countdown selama 60 detik muncul ketika pertama kali pop OTP muncul
+Kondisi 2 : 
+- Jika user sudah pernah memilih type store maka akan langsung di direct ke halaman form registrasi
+- Input semua form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+- User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi ketika tidak menginputkan kode verifikasi selama 1 menit, maka tombol resend akan muncul kembali dan countdown akan hilang
+- verifikasi countdown selama 60 detik muncul ketika pertama kali pop untuk OTP muncul</description>
+   <name>Verify_Phone_Number_Countdown_Appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24122fa5-cb20-4fe1-99f8-1a2480e573fd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+click tambahkan ke troli.
+click troli.</description>
+   <name>BuyerChooseBabyBlanket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd8430b6-1e36-4480-9411-e9337463de43</testCaseGuid>
+</TestCaseEntity>

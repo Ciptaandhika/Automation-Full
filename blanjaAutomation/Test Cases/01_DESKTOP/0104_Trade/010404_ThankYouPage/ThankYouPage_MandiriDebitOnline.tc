@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_MandiriDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ab3533c-8438-43e3-9168-1e4cbbf4b4dd</testCaseGuid>
+</TestCaseEntity>

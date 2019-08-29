@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk setiap produk: Kurir Standar
+- Klik tab Bank BCA
+- Pilih Klik BCA
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_KlikBCA_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84bffb59-8179-4f3d-9d01-926e1e7c18a5</testCaseGuid>
+</TestCaseEntity>

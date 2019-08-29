@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button see QRCode
+Verify element present
+Verify element clickable</description>
+   <name>seeQRCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a048276-ce4d-4682-aba3-079064f5ed7a</testCaseGuid>
+</TestCaseEntity>

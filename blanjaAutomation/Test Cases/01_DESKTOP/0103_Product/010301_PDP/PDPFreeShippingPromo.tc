@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to show product detail free shipping promotion and click blanja sekarang</description>
+   <name>PDPFreeShippingPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be275289-54eb-4b9f-a986-bc328b64e072</testCaseGuid>
+</TestCaseEntity>

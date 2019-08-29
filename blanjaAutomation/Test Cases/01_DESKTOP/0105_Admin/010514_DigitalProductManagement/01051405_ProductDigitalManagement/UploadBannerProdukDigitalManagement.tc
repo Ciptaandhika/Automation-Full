@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik banner
+ 
+1. Masukkan image yang sesuai ukuran (1920x250 (ukuran contentnya 960 di tengah) Max 300 KB ; mweb : 360x150, 320x135
+Max 50 KB</description>
+   <name>UploadBannerProdukDigitalManagement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a5603fa-3bcd-4ea6-9577-a7a1a651e861</testCaseGuid>
+</TestCaseEntity>

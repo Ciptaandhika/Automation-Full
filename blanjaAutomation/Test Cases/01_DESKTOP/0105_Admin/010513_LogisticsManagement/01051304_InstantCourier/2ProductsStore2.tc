@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button Lanjutkan Pembayaran.</description>
+   <name>2ProductsStore2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa21cfa1-5dfa-4f6c-9810-e02082b0ec5d</testCaseGuid>
+</TestCaseEntity>

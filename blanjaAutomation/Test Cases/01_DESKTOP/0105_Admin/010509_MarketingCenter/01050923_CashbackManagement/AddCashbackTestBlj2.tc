@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah cashback untuk akun testblj2</description>
+   <name>AddCashbackTestBlj2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c443d77-3159-48af-bf09-5f8b959df64a</testCaseGuid>
+</TestCaseEntity>

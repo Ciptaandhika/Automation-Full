@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PCP page
+   - Hobby, Buku &amp; Mainan</description>
+   <name>GoToPDPPage(Hobby)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5320b26e-9da8-402f-a7bb-0f1b0e80bc37</testCaseGuid>
+</TestCaseEntity>

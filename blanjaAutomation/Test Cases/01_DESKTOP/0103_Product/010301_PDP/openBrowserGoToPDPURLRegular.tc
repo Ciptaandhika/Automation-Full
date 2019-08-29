@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browser
+Navigate to URL PDP (harga 5K)
+Clear Text Box QTY
+set Text Box yang sudah di atur di global variable
+click button blanja sekarang</description>
+   <name>openBrowserGoToPDPURLRegular</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be89774f-c702-44c9-ab74-2794061d8667</testCaseGuid>
+</TestCaseEntity>

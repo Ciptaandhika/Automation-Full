@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search suggestion, product popular suggestion and store suggestion is showed</description>
+   <name>verifySearchSuggestion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fede74c-f393-49b0-a7b0-d4a4816fb5a6</testCaseGuid>
+</TestCaseEntity>

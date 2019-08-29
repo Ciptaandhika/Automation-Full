@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ambil alamat url dari produk yang sudah dibuat</description>
+   <name>GetHrefProductPulsaCreated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6760403-28fd-4deb-bbb6-3791398585d2</testCaseGuid>
+</TestCaseEntity>

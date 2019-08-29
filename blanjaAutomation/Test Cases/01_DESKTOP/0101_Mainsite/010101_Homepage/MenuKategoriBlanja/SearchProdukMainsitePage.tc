@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on the mainsite page</description>
+   <name>SearchProdukMainsitePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efddea20-51bb-4b8b-b3f8-d54a6aff2b7a</testCaseGuid>
+</TestCaseEntity>

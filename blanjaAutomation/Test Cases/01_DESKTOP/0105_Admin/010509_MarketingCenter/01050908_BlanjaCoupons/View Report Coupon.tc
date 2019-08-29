@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as an OP, on web admin, want to view Report Coupon
+
+1. on selected code coupon click on 'Report' hyperlink</description>
+   <name>View Report Coupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0ad9db4-a53d-46e1-9743-f5dec9ba40bb</testCaseGuid>
+</TestCaseEntity>

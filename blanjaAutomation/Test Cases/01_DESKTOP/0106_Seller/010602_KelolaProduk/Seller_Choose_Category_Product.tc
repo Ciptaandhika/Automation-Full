@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- seller pilih main category product
+- seller pilih sub category product
+- seller klik lanjutkan</description>
+   <name>Seller_Choose_Category_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>581ddade-73ae-4702-bf92-a2100aca2c11</testCaseGuid>
+</TestCaseEntity>

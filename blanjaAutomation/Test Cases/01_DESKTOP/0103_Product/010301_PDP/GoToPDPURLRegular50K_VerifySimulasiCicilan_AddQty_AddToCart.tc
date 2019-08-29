@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL PDP (harga 50k)
+Verify informasi Simulasi Cicilan 
+Clear Text Box QTY
+set Text Box QTY: 10 pcs
+click button masukkan ke keranjang</description>
+   <name>GoToPDPURLRegular50K_VerifySimulasiCicilan_AddQty_AddToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7f0e1f8-73f1-47f3-9690-6756a0ae991c</testCaseGuid>
+</TestCaseEntity>

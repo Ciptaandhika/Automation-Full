@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit kopi bubuk 150gr pengiriman ditanggung penjual</description>
+   <name>KopiBubukDitanggungPenjual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b7d73c6-4eb7-4ec1-89de-51143a772978</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik punya kode voucher
+- input kupon thematic
+- klik gunakan</description>
+   <name>Input_Thematic_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a297047-c5d6-4c52-85e6-fa6a9bee7e7b</testCaseGuid>
+</TestCaseEntity>

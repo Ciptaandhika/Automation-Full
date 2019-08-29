@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke URL seller.bljstaging.com/items/list/onsales
+- klik edit
+- pilih salah satu produk untuk di edit (misalnya kopi bubuk)
+- Ubah Image Product Tersebut</description>
+   <name>Seller02_Edit_Image_Product_Kopi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45c7089b-9643-484d-bbdd-ab8e13984060</testCaseGuid>
+</TestCaseEntity>

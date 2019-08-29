@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select option by index
+Delay
+Click button BRI
+Delay
+Click button E-Pay BRI
+Delay
+Click Bayar</description>
+   <name>pembayaranByLinkDompetCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f67dbaca-6219-41bf-bc24-0b18bfe44f7b</testCaseGuid>
+</TestCaseEntity>

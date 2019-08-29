@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment with permata VA</description>
+   <name>PaymentPermataVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8657a23-9908-4955-8b62-1b5b6e4a5099</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logistic section is exist. No pick up note</description>
+   <name>VerifyShippingInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>128088f7-3724-4494-a532-03d12b805631</testCaseGuid>
+</TestCaseEntity>

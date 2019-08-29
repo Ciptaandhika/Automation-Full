@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verfikasi checkbox &quot;i have read and agreed seller agreement&quot;
+- verifikasi saat di direct ke halaman konfirmasi status checkbox adalah uncheck</description>
+   <name>Verify_Checkbox_SellerAgreement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fd2657f-d4ea-4381-a879-979aba4d2019</testCaseGuid>
+</TestCaseEntity>

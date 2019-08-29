@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Jasa pengiriman Ninja Xpress tidak menjangkau area pengiriman Anda&quot;</description>
+   <name>VerifyNinjaXpressTidakMenjangkau</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>082914f8-4650-4beb-a2c2-fbefcc5df08c</testCaseGuid>
+</TestCaseEntity>

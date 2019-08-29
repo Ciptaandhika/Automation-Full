@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke salah satu store URL misalnya Warung Kami
+- klik Hubungi Penjual
+- Pada Detail Conversation kirim pesan ke penjual misalnya Halo
+- verifikasi button send dapat di klik ( Hal ini karena verifikasi pesan sukses
+tidak muncul dari sistem saat mengirim pesan(yg muncul alert warning failed send message), sehingga verifikasi di ganti  menjadi button send nya)</description>
+   <name>Member_Send_Message_From_StoreURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e03f5dff-a630-4bf3-966b-ae00836b479c</testCaseGuid>
+</TestCaseEntity>

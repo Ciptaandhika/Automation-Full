@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PLN Microsite</description>
+   <name>GoTo_PLNMicrosite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8299eec8-fa20-4fcc-a522-29ea511fe744</testCaseGuid>
+</TestCaseEntity>

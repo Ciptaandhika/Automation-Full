@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click troli
+verify free shipping not present</description>
+   <name>VerifyFreeShippingNotPresent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cea7c052-e483-479c-bf35-a73cdbed6f27</testCaseGuid>
+</TestCaseEntity>

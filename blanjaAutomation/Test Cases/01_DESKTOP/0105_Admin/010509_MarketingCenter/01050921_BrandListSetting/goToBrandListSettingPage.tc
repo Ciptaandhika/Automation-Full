@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu btn brand list setting
+Verify element href Promo Section</description>
+   <name>goToBrandListSettingPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3702f482-8740-4877-a427-fdeb9fa8237d</testCaseGuid>
+</TestCaseEntity>

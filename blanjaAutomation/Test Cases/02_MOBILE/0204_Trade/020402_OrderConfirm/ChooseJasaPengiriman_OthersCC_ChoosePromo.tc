@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button
+2. choose metode pembayaran Kartu Kredit
+3. Pilih promo diskon
+4. Verifikasi diskon muncul
+5. Klik tombol Bayar</description>
+   <name>ChooseJasaPengiriman_OthersCC_ChoosePromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73c43889-eaaa-47da-891b-6c576ba7e57e</testCaseGuid>
+</TestCaseEntity>

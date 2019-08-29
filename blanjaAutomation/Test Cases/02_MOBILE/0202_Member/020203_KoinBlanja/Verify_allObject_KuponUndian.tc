@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element bellow :
+- image prize dengan ukuran 200 x 100
+ - prize title
+ - exchange koin 
+ - qty tukar
+ - tombol +
+ - tombol -
+ - tombol Tukar
+ - info hadiah akan dimulai
+ - info hadiah akan berakhir</description>
+   <name>Verify_allObject_KuponUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5faf655c-a46c-49f5-b5c5-a57672c1cfb4</testCaseGuid>
+</TestCaseEntity>

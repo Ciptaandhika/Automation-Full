@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href
+Verify element present
+Verify element present</description>
+   <name>clickCta_VerifyPopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41639633-1ae3-4dae-9265-9cf2c17f1de7</testCaseGuid>
+</TestCaseEntity>

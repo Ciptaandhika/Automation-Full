@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click radio button bank BCA 
+2. click radio button BCA Virtual account
+</description>
+   <name>ClickBCAVirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46c32f53-6edf-45ec-bcea-5d59b670cfd4</testCaseGuid>
+</TestCaseEntity>

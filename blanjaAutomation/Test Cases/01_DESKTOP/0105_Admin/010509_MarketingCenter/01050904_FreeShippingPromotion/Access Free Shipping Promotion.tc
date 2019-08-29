@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Free Shipping Promotion
+2. Verify Access  Free Shipping Promotion</description>
+   <name>Access Free Shipping Promotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b84462ca-72f8-45dd-a2bd-0e33117d2f10</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Add Product(s)
+Input Product ID/ Store ID and click Search
+On tab All, select product on other campaign</description>
+   <name>LTDAddProductOtherCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc9c520c-38a9-4105-8920-e332022a2b2a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik btn mengerti upload file</description>
+   <name>SellerUploadExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1944f503-7f27-4f88-9b74-6712202fa7eb</testCaseGuid>
+</TestCaseEntity>

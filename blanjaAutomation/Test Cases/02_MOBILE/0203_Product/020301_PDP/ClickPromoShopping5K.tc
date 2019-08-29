@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik shopping promo 5k</description>
+   <name>ClickPromoShopping5K</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05128bae-d712-4ae2-8436-d5402ac705b9</testCaseGuid>
+</TestCaseEntity>

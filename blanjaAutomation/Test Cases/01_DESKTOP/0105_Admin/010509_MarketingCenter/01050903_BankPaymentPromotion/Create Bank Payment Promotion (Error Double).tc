@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin should not be able to create Bank Card Promo - Installment for similar condition
+1. click on 'Add Promotion' button
+2. Create campaign
+and duplicate condition with promo name
+- Installment Plan = 06 month | 0% inst = YES
+3. click SAVE
+
+Note :
+Promo name harus ada terlebih dahulu yang sama, biar sukses verify</description>
+   <name>Create Bank Payment Promotion (Error Double)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e62e9b2-4246-4185-912c-48da893c6d24</testCaseGuid>
+</TestCaseEntity>

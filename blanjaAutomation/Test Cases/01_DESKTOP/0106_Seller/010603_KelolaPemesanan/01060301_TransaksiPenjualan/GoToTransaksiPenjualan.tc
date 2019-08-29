@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To URL Transaksi Penjualan
+2. Isi Nomor Order
+3. Klik tombol Cari
+4. Delay 20s
+5. Verify Text 'BCA VA'
+6. Verify Text 'Paid'
+7. Delay 2s
+8. Klik tombol Detail Pesananan
+9. Verify Text 'BCA VA'
+
+
+</description>
+   <name>GoToTransaksiPenjualan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22079ca9-1e05-49b4-a050-be7880724dd6</testCaseGuid>
+</TestCaseEntity>

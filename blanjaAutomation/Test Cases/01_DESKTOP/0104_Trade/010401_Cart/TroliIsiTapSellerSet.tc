@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. In column &quot;jumlah&quot; tap up or down on qty field
+2 if admin 'set max qty each buyer can order' = 1, then buyer order 2 product, system will display validation pop-up and need buyer to reduced the qty then 'add' qty button still enable
+3 if buyer order 5 products and all are supported FP promotion, customer still can adds them to cart
+4 if  stocks are already depleted, 'add' button will be disabled
+
+</description>
+   <name>TroliIsiTapSellerSet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a151a56-5b41-4221-8a21-25377526c367</testCaseGuid>
+</TestCaseEntity>

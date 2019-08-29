@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input code cupon costum</description>
+   <name>Coupon Code Unique 20k - 2 coupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80ddc240-649c-4bfe-81d5-94a4a76449ac</testCaseGuid>
+</TestCaseEntity>

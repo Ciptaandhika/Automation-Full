@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- create campaign dengan all criteria NO
+- isi seluruh field lottery prize
+- klik save</description>
+   <name>Create_LotteryPrize_NoALL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc9b0c18-78ee-4ba1-836d-267fbc3a47c6</testCaseGuid>
+</TestCaseEntity>

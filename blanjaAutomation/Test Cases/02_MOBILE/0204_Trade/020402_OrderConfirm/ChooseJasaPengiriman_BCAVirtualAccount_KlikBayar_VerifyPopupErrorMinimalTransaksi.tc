@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BCA
+- Pilih BCA Virtual Account
+- Klik button Bayar
+- Verify popup 'Minimal transaksi....'
+- Klik OK</description>
+   <name>ChooseJasaPengiriman_BCAVirtualAccount_KlikBayar_VerifyPopupErrorMinimalTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6126eaf3-c574-4187-a73b-7ba5dcd9bc67</testCaseGuid>
+</TestCaseEntity>

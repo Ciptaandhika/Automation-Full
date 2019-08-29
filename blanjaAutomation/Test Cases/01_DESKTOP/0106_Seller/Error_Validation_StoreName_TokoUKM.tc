@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input lebih dari 30 karakter pada form Storename
+- validasi label warning error yang muncul</description>
+   <name>Error_Validation_StoreName_TokoUKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71091c4b-aa8e-4236-a024-37b16ddb4546</testCaseGuid>
+</TestCaseEntity>

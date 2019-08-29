@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Click button save
+Verify text present</description>
+   <name>verifyErrorScanningLess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1c63e05-16b4-41b4-987c-d3218a8e6307</testCaseGuid>
+</TestCaseEntity>

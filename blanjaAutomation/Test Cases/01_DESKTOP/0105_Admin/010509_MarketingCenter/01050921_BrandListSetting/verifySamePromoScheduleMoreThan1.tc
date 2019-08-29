@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify same promo has been created more than 1</description>
+   <name>verifySamePromoScheduleMoreThan1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b92ac691-0b70-4b60-98f9-fd5c072bfc9b</testCaseGuid>
+</TestCaseEntity>

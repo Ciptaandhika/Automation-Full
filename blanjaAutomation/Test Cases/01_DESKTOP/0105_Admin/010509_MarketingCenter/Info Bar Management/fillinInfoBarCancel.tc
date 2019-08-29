@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set txtXontextText empty
+click btn save</description>
+   <name>fillinInfoBarCancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3aa4bf1f-49ba-4237-b2de-249de7e325ce</testCaseGuid>
+</TestCaseEntity>

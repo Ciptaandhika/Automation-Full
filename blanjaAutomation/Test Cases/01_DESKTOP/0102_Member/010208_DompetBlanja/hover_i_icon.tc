@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- isi semua form untuk penarikan dana
+- click button submit
+- hover ke tooltips</description>
+   <name>hover_i_icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da01c65e-dae5-4494-b668-969284b87462</testCaseGuid>
+</TestCaseEntity>

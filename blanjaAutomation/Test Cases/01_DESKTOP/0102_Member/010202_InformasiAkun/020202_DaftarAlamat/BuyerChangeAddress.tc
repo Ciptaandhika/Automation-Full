@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click edit button
+Input field to be changed.
+Click Save button</description>
+   <name>BuyerChangeAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6d6ebd8-05af-42cc-bbcb-6b30e07718b2</testCaseGuid>
+</TestCaseEntity>

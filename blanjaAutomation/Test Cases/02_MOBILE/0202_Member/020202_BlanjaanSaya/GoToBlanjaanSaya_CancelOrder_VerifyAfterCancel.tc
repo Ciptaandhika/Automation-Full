@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya mweb
+- Klik tombol Petunjuk Pembayaran
+- Get Total Payment
+- Klik tombol 'X'
+- Klik tombol Batalkan
+- Pilih alasan pembatalan
+- Klik tombol OK
+- Verify status 'Tutup'
+- Klik tombol Petunjuk Pembayaran
+- Verify Total Payment</description>
+   <name>GoToBlanjaanSaya_CancelOrder_VerifyAfterCancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bac78382-cb44-4446-bb84-dc61edbfc3b4</testCaseGuid>
+</TestCaseEntity>

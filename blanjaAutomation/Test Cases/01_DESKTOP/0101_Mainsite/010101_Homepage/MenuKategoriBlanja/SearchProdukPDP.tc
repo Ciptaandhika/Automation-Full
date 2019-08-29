@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on the PDP</description>
+   <name>SearchProdukPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da1f345c-805a-48db-9643-81cd48983a3c</testCaseGuid>
+</TestCaseEntity>

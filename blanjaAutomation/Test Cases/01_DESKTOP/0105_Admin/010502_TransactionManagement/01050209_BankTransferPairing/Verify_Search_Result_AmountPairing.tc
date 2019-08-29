@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input amount code
+- klik search
+- verify search result</description>
+   <name>Verify_Search_Result_AmountPairing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a100aa74-5cb0-4829-b6f1-269c4036b8eb</testCaseGuid>
+</TestCaseEntity>

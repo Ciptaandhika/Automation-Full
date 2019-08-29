@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select DD Propinsi Lokasi Toko
+Click Btn Lanjutkan Edit Produk
+Verify Produk Dijual</description>
+   <name>DetailEditProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f015274-8594-4b7a-b538-996c0d87964d</testCaseGuid>
+</TestCaseEntity>

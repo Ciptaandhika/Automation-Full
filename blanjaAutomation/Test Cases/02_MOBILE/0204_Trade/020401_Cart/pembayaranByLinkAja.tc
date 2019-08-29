@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select option by index
+Delay
+Click button BRI
+Delay
+Click button E-Pay BRI
+Delay
+Click Bayar</description>
+   <name>pembayaranByLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e94e184-2c22-4e55-879b-b76d57b9d4e6</testCaseGuid>
+</TestCaseEntity>

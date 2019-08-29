@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Name From Store List in Index Exclude Store Being Verified Page Case TCT-BVBUY019</description>
+   <name>EBVIndexSearchName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6621285a-125d-48f0-acda-e9d6874aacdb</testCaseGuid>
+</TestCaseEntity>

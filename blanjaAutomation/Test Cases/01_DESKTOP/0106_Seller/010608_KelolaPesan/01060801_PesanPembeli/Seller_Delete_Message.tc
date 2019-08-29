@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada menu message list pilih / check beberapa pesan (misalnya 2 pesan)
+- Klik Delete / Hapus Pesan</description>
+   <name>Seller_Delete_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b849b582-000b-44cc-a02f-becaa1574b31</testCaseGuid>
+</TestCaseEntity>

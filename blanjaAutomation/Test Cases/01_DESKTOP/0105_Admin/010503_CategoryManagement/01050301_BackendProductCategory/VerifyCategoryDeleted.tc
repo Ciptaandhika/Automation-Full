@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke Admin Edit Back End Category
+Click Btn Root Back End
+Click Butn Fashion Category Switch
+Click Btn Fashion Category
+Verify Kategory Sudah di delete</description>
+   <name>VerifyCategoryDeleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c357c15d-0689-4879-8eef-ea6de08f34f5</testCaseGuid>
+</TestCaseEntity>

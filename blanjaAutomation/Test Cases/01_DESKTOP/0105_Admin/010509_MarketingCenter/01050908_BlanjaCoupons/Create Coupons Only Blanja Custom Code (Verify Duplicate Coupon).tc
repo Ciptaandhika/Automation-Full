@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as an OP, on web admin want to create thematic coupon with input similar code coupon + similar time range
+
+Note :
+Harus membuat kupon yang nama nya sama dengan global variable agar bisa mendapatkan error message</description>
+   <name>Create Coupons Only Blanja Custom Code (Verify Duplicate Coupon)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a69be6b9-e3d2-4160-a952-10bed266473b</testCaseGuid>
+</TestCaseEntity>

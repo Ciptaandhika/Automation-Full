@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn Promo Schedulee</description>
+   <name>ensureDirectToPromoScheduleeIsPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a30c3bc7-5557-41e3-aa84-679a23770553</testCaseGuid>
+</TestCaseEntity>

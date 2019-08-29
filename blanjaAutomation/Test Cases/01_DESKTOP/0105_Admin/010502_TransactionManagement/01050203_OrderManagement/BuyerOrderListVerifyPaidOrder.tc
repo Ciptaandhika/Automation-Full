@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik Button Close Tcash
+2. Select Order State Paid
+3. Click button search
+4.Verify Countdown in Order List</description>
+   <name>BuyerOrderListVerifyPaidOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffc7ed61-bf86-4730-8149-68b67916aff9</testCaseGuid>
+</TestCaseEntity>

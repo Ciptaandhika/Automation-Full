@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Seller navigate ke  https://seller.bljstaging.com/items/list/onsales
+- Klik Edit salah satu product
+- Input All Form dari produk tersebut
+- Klik Lanjutkan</description>
+   <name>Seller02_Edit_Produk_Without_InputURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1edd9308-aa35-4b0c-bef2-241321c0bfd1</testCaseGuid>
+</TestCaseEntity>

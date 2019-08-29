@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman message list (seller) search message berdasarkan nama sender (input kondisi invalid)
+- verifikasi pesan tidak ditemukan</description>
+   <name>Search_Message_By_Sender_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7328fb15-c60d-44e1-a4d4-ac1e314aeafe</testCaseGuid>
+</TestCaseEntity>

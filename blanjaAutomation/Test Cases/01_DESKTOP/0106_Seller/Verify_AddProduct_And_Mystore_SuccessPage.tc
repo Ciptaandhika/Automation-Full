@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi terdapat button add product / tambahkan product dan masuk ke toko saya /mystore pada halaman success page (Individual Store)</description>
+   <name>Verify_AddProduct_And_Mystore_SuccessPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f40bbe84-e3b9-41d1-8cee-8388bc33c23b</testCaseGuid>
+</TestCaseEntity>

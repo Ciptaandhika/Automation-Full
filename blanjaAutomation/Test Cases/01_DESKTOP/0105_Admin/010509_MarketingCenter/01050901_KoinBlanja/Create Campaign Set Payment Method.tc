@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+4. Input Campaign Name
+5. Pilih Campaign time
+6. Pilih Points Expiration Time
+7. Tick Use Redeem Time
+8. Pilih start date &amp; end date redeem time
+9. Input threshold
+10. Tick Applies Multiply
+11. Pilih Use Criteria = No
+12. Set Extra Koin untuk payment method, select payment method
+13. Input Prize
+14. Klik Save</description>
+   <name>Create Campaign Set Payment Method</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1246e2a7-a409-42a0-9e96-df7452da0c90</testCaseGuid>
+</TestCaseEntity>

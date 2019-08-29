@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer choose jasa pengiriman ninja xpress</description>
+   <name>ChooseNinjaXpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d47ff52b-1c54-427e-8481-a7682792b80c</testCaseGuid>
+</TestCaseEntity>

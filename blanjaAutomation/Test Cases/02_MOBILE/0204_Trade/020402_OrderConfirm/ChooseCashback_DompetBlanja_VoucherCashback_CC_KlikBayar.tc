@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'mandiri 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseCashback_DompetBlanja_VoucherCashback_CC_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dec5d2d9-4b3c-408d-b00a-41855e7cd448</testCaseGuid>
+</TestCaseEntity>

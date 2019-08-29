@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>clik icon list dan sistem akan menampilkan semua produk kategori</description>
+   <name>HumbergerMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0115b53-fa39-44af-a786-783cee76c62c</testCaseGuid>
+</TestCaseEntity>

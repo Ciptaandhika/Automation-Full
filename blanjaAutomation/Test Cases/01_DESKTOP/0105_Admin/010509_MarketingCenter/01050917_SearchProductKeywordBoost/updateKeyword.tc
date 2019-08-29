@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn &quot;update&quot;</description>
+   <name>updateKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8798266-be09-4838-9544-086de70428c4</testCaseGuid>
+</TestCaseEntity>

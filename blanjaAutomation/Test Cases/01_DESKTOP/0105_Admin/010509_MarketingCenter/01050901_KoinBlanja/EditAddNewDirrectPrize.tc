@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click edit
+add new direct price
+set title
+set image
+se exchange koin
+set bind coupon
+set start time
+set end time
+set auto</description>
+   <name>EditAddNewDirrectPrize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33ab3806-4c14-4c34-9bde-59f87aaa3a55</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Pos
+Get Label Pos
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment CIMB Debit Campaign Unique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3eb3fa66-2475-4a1d-9fb5-615ddefe42aa</testCaseGuid>
+</TestCaseEntity>

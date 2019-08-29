@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search product free shippingg promotion</description>
+   <name>SearchProductFSP1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6c7ea2a-ec01-4010-bcac-eadb35333bb1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- go to pdp url 5k
+- set qty 10
+- klik troli</description>
+   <name>PDPURLWarungKita5kQTY10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c15a4db-3990-4859-882a-395658984be2</testCaseGuid>
+</TestCaseEntity>

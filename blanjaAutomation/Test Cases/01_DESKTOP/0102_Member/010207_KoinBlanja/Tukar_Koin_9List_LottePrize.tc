@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User login as buyer di halaman desktop
+ 2. Dari header profile/ Sidebar Akun Saya klik Koin Blanja 3. Desktop menampilkan halaman Koin Blanja 4. Klik tab Hadian Undian 5. Buyer memilih prize 5 di tab Hadiah Undian, dengan jumlah yang akan ditukar = 1 6. Klik tombol Tukar 7. Tab Hadiah Undian menampilkan pop-up konfirmasi, klik Ya 8. Tab Undian menampilkan pop-up berhasil tukar koin</description>
+   <name>Tukar_Koin_9List_LottePrize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcd8e182-f5c6-463c-a35e-e33632865895</testCaseGuid>
+</TestCaseEntity>

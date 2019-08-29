@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access blanja.com
+2. Go to menu category
+3. Click one category
+When user click a category it redirects to page search result</description>
+   <name>ClickOneSubCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee70e182-9562-49b2-b172-a3d44e53a81f</testCaseGuid>
+</TestCaseEntity>

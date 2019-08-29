@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose bca virtual account.</description>
+   <name>ChoosePayment_BCAVA_TanpaKonfirmasiPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9bf038d-0cae-4f28-8213-c08593507fe3</testCaseGuid>
+</TestCaseEntity>

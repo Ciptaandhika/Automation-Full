@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access admin
+2. Go to Bank Payment Promotion
+3. Set a promo using MDR Charge</description>
+   <name>Ensure Admin cant set MDR charge</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e16bfc88-a04e-40d4-b2e0-8494d13a2dc2</testCaseGuid>
+</TestCaseEntity>

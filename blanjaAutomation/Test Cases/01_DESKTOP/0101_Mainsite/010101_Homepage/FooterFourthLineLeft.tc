@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element, hover and click 'Kerjasama Strategis' image
+Verify element, hover and click 'Keamanan Transaksi' image</description>
+   <name>FooterFourthLineLeft</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f54cb6f9-3767-40d1-bce4-7a4873726560</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih jasa pengiriman kurir standar
+- klik finpay</description>
+   <name>OrderConfirm_KlikFinPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c72ce866-d0e1-4d87-829f-152b4c5d74d7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan ke hal produk blanja fashion</description>
+   <name>VerifyEbayBlanjaNotShowed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>164b4853-d132-468f-8e8d-6cca393c2e09</testCaseGuid>
+</TestCaseEntity>

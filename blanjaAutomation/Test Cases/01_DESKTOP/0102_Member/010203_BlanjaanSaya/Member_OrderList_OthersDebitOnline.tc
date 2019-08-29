@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Get Text Last Order dan di simpan di Global Variable
+Get Text Verify Pembayaran
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.</description>
+   <name>Member_OrderList_OthersDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a576f5f1-7238-4af1-821e-f8686c7f1e97</testCaseGuid>
+</TestCaseEntity>

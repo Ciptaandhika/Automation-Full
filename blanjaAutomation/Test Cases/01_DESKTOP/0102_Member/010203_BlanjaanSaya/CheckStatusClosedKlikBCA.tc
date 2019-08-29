@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check a transaction with payment via klik BCA, make sure buyer can't pay if status closed</description>
+   <name>CheckStatusClosedKlikBCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f753ec58-628b-4269-9439-e2f211098c32</testCaseGuid>
+</TestCaseEntity>

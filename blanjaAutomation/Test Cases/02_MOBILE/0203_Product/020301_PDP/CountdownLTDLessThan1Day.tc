@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan time limit dan value diskon</description>
+   <name>CountdownLTDLessThan1Day</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d20de13d-116e-4a29-9e77-0be87f640041</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi phone number field jika kosong maka akan muncul pesan error  ''Mohon Masukan Nomor Telepon''
+-  jika nomor telepon yang di inputkan kurang dari 8 atau lebih dari 12 maka akan muncul pesan error ''ini bukan nomor telepon yang valid''
+- jika nomor telepon sudah terdaftar maka gunakan nomor telepon yang lain</description>
+   <name>Error_Validation_PhoneNumberField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>906f56d3-a604-4947-b533-9c3af7087244</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy pulsa from landing page</description>
+   <name>BuyPulsaLandingPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd98c6a-294a-45ea-8a51-5215afa8f9c7</testCaseGuid>
+</TestCaseEntity>

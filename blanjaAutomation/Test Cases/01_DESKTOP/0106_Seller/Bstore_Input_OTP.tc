@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik checkbox 
+- klik lanjutkan
+- pada pop up OTP input misalnya 1 
+- verify button verifikasi enable ketika 6 digit OTP di inputkan</description>
+   <name>Bstore_Input_OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56501d5d-09e6-4b2e-934f-eefde98ecc36</testCaseGuid>
+</TestCaseEntity>

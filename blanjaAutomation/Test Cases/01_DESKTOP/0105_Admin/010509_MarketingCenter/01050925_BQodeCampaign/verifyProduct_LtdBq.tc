@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present</description>
+   <name>verifyProduct_LtdBq</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d21b22c5-ded6-44c2-bbb0-a5dfe9421595</testCaseGuid>
+</TestCaseEntity>

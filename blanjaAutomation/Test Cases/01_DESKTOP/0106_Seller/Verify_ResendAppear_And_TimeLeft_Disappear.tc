@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+- Jika user belum pernah memilih type store maka akan di direct ke halaman typestore
+- pilih button open store (individual store)
+- Input Semua Form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+-  User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi ketika tidak menginputkan kode verifikasi selama 1 menit, maka tombol resend akan muncul kembali dan countdown akan hilang
+Kondisi 2 : 
+- Jika user sudah pernah memilih type store maka akan langsung di direct ke halaman form registrasi
+- Input semua form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+- User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi ketika tidak menginputkan kode verifikasi selama 1 menit, maka tombol resend akan muncul kembali dan countdown akan hilang</description>
+   <name>Verify_ResendAppear_And_TimeLeft_Disappear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84892673-0473-437d-a498-736c41e920d4</testCaseGuid>
+</TestCaseEntity>

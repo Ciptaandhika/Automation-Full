@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go To Order Management
+2. Select Order State Paid
+3. Click button search
+4. Display Order List</description>
+   <name>AdminOrderList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99c799bd-8aea-434c-b618-d23e24c1ea26</testCaseGuid>
+</TestCaseEntity>

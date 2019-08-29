@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser
+Maximize Window
+Navigate to URL
+Set text username
+Set text password
+Click button login</description>
+   <name>LoginBuyer06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95120e60-4159-405d-960f-310fdd7b74ce</testCaseGuid>
+</TestCaseEntity>

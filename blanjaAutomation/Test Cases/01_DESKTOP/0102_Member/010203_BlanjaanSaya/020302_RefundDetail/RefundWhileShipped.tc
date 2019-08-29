@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Refund process of kopi bubuk</description>
+   <name>RefundWhileShipped</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55db42ff-6a9a-413f-b4c5-7340e51af4c5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click pln in microsite and verify that token and billing radio button appear</description>
+   <name>ClickPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>422c6194-9455-4d0b-bd98-41acb80b6953</testCaseGuid>
+</TestCaseEntity>

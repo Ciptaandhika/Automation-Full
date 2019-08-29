@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click All.
+Fill Take Rate Flat.
+Choose Category Group.
+Click Save.
+</description>
+   <name>TakeRate_Product5k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58d61d3e-4009-4f2a-a27f-3d912ee50985</testCaseGuid>
+</TestCaseEntity>

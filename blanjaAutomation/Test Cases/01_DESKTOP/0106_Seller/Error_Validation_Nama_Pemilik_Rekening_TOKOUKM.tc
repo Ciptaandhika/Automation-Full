@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- isi form nama pemilik rekening dengan angka
+- verify label &quot;Nama Pemilik Rekening hanya boleh diisi dengan karakter (A-Z a-z dan spasi)</description>
+   <name>Error_Validation_Nama_Pemilik_Rekening_TOKOUKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10ab1771-b339-457e-a53c-46c7daf613c8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present &quot;btn Create Schedule&quot;</description>
+   <name>verifyBtnCreateSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a88ba7b9-8ecc-4c3c-839d-793103fb069d</testCaseGuid>
+</TestCaseEntity>

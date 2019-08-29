@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To URL Order Management
+isi order Number 
+click Search 
+Get Payment Code
+Verify tulisan &quot;Payment Method :BNI VA (BNI)&quot; tampil
+Click Order Details
+Verify tulisan &quot;Payment Method :BNI VA (BNI)&quot; di Order Details tampil</description>
+   <name>OrderManagementBNIVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13bfb88a-3ae7-4389-81db-06e6222bfa34</testCaseGuid>
+</TestCaseEntity>

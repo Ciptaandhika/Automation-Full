@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search produk
+klik btn cari</description>
+   <name>SearchProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6d9134d-1cb4-4bd8-9fe8-445c7824c439</testCaseGuid>
+</TestCaseEntity>

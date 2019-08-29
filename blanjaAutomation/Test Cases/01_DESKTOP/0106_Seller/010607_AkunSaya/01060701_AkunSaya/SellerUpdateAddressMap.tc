@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose Alamat Pengiriman.
+click Ubah.
+click Choose Location.</description>
+   <name>SellerUpdateAddressMap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6544139d-0dda-457a-86a6-8b42216d8cf1</testCaseGuid>
+</TestCaseEntity>

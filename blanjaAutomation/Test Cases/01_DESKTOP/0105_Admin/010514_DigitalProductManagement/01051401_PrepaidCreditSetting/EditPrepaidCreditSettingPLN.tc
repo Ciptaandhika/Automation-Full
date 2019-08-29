@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID and click button edit
+- Edit attribute
+- Click button update
+- Search SKUID and check for the result</description>
+   <name>EditPrepaidCreditSettingPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60d3aa58-b9b6-4c0c-a952-67a66666306c</testCaseGuid>
+</TestCaseEntity>

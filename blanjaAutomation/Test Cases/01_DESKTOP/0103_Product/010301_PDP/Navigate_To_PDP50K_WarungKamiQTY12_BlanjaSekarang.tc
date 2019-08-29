@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate URL sunsilk 50k
+- set qty 12
+- klik blanja sekarang</description>
+   <name>Navigate_To_PDP50K_WarungKamiQTY12_BlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>659ed54a-fb84-496f-95a6-70cd5c34f698</testCaseGuid>
+</TestCaseEntity>

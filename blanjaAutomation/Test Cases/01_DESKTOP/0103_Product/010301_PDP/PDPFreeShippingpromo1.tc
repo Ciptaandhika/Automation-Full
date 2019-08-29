@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>shipping address cover by campaign</description>
+   <name>PDPFreeShippingpromo1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca77cfb7-1972-4ad2-b3d1-d44fcf3e200d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On order confirm page, click 'add new address'
+2. system will display add new address pop-up page, fill the blank fields  then save to adding new address and will auto selected, if user set address as default</description>
+   <name>OrderConfirmPagePickupInStoreVerify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c05b971b-3af0-4ba3-9138-edf4d867f1ed</testCaseGuid>
+</TestCaseEntity>

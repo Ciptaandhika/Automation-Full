@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik button Kode Voucher
+- Set text Kode Voucher
+- Klik button Gunakan
+- Klik dropdown VA
+- Klik slider LinkAja
+- Set text Jumlah
+- Klik button Bayar
+- Get URL
+- Verify contains</description>
+   <name>ChooseJasaPengiriman_Kupon_LinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4a1f74b-6055-43ba-b222-74db860cfecc</testCaseGuid>
+</TestCaseEntity>

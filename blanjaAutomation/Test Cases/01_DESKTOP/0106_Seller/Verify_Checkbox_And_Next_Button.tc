@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi checkbox setelah di check dan tombol lanjutkan </description>
+   <name>Verify_Checkbox_And_Next_Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>389c5d73-9e3d-4390-8941-b0c726a697e1</testCaseGuid>
+</TestCaseEntity>

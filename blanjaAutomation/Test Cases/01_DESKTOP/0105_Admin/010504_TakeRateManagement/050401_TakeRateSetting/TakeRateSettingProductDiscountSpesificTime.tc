@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin shows Set Take rate page
+ 2. Input Period = specific time (start date - end date)
+ 3. Take rate = flat
+ 4. Scope = Seller, and input Seller ID
+ 5. Click Save button
+
+1. Take rate for seller is created</description>
+   <name>TakeRateSettingProductDiscountSpesificTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdaafb12-67a2-4913-bbae-9239171d778f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify order status &quot;shipped&quot;.</description>
+   <name>VerifyOrderShipped</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed26599b-96e7-42fe-9586-c344eab670e8</testCaseGuid>
+</TestCaseEntity>

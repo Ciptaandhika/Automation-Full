@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- member register / daftar akun baru dengan mengisi form 
+  1. Username
+  2.  Email
+  3. Checklist Gender
+  4.  Password
+
+ - terdapat jeda 15 detik untuk menginputkan captha secara     manual
+- member klik daftar
+
+
+Note : 
+
+Jika data di global variabel sudah terdaftar maka valuenya bisa diubah terlebih dahulu untuk proses registrasi
+</description>
+   <name>Member_Register_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58134d86-12e1-47d3-8fb8-98171cbce0e3</testCaseGuid>
+</TestCaseEntity>

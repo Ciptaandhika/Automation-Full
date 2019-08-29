@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre condition : 
+Seller sudah memiliki toko dengan status approved (Seller01 - Warungkami)
+
+- Seller akses salah satu link ukm event (https://member.bljstaging.com/ukmbukatoko/registernewstore)
+- klik masuk disini
+- seller input username dan password
+</description>
+   <name>Seller_Login_From_UKM_Link_Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da8fbd36-ab94-42ec-a564-198422d9b202</testCaseGuid>
+</TestCaseEntity>

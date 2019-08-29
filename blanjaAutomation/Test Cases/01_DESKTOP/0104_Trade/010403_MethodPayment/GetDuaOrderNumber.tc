@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get untuk dua order number di satu pembayaran 
+jadi untuk pemilihan method payment hanya click method payment saja 
+</description>
+   <name>GetDuaOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f59c989-25fe-4f74-9e92-8355838ce942</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the recommendation product</description>
+   <name>ProdukRekomendasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e61810fd-ffe4-4f28-97a3-021f1ddb5eb7</testCaseGuid>
+</TestCaseEntity>

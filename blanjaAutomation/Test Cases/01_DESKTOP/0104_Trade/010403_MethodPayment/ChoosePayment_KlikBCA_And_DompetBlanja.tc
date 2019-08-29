@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik toggle dompet blanja
+- input 100
+- input password dompet blanja
+- pilih klik bca
+- input user klik bca
+- klik lanjutkan pembayaran</description>
+   <name>ChoosePayment_KlikBCA_And_DompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e1b9d48-f89f-4b2c-8699-9ade9de305c4</testCaseGuid>
+</TestCaseEntity>

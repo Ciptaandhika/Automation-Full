@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User placed order #3 dengan menggunakan :
+- VA = 2.000
+- T-cash = 4.000
+sehingga balance = 5.000 dan freezed amount = 2.000</description>
+   <name>ChoosePaymentDompetBlanja4000AndTCash5000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0177f083-9757-48e3-a80a-3dded92c900b</testCaseGuid>
+</TestCaseEntity>

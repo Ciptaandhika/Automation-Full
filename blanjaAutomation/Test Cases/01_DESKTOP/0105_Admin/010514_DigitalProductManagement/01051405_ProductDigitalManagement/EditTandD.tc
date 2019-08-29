@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit T&amp;D
+
+1. Klik Edit T&amp;D
+2. Masukkan Title (PULSA |BLANJA.COM)
+3. Masukkan Description (Testing banner combine SEO)
+4. Save</description>
+   <name>EditTandD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1476d1ba-234f-482b-a10b-eb2843cb98dc</testCaseGuid>
+</TestCaseEntity>

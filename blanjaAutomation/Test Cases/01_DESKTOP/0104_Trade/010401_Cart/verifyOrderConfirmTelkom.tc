@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Transaction will direct to &quot;Order Confirm&quot; page</description>
+   <name>verifyOrderConfirmTelkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>202c453d-6da7-4a67-be97-537a5cccbd21</testCaseGuid>
+</TestCaseEntity>

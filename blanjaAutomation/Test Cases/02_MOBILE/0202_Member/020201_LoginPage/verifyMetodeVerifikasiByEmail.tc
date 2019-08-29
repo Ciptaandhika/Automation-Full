@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check radio button</description>
+   <name>verifyMetodeVerifikasiByEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5adb4ffc-bf8f-4e3b-ab58-f1bdae571baa</testCaseGuid>
+</TestCaseEntity>

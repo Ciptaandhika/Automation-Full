@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url
+click button close GoSend</description>
+   <name>NavigateProductOffshelf</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b022022e-1e7a-45dc-9df4-f83863b2eac7</testCaseGuid>
+</TestCaseEntity>

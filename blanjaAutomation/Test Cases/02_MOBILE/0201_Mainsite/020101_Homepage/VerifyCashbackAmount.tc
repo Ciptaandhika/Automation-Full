@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi Cashback sudah diambil</description>
+   <name>VerifyCashbackAmount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a55f862-4a2e-4587-b52c-4ea7b6872d82</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. The URL should be redirected to www.blanja.com/p/fas/[product name]-[product id]</description>
+   <name>verifyRedirectToPDPProdukID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>102d2d31-3f68-4d1b-906d-66bd62e9091f</testCaseGuid>
+</TestCaseEntity>

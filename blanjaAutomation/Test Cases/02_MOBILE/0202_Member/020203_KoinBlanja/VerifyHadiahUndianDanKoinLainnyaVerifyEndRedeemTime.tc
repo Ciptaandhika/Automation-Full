@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Hadiah Undian and Koin.</description>
+   <name>VerifyHadiahUndianDanKoinLainnyaVerifyEndRedeemTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>743047bd-e2bb-4a4e-9d9f-a40863e475c5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Facebook icon
+Verify url Facebook Blanja</description>
+   <name>ShareToFacebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c22972ac-980d-4da6-b6e8-8d6eb698bfac</testCaseGuid>
+</TestCaseEntity>

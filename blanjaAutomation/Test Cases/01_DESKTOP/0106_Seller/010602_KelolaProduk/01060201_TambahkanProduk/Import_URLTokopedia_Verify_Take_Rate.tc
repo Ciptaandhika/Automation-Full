@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- import produk url tokopedia
+- verify / check berat dari barang yang diimport</description>
+   <name>Import_URLTokopedia_Verify_Take_Rate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>249b097b-4ac2-450f-8800-6818c6e82504</testCaseGuid>
+</TestCaseEntity>

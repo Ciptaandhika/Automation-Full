@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman messagelist seller input text yang akan di cari misalnya Halo
+- klik tombol search
+- verify hasil search berdasarkan keyword Halo</description>
+   <name>Seller_Search_Message_By_Content</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a77d52d-68e8-4d99-ad12-3c371da905a8</testCaseGuid>
+</TestCaseEntity>

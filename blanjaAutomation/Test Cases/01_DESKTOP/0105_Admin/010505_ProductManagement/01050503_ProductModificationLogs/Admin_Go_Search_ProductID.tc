@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada kolom product ID isi 21689348	
+- clear text pada tanggal mulai dan tanggal selesai
+- klik search
+- verify modifiy product</description>
+   <name>Admin_Go_Search_ProductID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25d35521-f949-49ac-8f84-80e388446814</testCaseGuid>
+</TestCaseEntity>

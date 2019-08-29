@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search a product with a keyword search that not meet with any product on the store</description>
+   <name>SearchProdukStoreNotMeet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6afa5a3b-6521-435b-a36f-ab8512f0b522</testCaseGuid>
+</TestCaseEntity>

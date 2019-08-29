@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Edit salah satu product
+- pilih new condition
+- klik lanjutkan</description>
+   <name>Click_New_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80d24bfe-4c95-47d1-9768-4d144a8ac8a0</testCaseGuid>
+</TestCaseEntity>

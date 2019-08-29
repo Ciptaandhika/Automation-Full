@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek admin fee</description>
+   <name>RincianBlanjaanAdminFee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>baddb9a9-94c7-4a92-8792-202a4574037f</testCaseGuid>
+</TestCaseEntity>

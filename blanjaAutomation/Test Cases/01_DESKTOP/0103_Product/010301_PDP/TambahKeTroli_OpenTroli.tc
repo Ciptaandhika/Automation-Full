@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PDP URL
+Click tambah ke troli
+Open troli</description>
+   <name>TambahKeTroli_OpenTroli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fa69d4b-b902-46c1-9067-4c5eda79bca7</testCaseGuid>
+</TestCaseEntity>

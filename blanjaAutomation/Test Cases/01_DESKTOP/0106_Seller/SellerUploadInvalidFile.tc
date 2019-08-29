@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click tab sudah dibayar.
+Click upload nomor resi.
+Click lanjutkan.</description>
+   <name>SellerUploadInvalidFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9ada7a2-d944-4a16-89e0-de0f40ed0170</testCaseGuid>
+</TestCaseEntity>

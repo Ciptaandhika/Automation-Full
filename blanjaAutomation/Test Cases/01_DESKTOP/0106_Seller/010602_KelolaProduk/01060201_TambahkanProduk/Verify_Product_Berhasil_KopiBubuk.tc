@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify produk berhasil ditambahkan dari tombol lanjutkan</description>
+   <name>Verify_Product_Berhasil_KopiBubuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a741ef3-709c-4e47-8518-61fa965f31a3</testCaseGuid>
+</TestCaseEntity>

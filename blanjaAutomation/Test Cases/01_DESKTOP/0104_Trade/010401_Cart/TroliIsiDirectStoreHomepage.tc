@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Tap on shopping cart icon
+2. system will display shopping cart page then tap on store name
+3. System will redirect to store homepage</description>
+   <name>TroliIsiDirectStoreHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a988aafb-171c-4a5f-bce9-4a244d85d445</testCaseGuid>
+</TestCaseEntity>

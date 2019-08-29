@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, user input thematic code coupon on kupon blanja field
+ e.g :
+ product name :
+ code coupon :
+ value coupon :
+ exclude : all promotion
+2. click on 'USE' button
+
+2.1 on payment page, after input code coupon then click on 'USE' button, system will display validation message 'This coupon has been used'
+2.2 check total payment, it shouldn't deducted</description>
+   <name>ChoosePaymentBCAVAUsingThematicCouponOnceUsed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fda846c8-de2f-4b7b-b220-ead08f3d92dd</testCaseGuid>
+</TestCaseEntity>

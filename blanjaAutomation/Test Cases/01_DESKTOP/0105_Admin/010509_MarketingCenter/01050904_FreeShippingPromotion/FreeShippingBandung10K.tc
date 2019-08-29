@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Program Name.
+Fill Promotion Name.
+Select Promotion Time.
+Select Coverage Area.
+Fill Max Cover, Promotion Info, Product, and Treshold.
+Fill Partnership.
+Click Save.</description>
+   <name>FreeShippingBandung10K</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85d193e7-cb35-4b6f-81f1-1522d68d940f</testCaseGuid>
+</TestCaseEntity>

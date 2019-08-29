@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click store name beside store photo</description>
+   <name>ClickDIslandStorePhoto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f552206-b42b-469f-a5b6-8e6116551ce0</testCaseGuid>
+</TestCaseEntity>

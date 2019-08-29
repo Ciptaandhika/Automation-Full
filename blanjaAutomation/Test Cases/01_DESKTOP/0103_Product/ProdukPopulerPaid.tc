@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik produk dengan status paid</description>
+   <name>ProdukPopulerPaid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b530a326-fdb9-41f2-aeb2-194ad5ad97a5</testCaseGuid>
+</TestCaseEntity>

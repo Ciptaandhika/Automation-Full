@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_DompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d21a0f84-42d6-410d-8fe7-fa1d709eaec3</testCaseGuid>
+</TestCaseEntity>

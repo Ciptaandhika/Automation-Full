@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access blanja.com
+2. Go to menu category
+3. Do hover to one category
+The next level of category will be show</description>
+   <name>HoverOneCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>362f7a6b-5494-450c-86d2-89927ffd53d5</testCaseGuid>
+</TestCaseEntity>

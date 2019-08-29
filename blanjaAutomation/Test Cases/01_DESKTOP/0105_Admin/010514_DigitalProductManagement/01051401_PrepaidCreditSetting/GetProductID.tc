@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get product id from url</description>
+   <name>GetProductID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b34eb43-30e9-4a62-897e-912560a5a068</testCaseGuid>
+</TestCaseEntity>

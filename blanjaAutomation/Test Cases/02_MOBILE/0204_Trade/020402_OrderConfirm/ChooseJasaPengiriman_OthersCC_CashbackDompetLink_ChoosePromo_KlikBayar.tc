@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button
+2. choose metode pembayaran Kartu Kredit
+3. Pilih promo diskon
+4. Verifikasi diskon muncul
+5. Klik tombol Bayar</description>
+   <name>ChooseJasaPengiriman_OthersCC_CashbackDompetLink_ChoosePromo_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49ce003f-587b-4458-94e3-169f4d57ec59</testCaseGuid>
+</TestCaseEntity>

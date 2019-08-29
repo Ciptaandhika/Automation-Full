@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik blanjaan saya
+ubah metode pembayaran
+verify total pembayaran</description>
+   <name>ChangePaymentMethod</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1b41dbc-2981-4181-8cf1-e85f8b789f4b</testCaseGuid>
+</TestCaseEntity>

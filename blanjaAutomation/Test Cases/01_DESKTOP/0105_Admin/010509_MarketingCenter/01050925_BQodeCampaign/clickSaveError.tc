@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button save
+Verify text present</description>
+   <name>clickSaveError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28625d75-738b-4cf7-a5bf-c3dbd0a07b25</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ddBrandPilihBaterai</name>
+   <tag></tag>
+   <elementGuidId>7e5dbd0e-1324-4ce0-9bf7-ab225a633bc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@data-produk = 'electronic-brand' and @class = 'blanja-default-form data-spesifikasi-true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>16564</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-produk</name>
+      <type>Main</type>
+      <value>electronic-brand</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mandatory</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blanja-default-form data-spesifikasi-true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Electronic BrandAppleDGIFujifilmLeicaGo ProBricaWindowsNo BrandFantechKamehaEldomDIYTendaLuna G55OEMgoshGamesirShinecon VROctagon VRU Noton VRXiaomi VRLEJI VRFiit VRBOBOVRBaofeng VRTeriosBOBOBIRDSceltechChoetechTronsmartPXNAMD FireproAhhaCapdaseNuanceBuffaloVettoCellyReproUgreenPowerexJawsSonicZinkBLACKVUEBROADLINKPOPCORN HOURLETOUCHEGOMocoloIMAKMARVYAlfa NetworkWellcommSkullcandyRobotSDVEpsonZojirushiKrupsDeLonghiStonicBetterID-CoolingPC CoolerXigmatekLEXMALEADTEKMSIShuttleACMICFORTREK INDONESIAOrivetiNobunaga LabsEM (Eternal Melody)ImpressaZappitiDune HDOpenhourBaofeng SQOneRADIUZSpinfitW-StorAir TecMicGeek Q9TEACSchiitCentrin OnlineGPPutriMaritzaJAVIHocoSmileSailswayAlfalinkAnkerKodakalctronvictoryMeizuHMCKitchenAidRuizuONNYogaBeevoLangsdomGameshockBITSLDNIOYUNTENGTUXUNSkyboxMatrixVenusMMPKaonsatManhattanSkynindoGetmecomFreesatK-VisionArmaggeddonAlcatrozE-BLUERexus INTRAHES SANLYHomicTakstar1MoreEdifierSimgotCypher LabsZero AudioChordiFi AudioCavalli AudioSchiit AudioVorzugeSegotepDigital AllianceMaster&amp;DynamicAudezeFocalAudioquestBowers&amp;WilkinsHifimanDenonBang &amp; OlufsenMarshallTfz SeriesVenture Electronics / VEDzatKineraHeir AudioOcharakuNoble Audio64AudioJH AudioFLCRHA AudioMEE AudioCampfireSensonicXtarMXJOBenjieNintausXduooThonet&amp;VanderFendaSwansAstell&amp;KernBeyerdynamicSennheiserOnkyoHidizsEchoboxTFZPai Audio 3.14FiioGradoMezeThinksounddbe AcousticsAudio TechnnicaRadiusKnowledge ZenithBasicAsatron TensSoundnessMayakaShinyokuEneloopHinohikariMDMSHx-boxtouchVR- BOXRIEM 3I-ROCKSKingstonViky TailoredRENOODLEREICEREBREADNano SuctionBelli To BabyKiwi Kiwi CaseMacbook and ArtsMionixAQUALIFEVarmilo MagicforceCorsair Leopold KBParadiseTopre KUL Vortex Cooler Master CAMDOXXwatch SIDIANcomputing VenturerREAL POWERSMARTFASHION CASEPREMIUMLUMEEMAIFCABLEGivenchyNiceVivanDelcellORIGINALHippoG&amp;U Clear Cast OvlengIkawaiVedinoXminiHello Kitty FerrariGUESSMini CooperBMWADVANKenwoodSamsungXiaomiOppoVivoiPhoneMotorolaSeverinBlackberryNokiaHuaweiCanonNikonAsusKirinOxoneMiyakoSharpJBLSandiskAKGCosmosAPCSchneider ElectricSankenYong MaPhilipsBoseHarman KardonBeats AudioLGWDSonyHitachiToshibaNationalPanasonicLenovoAIFLOPIXELAIFLO DAN PIXELMoviGenius Indo DealzAcubeCX01SpigenZikkoHikaruIndoscreenGoogleMercuryMonocozziAlcatelSymaLuphieLynksysTargusAvantreeRingkeAukeyTotuIwareEnergeaTyrexPlantronicsEzvizMediatechRockXUNDDBenksNillkinRericeRedblendMedusaBrandcodeEPPOSMaximSanexQuantumJabraPNYTranscendWestern DigitalInfocusNOHONBaseusNetwork AdaptersLavazzaGaggiasaecoRapooApacerDeepcoolHavitSteelSeriesOsramRicohSealifeDJITCLBlack &amp; DeckerDaewooDenpooMideaAquaGEACoocaaElectroluxLuxMaspionModenaTurboTP-LinkMDISKLogitechORICOTaffwareLinksysAdvanceGADMEInetisMitshubishiAdataLaneyYamahaSanyoSankyoDaikinReenairAltec LansingOtterboxOpro9GMCMiliRomanZolaRomanceUneedBelkinVidvieCennotechEternityLog-OnReproUSAMSTEWE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result-spesifikasi&quot;)/div[@class=&quot;form-group-row&quot;]/div[@class=&quot;data-produk&quot;]/select[@class=&quot;blanja-default-form data-spesifikasi-true&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='result-spesifikasi']/div/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu belum megisi Electronic Brand'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Varian'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//select</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to URL admin login
+isi username admin
+isi password admin
+klik submit</description>
+   <name>LoginAdminMainsite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aee35293-7705-424d-9b7e-072d3dcb0630</testCaseGuid>
+</TestCaseEntity>

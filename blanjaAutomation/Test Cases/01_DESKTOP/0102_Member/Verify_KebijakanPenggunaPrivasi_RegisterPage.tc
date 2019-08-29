@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi link Perjanjian Pengguna dan Kebijakan Privasi muncul pop up saat di klik</description>
+   <name>Verify_KebijakanPenggunaPrivasi_RegisterPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc870ad0-14b2-4705-b556-40d2bb802c22</testCaseGuid>
+</TestCaseEntity>

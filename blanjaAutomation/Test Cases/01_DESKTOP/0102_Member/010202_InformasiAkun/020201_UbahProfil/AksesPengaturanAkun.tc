@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Verifikasi Nomor Telepon
+Website will display phone number verification page
+Enter OTP code on Kode Verifikasi and click Verifikasi</description>
+   <name>AksesPengaturanAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f2de6c-f82e-44be-823f-3dc106ab0158</testCaseGuid>
+</TestCaseEntity>

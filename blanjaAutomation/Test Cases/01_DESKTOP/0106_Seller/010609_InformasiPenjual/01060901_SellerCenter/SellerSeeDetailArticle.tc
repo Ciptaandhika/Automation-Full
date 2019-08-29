@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Article
+See Detail Article</description>
+   <name>SellerSeeDetailArticle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae4cbd19-1a7c-4376-9182-89cad82b8ecb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih produk kategori Rumah dan Elektronik
+Pilih satu produk 
+sistem akan menampilkan PDP produk tsb</description>
+   <name>ProdukRumahdanElektronik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b1c01d8-54dc-46cc-bd76-457bfb744d19</testCaseGuid>
+</TestCaseEntity>

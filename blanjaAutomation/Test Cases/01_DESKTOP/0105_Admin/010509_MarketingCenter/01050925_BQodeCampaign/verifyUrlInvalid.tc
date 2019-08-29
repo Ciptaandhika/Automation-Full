@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present</description>
+   <name>verifyUrlInvalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d95c225f-88d4-43b9-9d90-7bf1aaf0fbcf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi halaman partners</description>
+   <name>VerifyPartners</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3ae2c15-c8a8-4c07-abfc-107f8b3c9ce4</testCaseGuid>
+</TestCaseEntity>

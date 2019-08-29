@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browser
+max windows
+go to URLMemberMainsite
+isi txtBoxUsername
+isi txtBoxPassword
+klik masuk</description>
+   <name>LoginSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b24b71f-c84c-4de5-b68b-95b283904fe8</testCaseGuid>
+</TestCaseEntity>

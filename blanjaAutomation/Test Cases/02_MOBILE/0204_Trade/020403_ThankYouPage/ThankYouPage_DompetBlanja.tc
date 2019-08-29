@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;app.sandbox.midtrans.com&quot;
+Verify nominal payment dan installment info tampil</description>
+   <name>ThankYouPage_DompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abd00e9f-90ce-4161-8df8-2a4c27490fdb</testCaseGuid>
+</TestCaseEntity>

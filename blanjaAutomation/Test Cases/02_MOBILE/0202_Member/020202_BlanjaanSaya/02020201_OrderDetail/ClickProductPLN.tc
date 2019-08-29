@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click product pln from order list page</description>
+   <name>ClickProductPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fe4c73c-1d07-4f57-97fc-62ccdf098f09</testCaseGuid>
+</TestCaseEntity>

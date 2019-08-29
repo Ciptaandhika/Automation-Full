@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.Go to Url PDP 50k warung Kami Mobile</description>
+   <name>goToPDPMob50KWarungKami</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bc6f8af-8c6d-4403-af0b-4f4abeaeb05b</testCaseGuid>
+</TestCaseEntity>

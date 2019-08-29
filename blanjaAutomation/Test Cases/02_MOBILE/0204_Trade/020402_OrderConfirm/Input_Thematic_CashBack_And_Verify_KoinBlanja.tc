@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kupon kode thematic cashback
+- verify koin blanja</description>
+   <name>Input_Thematic_CashBack_And_Verify_KoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fa509a5-5684-46b4-a030-6e728a1fc143</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click search bar
+2. Input store name
+
+note : 
+
+verify filter ini hanya checkbox indonesia. karena hanya terdapat 1 filter country yaitu checkbox indonesia</description>
+   <name>Verify_Country_Based_On_Alphabet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5c2d84d-82fb-44e3-b932-9c3276dbe5df</testCaseGuid>
+</TestCaseEntity>

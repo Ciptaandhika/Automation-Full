@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click All.
+Fill Take Rate Flat.
+Choose Category Group.
+Click Save.
+</description>
+   <name>TakeRateAthleticShoesTakeRate6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d4b7702-b4ad-4564-a915-44b1513a0dfb</testCaseGuid>
+</TestCaseEntity>

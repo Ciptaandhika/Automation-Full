@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Cancel
+Get URL
+Verify equal</description>
+   <name>clickCancelBqodeCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8baf6c5f-b417-4ca9-be77-ba87ef7b8a14</testCaseGuid>
+</TestCaseEntity>

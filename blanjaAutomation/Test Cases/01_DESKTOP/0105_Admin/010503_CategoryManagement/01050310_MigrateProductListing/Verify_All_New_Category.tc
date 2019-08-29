@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik ROOT di new category
+- Verify Semua New Category yang ada</description>
+   <name>Verify_All_New_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b0437d6-1b86-4286-89a9-5d0818a317e5</testCaseGuid>
+</TestCaseEntity>

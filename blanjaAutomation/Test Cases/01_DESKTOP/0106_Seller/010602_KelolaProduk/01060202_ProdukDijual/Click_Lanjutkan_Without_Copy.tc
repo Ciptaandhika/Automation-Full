@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik copy salah satu product
+- Tanpa edit product /form apapun klik lanjutkan</description>
+   <name>Click_Lanjutkan_Without_Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b27e513-e5fd-4009-96c7-d3ed6de3338d</testCaseGuid>
+</TestCaseEntity>

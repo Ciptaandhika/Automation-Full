@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Alamat Lainnya.
+see pin point gray.</description>
+   <name>PinPointGray</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8d7b023-5d89-4450-b12c-6ac6144b013b</testCaseGuid>
+</TestCaseEntity>

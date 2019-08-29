@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- set start date untuk hari ini
+- set end date untuk lebih dari 1 bulan dari hari ini
+- verify alert yang muncul</description>
+   <name>Verify_History_Migrate_More_Than_1Month</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>346ea0a8-68ce-4b2e-9bad-a80742a83c13</testCaseGuid>
+</TestCaseEntity>

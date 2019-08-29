@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- click withdrawal management</description>
+   <name>Admin_Go_To_WithdrawalManagement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b128e7d6-b506-4a47-89f9-92cb3cc3adc8</testCaseGuid>
+</TestCaseEntity>

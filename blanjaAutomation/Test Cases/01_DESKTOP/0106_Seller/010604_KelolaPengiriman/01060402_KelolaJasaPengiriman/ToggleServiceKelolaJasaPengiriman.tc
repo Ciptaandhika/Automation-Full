@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Toggle Service Salah Satu Kelola jasa pengiriman
+
+Menu Kelola Jasa Pengiriman
+Pilih salah satu jasa kurir yang aktif
+Pilih salah satu checkbox dalam kurir aktif dan nonaktifkan
+Simpan setting</description>
+   <name>ToggleServiceKelolaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d507c5fc-154c-4073-9d7e-b7ad59bd111f</testCaseGuid>
+</TestCaseEntity>

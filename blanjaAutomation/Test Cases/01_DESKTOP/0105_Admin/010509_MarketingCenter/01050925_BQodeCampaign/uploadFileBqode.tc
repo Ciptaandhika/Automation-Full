@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Upload 	File
+Upload File
+</description>
+   <name>uploadFileBqode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd83183e-de58-42f4-a963-d5f3559c01f5</testCaseGuid>
+</TestCaseEntity>

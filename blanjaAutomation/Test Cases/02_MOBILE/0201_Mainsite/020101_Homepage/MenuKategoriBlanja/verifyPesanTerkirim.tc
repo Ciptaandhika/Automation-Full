@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can send a message to seller</description>
+   <name>verifyPesanTerkirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1dea7c95-ebd7-49c0-998a-8c0fb2d66b3f</testCaseGuid>
+</TestCaseEntity>

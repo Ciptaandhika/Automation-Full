@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan halaman promo ongkos kirim</description>
+   <name>VerifyHalPromoOngkosKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8642eae0-28c1-4337-a4cf-cffaf79ee467</testCaseGuid>
+</TestCaseEntity>

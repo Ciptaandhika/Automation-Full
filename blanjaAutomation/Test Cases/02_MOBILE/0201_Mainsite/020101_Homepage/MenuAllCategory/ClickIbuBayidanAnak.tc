@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu di kategori Ibu bayi dan Anak</description>
+   <name>ClickIbuBayidanAnak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1107d07-7e97-4826-96e9-c818d909a880</testCaseGuid>
+</TestCaseEntity>

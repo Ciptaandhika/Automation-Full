@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display order confirm page, then tap on store name
+2. system will redirect to store homepage</description>
+   <name>OrderConfirmPageDirectStorePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccb7020a-c6a0-4b7d-a928-557c4288db36</testCaseGuid>
+</TestCaseEntity>

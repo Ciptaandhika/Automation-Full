@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify all object bellow :
+ - image prize 
+ - prize title
+ - exchange koin 
+ - tombol Tukar
+ - info hadiah akan dimulai
+ - info hadiah akan berakhir</description>
+   <name>Verify_allObject_KuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c287d920-8359-42fc-9a62-0c9cef57b224</testCaseGuid>
+</TestCaseEntity>

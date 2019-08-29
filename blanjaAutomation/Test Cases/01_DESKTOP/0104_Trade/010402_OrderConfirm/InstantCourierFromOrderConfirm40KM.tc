@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Blanja Sekarang.
+choose jasa pengiriman Go Send.</description>
+   <name>InstantCourierFromOrderConfirm40KM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b1b1cfd-945a-4d8e-adac-1c6c8d4f0c90</testCaseGuid>
+</TestCaseEntity>

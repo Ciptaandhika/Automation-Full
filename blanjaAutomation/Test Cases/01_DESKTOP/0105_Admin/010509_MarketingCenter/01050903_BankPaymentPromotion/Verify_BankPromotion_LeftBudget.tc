@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify left budget
+</description>
+   <name>Verify_BankPromotion_LeftBudget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>149ee093-0046-4f10-a830-4243fa09454d</testCaseGuid>
+</TestCaseEntity>

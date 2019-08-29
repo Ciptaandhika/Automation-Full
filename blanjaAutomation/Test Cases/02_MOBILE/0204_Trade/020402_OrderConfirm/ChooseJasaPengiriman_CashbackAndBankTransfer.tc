@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'mandiri 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_CashbackAndBankTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e8aaa1f-5edf-4185-aaaf-7f99de52961d</testCaseGuid>
+</TestCaseEntity>

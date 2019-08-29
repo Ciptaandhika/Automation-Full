@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih salah satu product
+- pilih product second
+- klik lanjutkan</description>
+   <name>Click_Second_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f300957f-2823-4889-8ab6-361bd7dd7e51</testCaseGuid>
+</TestCaseEntity>

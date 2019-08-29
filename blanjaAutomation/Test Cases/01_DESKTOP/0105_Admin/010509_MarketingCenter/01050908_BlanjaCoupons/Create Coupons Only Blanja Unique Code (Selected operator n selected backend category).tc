@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create coupon
+as an OP, on web admin can applied coupons to selected  operator and selected backend category
+verify coupon
+
+1. OP already access and login on web admin
+2. OP open Coupons page
+3. Select coupon type : Unique Code 
+3. Type all required field 
+5. Check applied only to operator : TELKOMSEL
+6. Select category which wants to applied
+7. Create coupon</description>
+   <name>Create Coupons Only Blanja Unique Code (Selected operator n selected backend category)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84ae2eec-4d59-46a1-9abf-9d7abaad9c16</testCaseGuid>
+</TestCaseEntity>

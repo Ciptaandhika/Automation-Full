@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi checkbox dapat di check oleh member
+- setelah checkbox (checked), maka tombol lanjutkan pada halaman konfirmasi (Business Store) dapat di klik</description>
+   <name>BStore_Verify_Checkbox_Can_Be_Ticked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b770b2f6-08b6-490f-b933-55ed455754bf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to url 'Blanjaan Saya'
+close button TCash
+click batalkan blanjaan
+select reason 
+click ok 
+verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup
+verify status blanjaan lain yang diorder bersamaan = 'Telah ditempatkan'</description>
+   <name>Member_OrderList_BatalkanBlanjaan_VerifyStatusTutupAndPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbabecae-c50d-46c0-b9f7-35c69ea51b74</testCaseGuid>
+</TestCaseEntity>

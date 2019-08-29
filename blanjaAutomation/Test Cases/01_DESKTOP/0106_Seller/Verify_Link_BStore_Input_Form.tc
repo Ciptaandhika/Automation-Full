@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi link yang dituju mengandung registration/shop/perusahaan (Input Form)</description>
+   <name>Verify_Link_BStore_Input_Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03a33940-7ca2-4a07-bb91-6382a77f03c2</testCaseGuid>
+</TestCaseEntity>

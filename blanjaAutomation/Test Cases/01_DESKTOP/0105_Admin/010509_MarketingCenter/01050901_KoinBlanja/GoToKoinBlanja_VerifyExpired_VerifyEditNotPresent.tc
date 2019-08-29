@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL Koin Blanja
+2. Verify tulisan 'Active' tidak ada
+3. Verify tulisan 'Expired' tampil
+4. Verify tombol 'Edit' tidak tampil</description>
+   <name>GoToKoinBlanja_VerifyExpired_VerifyEditNotPresent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>704ff828-63d8-4495-a62d-7980f4f0ef13</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Breadcrumb is clickable</description>
+   <name>verifyBreadcrumlinkClickable(category4)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69f9d6be-66d5-4718-ae32-1a7871d2c160</testCaseGuid>
+</TestCaseEntity>

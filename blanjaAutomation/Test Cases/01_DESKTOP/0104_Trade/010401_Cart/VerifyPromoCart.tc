@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify cart no show promo shipping free</description>
+   <name>VerifyPromoCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a335f11c-b285-4491-80cc-6643879c3600</testCaseGuid>
+</TestCaseEntity>

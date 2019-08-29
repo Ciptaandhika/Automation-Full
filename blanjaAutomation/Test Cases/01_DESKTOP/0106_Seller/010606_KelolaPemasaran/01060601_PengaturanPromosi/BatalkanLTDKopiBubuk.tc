@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition :
+
+ 1. seller already login
+ 2. seller already access Toko Saya
+ 3. seller already access Tambahkan Produk Page
+
+
+Step : 
+
+1. seller set product condition as 'New'
+ 2. seller fill all mandatory fields
+ 3. seller click button 'Lanjutkan'
+ 4. seller go to menu 'Pengaturan Promosi'
+ 5. create LTD and apply those product</description>
+   <name>BatalkanLTDKopiBubuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc01cc2c-2b0e-446b-8534-1f98afe7a4f4</testCaseGuid>
+</TestCaseEntity>

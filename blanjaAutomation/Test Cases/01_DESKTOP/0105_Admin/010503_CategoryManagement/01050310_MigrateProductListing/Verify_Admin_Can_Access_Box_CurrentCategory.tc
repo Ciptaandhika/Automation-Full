@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify button ROOT pada current category clickable
+- verify textbox search pada current category clickable
+- verify button search pada current category clickable</description>
+   <name>Verify_Admin_Can_Access_Box_CurrentCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68cff8e3-d953-4acc-82ce-18d4ff980e90</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number (order 2 - yang diorder bersamaan dengan order 1)
+click Search
+Verify status blanjaan = 'Telah ditempatkan'
+Verify payment method = 'Pembayaran :Mandiri E-Cash'
+Klik button 'Bayar'</description>
+   <name>Member_OrderList_Kredivo_SearchSpesificOrder_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0cb9ab6-23ea-47d7-8794-26bef5a2cec8</testCaseGuid>
+</TestCaseEntity>

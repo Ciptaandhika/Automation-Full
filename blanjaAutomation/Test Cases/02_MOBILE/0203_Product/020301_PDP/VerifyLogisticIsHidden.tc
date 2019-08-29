@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logistic section (sent to, courier, shipping fee) is hidden</description>
+   <name>VerifyLogisticIsHidden</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0264cdc-5d9b-49a4-b0f9-240ae442b4fe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify shipping fee ketika area pengiriman tidak terjangkau</description>
+   <name>Verify_Shipping_Fee_Area_Tidak_Terjangkau</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7a2666a-daff-4e65-9f14-e77862523c7a</testCaseGuid>
+</TestCaseEntity>

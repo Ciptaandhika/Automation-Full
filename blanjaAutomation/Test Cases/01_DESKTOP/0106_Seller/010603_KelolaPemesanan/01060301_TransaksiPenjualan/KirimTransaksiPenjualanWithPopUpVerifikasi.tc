@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to URL Transaksi Penjualan Seller
+Get Text Nomor Pesanan Barang terakhir
+Set Text Nomor Pesanan Barang terakhir
+Search Nomor pesanan barang terakhir
+Ship Nomor pesanan Terakhir
+Set Nomor Pesanan Terakhir
+Btn Simpan resi Pengiriman</description>
+   <name>KirimTransaksiPenjualanWithPopUpVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9a366be-af3d-4de3-abd0-534b517e388f</testCaseGuid>
+</TestCaseEntity>

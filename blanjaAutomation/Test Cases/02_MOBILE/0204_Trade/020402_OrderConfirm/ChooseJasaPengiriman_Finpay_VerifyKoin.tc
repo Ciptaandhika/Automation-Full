@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'mandiri 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_Finpay_VerifyKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84ee5074-28f4-4a43-9f9d-78ebdffbcfc2</testCaseGuid>
+</TestCaseEntity>

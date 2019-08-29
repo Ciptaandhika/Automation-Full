@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check no id PLN billing</description>
+   <name>CheckNoIdPLNBilling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dd66316-3d7a-4389-b201-68fd3c3eb13e</testCaseGuid>
+</TestCaseEntity>

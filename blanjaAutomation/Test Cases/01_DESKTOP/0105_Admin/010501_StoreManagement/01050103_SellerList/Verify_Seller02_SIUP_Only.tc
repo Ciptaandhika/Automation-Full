@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search seller02
+- klik search
+- klik view 
+- verify SIUP</description>
+   <name>Verify_Seller02_SIUP_Only</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32326da2-f731-46c1-82b7-e2d79e022ed7</testCaseGuid>
+</TestCaseEntity>

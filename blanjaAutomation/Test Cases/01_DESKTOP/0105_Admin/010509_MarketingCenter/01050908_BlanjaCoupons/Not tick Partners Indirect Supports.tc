@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. Not tickn Verify Partners Indirect Supports</description>
+   <name>Not tick Partners Indirect Supports</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2148d1df-4d9a-4cd5-8168-7aaf9a5b61ca</testCaseGuid>
+</TestCaseEntity>

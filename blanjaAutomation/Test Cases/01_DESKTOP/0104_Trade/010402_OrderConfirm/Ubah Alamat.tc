@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Ubah alamat
+Set text kode pos
+Click button simpan
+Get URL
+Verify equal
+Verify text present</description>
+   <name>Ubah Alamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>471303f2-7858-4921-8d1e-03f09251c4f5</testCaseGuid>
+</TestCaseEntity>

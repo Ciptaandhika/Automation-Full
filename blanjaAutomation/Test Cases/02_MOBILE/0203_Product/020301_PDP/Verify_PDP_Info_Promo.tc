@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify promo ongkos kirim pada halaman PDP</description>
+   <name>Verify_PDP_Info_Promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f697a2c-5bf7-4711-91b0-3ca256b145b3</testCaseGuid>
+</TestCaseEntity>

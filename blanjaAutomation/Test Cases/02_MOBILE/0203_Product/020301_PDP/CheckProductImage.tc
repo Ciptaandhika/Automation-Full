@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product image</description>
+   <name>CheckProductImage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a50dd6b-fdfd-4b0b-aa3b-7b2988b9e9b5</testCaseGuid>
+</TestCaseEntity>

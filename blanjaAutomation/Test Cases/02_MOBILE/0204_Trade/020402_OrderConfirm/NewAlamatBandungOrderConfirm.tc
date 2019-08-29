@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EditAlamat
+Select Option Propinsi Jabar
+Select Option Kota Bandung
+Select Option Kecamatan Soreang</description>
+   <name>NewAlamatBandungOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f35ad871-609f-4b8c-8467-b245f376e409</testCaseGuid>
+</TestCaseEntity>

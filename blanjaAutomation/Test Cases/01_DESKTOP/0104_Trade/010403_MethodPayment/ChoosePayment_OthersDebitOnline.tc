@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Others Debit Online
+Get Label Others Debit Online
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_OthersDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c68d701-4db5-4e6f-b3d3-e1571608fc35</testCaseGuid>
+</TestCaseEntity>

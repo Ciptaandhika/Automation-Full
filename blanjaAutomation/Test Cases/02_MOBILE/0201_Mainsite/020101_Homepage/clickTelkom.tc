@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Telkom logo
+Delay
+Get URL
+Verify Equal</description>
+   <name>clickTelkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcfa93d3-8628-4903-9b1d-95df100faf33</testCaseGuid>
+</TestCaseEntity>

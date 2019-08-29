@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check status of PLN billing transaction</description>
+   <name>CheckPLNBillingStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e71283dd-11c7-44fe-8583-00cbf220948b</testCaseGuid>
+</TestCaseEntity>

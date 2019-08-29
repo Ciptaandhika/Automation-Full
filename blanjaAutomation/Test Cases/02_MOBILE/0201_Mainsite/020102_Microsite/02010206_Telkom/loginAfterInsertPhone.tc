@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL
+Verify contains
+set text username
+set text password
+Click button Masuk</description>
+   <name>loginAfterInsertPhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c86a1558-a5c1-487f-8c04-af17bcf24ad2</testCaseGuid>
+</TestCaseEntity>

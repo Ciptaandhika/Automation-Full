@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pilih satu list banner</description>
+   <name>ChooseOneonShortcutListBanner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b58b9c7b-ae22-4cb6-947a-c427bb004839</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Analisa kata kuci di menu Marketing Center</description>
+   <name>GoToAnalisaKataKunci</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faf0123c-e0d5-4c10-81f0-fda8980ed4d8</testCaseGuid>
+</TestCaseEntity>

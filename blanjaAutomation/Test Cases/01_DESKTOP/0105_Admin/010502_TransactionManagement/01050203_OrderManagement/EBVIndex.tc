@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih menu System Management >> Exclude Being Verified Management
+</description>
+   <name>EBVIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8887d4c2-03f8-49f7-8683-1df778d14991</testCaseGuid>
+</TestCaseEntity>

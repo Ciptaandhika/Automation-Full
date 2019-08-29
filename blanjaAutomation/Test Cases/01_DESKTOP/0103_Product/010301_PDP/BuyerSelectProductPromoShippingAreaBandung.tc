@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+click button Blanja Sekarang.</description>
+   <name>BuyerSelectProductPromoShippingAreaBandung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eddcce2b-3709-429b-adbc-c65875e80f00</testCaseGuid>
+</TestCaseEntity>

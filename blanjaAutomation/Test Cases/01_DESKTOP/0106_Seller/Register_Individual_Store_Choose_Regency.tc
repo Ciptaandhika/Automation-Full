@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Condition 1 : 
+- Jika member belum pernah memilih tipe toko maka akan di direct ke halaman type store
+- member klik open individual store
+- member memilih Kecampatan berdasarkan Provinsi dan   Kabupaten yang di pilih
+Condition 2 : 
+- Jika member sudah pernah memilih tipe toko maka langsung di direct ke form registrasi individual store
+- member memilih Kecampatan berdasarkan Provinsi dan  Kabupaten yang di pilih</description>
+   <name>Register_Individual_Store_Choose_Regency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e26645a-540e-4540-88e5-2f03f88191ed</testCaseGuid>
+</TestCaseEntity>

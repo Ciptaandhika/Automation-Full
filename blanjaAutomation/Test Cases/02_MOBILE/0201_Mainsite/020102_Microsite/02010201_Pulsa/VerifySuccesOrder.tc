@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify URL success page</description>
+   <name>VerifySuccesOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ff7c9d4-050a-4a55-8c33-f59b1ffbd6da</testCaseGuid>
+</TestCaseEntity>

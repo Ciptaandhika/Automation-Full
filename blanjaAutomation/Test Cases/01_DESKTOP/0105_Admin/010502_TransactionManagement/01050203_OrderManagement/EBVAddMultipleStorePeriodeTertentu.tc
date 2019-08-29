@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih start date &amp; time
+2. Centang No Expired atau pilih End Time
+3. Input multiple store id di Store List yang dipisahkan dengan koma (,)
+4. Klik Preview Store
+5. Input Notes
+6. Klik Save</description>
+   <name>EBVAddMultipleStorePeriodeTertentu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff53404a-48a8-4206-91f8-993f96b1d72f</testCaseGuid>
+</TestCaseEntity>

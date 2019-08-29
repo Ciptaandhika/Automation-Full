@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Pegadaian
+Get Label Pegadaian
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_FinpayModernChannel_Pegadaian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80ce6ed6-ec4f-4c04-9d22-ed81b31b2b4f</testCaseGuid>
+</TestCaseEntity>

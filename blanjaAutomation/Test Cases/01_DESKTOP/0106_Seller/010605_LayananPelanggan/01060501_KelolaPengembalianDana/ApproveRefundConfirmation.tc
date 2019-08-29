@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Terima Refund yang diajukan pembeli</description>
+   <name>ApproveRefundConfirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8af2ea9-45a8-4df2-a9e4-f59c92b184f7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access blanja.com
+2. Go to search result page
+3. Do filter with new product condition</description>
+   <name>Verify_New_Product_Condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02686154-d039-47d7-94eb-4f4528637ac4</testCaseGuid>
+</TestCaseEntity>

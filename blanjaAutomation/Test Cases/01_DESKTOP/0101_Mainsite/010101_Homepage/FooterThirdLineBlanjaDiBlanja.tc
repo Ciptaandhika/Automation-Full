@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover and click 'Pengguna Baru'
+Verify URL
+Hover and click 'Bertransaksi'
+Verify URL
+Hover and click 'Metode Pembayaran'
+Verify URL
+Hover and click 'Pengembalian Barang'
+Verify URL</description>
+   <name>FooterThirdLineBlanjaDiBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e3de498-c641-44cc-9e3d-c54fafcc8cca</testCaseGuid>
+</TestCaseEntity>

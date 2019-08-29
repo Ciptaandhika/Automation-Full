@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin download the report from admin blanja
+2. Verify the result</description>
+   <name>Download Export XLS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f77ee6d8-f6e8-4182-aa00-c5da2dc23724</testCaseGuid>
+</TestCaseEntity>

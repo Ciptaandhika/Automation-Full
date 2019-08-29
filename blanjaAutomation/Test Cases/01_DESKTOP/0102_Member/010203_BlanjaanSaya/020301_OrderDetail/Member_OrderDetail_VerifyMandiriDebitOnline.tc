@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text 'Debit Online'</description>
+   <name>Member_OrderDetail_VerifyMandiriDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e63bec8-3111-43cf-a5e3-64c48b3f7f59</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Element clickable
+Click href product preview
+Switch To Window Index
+Get URL
+Verify Equal</description>
+   <name>ClickProductSelectedOnBQodeCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>228c1491-5ca7-46ae-b01d-c8bad5327f30</testCaseGuid>
+</TestCaseEntity>

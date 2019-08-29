@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah kode pos saat muncul popup harus isi kode pos</description>
+   <name>AddZipCodeWhenPopUpNeedToAddZipCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d856712b-bc85-4639-93f6-233fc632a34c</testCaseGuid>
+</TestCaseEntity>

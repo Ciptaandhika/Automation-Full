@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Click button x
+Set text
+Click button cari
+Verify element not present
+Verify text present</description>
+   <name>verifyPdpNotPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe5e3840-7402-4fac-b247-a2c92abe0c1b</testCaseGuid>
+</TestCaseEntity>

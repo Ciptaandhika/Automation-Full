@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click aProductAdminFee to redirect to Product Admin Fee</description>
+   <name>ClickProductAdminFee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c37cdcc2-8ddf-4fb5-8774-280580bf3cd1</testCaseGuid>
+</TestCaseEntity>

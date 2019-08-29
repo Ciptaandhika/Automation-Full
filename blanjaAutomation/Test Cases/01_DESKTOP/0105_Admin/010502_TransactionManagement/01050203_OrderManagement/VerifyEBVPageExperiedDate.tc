@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Store setting berhasil di update
+2. End Time diisi oleh end date
+3. Store status = Active</description>
+   <name>VerifyEBVPageExperiedDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aed4b559-5607-466f-bf37-def4eabef207</testCaseGuid>
+</TestCaseEntity>

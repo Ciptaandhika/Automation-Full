@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to url shampo 200ml</description>
+   <name>GoToPDPMobShampo200ml</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d767fbc4-f553-4da0-976b-a3c5a68dd063</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik checkbox
+- klik button lanjutkan
+- verifikasi button verifikasi disabled</description>
+   <name>BStore_Btn_VerifikasiOTP_Disabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32a06554-1f22-4c01-9b62-457d15ccaaae</testCaseGuid>
+</TestCaseEntity>

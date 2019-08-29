@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik toko blanja</description>
+   <name>CLickTokoBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd2ceb2a-226b-424f-9f6d-302c306b20b7</testCaseGuid>
+</TestCaseEntity>

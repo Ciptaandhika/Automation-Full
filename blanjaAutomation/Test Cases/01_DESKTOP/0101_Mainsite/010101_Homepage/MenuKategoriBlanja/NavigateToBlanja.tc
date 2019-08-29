@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to blanja</description>
+   <name>NavigateToBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d87b1ef0-e2c5-4b50-98c3-839e9ef6ef74</testCaseGuid>
+</TestCaseEntity>

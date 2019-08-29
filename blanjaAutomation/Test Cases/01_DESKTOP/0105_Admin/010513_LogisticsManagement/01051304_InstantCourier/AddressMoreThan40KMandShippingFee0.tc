@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product
+Click Select Courier
+Choose &quot;Go Send&quot;
+Click Instand delivery or Click Same Day Delivery</description>
+   <name>AddressMoreThan40KMandShippingFee0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaad8b91-4db3-49c5-965d-ca0fe6e1e020</testCaseGuid>
+</TestCaseEntity>

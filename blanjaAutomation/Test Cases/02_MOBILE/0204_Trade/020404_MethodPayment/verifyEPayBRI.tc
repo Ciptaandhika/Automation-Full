@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Get URL 
+Verify Equal</description>
+   <name>verifyEPayBRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2d6addc-6cda-4470-a3a2-ab295c0147bd</testCaseGuid>
+</TestCaseEntity>

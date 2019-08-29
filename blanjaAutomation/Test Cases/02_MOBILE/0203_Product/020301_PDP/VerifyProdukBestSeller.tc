@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi PDP Best Seller</description>
+   <name>VerifyProdukBestSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00995f06-0b98-4604-967a-0a49354f45f6</testCaseGuid>
+</TestCaseEntity>

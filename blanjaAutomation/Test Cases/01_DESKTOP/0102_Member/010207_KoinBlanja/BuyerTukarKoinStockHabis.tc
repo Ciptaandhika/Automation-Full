@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button tukar.
+Click ya.</description>
+   <name>BuyerTukarKoinStockHabis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba9d7001-7a18-4042-8a86-fe77f4c72754</testCaseGuid>
+</TestCaseEntity>

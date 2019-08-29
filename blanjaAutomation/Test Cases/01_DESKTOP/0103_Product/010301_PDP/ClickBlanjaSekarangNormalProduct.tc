@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click blanja sekarang in pdp (normal product)</description>
+   <name>ClickBlanjaSekarangNormalProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc9b3808-eb2d-46c4-b369-c24de22b85df</testCaseGuid>
+</TestCaseEntity>

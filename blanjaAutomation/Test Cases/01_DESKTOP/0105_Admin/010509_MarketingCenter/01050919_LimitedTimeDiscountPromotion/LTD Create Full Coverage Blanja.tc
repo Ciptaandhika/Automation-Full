@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set the budget with Full covered by Blanja type</description>
+   <name>LTD Create Full Coverage Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59d550a6-e205-466f-94bc-3f78659e1dc3</testCaseGuid>
+</TestCaseEntity>

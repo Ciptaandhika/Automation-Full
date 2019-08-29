@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Province.
+Choose City.</description>
+   <name>BuyerCanSelectProvinceAndCity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbfe21fa-dfa9-43cf-b070-7b7c28cef81c</testCaseGuid>
+</TestCaseEntity>

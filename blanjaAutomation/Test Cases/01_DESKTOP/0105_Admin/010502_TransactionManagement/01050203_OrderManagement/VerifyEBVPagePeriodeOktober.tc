@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Store A1 akan terdaftar di list exclude being verified dengan periode :
+- start : 19 Oktober 20.00
+- end : 20 Oktober 09.00</description>
+   <name>VerifyEBVPagePeriodeOktober</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13617d2e-e622-4c68-8eb5-cdf776ed8966</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer can accessTelkom/IndiHome from microsite use URL www.blanja.com/telkom</description>
+   <name>NavigateToURLTelkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97bcd1ca-a1e7-4930-aba5-97e5bc4bf0ca</testCaseGuid>
+</TestCaseEntity>

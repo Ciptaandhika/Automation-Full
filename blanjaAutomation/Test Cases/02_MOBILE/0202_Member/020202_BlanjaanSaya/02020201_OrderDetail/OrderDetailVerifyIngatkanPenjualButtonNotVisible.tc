@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Order list &quot;Ingatkan Penjual&quot; should be hidden</description>
+   <name>OrderDetailVerifyIngatkanPenjualButtonNotVisible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ea07f1d-bb06-48fb-bcd9-b0ba2f853645</testCaseGuid>
+</TestCaseEntity>

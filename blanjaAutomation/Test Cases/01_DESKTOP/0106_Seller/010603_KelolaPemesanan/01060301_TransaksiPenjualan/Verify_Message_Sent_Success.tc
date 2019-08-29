@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik hubungi pembeli
+- ketik pesan ke pembeli (misalnya pada test case ini halo)
+- verifikasi pesan berhasil</description>
+   <name>Verify_Message_Sent_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>089412db-9e93-4e15-9f72-5f80db6495d1</testCaseGuid>
+</TestCaseEntity>

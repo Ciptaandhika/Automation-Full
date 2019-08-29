@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access m.blanja.com
+2. Go to dashboard page</description>
+   <name>GoToDashboardPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42ba55fc-57fb-44a2-a931-ca6b0ce49fd6</testCaseGuid>
+</TestCaseEntity>

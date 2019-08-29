@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pulsa Admin
+
+Pastikan dapat create setting apabila nominal nya sudah ada pada  provider dan type yang beda dengan status PUBLIC ON 
+
+Step :
+2. Admin create product with type B, provider A, nominal A and sku id 0002, where publish status = ON</description>
+   <name>PulsaMenambahkanInformasiDisplayOnPDPTypeB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>443e2636-238d-416a-99e5-a6f098972111</testCaseGuid>
+</TestCaseEntity>

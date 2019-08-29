@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. Create Coupons Only Blanja Custom Code
+3. Verify Coupon</description>
+   <name>Coupons_CustomCode_CashBackFixAmount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7a890df-29f5-48ac-b93b-52e26e840c7d</testCaseGuid>
+</TestCaseEntity>

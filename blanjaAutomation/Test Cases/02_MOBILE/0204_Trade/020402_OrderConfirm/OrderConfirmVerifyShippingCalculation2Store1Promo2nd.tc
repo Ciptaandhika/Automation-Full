@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>OrderConfirmVerifyShippingCalculation2Store1Promo2nd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d4ba009-968f-49b1-98c3-3e4ba5c321ea</testCaseGuid>
+</TestCaseEntity>

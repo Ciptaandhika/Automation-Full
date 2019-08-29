@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Option Jasa Gosend
+Klik Subtotal biaya
+Verify biaya kirim Same day
+Select Sub Option Instant
+Klik Subtotal biaya
+Verify biaya kirim Instant</description>
+   <name>BuyerShowBlanjaInstant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aafd34bb-93f9-4f9a-9382-a66db1e708ce</testCaseGuid>
+</TestCaseEntity>

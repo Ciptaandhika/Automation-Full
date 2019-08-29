@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number)
+click Search
+Verify status blanjaan = 'Telah ditempatkan'
+Verify tulisan 'Pembayaran :Mandiri E-Cash'
+
+Klik 'Ubah Metode Pembayaran'
+Tunggu page loading
+Switch to page 'Choose Payment Method'
+</description>
+   <name>Member_OrderList_MandiriECash_SearchSpesificOrder_KlikUbahMetodeBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f827ed8-5ba0-480d-b34b-83f8e0699fa6</testCaseGuid>
+</TestCaseEntity>

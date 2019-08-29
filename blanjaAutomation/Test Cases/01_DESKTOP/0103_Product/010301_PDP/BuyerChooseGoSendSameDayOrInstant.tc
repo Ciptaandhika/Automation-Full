@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+choose jasa pengiriman Go Send (Same Day Delivery or Instant Delivery).</description>
+   <name>BuyerChooseGoSendSameDayOrInstant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2423148-6a2a-4a02-8dc5-422f4f0fccd7</testCaseGuid>
+</TestCaseEntity>

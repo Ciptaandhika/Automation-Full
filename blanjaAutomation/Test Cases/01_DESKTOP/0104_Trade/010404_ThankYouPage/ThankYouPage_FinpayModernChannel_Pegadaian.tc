@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_FinpayModernChannel_Pegadaian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1c2d609-a64b-4734-95fe-b41a77f96c96</testCaseGuid>
+</TestCaseEntity>

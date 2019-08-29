@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi simulasi cicilan</description>
+   <name>VerifySimulasiCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cd15ea4-3be9-4b33-8141-04d765143acf</testCaseGuid>
+</TestCaseEntity>

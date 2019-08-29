@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present</description>
+   <name>verifyQRCOde</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2c81c19-cad0-4858-bdeb-c7a88f6eb59d</testCaseGuid>
+</TestCaseEntity>

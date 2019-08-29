@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select product non-digital where total product weight > admin weight limit
+2. On order confirm buyer select Jasa Pengiriman = Go-send - Same Day Delivery</description>
+   <name>InstantCourierBeratProdukMelebihi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd764e45-98c9-464e-84a6-af9cf53a7ca4</testCaseGuid>
+</TestCaseEntity>

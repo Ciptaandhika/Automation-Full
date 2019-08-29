@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi harga sudah kena diskon (tidak sama dengan harga aslinya)</description>
+   <name>VerifyHargaDiskon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fa8b5bd-292b-4efa-9912-a1dce16310bd</testCaseGuid>
+</TestCaseEntity>

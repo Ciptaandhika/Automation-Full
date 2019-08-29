@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih Kategori Komputer
+Pilih satu produk di menu komputer
+sistem akan menampilkan produk secara detail</description>
+   <name>ProdukKomputer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cc227e8-a82d-404a-ae5d-06c102e48b00</testCaseGuid>
+</TestCaseEntity>

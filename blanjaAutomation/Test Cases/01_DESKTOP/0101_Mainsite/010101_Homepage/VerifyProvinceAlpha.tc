@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Country.
+Check Province.</description>
+   <name>VerifyProvinceAlpha</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1ae1f4f-a778-48f3-ae76-c59bf4760969</testCaseGuid>
+</TestCaseEntity>

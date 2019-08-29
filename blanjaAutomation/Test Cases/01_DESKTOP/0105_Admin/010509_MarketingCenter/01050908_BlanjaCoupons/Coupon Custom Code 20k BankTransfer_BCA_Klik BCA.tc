@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. Create Coupons Only Blanja Custom Code
+3. Pilih Lock Payment Bank Transfer
+4. PIlih Lock Payment BCA Klik Pay
+5. Pilih Lock Payment Klik BCA</description>
+   <name>Coupon Custom Code 20k BankTransfer_BCA_Klik BCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4738f898-fe53-4879-ae6d-750c72dfbf5c</testCaseGuid>
+</TestCaseEntity>

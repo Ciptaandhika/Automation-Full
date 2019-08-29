@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search nama produk
+- Click button konfirmasi
+- Close button x</description>
+   <name>ClosePopUpPerpanjangan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>540217e3-c057-487d-b1a5-8bd0bf350a18</testCaseGuid>
+</TestCaseEntity>

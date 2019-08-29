@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input password
+input kode verifikasi
+kirim kode verifikasi
+klik konfirmasi</description>
+   <name>KonfirmasiPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0222869d-1ec3-43f4-a4b5-fb6c89457d59</testCaseGuid>
+</TestCaseEntity>

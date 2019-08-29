@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify no meter
+- Verify nama
+- Verify Tarif</description>
+   <name>RincianBlanjaanNoMeterNamaTarif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc35884a-d20f-464f-bcd7-2854d8a725c6</testCaseGuid>
+</TestCaseEntity>

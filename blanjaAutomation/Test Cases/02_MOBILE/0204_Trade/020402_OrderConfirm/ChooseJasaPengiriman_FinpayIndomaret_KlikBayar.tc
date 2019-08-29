@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bayar di Outlet
+- Pilih opsi 'Indomaret'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_FinpayIndomaret_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30d1d542-9573-41d5-9a63-4b70b468286c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Instant Courier Menu
+Input store name in column search</description>
+   <name>AdminSearchStoreID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f3979e3-3916-4861-ae15-b9c56121df9e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pilih 1 produk di shopping chart</description>
+   <name>CheckProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0ee2b6b-6feb-4c00-b8c2-5307fd71a4c6</testCaseGuid>
+</TestCaseEntity>

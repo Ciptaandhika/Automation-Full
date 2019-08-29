@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search functionality is working well</description>
+   <name>verifySearchProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d083209-e4a1-414d-8088-65b9e92c2e4e</testCaseGuid>
+</TestCaseEntity>

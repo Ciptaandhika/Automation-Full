@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke URL seller.bljstaging.com/items/list/onsales
+- pilih salah satu produk untuk di offshelf
+- klik ok
+- verify pesan sukses</description>
+   <name>Seller_OffShelf_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccc2bbc2-c088-4c5c-925f-2338916ebff1</testCaseGuid>
+</TestCaseEntity>

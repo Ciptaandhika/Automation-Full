@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search nama produk
+- Click button cari
+- Click button konfrimasi perpanjangan</description>
+   <name>CheckButtonKonfirmasiPerpanjangan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f30224c-e623-40a1-91d7-6634890fb92e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill alamat field
+- Verify user can insert character, number, symbol</description>
+   <name>CheckAttributeAlamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>563ee68d-b58b-4cf1-b726-442fe09bdd61</testCaseGuid>
+</TestCaseEntity>

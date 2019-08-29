@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik troli homepage
+2. Verify Object produk sudah di dalam torli</description>
+   <name>TroliIsi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b73549c-e808-4841-8886-ea9538cf3a7b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to blanjaan saya 
+search order number 
+verify pembayaran debit online 
+click bayar 
+</description>
+   <name>clickBayardiOrderList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abf5b709-1d53-42bd-a5f2-14a38de08ee9</testCaseGuid>
+</TestCaseEntity>

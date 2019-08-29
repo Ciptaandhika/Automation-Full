@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify promo schedule page
+Get url 
+verify equal</description>
+   <name>verifyPromoSchedulePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a049613-d096-48ba-ae46-778fee8e3dce</testCaseGuid>
+</TestCaseEntity>

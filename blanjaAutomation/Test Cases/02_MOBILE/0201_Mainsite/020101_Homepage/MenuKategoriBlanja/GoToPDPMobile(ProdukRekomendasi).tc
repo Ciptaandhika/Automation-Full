@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Open PDP of m.blanja.com
+2. Go to Produk Terkait Rekomendasi section</description>
+   <name>GoToPDPMobile(ProdukRekomendasi)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ea40480-e981-47dc-9e35-c4dfc0b9520e</testCaseGuid>
+</TestCaseEntity>

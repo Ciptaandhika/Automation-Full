@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Rincian Blanjaan
+Verifikasi nama promo yang dibuat seller</description>
+   <name>RincianBlanjaanPromosiOngkirSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>371786f9-0645-47f8-bc2b-ab780cef8c18</testCaseGuid>
+</TestCaseEntity>

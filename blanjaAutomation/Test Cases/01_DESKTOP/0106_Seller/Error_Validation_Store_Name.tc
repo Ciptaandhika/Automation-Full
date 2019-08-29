@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- validasi warning dengan menginputkan kondisi error untuk form nama toko
+ - If field is empty, display message: &quot;Mohon masukkan Nama Toko.&quot; 
+- If store name is less than 2 chars, display message: &quot;Nama Toko terlalu pendek. Masukkan minimal 2 karakter.&quot; 
+- If store name has been used or it is listed in shop black list, display message: &quot;Nama Toko ini sudah terdaftar di sistem. Mohon gunakan nama toko lainnya.&quot;</description>
+   <name>Error_Validation_Store_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5892ac71-0f41-43d5-9f0a-d6da454cee80</testCaseGuid>
+</TestCaseEntity>

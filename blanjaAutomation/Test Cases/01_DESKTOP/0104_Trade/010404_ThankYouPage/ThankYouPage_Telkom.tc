@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Get URL Succes Thank You Page
+2. Verify ada kata &quot;success'</description>
+   <name>ThankYouPage_Telkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6068152-da33-414d-91bc-b6f773ae43c7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada halaman tokosaya / mystore klik   Kelola Produk
+- Klik Tambahkan Produk</description>
+   <name>Seller_Go_To_TambahkanProduk_From_MainMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c99101b8-a3ca-43df-9bf0-54e6dac9f969</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify koin
+verify hadiah langsung kosong</description>
+   <name>VerifyHadiahLangsungKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39857726-9ebf-4f2e-9e70-f97b22fe3042</testCaseGuid>
+</TestCaseEntity>

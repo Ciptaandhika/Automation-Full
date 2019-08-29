@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- create freeshipping promotion
+- input threshold 50k
+- input max cover 100k</description>
+   <name>Freeshipping_Promotion_Threshold50k_MaxCover100k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>419e587d-0898-4de3-8e21-c8c55fceebc7</testCaseGuid>
+</TestCaseEntity>

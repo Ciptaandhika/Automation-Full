@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan manampilkan simulasi cicilan
+sistem akan memverifikasi simulasi cicilan</description>
+   <name>TabCicilanKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44a71271-6b6f-4fe3-86c2-6a7fcbd3a70e</testCaseGuid>
+</TestCaseEntity>

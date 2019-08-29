@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See banner in seller center page.</description>
+   <name>VerifyBanner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6946aaa-5684-4743-83d8-b6e9a9cf9a97</testCaseGuid>
+</TestCaseEntity>

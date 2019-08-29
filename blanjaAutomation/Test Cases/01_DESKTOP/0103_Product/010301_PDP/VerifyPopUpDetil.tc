@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik lihat detil
+Verify Detil produk free shipping on PDP</description>
+   <name>VerifyPopUpDetil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>064015de-41b4-486c-8aa0-1d3a041a8fc8</testCaseGuid>
+</TestCaseEntity>

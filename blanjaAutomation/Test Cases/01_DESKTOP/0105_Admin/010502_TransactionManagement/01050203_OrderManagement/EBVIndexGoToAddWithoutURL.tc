@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Add Button</description>
+   <name>EBVIndexGoToAddWithoutURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f31085e8-3e7d-4ae5-b338-86182c9c110e</testCaseGuid>
+</TestCaseEntity>

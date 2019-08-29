@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik icon love untuk menambahkan ke favorit</description>
+   <name>AddFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b838d342-a750-4ec3-a32b-ab10721c2ecd</testCaseGuid>
+</TestCaseEntity>

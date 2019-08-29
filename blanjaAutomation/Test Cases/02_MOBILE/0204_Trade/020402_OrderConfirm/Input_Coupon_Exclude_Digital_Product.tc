@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kode kupon XE untuk kode exclude digital product</description>
+   <name>Input_Coupon_Exclude_Digital_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7fe345a-9275-4131-b8e0-ded3d41596c6</testCaseGuid>
+</TestCaseEntity>

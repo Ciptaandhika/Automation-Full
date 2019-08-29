@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Order Management
+isi order Number 
+click Search
+verify informasi payment method: 'Payment Method :Mandiri Credit Card Installment (Midtrans)'
+Klik Order Detail sesuai nomor order yang dimasukkan</description>
+   <name>GoToOrderManagement_VerifyMandiriCC_InputOrderNumber_KlikSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a418901-4fa3-48ff-805c-260849c30a7e</testCaseGuid>
+</TestCaseEntity>

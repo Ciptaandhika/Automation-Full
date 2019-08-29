@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada halaman utama admin klik menu seller register ukm page</description>
+   <name>Admin_Go_To_Seller_Register_UKM_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>548346e4-4761-4705-baa0-231e8aacf0d4</testCaseGuid>
+</TestCaseEntity>

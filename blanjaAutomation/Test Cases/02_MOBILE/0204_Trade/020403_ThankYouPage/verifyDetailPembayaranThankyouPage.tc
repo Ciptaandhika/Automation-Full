@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify div detail pembayaran
+verify lbl subtotal pembayaran
+verify lbl kode unix
+verify totalPembayaran</description>
+   <name>verifyDetailPembayaranThankyouPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61a9d45b-7157-4ea7-a3b7-94582e098e76</testCaseGuid>
+</TestCaseEntity>

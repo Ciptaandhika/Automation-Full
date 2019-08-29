@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik view
+- verify voucher used
+- verify order total
+- verify left budget</description>
+   <name>Verify_Amount_Voucher_Used</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5a5c71b-b399-44c8-9b3a-d02c76103e36</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill no ktp field
+- Verify user can't insert character
+- Verify user can insert number</description>
+   <name>CheckAttributeNoKtp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad77bc55-4984-499e-91bf-c99d37fdc9e6</testCaseGuid>
+</TestCaseEntity>

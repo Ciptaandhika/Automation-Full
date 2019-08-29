@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element not clickable</description>
+   <name>verifyUrlUtmDisabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a014b18b-bbb3-442e-816a-d8af344848f6</testCaseGuid>
+</TestCaseEntity>

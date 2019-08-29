@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Alamat Lainnya.
+see Red Pin Point.</description>
+   <name>PinPointRed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0dbfef6f-ce09-42d4-b18a-73f034df0778</testCaseGuid>
+</TestCaseEntity>

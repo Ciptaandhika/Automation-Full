@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Blanja Sekarang</description>
+   <name>ClickBlanjaSekarangFromPDPDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78a8369b-3563-4346-8d5f-01046c344704</testCaseGuid>
+</TestCaseEntity>

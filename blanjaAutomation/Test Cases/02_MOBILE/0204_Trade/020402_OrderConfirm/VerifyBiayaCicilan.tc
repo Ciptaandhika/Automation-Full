@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi Biaya Cicilan</description>
+   <name>VerifyBiayaCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3687517-295b-482c-82da-1a3df73d2fea</testCaseGuid>
+</TestCaseEntity>

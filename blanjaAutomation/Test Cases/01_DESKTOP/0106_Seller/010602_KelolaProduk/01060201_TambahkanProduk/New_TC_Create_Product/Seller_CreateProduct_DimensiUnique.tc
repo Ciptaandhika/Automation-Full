@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding new normal product</description>
+   <name>Seller_CreateProduct_DimensiUnique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a37acf3-f7c6-437a-b642-577b8dce7971</testCaseGuid>
+</TestCaseEntity>

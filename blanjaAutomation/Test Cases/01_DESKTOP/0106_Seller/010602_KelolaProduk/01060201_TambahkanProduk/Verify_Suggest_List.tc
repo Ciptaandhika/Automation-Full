@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search menggunakan salah satu keyword (misalnya komputer)
+- verify suggest kategori yang muncul, jika terdapat lebih dari 5 kategori maka hanya ada 5 kategori yang muncul</description>
+   <name>Verify_Suggest_List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c2b2f04-4442-4667-bf20-a2931fc9ea7a</testCaseGuid>
+</TestCaseEntity>

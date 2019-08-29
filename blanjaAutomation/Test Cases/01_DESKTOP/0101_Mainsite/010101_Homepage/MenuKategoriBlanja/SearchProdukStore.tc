@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search with some combination</description>
+   <name>SearchProdukStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>736de6b0-cb8c-44a0-8cfa-f3a00957479f</testCaseGuid>
+</TestCaseEntity>

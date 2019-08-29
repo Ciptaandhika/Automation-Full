@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik produk tersimpan</description>
+   <name>Seller_Click_Produk_Tersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>202c6087-cdf4-4a98-9b8e-7837a2a470d6</testCaseGuid>
+</TestCaseEntity>

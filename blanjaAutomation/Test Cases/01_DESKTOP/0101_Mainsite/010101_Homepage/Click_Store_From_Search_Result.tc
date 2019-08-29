@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Navigate ke homepage (www.bljstaging.com)
+- input keyword warung
+- klik cari / search
+- klik tab toko blanja pada hasil pencarian
+- dari search result klik salah satu store, maka akan di direct ke link   tersebut
+- verify URL store tersebut </description>
+   <name>Click_Store_From_Search_Result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cea4b41-736b-43bf-a9ec-990064c6b951</testCaseGuid>
+</TestCaseEntity>

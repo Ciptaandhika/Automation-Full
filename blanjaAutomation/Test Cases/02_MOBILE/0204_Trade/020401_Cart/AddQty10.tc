@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer add quantity of product</description>
+   <name>AddQty10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa11ccf8-b8af-4443-8720-b4a5fc4f8b8a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set Cashback.
+Click Gunakan.</description>
+   <name>ChoosePayment_VA_Cashback_Voucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e79bf46f-2f9f-485f-8c87-f5fb10de94ce</testCaseGuid>
+</TestCaseEntity>

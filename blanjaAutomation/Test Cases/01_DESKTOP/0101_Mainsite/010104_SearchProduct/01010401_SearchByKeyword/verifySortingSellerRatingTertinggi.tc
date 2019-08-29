@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element clickable spanSellerRatingTertinggi</description>
+   <name>verifySortingSellerRatingTertinggi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d70107b8-706f-4e2d-b22e-100b33eca3ff</testCaseGuid>
+</TestCaseEntity>

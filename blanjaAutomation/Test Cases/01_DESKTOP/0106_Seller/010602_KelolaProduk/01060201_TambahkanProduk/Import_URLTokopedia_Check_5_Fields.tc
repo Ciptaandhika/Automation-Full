@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Seller Field link import Tokopedia
+- Seller pilih kategori komputer
+- Click Lanjutkan
+- Get Value Weight
+- Get Value Title
+- Get Value Price
+- Get Value Description
+- Verify Image yang diimport</description>
+   <name>Import_URLTokopedia_Check_5_Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e6d92e8-bd04-4f82-a0fe-cbdfb310b06b</testCaseGuid>
+</TestCaseEntity>

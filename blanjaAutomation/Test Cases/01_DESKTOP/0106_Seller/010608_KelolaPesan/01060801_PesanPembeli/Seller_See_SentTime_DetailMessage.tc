@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman message list seller klik salah satu pesan
+- pada detail conversation verify waktu pesan di kirim (sent time)</description>
+   <name>Seller_See_SentTime_DetailMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68725648-2fb7-47b9-9312-9126dd67d6df</testCaseGuid>
+</TestCaseEntity>

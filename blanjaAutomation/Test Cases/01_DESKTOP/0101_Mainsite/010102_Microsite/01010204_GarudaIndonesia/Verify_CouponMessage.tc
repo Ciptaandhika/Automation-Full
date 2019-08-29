@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that coupon alert is shown</description>
+   <name>Verify_CouponMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0f30ab6-416b-4782-94ea-72728b3e56c5</testCaseGuid>
+</TestCaseEntity>

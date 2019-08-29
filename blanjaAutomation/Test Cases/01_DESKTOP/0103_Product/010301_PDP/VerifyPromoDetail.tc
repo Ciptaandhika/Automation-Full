@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik lihat detil
+verify promo detail free shipping</description>
+   <name>VerifyPromoDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e4c08b4-d6b1-4ad9-b164-24edeaac740c</testCaseGuid>
+</TestCaseEntity>

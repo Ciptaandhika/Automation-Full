@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan ke url toko blanja fashion</description>
+   <name>VerifyTokoBlanjaNotShowed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>055fa6ce-7a10-4f24-a086-d34a43413c58</testCaseGuid>
+</TestCaseEntity>

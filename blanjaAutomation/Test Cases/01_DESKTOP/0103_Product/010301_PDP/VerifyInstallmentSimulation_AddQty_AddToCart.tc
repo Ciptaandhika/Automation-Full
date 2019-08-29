@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Close popup Gojek (jika ada)
+Verify informasi 'Simulasi Cicilan' is appeared
+Clear Text Box QTY
+set Text Box QTY: 10 pcs
+click button masukkan ke keranjang</description>
+   <name>VerifyInstallmentSimulation_AddQty_AddToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee561ead-8366-410f-bf24-d48fb98ad656</testCaseGuid>
+</TestCaseEntity>

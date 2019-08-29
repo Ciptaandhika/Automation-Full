@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose jasa pengiriman GOSEND.
+choose jenis pengiriman Instant Delivery/Same Day.</description>
+   <name>2ProductStore3BUY52</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73c17eb9-7f29-4939-85ff-626a50c7b1d3</testCaseGuid>
+</TestCaseEntity>

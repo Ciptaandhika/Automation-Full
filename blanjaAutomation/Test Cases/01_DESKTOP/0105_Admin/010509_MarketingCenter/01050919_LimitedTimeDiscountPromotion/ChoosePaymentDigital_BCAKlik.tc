@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Klik BCA
+Get Label Klik BCA
+Input User ID KLIK BCA
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePaymentDigital_BCAKlik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>427a73fc-c1ce-4692-9196-68a94dc4cb48</testCaseGuid>
+</TestCaseEntity>

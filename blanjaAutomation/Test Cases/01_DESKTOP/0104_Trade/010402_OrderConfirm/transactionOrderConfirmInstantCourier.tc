@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih Kurir Standar
+Verify Total Produk + Biaya Pengiriman
+Klik Lanjutkan Pembayaran</description>
+   <name>transactionOrderConfirmInstantCourier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8dca37c0-516a-4d71-af6a-1ea736ac9a50</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Instant Courier Menu
+Click X in Serviceable store list</description>
+   <name>AdminDeleteStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a119da40-6905-4514-a05c-b8125f877ee3</testCaseGuid>
+</TestCaseEntity>

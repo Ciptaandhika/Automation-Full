@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open shopping cart
+Display product from cart
+Checkout
+Click Daftar disini</description>
+   <name>OpenShoppingCart_ClickDaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27edb4a6-48b8-4535-a178-2b919d4345ce</testCaseGuid>
+</TestCaseEntity>

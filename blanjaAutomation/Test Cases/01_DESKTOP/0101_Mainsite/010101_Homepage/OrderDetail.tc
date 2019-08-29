@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll to element produk
+klik rincian blanjaan
+ 
+Nb : jika ingin menjalankan test case ini harus sudah ada di blanjaan saya, jika tidak ada maka akan eror karena jika barang dipesan dan tidak dibayar otomatis akan hilang</description>
+   <name>OrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd0c3081-2ab7-4186-956a-a4d929d4a6a1</testCaseGuid>
+</TestCaseEntity>

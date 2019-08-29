@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik transfer mandiri
+klik konfirmasi pesanan</description>
+   <name>KonfirmasiPesananTransferMandiri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df0e2cc2-5c6a-423a-8725-e09dae6dedef</testCaseGuid>
+</TestCaseEntity>

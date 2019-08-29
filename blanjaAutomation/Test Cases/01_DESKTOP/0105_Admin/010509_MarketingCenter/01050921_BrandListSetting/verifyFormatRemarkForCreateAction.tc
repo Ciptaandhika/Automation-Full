@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify format remark for create action</description>
+   <name>verifyFormatRemarkForCreateAction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6cbfbe5-9f97-4523-a7df-e9b329ee7bfd</testCaseGuid>
+</TestCaseEntity>

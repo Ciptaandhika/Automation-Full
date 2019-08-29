@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Get text jumlah koin</description>
+   <name>VerifyJumlahKoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34d0c68b-33a5-417c-a7e3-c67ddf03a6cc</testCaseGuid>
+</TestCaseEntity>

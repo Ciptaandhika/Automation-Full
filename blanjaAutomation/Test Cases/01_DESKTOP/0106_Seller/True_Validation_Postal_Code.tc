@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'My Store' button in top right page
+2. User choose store type 'Individual Store'
+3. Do not fill field 'Zipcode'
+
+
+Rule: 
+~ Only numbers (5 digits) are allowed. Any other char can't be entered.</description>
+   <name>True_Validation_Postal_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>791f996f-9fe0-4c71-82a5-92fbb912667b</testCaseGuid>
+</TestCaseEntity>

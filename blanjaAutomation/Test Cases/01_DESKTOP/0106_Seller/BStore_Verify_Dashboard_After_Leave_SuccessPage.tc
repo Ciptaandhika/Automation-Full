@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify link yang dituju adalah seller.bljstaging.com</description>
+   <name>BStore_Verify_Dashboard_After_Leave_SuccessPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>549e4d87-2ae0-4c8b-83ef-19ac68ec07be</testCaseGuid>
+</TestCaseEntity>

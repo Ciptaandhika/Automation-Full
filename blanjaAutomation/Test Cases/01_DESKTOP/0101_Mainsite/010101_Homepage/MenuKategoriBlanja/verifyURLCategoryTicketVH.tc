@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>URL is https://www.bljstaging.com/katalog/c/tic/tiket-voucher-hadiah</description>
+   <name>verifyURLCategoryTicketVH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a806a38-2ea1-4924-b3de-82c87220b935</testCaseGuid>
+</TestCaseEntity>

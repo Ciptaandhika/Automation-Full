@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL PDP
+Click button Blanja Sekarang
+Click button Daftar disini
+Verify URL to URL Register</description>
+   <name>GoToPDPURL50K_ClickBlanjaSekarang_Daftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d4f6f6a-93e4-47b7-b244-b33fdc42ef6b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verifikasi ada promo lalu click batalkan</description>
+   <name>VerifyPromoAndClickBatalkanPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05025ef5-2ef4-48a8-86b9-8c672ebb3d99</testCaseGuid>
+</TestCaseEntity>

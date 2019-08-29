@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on the kotak masuk page</description>
+   <name>BuyerSearchProdukToUlasanPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1a72bd2-2fdb-4a11-a6e8-d162870f9f20</testCaseGuid>
+</TestCaseEntity>

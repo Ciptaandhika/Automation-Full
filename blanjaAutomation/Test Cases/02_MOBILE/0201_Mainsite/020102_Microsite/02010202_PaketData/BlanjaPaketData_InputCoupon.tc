@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer blanja pulsa
+- Go to paket datamicrosite
+- Input phone number
+- Choose nominal
+- Click button blanja paket data
+- Choose payment method</description>
+   <name>BlanjaPaketData_InputCoupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48ff7c04-fba1-4588-833e-586c20ce704f</testCaseGuid>
+</TestCaseEntity>

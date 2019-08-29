@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik produk sesuai yang dicari (Celanaa)</description>
+   <name>ClickSelectedProduct_SunsilkHijabBotol</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c474e184-5475-451c-b8c5-596d7f579c5a</testCaseGuid>
+</TestCaseEntity>

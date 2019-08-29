@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Nama Buyer.
+Click Informasi Akun.
+Click Daftar Alamat.</description>
+   <name>BuyerChooseDaftarAlamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a475e8a-74e4-4199-ac25-e535bd3c5629</testCaseGuid>
+</TestCaseEntity>

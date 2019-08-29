@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata &quot;success'
+
+verify tulisan &quot;salin nomor&quot; tampil
+wording &quot;Salin Nomor&quot; change to green color (successfully copy)</description>
+   <name>ThankYouPage_BNIDirectTransfer_VerifySalinNomor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44091c04-539f-4406-acbb-78c4a52e2440</testCaseGuid>
+</TestCaseEntity>

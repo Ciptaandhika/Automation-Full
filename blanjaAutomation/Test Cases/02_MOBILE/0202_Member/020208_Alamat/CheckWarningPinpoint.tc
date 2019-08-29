@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User will be shown warning if district in pinpoint not the same with district in address</description>
+   <name>CheckWarningPinpoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6ccd8ee-11a0-4555-a4fa-c7c9f6e2070a</testCaseGuid>
+</TestCaseEntity>

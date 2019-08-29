@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih Kategori Otomotif  di menu hot produk
+sistem akan menampilkan semua produk tsb
+Pilih satu produk
+sistem akan menampilkan produk secara detail</description>
+   <name>ProdukOtomotif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e85b874-fedb-4272-bc68-a37d4d0d8ad8</testCaseGuid>
+</TestCaseEntity>

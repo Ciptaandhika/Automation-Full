@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BNI Kartu Kredit
+Get Label BNI Kartu Kredit
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BNI_CC_(BankPromotion)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a64d839-65bb-4279-9856-adc422da1835</testCaseGuid>
+</TestCaseEntity>

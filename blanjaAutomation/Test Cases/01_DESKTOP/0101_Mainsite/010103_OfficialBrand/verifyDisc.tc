@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify price on promo page with price on PDP</description>
+   <name>verifyDisc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e95273ea-ae81-4442-a6bf-9d7d2db41f0c</testCaseGuid>
+</TestCaseEntity>

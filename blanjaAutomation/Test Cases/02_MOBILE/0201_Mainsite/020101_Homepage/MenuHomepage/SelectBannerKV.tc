@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>selected banner 
+sistem akan menampilkan banner kv</description>
+   <name>SelectBannerKV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96d41a51-a1d7-4ba2-ab7a-6f5d043ea919</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih menu System Management >> Exclude Being Verified Management
+2. Pilih Add</description>
+   <name>EBVIndexGoToAdd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72096521-d7c8-4094-a368-a39e31359132</testCaseGuid>
+</TestCaseEntity>

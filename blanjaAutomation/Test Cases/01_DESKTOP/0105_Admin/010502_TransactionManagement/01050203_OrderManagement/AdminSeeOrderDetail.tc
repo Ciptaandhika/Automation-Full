@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Order management
+Search order by order number
+Click &quot;Order Detail&quot;</description>
+   <name>AdminSeeOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ff3d0b5-d3e5-4160-b028-f963f073cac2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Direct to transaksi penjualan page</description>
+   <name>DirectToTransaksiPenjualan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6769b330-6edd-4159-a27e-4bd1906cfb2a</testCaseGuid>
+</TestCaseEntity>

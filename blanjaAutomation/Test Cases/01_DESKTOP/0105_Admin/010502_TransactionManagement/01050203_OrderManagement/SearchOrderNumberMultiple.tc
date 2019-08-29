@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik order management
+input order number
+klik btn search
+verify multiple free shipping
+
+nb: order number harus suah ada di list order management
+</description>
+   <name>SearchOrderNumberMultiple</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65231db0-7424-479d-8d93-5cd090d58ed2</testCaseGuid>
+</TestCaseEntity>

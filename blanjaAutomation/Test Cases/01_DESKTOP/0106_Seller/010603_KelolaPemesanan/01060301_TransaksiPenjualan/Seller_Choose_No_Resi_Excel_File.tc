@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Seller go to Seller Center
+2. Open Sold Transaction menu (Transaksi Penjualan)
+3. Go to &quot;Sudah Dibayar&quot; tab
+4. Click button &quot;Upload Nomor Resi&quot;
+5. Click &quot;Pilih File&quot;</description>
+   <name>Seller_Choose_No_Resi_Excel_File</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f60332bb-0609-4841-b5d9-a92cf086041a</testCaseGuid>
+</TestCaseEntity>

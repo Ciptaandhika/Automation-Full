@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik button Kode Voucher
+- Set text Kode Voucher
+- Klik button Gunakan
+- Klik dropdown VA
+- Klik slider Dompet Blanja
+- Set text password Blanja
+- Klik txtBoxDompetBlanjaTerpakai
+- Send keys DELETE
+- Send keys BACK_SPACE
+- Send keys nominal
+- Klik tab Bank Mandiri
+- Pilih transfer bank
+- Klik button Bayar
+- Get URL
+- Verify contains</description>
+   <name>ChooseJasaPengiriman_UniqueCoupon_VA_MandiriTrfBankBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2b324f3-32d2-49c6-9f88-6e05ba2b23f7</testCaseGuid>
+</TestCaseEntity>

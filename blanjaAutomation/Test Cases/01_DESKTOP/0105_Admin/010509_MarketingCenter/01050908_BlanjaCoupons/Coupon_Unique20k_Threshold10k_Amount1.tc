@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- create coupon unique nominal 20k
+- set threshold 10k</description>
+   <name>Coupon_Unique20k_Threshold10k_Amount1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59a6abd3-fcfd-489b-8b4f-391b5e4b71aa</testCaseGuid>
+</TestCaseEntity>

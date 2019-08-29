@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pilih metode verifikasi mobile</description>
+   <name>pilihMetodeVerifikasiNoTelepon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5664e8ef-f483-47f0-8527-7eb0233f4507</testCaseGuid>
+</TestCaseEntity>

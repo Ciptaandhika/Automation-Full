@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Inisiasi log
+Get attribute
+Contains
+Verify element not clickable
+
+</description>
+   <name>verifyUtmSource</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75b51c24-b8fd-4475-82ca-2ffe026b54a1</testCaseGuid>
+</TestCaseEntity>

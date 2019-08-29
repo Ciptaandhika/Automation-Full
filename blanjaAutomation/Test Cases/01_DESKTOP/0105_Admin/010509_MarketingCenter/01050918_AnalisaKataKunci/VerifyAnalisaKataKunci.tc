@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url
+verify equal between expected url and actual url</description>
+   <name>VerifyAnalisaKataKunci</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c0e8026-e935-4ec0-9ff7-de0c189046c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Order management of product kopi bubuk 150gr</description>
+   <name>OrderManagement30k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ac9360-5669-4b82-8538-db0191fcda12</testCaseGuid>
+</TestCaseEntity>

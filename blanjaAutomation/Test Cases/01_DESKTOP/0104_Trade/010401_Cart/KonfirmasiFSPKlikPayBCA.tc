@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik lanjutkan pesanan
+pilih klik BCA
+Konfirmasi Pesanan</description>
+   <name>KonfirmasiFSPKlikPayBCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2625e21d-224a-42e8-86c4-7ef26fb0a88f</testCaseGuid>
+</TestCaseEntity>

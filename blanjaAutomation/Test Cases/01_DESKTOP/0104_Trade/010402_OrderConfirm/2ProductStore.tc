@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to order confirm page.</description>
+   <name>2ProductStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2c1b516-50f8-4c58-a8d5-b7f23750d935</testCaseGuid>
+</TestCaseEntity>

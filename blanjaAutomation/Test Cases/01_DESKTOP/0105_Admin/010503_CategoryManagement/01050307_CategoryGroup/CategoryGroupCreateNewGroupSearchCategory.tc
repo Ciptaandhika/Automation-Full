@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description> 3. Admin shows Create New Category Group page
+ 4. Input category as keyword on Select Category field and click Search button
+
+1. Category contain keyword will be expand and highlighted</description>
+   <name>CategoryGroupCreateNewGroupSearchCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b005c8f-204d-4e34-be2d-51881ba5228f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- click backend category</description>
+   <name>Admin_Go_To_BackEndCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af6dda5b-6071-4bbb-b885-ca0da37505d5</testCaseGuid>
+</TestCaseEntity>

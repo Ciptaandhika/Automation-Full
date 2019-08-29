@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Click button Pilih Metode Pembayaran
+Click button ATM Transfer
+Delay 
+Click button Konfirmasi Pembayaran
+Delay</description>
+   <name>bayarTeleponAtmTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03032fd1-f664-4980-8a9b-43584d5bc583</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify NPWP yang sudah di upload
+- verify SIUP yang sudah di upload</description>
+   <name>Verify_NPWP_SIUP_Info_Toko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d302d6bb-4f02-4510-bc54-8273e2b37a03</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- admin input fashion pada Current Category
+- Klik Search
+- Verify Category yang muncul
+
+- admin input fashion pada New Category
+- Klik Search
+- verify category yang muncul</description>
+   <name>Admin_Search_Based_On_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bea5046f-8900-49bb-9939-adf8c6e29f14</testCaseGuid>
+</TestCaseEntity>

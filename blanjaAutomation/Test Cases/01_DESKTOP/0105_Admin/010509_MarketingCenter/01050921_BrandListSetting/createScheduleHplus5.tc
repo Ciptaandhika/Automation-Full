@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose promo name
+fillin period
+click save</description>
+   <name>createScheduleHplus5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6949b7a-4324-4fbb-bbd2-56d3f18acff3</testCaseGuid>
+</TestCaseEntity>

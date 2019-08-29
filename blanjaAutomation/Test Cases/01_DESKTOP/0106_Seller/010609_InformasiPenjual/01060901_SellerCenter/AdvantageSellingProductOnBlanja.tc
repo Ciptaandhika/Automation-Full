@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See advantage selling product.</description>
+   <name>AdvantageSellingProductOnBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05f445e7-edd0-481d-b4ee-19b08da70b1a</testCaseGuid>
+</TestCaseEntity>

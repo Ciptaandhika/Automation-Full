@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi delete toko favorit</description>
+   <name>VerifyDeleteTokoFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e11c1022-dc08-4e9d-85c8-3885003d7bc3</testCaseGuid>
+</TestCaseEntity>

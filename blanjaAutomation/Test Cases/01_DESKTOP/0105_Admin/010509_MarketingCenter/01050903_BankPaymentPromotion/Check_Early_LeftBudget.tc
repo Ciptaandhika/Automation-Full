@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- get early left budget
+</description>
+   <name>Check_Early_LeftBudget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ded20a0a-17fa-4505-8e0e-1e9711f046ac</testCaseGuid>
+</TestCaseEntity>

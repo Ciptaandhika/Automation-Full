@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button GoSend
+Verify text present
+Set text
+Delay
+Click button cart
+Delay
+Click button troli
+Click spin down
+Verify text present</description>
+   <name>AddToCart_Troli_ErrorSpinDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f5ee683-7821-4e1a-ac61-df6730320ce7</testCaseGuid>
+</TestCaseEntity>

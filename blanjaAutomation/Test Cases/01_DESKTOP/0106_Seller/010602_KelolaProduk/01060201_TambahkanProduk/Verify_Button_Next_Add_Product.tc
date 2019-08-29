@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih kategori dan sub category
+- verify button lanjutkan dapat di klik
+- klik button lanjutkan
+- verify URL setelah klik button lanjutkan</description>
+   <name>Verify_Button_Next_Add_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be4c587c-69eb-49a7-a2d3-127f400ff8ba</testCaseGuid>
+</TestCaseEntity>

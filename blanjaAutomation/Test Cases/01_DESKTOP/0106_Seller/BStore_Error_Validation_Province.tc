@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify error muncul ketika drop down provinsi tidak pilih / kosong</description>
+   <name>BStore_Error_Validation_Province</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a5e8d8f-6552-4950-871c-da108782dfe4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number (order 2 - set di Global Variable)
+click Search
+Verify status blanjaan = 'Telah ditempatkan'
+Verify payment method = 'Pembayaran :BRI e-Pay'
+Klik button 'Bayar'
+Tunggu page loading
+Switch to payment page</description>
+   <name>Member_OrderList_OthersDT_SearchSpesificOrder_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccabea58-3794-4909-9b69-28d6b6e21f59</testCaseGuid>
+</TestCaseEntity>

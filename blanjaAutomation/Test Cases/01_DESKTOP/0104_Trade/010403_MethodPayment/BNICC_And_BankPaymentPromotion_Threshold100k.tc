@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih pembayaran BNI CC
+- pilih bank promotion
+- klik konfirmasi pembayaran</description>
+   <name>BNICC_And_BankPaymentPromotion_Threshold100k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c1e53c4-47e4-4e36-be14-93d41a4e48e9</testCaseGuid>
+</TestCaseEntity>

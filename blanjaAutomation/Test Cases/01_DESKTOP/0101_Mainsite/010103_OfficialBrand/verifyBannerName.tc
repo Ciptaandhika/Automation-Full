@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mouse over
+get attribute name
+verify equal </description>
+   <name>verifyBannerName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a193044b-ca55-4856-b257-53127010d739</testCaseGuid>
+</TestCaseEntity>

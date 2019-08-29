@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer pay using link aja</description>
+   <name>PaymentLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>026d6617-27bf-4bd7-9b45-b91c3cad66cc</testCaseGuid>
+</TestCaseEntity>

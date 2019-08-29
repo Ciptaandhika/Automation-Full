@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu &quot;lowongan&quot; on karir.blanja.com</description>
+   <name>lowongan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c5f3438-f157-42c6-b9cc-5843a3caa3f4</testCaseGuid>
+</TestCaseEntity>

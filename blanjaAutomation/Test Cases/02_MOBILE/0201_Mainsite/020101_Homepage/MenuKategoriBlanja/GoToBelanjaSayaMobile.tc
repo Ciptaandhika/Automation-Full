@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access m.blanja.com
+2. Go to blanjaan saya page</description>
+   <name>GoToBelanjaSayaMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca394c67-c00a-4a2b-9492-80cb99f28078</testCaseGuid>
+</TestCaseEntity>

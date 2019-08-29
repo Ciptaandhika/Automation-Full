@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Get Order Number</description>
+   <name>Buyer_Get_Order_Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d56fe69f-1e71-4a25-988a-1631393bbc8c</testCaseGuid>
+</TestCaseEntity>

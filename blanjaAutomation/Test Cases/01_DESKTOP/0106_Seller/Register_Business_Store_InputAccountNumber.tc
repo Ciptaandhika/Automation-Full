@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>isi form nomor rekening</description>
+   <name>Register_Business_Store_InputAccountNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c184fcfd-eadb-4e46-a735-e35d330cee9c</testCaseGuid>
+</TestCaseEntity>

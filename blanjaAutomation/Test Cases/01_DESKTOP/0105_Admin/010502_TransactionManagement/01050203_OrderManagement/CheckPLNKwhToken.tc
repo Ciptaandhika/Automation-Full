@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check kwh and token in order details in admin page</description>
+   <name>CheckPLNKwhToken</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a96b1fad-5cca-4f64-932f-6494849613ee</testCaseGuid>
+</TestCaseEntity>

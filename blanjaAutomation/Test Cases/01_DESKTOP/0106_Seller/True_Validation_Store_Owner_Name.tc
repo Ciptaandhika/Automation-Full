@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'My Store' button in top right page
+2. User choose store type 'Individual Store'
+3. Fill field 'Store Owner Name'
+
+
+Rule: 
+~ Mandatory
+~ Max 60 chars can be entered. No char can be typed once the length reach 60 chars.
+The number of chars will increase as user types. Let's say seller types &quot;Wina&quot;, then the display will be &quot;4/60&quot;.
+~ Only letters (abc...ABC...) and spaces are allowed (Any other char can't be entered). Space can only be used</description>
+   <name>True_Validation_Store_Owner_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29fbbb2f-70ad-4fe8-aac9-89aa4e4c6112</testCaseGuid>
+</TestCaseEntity>

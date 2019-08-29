@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify url store homepage ketika click nama toko dari pop up send message ( pop up message diakses dari PDP)</description>
+   <name>Popup_Message_Verify_PDPStoreHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08b5c1df-bc85-4aab-80d2-e47edb305b1b</testCaseGuid>
+</TestCaseEntity>

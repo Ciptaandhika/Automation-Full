@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik menu Rumah dan elektronik
+2. klik tombol lihat lebih banyak
+3. sistem akan memverifikasi semua produk di menu rumah dan elektronik</description>
+   <name>RumahdanElektronik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d597ab8c-a681-4ab8-96f5-7a48444dabe3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Editing attribute e-ticketing</description>
+   <name>EditAttributProductE-Ticketing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65685e8e-914f-4218-9265-ec2eb401ae24</testCaseGuid>
+</TestCaseEntity>

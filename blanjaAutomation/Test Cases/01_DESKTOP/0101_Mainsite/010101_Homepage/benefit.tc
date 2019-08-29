@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu &quot;Benefit&quot;</description>
+   <name>benefit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aba61e79-ec4f-4544-99f7-00ff6876f9a7</testCaseGuid>
+</TestCaseEntity>

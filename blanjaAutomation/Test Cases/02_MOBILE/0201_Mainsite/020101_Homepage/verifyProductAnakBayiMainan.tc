@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present produc anak bayi mainan</description>
+   <name>verifyProductAnakBayiMainan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bf97738-b7ad-4e63-ba45-f0370f84d098</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Order List Page
+dan pastikan ada kata &quot;trades/orderList'</description>
+   <name>Member_OrderList_VerifyUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>994f948c-be32-46e2-9d2d-33c960dcf8fc</testCaseGuid>
+</TestCaseEntity>

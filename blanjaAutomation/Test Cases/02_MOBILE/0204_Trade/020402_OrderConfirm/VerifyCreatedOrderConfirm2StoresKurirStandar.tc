@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Jasa Pengiriman &quot;Go Send&quot;.
+Choose Jenis Pengiriman &quot;Same Day&quot;.
+See pop up &quot;Jarajk Terlalu Jauh ...&quot;.</description>
+   <name>VerifyCreatedOrderConfirm2StoresKurirStandar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94abb6f0-b0ab-4fbb-9218-e88d043a927e</testCaseGuid>
+</TestCaseEntity>

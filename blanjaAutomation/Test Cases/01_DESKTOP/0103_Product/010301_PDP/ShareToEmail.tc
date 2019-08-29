@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Email icon
+Verify URL Email Blanja</description>
+   <name>ShareToEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef3d215c-13d2-47a0-ac11-1c3cfdb26ca6</testCaseGuid>
+</TestCaseEntity>

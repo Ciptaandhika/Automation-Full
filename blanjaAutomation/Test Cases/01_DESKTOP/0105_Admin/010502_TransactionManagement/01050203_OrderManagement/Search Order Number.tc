@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin blanja
+2. go to 'Order Management'
+3. search  order number where product on campaign
+4. click 'Order detail'</description>
+   <name>Search Order Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a8115b5-52d5-4e78-8cd1-760d9fdb5627</testCaseGuid>
+</TestCaseEntity>

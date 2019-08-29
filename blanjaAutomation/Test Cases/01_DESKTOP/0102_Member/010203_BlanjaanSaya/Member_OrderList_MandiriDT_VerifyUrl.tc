@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata &quot;member.bljstaging.com/trades/orderList'</description>
+   <name>Member_OrderList_MandiriDT_VerifyUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6ee786e-bb4e-4761-850c-4a021db4c9e8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BRI
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'BRI 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_BNIDebitOnline_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>535adb5f-7b65-4578-a924-fae8b35e60da</testCaseGuid>
+</TestCaseEntity>

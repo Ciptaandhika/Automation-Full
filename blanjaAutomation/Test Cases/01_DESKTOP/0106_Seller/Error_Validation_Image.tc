@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi kondisi error pada input image (individual store)
+
+If file format is not appropriate, display message: &quot;Hanya gambar dengan format JPG, JPEG yang diperbolehkan.&quot;
+~ If file size is bigger than allowed, display message: &quot;Gambar terlalu besar. Ukuran maksimum 5 MB yang diperbolehkan.&quot;</description>
+   <name>Error_Validation_Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fe338eb-e3bf-4eaa-bce1-d1247c0ec9d0</testCaseGuid>
+</TestCaseEntity>

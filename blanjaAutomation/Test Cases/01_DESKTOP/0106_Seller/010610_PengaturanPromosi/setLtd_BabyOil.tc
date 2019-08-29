@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text judul promosi
+Date picker
+Date picker
+Set text diskon
+Click button tambah produk
+Click combo 
+Set text stok promosi
+Set text kuota pembelian
+Click button tambah LTD
+Delay 
+Get alert text
+log.info
+Verify text present</description>
+   <name>setLtd_BabyOil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7984758c-f014-4799-8fd9-c8c79f28e604</testCaseGuid>
+</TestCaseEntity>

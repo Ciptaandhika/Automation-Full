@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that page Hadiah Undian has been shown</description>
+   <name>Verify_HadiahUndian_isActive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7ae4d0e-6b45-4496-ace5-968db3037f5e</testCaseGuid>
+</TestCaseEntity>

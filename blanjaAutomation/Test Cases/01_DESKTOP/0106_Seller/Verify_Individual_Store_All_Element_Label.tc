@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify semua data tersebut adalah label / disable (tidak bisa di edit)</description>
+   <name>Verify_Individual_Store_All_Element_Label</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbe982ee-d0f2-4b55-86ec-3b0a3a9ec2ce</testCaseGuid>
+</TestCaseEntity>

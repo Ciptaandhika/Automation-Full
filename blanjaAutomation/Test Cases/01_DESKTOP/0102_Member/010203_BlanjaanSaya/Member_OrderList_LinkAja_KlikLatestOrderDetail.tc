@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number 
+click Search
+Get Text Verify tulisan 'Pembayaran :LinkAja'
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.
+Klik Order Detail sesuai order yang telah dilakukan</description>
+   <name>Member_OrderList_LinkAja_KlikLatestOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae5e57f6-5c3e-48e5-b22b-fef6915b78f4</testCaseGuid>
+</TestCaseEntity>

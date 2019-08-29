@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input kode bandara keberangkatan
+
+1. Masukkan kode bandara (Misalnya JKT)</description>
+   <name>AddLandingPage(Input Kode Keberangkatan)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec90dcc1-e08f-42aa-a9ec-d437dce5c6b8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik tombol slide show
+sistem akan memverifikasi</description>
+   <name>SlideProductImage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a0719de-43f3-450e-b219-ab53c2b5bda3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sistem akan memverifikasi menu kategori</description>
+   <name>VerifyKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60e0749d-5bf6-4a68-b18d-2297e39fcfbb</testCaseGuid>
+</TestCaseEntity>

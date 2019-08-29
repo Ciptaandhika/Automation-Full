@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+- Jika user belum pernah memilih type store maka akan di direct ke halaman typestore
+- pilih button open store (individual store)
+- Input Semua Form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+-  User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi countdown 60 detik muncul saat tombol lanjutkan pertama kali di klik
+Kondisi 2 : 
+- Jika user sudah pernah memilih type store maka akan langsung di direct ke halaman form registrasi
+- Input semua form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+- User akan di direct ke halaman konfirmasi
+- klik checkbox
+- klik lanjutkan
+- verifikasi countdown 60 detik muncul saat tombol lanjutkan pertama kali di klik</description>
+   <name>Verify_Countdown_Appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd625831-e8ee-40d6-9883-3c9e569385f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to blanjaan saya
+- search order number
+- klik partial refund 1 product</description>
+   <name>PartialRefund_1Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68337f87-925e-40a6-9925-77a6adf48da9</testCaseGuid>
+</TestCaseEntity>

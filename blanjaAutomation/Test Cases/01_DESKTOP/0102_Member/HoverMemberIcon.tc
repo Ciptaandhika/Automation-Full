@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. In header menu, user can hover member icon like
+In header menu, user can hover member icon like : 
+1. Dompet Blanja and the current balance of member virtual account
+2. Informasi Akun
+3. Blanjaan Saya
+4. Favorit
+5. Kotak Masuk
+6. Ulasan
+7.Koin Blanja
+8.My eBay
+9. Keluar</description>
+   <name>HoverMemberIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>265bc774-dfdd-4be7-a5c0-3f867ac09244</testCaseGuid>
+</TestCaseEntity>

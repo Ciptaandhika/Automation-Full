@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify text</description>
+   <name>verifySuccessDeleteSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb6aae61-b7fa-4b1b-a1a2-29fee9022660</testCaseGuid>
+</TestCaseEntity>

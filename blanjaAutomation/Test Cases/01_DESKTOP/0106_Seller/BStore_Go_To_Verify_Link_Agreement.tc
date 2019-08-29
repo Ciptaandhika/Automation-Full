@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+
+- Jika member belum pernah mengisi form halaman dokumen penunjang maka isi semua form di halaman tersebut
+- member click lanjutkan
+- member di direct ke halaman konfirmasi (Bussiness Store)
+- verifikasi link agreement pada halaman konfirmasi
+
+Kondisi 2 : 
+-jika sudah pernah mengisi semua data /form langsung verifikasi link agreement pada halaman konfirmasi</description>
+   <name>BStore_Go_To_Verify_Link_Agreement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c322aff-5a5d-4e2f-a126-4477bbcb6b4a</testCaseGuid>
+</TestCaseEntity>

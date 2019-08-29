@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product on 'Product Populer&quot;
+system will display PDP for the selected product</description>
+   <name>PDPProdukPopuler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4122a703-a8d0-494c-9e18-95c7c152755e</testCaseGuid>
+</TestCaseEntity>

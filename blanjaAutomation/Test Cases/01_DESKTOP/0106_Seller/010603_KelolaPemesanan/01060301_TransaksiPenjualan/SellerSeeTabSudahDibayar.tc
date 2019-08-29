@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See tab Sudah Dibayar.</description>
+   <name>SellerSeeTabSudahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>547c95b5-efde-4180-aaef-ea804fcfb34c</testCaseGuid>
+</TestCaseEntity>

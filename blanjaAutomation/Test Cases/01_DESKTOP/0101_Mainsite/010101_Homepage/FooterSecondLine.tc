@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover and click 'Penjual Terpercaya' text
+Hover and click 'Barang Dijamin Sampai' text
+Hover and click 'Garansi Uang Kembali' text
+Hover and click 'Jaminan Keamanan' text</description>
+   <name>FooterSecondLine</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de4c928d-5d85-42aa-b07c-00490530b0b8</testCaseGuid>
+</TestCaseEntity>

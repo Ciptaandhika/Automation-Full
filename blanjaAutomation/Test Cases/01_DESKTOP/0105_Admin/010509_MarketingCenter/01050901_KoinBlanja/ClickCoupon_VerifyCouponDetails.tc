@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click coupon
+- Verify that Coupon Details Pop up has been shown</description>
+   <name>ClickCoupon_VerifyCouponDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>393fbc4c-b85b-45ff-a521-6d253d97d1cb</testCaseGuid>
+</TestCaseEntity>

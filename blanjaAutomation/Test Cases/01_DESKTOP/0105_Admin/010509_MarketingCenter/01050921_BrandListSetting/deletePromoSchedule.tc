@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn &quot;btnDeleteSchedule&quot;</description>
+   <name>deletePromoSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3e9f1db-af9c-40eb-8195-d38559fe0a9e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input program name
+input promotion name
+input promotion time
+input covereage area
+input shipping discount
+input promotion info
+input applied to
+input type
+input budget area
+input budget alocationn partnership
+klik save</description>
+   <name>MultipleFreeShippingSameThreshold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccf7190c-0303-4647-b442-f28ea2b9f169</testCaseGuid>
+</TestCaseEntity>

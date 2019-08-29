@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;app.sandbox.midtrans.com&quot;
+Verify nominal payment dan installment info tampil</description>
+   <name>Sandbox_FinpayKartuKreditCicilan_VerifyInstallmentInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57c1643c-1c98-4763-ae12-6a67e5f47efe</testCaseGuid>
+</TestCaseEntity>

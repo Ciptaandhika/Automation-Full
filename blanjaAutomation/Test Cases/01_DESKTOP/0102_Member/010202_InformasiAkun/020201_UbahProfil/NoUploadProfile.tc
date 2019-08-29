@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>default image as avatar if does not upload image profile yet</description>
+   <name>NoUploadProfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a12858fd-d5e1-409e-a452-94a71b0129af</testCaseGuid>
+</TestCaseEntity>

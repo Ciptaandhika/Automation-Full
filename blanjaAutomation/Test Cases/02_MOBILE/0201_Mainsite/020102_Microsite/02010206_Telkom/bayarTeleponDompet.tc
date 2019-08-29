@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Click button Pilih Metode Pembayaran
+Click button Debit
+Delay 
+Click button Konfirmasi Pembayaran
+Delay
+Click Lanjut Debit
+Delay 
+Get URL
+Contains
+Verify element present</description>
+   <name>bayarTeleponDompet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46e8539a-6f56-4b13-ac28-c36c29667435</testCaseGuid>
+</TestCaseEntity>

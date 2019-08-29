@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin
+Masukkan nomor order, dari order yang sudah dijalankan sebelumnya di TC Pay Manually
+Klik tombol Cari
+Verify status 'Paid'</description>
+   <name>GoToTransaksiPenjualan_CheckPromoBank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90a2ed99-18e4-47ec-908d-e2420f9a3c6f</testCaseGuid>
+</TestCaseEntity>

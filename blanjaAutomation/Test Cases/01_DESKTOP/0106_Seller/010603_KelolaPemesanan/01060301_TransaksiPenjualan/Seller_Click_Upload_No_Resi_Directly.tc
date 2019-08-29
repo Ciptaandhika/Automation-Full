@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Seller go to Seller Center
+2. Open Sold Transaction menu (Transaksi Penjualan)
+3. Go to &quot;Sudah Dibayar&quot; tab
+4. Click button &quot;Upload Nomor Resi&quot;
+5. Without choose any file, click &quot;Upload&quot;</description>
+   <name>Seller_Click_Upload_No_Resi_Directly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>803f416b-0eb6-4131-bd16-5e5cb67b96b3</testCaseGuid>
+</TestCaseEntity>

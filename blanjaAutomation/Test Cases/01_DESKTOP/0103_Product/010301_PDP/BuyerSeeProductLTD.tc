@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose product.</description>
+   <name>BuyerSeeProductLTD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3adf7193-6bb7-4283-abb4-26e106416620</testCaseGuid>
+</TestCaseEntity>

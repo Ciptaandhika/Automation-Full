@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+ 2. Akses menu Marketing Center >> Koin Blanja
+ 3. Klik Create Campaign
+ 4. Input Campaign Name
+ 5. Pilih Campaign Time : 26 Februari 2019 - 28 Februari 2019
+ 6.Ubah Campaign Time Start: 1 Maret 2019
+ 6. Pilih Points Expiration Time :27 Februari 2019</description>
+   <name>Verify_Point_Expiration_Time</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>642b5dd5-41ba-4fa0-96cc-8f470645ddd7</testCaseGuid>
+</TestCaseEntity>

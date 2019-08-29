@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk semua produk: Kurir Standar
+- Klik tab Bank BRI
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'BRI 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleStore_NINJAXPRESS_NINJAXPRESS_VerifyTotalOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd1a7404-8a2c-4c5f-a683-705f8f29f3e5</testCaseGuid>
+</TestCaseEntity>

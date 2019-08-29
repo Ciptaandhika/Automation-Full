@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a product to edited and changed</description>
+   <name>EditProdukWarungKami</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>925459ea-1e95-41fc-8c40-566aba1e97de</testCaseGuid>
+</TestCaseEntity>

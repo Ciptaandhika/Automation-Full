@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to transaction page (select courier).
+
+Dropdown pilih kurir main (Pos Indonesia)
+Verify/Get Text Dropdown sub Pilihan jenis kurir 
+Sub pilihan Jenis Kurir (Kilat, express next day, express same day)
+Click btn Lanjutkan pembayaran</description>
+   <name>BuyerBlanjaPosIndoExpressSameday</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1ec0ec7-77e0-4110-9ae0-431eb3feee6d</testCaseGuid>
+</TestCaseEntity>

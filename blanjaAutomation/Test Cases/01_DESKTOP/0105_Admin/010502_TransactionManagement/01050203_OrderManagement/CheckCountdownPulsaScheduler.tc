@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking and verifying countdown from product pulsa</description>
+   <name>CheckCountdownPulsaScheduler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>214e0761-89d6-4d60-b42b-b0bbd1a8630a</testCaseGuid>
+</TestCaseEntity>

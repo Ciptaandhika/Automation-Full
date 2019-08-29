@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Bank Payment Promotion
+2. Add Promotion
+3. Input n verify Limit Per User and Max User</description>
+   <name>Add Promotion - Limit Per User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4272df75-0e7e-485b-aae9-e01bfc36dfc6</testCaseGuid>
+</TestCaseEntity>

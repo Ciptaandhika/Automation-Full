@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi upload error pada form surat pernyataan (tipe file png)</description>
+   <name>Upload_Surat_Pernyataan_FilePNG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0f89940-c54d-4c3d-bd45-9ae669abbe91</testCaseGuid>
+</TestCaseEntity>

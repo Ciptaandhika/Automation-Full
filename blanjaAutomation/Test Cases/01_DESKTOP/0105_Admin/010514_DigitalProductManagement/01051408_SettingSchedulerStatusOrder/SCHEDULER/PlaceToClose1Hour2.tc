@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID
+- Click radio button action
+- Click radio button place to close 1 hour
+- Submit changes
+- Search the edited product
+- Verify status</description>
+   <name>PlaceToClose1Hour2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2950d194-cf31-4e3e-80ab-e278d34620e3</testCaseGuid>
+</TestCaseEntity>

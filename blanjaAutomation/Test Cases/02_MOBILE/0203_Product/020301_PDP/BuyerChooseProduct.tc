@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to pdp
+2. Check the item shipping info</description>
+   <name>BuyerChooseProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b48a81be-7c55-4e5e-b13b-bc3bb5299f9e</testCaseGuid>
+</TestCaseEntity>

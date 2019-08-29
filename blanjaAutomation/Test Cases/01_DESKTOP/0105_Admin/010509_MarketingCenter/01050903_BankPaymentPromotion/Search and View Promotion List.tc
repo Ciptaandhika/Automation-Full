@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.  Input text box and drop down in Promotion
+2.  Click button search
+3.  View n verify Promotion List
+
+note :
+Dibuat terlebih dahulu promotion nya
+&quot;WARDAHMURAH&quot; menyesuaikan globalvariable</description>
+   <name>Search and View Promotion List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd20277f-f789-412e-8b28-0c9f6547a973</testCaseGuid>
+</TestCaseEntity>

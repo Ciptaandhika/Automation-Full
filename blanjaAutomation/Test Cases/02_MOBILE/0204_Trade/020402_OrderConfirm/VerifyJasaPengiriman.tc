@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi jasa pengiriman</description>
+   <name>VerifyJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60ada60b-b939-493d-8247-542164daa0a0</testCaseGuid>
+</TestCaseEntity>

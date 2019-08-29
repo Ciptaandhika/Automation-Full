@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Daftar Blanja.com
+Register to Blanja.com by fill column username, phone number, email, sex, password, confirm password, verification code</description>
+   <name>RegisterEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79fb7224-f614-476f-8ae6-9a9416bd9a41</testCaseGuid>
+</TestCaseEntity>

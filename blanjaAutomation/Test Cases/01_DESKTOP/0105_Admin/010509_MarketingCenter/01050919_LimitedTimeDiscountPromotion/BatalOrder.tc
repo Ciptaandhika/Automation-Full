@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Click button
+Click button</description>
+   <name>BatalOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24cd486d-e5ff-406b-a34d-d0d4e6584028</testCaseGuid>
+</TestCaseEntity>

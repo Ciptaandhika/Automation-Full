@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify link yang dituju mengandung seller.bljstaging/publish</description>
+   <name>Verify_Seller_Link_From_Login_UKMEvent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd8ee19e-b440-4652-ab6a-1d09e651310f</testCaseGuid>
+</TestCaseEntity>

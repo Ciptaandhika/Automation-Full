@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>No Expired Store From Store List in Add Exclude Store Being Verified Page Case TCT-BVBUY039</description>
+   <name>EBVTokoA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5765968d-2f6e-4376-be1e-f24d115d15c0</testCaseGuid>
+</TestCaseEntity>

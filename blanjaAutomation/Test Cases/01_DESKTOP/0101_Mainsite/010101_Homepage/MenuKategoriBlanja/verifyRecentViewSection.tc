@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL is redirected to https://www.blanja.com/katalog/c/{category_label}/{category_name}</description>
+   <name>verifyRecentViewSection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f946729a-2e82-4e02-8b64-133b15a56fa8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+click button Blanja Sekarang.</description>
+   <name>PDP50K_Qty3_BuyNow_WARUNGKAMI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ada1f12-d6c5-4144-bd06-a4d7cd827701</testCaseGuid>
+</TestCaseEntity>

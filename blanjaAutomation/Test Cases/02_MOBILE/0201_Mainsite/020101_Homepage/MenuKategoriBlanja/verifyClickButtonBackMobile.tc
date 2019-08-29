@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User redirected to m.blanja.com/store/[storename]</description>
+   <name>verifyClickButtonBackMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>307bf0ba-a7cc-428d-aca5-efaa1b3bba96</testCaseGuid>
+</TestCaseEntity>

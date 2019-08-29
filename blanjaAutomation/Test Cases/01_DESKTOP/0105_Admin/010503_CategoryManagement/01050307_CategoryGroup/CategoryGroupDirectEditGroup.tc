@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to Category Group Page
+2. On Group List select Group Name and click Edit</description>
+   <name>CategoryGroupDirectEditGroup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca9df6e9-507f-4976-99bc-9d54cdb1554a</testCaseGuid>
+</TestCaseEntity>

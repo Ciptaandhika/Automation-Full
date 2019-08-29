@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to admin page</description>
+   <name>LoginAdminTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd24a448-3b39-494b-9c8d-e838015eb96c</testCaseGuid>
+</TestCaseEntity>

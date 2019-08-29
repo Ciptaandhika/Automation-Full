@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill product id and admin fee field.
+- Click button submit</description>
+   <name>AddProductAdminFeeDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14effe97-3a13-48ba-aceb-9b05ff9b5258</testCaseGuid>
+</TestCaseEntity>

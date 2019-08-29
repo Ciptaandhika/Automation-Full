@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Bank Payment Promotion
+2. verify akses Bank Payment Promotion
+3. Select n verify Drop Down in Payment Type</description>
+   <name>Select DD Payment Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b30b47b5-4553-4352-ac45-761465e37534</testCaseGuid>
+</TestCaseEntity>

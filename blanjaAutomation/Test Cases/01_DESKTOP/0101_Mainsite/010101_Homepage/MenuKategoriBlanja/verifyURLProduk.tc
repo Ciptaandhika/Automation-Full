@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>URL auto replace become 
+https://www.bljstaging.com/katalog/p/mnb/pashmina-kerudung-pk5-175-50671</description>
+   <name>verifyURLProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f081dc-7284-4c31-b427-8133dde01907</testCaseGuid>
+</TestCaseEntity>

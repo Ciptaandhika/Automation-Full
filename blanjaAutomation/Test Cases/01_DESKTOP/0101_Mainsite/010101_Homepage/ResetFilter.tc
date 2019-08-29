@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Store name
+Choose Filter
+Set Country and Province
+Reset</description>
+   <name>ResetFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df38ff93-d915-405b-9f4f-e6a25ea8215c</testCaseGuid>
+</TestCaseEntity>

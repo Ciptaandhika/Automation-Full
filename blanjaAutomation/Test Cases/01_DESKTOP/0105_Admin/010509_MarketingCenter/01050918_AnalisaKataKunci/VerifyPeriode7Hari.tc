@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select option by index
+Verify option selected by index
+Verify element present for '7 hari terakhir'</description>
+   <name>VerifyPeriode7Hari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b52bcac5-1b0e-4074-9a3d-c3f6ccc5bb3e</testCaseGuid>
+</TestCaseEntity>

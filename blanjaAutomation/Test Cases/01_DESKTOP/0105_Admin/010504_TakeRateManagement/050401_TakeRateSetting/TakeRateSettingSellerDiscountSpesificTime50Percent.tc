@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create new seller TR for discount seller TR
+ - periode = 4 mei 2017 - mei 2017
+ - take rate discount = 50%
+ - seller id = 220116
+
+Take rate for discount TR is created</description>
+   <name>TakeRateSettingSellerDiscountSpesificTime50Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>833104c1-e7ce-4c22-8dad-503dbbb862f2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Choosing type option from dropdown ddType
+- Fill product name, shop id, information field
+- Upload image
+- Choose radio button option
+- Click submit button</description>
+   <name>SelectType_IndiHome</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2775397b-c658-432d-81f3-05a8f9cc2e7b</testCaseGuid>
+</TestCaseEntity>

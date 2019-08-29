@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Lainnya.
+Set Jumlah Koin.
+Click Button Tukar.
+Verify Koin Berkurang.</description>
+   <name>VerifyKuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba1be113-10fe-436e-80fb-e2cbb4c9c710</testCaseGuid>
+</TestCaseEntity>

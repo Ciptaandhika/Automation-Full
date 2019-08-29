@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Mulai Berjualan.</description>
+   <name>BuyerChooseMulaiBerjualan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e10f173-e63e-4373-bc0e-3169be1d342d</testCaseGuid>
+</TestCaseEntity>

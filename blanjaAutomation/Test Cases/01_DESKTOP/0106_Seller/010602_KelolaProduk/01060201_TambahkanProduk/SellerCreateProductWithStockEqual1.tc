@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. seller set product condition as 'New'
+ 2. seller fill all mandatory fields
+ 3. seller click button 'Lanjutkan'</description>
+   <name>SellerCreateProductWithStockEqual1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0036ef53-946f-4f73-b7cb-f041fae2ef29</testCaseGuid>
+</TestCaseEntity>

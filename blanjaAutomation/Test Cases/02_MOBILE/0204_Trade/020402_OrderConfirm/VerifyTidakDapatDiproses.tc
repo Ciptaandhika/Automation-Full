@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Tidak Dapat Diproses</description>
+   <name>VerifyTidakDapatDiproses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecc78754-f495-45a2-b0da-e5a85831ef03</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to pdp 
+verify list price
+verify sell price</description>
+   <name>NavigateToPdpUrlVerifyPrice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e117b66e-6673-4c19-854e-fe93e1721b39</testCaseGuid>
+</TestCaseEntity>

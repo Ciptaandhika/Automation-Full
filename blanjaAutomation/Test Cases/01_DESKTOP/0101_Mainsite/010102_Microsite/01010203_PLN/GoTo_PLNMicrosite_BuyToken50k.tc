@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to PLN Microsite
+- Buy token 50k
+- Click Blanja Token Sekarang</description>
+   <name>GoTo_PLNMicrosite_BuyToken50k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>343a2641-6de3-4f03-b936-df89079c7b0d</testCaseGuid>
+</TestCaseEntity>

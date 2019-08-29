@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click FAQ</description>
+   <name>AccessFAQPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8175767-702a-4574-80f1-13435cfe2117</testCaseGuid>
+</TestCaseEntity>

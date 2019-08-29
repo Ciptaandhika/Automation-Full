@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition :
+
+user harus login terlebih dahulu 
+
+1. Pada Main Homepage Click nama profile
+2. Pilih Dompet Blanja</description>
+   <name>memberGoToDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e301bde6-f8d0-472a-861f-12c8d0767d3a</testCaseGuid>
+</TestCaseEntity>

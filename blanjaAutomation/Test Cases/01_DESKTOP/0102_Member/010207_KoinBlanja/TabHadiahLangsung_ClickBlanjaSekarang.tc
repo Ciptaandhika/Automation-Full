@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik button Blanja Sekarang</description>
+   <name>TabHadiahLangsung_ClickBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59f1aa01-69b6-497a-ba38-fdce61c2dba0</testCaseGuid>
+</TestCaseEntity>

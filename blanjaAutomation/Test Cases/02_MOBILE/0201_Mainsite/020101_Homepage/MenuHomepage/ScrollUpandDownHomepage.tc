@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll logo blanja
+scroll lblsuperdeal
+scroll lblkeamanan</description>
+   <name>ScrollUpandDownHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84f37b53-9faa-4ff4-ac6b-9bcc681adeb4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Kupon 1 
+Search Kupon 2</description>
+   <name>SearchandVerifyCouponNotFoundSearchAllVoucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dac3c051-1db3-4d45-af2c-4e0484abeb2f</testCaseGuid>
+</TestCaseEntity>

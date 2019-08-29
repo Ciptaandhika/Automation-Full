@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Pilih Bank Transfer
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_OthersDirectTransfer_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11a388fe-534e-49c0-ab93-0e575f0d943e</testCaseGuid>
+</TestCaseEntity>

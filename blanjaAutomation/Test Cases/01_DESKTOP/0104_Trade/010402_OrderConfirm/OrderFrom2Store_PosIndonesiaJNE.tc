@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose dropdown jasa pengiriman by index
+choose dropdown jenis pengiriman by index
+choose dropdown promo ongkir by index
+choose dropdown jasa pengiriman by index
+choose dropdown jenis pengiriman by index
+get text biaya pengiriman
+get text biaya pengiriman</description>
+   <name>OrderFrom2Store_PosIndonesiaJNE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64ca750b-7613-4e39-97dd-bb9a30cbebb2</testCaseGuid>
+</TestCaseEntity>

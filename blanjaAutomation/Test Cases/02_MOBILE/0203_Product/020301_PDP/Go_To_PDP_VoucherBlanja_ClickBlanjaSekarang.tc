@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to URL voucher blanja</description>
+   <name>Go_To_PDP_VoucherBlanja_ClickBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>505c6477-5532-4f85-a6bf-ea89c31af738</testCaseGuid>
+</TestCaseEntity>

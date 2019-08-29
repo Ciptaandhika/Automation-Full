@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click 1 transaction
+Verify</description>
+   <name>verifyTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5667fa4b-69f4-4d13-bce5-3db321ef2370</testCaseGuid>
+</TestCaseEntity>

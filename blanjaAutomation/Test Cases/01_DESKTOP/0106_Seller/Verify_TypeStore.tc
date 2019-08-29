@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verifikasi pada halaman ini terdapat 2 tipe store yaitu individual dan business store</description>
+   <name>Verify_TypeStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d8e2df7-dc22-45e8-b02c-b0b4a60cbf16</testCaseGuid>
+</TestCaseEntity>

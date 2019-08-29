@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Close Btn X
+2. Masuk Link Toko Saya</description>
+   <name>MasukTokoSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea1508a7-8278-4b31-a440-c82e9161d8c2</testCaseGuid>
+</TestCaseEntity>

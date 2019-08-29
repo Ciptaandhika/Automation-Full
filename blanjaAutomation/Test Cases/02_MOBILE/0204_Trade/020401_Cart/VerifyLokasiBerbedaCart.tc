@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Lokasi Berbeda</description>
+   <name>VerifyLokasiBerbedaCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ade5821-64f4-46d3-9c5b-5c885a04940b</testCaseGuid>
+</TestCaseEntity>

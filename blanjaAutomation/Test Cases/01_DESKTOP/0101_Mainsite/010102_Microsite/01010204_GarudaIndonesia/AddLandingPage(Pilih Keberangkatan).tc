@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input kota keberangkatan
+
+1. Masukkan kota keberangkatan (Misalnya Jakarta)</description>
+   <name>AddLandingPage(Pilih Keberangkatan)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b8489c8-a834-453d-9e2d-100a1e4deec1</testCaseGuid>
+</TestCaseEntity>

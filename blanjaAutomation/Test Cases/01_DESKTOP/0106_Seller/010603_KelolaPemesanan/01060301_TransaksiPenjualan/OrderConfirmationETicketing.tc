@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirm order of eticketing transaction</description>
+   <name>OrderConfirmationETicketing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcff3f55-129d-4e93-a1fc-67f1577e31c6</testCaseGuid>
+</TestCaseEntity>

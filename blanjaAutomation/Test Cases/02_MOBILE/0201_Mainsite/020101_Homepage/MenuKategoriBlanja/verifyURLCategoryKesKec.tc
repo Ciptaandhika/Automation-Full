@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>URL is https://www.bljstaging.com/katalog/c/mnb/ibu-bayi-anak</description>
+   <name>verifyURLCategoryKesKec</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce648923-fd78-4eaf-8676-d5807aacdd17</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button GoSend
+Verify text present
+Set text
+Delay
+Click button cart
+Delay
+Set text
+Click button cart
+Verify text present</description>
+   <name>AddToOrder_ErrorSpinUp_Digital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba47e0bc-6d40-4231-8e92-4217a58beacd</testCaseGuid>
+</TestCaseEntity>

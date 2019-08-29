@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To URL Order Management
+isi order Number 
+click Search 
+Get Payment Code</description>
+   <name>VerifyOrderManagement-DateTimeClosedOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faa3db06-1fbb-47c7-b861-a8aecaa1b24b</testCaseGuid>
+</TestCaseEntity>

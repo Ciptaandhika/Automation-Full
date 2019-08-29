@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih Kategori Menu Otomotif
+sistem akan menampilkan semua produk tsb</description>
+   <name>Otomotif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04f6eb34-dfe2-403b-af51-a526b8bbc69d</testCaseGuid>
+</TestCaseEntity>

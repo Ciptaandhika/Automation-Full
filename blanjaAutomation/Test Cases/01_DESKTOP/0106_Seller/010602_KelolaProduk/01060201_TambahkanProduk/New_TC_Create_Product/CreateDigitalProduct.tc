@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. seller set product condition as 'New'
+ 2. seller fill all mandatory fields
+ 3. seller click button 'Lanjutkan'</description>
+   <name>CreateDigitalProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15abea75-02fc-48ec-a1ed-02c18958e973</testCaseGuid>
+</TestCaseEntity>

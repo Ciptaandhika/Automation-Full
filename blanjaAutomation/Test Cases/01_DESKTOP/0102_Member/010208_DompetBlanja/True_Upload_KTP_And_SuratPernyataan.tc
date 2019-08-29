@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User click on user profile name
+2. Click on Penarikan Dana
+3. On Saldo dan Penarikan Dana, click Penarikan dana
+4. Input data info bank
+5. Click on Selanjutnya
+6. Pop-up &quot;Informasi Tambahan untuk Penarikan Dana&quot; will be shown
+7. Click on Pilih File (KTP) and upload image
+8. Click on Pilih File (Surat Pernyataan)
+9. Click on Selanjutnya button</description>
+   <name>True_Upload_KTP_And_SuratPernyataan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fe4b550-7a30-4fc3-bd56-c8b96700ce22</testCaseGuid>
+</TestCaseEntity>

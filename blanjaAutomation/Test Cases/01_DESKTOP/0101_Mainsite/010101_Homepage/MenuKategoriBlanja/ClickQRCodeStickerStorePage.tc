@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click QR Code Sticker pada Store Page</description>
+   <name>ClickQRCodeStickerStorePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efc38465-2b21-41bc-8a2c-eefac472706e</testCaseGuid>
+</TestCaseEntity>

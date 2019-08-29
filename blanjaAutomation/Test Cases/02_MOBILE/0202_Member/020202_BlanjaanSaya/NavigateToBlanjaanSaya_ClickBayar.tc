@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btnBayar</description>
+   <name>NavigateToBlanjaanSaya_ClickBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38f10d9d-d272-4def-96a3-85774e6b0f20</testCaseGuid>
+</TestCaseEntity>

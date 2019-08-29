@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.Search Product
+2. Click Edit
+3. Edit Category for Product</description>
+   <name>Seller_02_Edit_Product_LTD_Verify_Alert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>626a6e47-89b5-449f-8099-384e22a80699</testCaseGuid>
+</TestCaseEntity>

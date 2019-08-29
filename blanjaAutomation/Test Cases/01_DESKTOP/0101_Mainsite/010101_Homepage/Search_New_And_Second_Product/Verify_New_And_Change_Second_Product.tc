@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Set a product with new condition
+2. Do filter product and ensure the product showed on the new condition filter
+3. Change the product condition to second
+4. Do filter again on with new condition</description>
+   <name>Verify_New_And_Change_Second_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2b69a59-8d67-454e-87a4-b7bcf79bb64b</testCaseGuid>
+</TestCaseEntity>

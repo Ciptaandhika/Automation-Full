@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. View Report Coupon Partial Unique Code
+2. Verify Coupon
+
+Note :
+Dipastikan kupon sudah dibuat sesuai dengan global variable</description>
+   <name>View Report Coupon Partial Unique Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96ac62ad-baf4-424d-a870-fa97881257cc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin-Transaksi Penjualan
+Masukkan nomor order
+Klik tombol Cari
+Verify payment methode = 'Mandiri E-Cash'
+Klik 'Detail Pesanan'</description>
+   <name>GoToTransaksiPenjualan_CCSEL_Others_InputOrderNumber_KlikBtnCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68aa1080-1eea-44a4-a511-2adba9befe36</testCaseGuid>
+</TestCaseEntity>

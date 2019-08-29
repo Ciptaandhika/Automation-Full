@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify kondisi error untuk upload NPWP pada halaman dokumen penunjang (Business Store)</description>
+   <name>BStore_Error_Validation_Upload_NPWP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68c62d13-1d09-4b5a-9a15-d2ae01cdef62</testCaseGuid>
+</TestCaseEntity>

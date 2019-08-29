@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url
+verify equal</description>
+   <name>VerifyLoginSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99ee2269-92fb-4ade-a23a-60b99233f491</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL PDP 
+click button blanja sekarang</description>
+   <name>GoToPDPURLDigitalPulsa5k_AddQty_ClickBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a78f64d-1ba2-4d97-a9ae-ff4f3a3ce518</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BCA Virtual Account
+Get Label BCA Virutal Account
+Klik Konfrimasi Pembayaran</description>
+   <name>10K_Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>426d78f5-c4c2-45a4-9425-b7af73564ad3</testCaseGuid>
+</TestCaseEntity>

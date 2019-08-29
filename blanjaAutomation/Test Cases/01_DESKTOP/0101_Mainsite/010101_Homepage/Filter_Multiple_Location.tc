@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click search bar
+2. Input store name
+3. On store search result page filter multiple location</description>
+   <name>Filter_Multiple_Location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b98e3473-5fdd-43c4-9797-eb595632fa35</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin.blanjadev.com
+2. go to withdrawal management
+3. search status is HOLD or COMPLETE
+
+status is HOLD or COMPLETE after admin change status of withdrawal</description>
+   <name>WithdrawalManagementChangeToHold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83adee69-a6d9-4852-8af6-8fc404af1d95</testCaseGuid>
+</TestCaseEntity>

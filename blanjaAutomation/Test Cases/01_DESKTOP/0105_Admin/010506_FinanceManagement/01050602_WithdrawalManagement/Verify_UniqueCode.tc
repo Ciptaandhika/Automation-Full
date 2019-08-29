@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- get text dari unique code
+- tampilkan unique code</description>
+   <name>Verify_UniqueCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8ee0771-df5f-4bbf-bba0-5a3e45fe012a</testCaseGuid>
+</TestCaseEntity>

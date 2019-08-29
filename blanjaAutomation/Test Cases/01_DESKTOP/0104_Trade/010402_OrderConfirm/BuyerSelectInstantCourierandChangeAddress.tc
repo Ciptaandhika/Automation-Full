@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose jasa pengiriman Go Send.
+click Alamat Lainnya.
+click Ubah Alamat.
+choose jasa pengiriman Go Send.</description>
+   <name>BuyerSelectInstantCourierandChangeAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6f30dad-a3fa-4b3d-8589-f1423e6d79cf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Close go send</description>
+   <name>CloseGoSend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13b92e2a-2876-4f54-8bfd-7b0ba54f3932</testCaseGuid>
+</TestCaseEntity>

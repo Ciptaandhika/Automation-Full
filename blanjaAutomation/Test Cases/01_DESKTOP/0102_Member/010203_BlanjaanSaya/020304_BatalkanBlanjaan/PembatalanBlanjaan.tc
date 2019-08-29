@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik batalkan pembelanjaan
+pilih alasan
+klik oke</description>
+   <name>PembatalanBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7274511f-918f-49ba-8e7d-bd6a11733b29</testCaseGuid>
+</TestCaseEntity>

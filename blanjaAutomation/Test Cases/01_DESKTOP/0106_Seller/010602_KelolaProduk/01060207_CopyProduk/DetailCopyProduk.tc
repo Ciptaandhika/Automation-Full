@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll ke Element Label Detail pengiriman
+Pilih propinsi asal Produk
+Pilih not Pre Order
+Button lanjutkan</description>
+   <name>DetailCopyProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d925ce89-53dd-48de-846b-4f63e279ba0c</testCaseGuid>
+</TestCaseEntity>

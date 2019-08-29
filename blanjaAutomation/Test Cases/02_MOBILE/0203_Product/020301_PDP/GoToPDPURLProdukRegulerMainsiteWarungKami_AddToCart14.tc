@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. navigate to product url
+2. verify that dialog gojek appear and click it 
+3. get attribute sku id and store it at global variable
+4. click add to cart button
+5. click button ke pembayaran</description>
+   <name>GoToPDPURLProdukRegulerMainsiteWarungKami_AddToCart14</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a526400-e4b6-4bd6-b563-d460d7bdc09d</testCaseGuid>
+</TestCaseEntity>

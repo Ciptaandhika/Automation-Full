@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to hadiah undian
+tukar coupon</description>
+   <name>tukarHadiahUndian_KlikTukarKoin_2Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>951bedf8-e7fb-4290-943b-4931f8a57d5e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click a category name
+2. Click Semua Kategori</description>
+   <name>GoToStorenameSemuaCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d1beb01-db33-46a5-954a-219917208a98</testCaseGuid>
+</TestCaseEntity>

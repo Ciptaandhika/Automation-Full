@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login as admin
+2. Select menu Finance Management > Bank Mutation
+3. Search data by description</description>
+   <name>Search_By_Description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e5103e4-6c0a-49df-9b55-4b02a68e4dde</testCaseGuid>
+</TestCaseEntity>

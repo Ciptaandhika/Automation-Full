@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open homepage without login</description>
+   <name>OpenBljstaging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6aca3f-e111-4b67-be48-cf98b80058d7</testCaseGuid>
+</TestCaseEntity>

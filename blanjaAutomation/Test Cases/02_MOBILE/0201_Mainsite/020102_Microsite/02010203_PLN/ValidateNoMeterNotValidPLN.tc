@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate error when user input wrong no meter</description>
+   <name>ValidateNoMeterNotValidPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02d5b50c-bbcb-45c1-802d-0a58aff849fb</testCaseGuid>
+</TestCaseEntity>

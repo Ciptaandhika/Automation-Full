@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify total koin method payment</description>
+   <name>VerifyTotalKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c46a488-aba6-41f7-9925-75ba60f95f7d</testCaseGuid>
+</TestCaseEntity>

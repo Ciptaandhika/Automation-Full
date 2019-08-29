@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. Choose or click “My eBay” menu
+If member click “My eBay” menu, system will open new tab showing the my eBay account page. Link: https://ebay.blanja.com/?dir=myebay</description>
+   <name>VerifyMyEbay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67e781a1-e22a-4e71-beea-dfccb9ac28cf</testCaseGuid>
+</TestCaseEntity>

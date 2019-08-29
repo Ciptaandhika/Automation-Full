@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Petunjuk Pembayaran will appear only if:
+ - Status = Menunggu Pembayaran
+ - Payment method = Bank Transfer / Virtual Account or KlikBCA</description>
+   <name>verifyPetunjukPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18ffa826-8d29-44d0-a40b-87ca4c9648d6</testCaseGuid>
+</TestCaseEntity>

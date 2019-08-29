@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify equal id product hasil pencarian dengan id product yang diinput</description>
+   <name>verifyProductIdBySeacrh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bfdec36-0559-4adf-8062-c5fcdc1db82b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. System will display order confirm page, e.g. :
+2. Email and phone number 
+ - on email field, system will auto input with email which was verified
+ - on mobile phone field, system will auto input phone number from default address
+3. Product that ordered, include :
+- product name
+- SKU
+- Qty
+- Product coupon
+- Normal price or special price (if product support LTD.First purchase)
+- Store coupon
+- Message for seller
+- shipping fee
+- Subtotal order
+3.1.3 Total Order
+3.1.4 button &quot;Lanjutkan pembayaran&quot;</description>
+   <name>OrderConfirmPageDigitalProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f827c45-dd7d-4ad5-9b5a-342a97911170</testCaseGuid>
+</TestCaseEntity>

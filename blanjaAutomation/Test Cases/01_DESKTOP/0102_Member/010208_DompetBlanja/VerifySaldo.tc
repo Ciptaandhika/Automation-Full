@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Informasi Akun.
+Click Dompet Blanja.</description>
+   <name>VerifySaldo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e4a7f88-f73a-4945-8e13-39b118972e18</testCaseGuid>
+</TestCaseEntity>

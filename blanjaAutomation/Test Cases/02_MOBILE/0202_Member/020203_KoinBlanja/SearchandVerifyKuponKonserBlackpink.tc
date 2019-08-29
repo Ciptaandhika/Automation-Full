@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Kode Kupon langsung 1
+Get Kode Kupon langsung 2
+Search Kupon 1 
+Search Kupon 2</description>
+   <name>SearchandVerifyKuponKonserBlackpink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>107d8020-5542-4c21-90c4-2ab7496fd54b</testCaseGuid>
+</TestCaseEntity>

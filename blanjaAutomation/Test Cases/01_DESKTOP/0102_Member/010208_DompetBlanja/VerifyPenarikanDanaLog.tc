@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Direct to page confirm penarikan dana success</description>
+   <name>VerifyPenarikanDanaLog</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f94774af-beba-402e-9106-1c755ad0537b</testCaseGuid>
+</TestCaseEntity>

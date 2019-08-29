@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Next : 
+
+1.1 system will redirect to 'Transaksi Penjualan' page
+2.1 system will redirect to tab 'DIPESAN'
+2.2 system will display orders with status = 'DIPESAN', by default sort by date desc, and also display some order information, such like : 
+</description>
+   <name>Seller01GoToTransaksiPenjualan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbd02726-23b7-4986-9a40-868e841c8097</testCaseGuid>
+</TestCaseEntity>

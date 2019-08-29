@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Lainnya.
+Set Jumlah Koin.
+Click Button Tukar.
+Verify Koin Berkurang.</description>
+   <name>VerifyKoinTidakBerkurangSwapeDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b1cbed4-8ae1-407a-a1e1-06ce91d38298</testCaseGuid>
+</TestCaseEntity>

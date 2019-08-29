@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login with valid credentials
+ 2. Open My Message page (https://member.mp2.com/message/messageList.html)
+ 3. Open one conversation. Make sure that conversation has more than 3 message
+ 4. Click on &quot;Load More&quot;</description>
+   <name>Seller02_Verify_Folded_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01b61582-b452-40ae-9b40-f2eb3cfa0e1d</testCaseGuid>
+</TestCaseEntity>

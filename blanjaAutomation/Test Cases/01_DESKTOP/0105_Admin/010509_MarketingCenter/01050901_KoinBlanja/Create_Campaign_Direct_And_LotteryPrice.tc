@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+ 2. Akses menu Marketing Center >> Koin Blanja
+ 3. Klik Create Campaign
+ 4. Input Campaign Name
+ 5. Pilih Campaign Time : 26 Februari 2019 - 28 Februari 2019
+ 6. Pilih Points Expiration Time :1 Maret 2019
+ 7. Untick Use Redeem Time
+ 8. Input threshold
+ 9. Tick Applies Multiply
+ 10. Use Criteria = No
+ 12.input data lottery prize
+ Hadiah Langsung -Input Title - Upload Image size 390 x 200 format jpg - Input exchange Koin = 0 - Select Bind to Coupon - Pilih start time &amp; end time redeem 
+13.Input data lottery prize Hadiah Undian - Input Title - Upload Image size 390 x 200 format jpg - Input stock dengan qty = 10 - Input exchange Koin - Pilih start time &amp; end time redeem - Draw Time 
+14.Klik Save</description>
+   <name>Create_Campaign_Direct_And_LotteryPrice</name>
+   <tag></tag>
+   <comment>Set Direct Prize
+Set Lottery Prize</comment>
+   <testCaseGuid>8470c8bc-991a-44a8-bcf0-b387b3e16930</testCaseGuid>
+</TestCaseEntity>

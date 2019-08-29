@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On PDP
+Hoover and Klik FB logo
+Verify URL FB Blanja
+Hoover and Klik Twitter logo
+Verify URLTwitter Blanja
+Hoover and Klik Youtube logo
+Verify URL Youtube Blanja
+Hoover and Klik Instagram logo
+Verify URL Instagram Blanja
+Hoover and Klik LinkedInd logo
+Verify URL LinkedIn Blanja
+Hoover and Klik G+ logo
+Verify URL G+ Blanja</description>
+   <name>AppsIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f67ca58-134e-4e24-84c1-d448411f7483</testCaseGuid>
+</TestCaseEntity>

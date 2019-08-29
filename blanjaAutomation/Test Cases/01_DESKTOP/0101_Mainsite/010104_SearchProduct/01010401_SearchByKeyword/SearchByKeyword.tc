@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User type keyword on search bar (homepage)
+Click Search icon or press Enter</description>
+   <name>SearchByKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>545ef7af-9b0f-4d71-8ef5-66c209b432d2</testCaseGuid>
+</TestCaseEntity>

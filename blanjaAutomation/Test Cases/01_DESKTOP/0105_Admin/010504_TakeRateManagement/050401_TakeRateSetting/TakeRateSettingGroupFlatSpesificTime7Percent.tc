@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create specific periode TR setting for 
+ - Group name = Fashion.
+ - Take Rate = 7% (flat)
+ - Periode = 1 april 2017 - 30 april 2017</description>
+   <name>TakeRateSettingGroupFlatSpesificTime7Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6ab81e9-ef79-41f5-b6bd-fd7b6531cde8</testCaseGuid>
+</TestCaseEntity>

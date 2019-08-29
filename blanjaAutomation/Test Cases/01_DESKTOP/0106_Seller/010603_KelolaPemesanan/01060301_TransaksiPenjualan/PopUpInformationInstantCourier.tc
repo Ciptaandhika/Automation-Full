@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click button Pick Up.</description>
+   <name>PopUpInformationInstantCourier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0f5fbaa-1103-44cf-b9b2-08039ebc24fc</testCaseGuid>
+</TestCaseEntity>

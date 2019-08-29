@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btnKirimUlang</description>
+   <name>resendVerifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1ff0c71-69d0-491b-830f-7b1e43851c5d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan scroll up down yang ada di halaman best seller</description>
+   <name>ScrollUpDownPageBestSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0223b217-fca4-4173-a5e1-a506c3fac3b7</testCaseGuid>
+</TestCaseEntity>

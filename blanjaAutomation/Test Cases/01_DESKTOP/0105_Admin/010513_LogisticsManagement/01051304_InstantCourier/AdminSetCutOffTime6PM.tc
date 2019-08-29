@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login as Admin.
+Choose Instant Courier Menu.
+Set Cut Off Time Same Day.
+Click Save.</description>
+   <name>AdminSetCutOffTime6PM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1607a1f6-b3ba-4016-a56c-a302dc84ad11</testCaseGuid>
+</TestCaseEntity>

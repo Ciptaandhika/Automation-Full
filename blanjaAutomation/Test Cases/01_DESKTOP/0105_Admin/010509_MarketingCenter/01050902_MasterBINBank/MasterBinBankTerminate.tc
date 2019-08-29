@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik master bin bank
+klik terminate
+klik oke
+verify button oke</description>
+   <name>MasterBinBankTerminate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>366cab15-0334-4ee3-ac6d-bc1336f23040</testCaseGuid>
+</TestCaseEntity>

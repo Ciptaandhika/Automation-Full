@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer create order
+2. Buyer paid order at 13:50:00
+
+1. On admin order list order status should be &quot;being verified&quot;
+</description>
+   <name>AdminOrderListBeingVerifiedStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23a87493-ff13-41f9-96f8-440fd793fb8d</testCaseGuid>
+</TestCaseEntity>

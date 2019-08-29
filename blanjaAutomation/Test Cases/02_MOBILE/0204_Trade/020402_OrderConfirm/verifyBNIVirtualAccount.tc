@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present lblBNIVirtualAccount</description>
+   <name>verifyBNIVirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff7539fa-b760-4dc1-96d1-ce2b61305f5c</testCaseGuid>
+</TestCaseEntity>

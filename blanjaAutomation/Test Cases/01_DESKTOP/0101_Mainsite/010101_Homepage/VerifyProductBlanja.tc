@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifiasi produk blanja</description>
+   <name>VerifyProductBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75779c55-c4ae-4e16-b6ac-91ab33ff32fb</testCaseGuid>
+</TestCaseEntity>

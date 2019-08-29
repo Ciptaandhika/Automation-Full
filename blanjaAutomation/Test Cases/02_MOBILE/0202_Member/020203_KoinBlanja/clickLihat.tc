@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btnLihat</description>
+   <name>clickLihat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4de44613-927a-423f-af04-b1a6f7485b64</testCaseGuid>
+</TestCaseEntity>

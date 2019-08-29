@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to url ubah profile</description>
+   <name>GoToUbahProfil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee565e13-1254-4165-9d4c-234b2abd2652</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click ROOT.
+click Fashion.</description>
+   <name>ChooseNewCathegory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8ec1c09-db85-4b2a-b1d3-f323f6e7187c</testCaseGuid>
+</TestCaseEntity>

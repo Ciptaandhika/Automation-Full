@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search user.
+Fill nominal.
+Fill note.
+Click save.</description>
+   <name>DompetBlanjaAddSaldoSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21327cac-dfdc-472e-9813-6529cf891bbd</testCaseGuid>
+</TestCaseEntity>

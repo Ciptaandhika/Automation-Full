@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Input kondisi error pada drop down provinsi (member tidak memilih provinsi)
+
+- verifikasi label error message &quot;Mohon Pilih Provinsi''</description>
+   <name>Error_Validation_Province</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5072a46-d500-454c-aafa-9a4963a140af</testCaseGuid>
+</TestCaseEntity>

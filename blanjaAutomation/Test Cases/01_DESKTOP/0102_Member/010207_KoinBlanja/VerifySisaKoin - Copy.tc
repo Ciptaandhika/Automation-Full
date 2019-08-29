@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.
+Click Tukar.</description>
+   <name>VerifySisaKoin - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8707b4c6-a512-460d-bc70-ae2d6481da2d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser and navigate to URL
+Verify Element Present</description>
+   <name>navigateOfficialBrand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a876f13-6bb4-4eab-a56d-225fc45ff716</testCaseGuid>
+</TestCaseEntity>

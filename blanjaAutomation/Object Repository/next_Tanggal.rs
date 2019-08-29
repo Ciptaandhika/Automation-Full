@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>next_Tanggal</name>
+   <tag></tag>
+   <elementGuidId>673eb9c6-f881-4d87-970c-5c0b4d9277ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ui-datepicker-div&quot;]/div/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ui-datepicker-div&quot;]/div/a[2]/span</value>
+   </webElementProperties>
+</WebElementEntity>

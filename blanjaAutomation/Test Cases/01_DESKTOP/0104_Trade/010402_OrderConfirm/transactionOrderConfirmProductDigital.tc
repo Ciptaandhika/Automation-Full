@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check pernyataan 'Saya Menyetujui Data yang Saya Masukkan Benar'
+Get text Total Produk
+Klik Lanjutkan Pembayaran</description>
+   <name>transactionOrderConfirmProductDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9e6de74-d329-486c-8b2c-4cf16a396401</testCaseGuid>
+</TestCaseEntity>

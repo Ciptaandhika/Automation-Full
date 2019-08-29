@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+
+- Jika member belum pernah mengisi form halaman dokumen penunjang maka isi semua form di halaman tersebut
+- member click lanjutkan
+- member di direct ke halaman konfirmasi (Bussiness Store)
+- verifikasi checkbox dapat di check pada halaman konfirmasi
+
+Kondisi 2 : 
+-jika sudah pernah mengisi semua data /form langsung verifikasi checkbox dapat di check pada halaman konfirmasi
+</description>
+   <name>BStore_Go_To_Verify_Checkbox_Can_Be_Ticked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>794b5706-cd92-4abb-8d12-cf543ad69b9b</testCaseGuid>
+</TestCaseEntity>

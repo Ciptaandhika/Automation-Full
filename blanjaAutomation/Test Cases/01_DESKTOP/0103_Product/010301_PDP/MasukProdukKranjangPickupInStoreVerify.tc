@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer add to cart product from Balai Pustaka
+2. Check on cart page
+
+Display label &quot;Barang ini dapat diambil di lokasi yang telah ditentukan oleh penjual&quot; below product name</description>
+   <name>MasukProdukKranjangPickupInStoreVerify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9b7631d-b9c9-492f-8bab-367ec33ad913</testCaseGuid>
+</TestCaseEntity>

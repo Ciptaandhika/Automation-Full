@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to PDP URL 50K
+- klik blanja sekarang</description>
+   <name>Navigate_To_URL_Produk50K_ClickBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43fbc453-d721-43ed-8809-fe85dca5612d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>info consist of: promo name, period, threshold, coverage area and max.cover</description>
+   <name>Verify_All_Info_FreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3b70fd0-b422-461b-8295-08a665dad319</testCaseGuid>
+</TestCaseEntity>

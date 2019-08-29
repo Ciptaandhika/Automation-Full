@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Order list text &quot;Menunggu Pengiriman&quot;/ &quot;Telah di bayar&quot; (Mweb)  should change to &quot;Menunggu Verifikasi&quot;</description>
+   <name>OrderDetailVerifyMenungguVerifikasiLabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44cd5652-91f5-4b60-89ee-1770a2df75d6</testCaseGuid>
+</TestCaseEntity>

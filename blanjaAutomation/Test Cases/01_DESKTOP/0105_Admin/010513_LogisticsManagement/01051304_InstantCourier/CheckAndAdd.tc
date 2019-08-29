@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengecek apakah WarungKita dan WarungKami sudah ada di list atau belum, jika belum, maka di add dahulu</description>
+   <name>CheckAndAdd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>482fb6b2-4149-4666-af6d-f5a20e684d84</testCaseGuid>
+</TestCaseEntity>

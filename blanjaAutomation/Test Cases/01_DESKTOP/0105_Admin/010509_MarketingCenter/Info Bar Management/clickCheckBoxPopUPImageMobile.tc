@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>uncheck checkBox</description>
+   <name>clickCheckBoxPopUPImageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4adb46e-19b6-4f42-a607-f58460be5832</testCaseGuid>
+</TestCaseEntity>

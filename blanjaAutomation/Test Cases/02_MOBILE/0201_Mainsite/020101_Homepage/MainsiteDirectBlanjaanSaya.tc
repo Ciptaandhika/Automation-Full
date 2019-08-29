@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih tab user
+Pilih Blanjaan Saya</description>
+   <name>MainsiteDirectBlanjaanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed6a0e4a-940e-4ea3-8460-6eeb9a073447</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search a store with invalid (not registered) store name
+2. on search result, click tab 'Toko Blanja'</description>
+   <name>SearchNamaToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc062056-bfad-4d0e-8387-2ce075530ce5</testCaseGuid>
+</TestCaseEntity>

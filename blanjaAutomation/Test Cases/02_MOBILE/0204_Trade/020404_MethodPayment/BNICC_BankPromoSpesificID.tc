@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik BNI method payment
+- klik BNI credit card
+- pilih diskon bank promotion mweb
+- klik lanjutkan pembayaran</description>
+   <name>BNICC_BankPromoSpesificID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3303138c-8226-46a1-aab1-87b48782a2b0</testCaseGuid>
+</TestCaseEntity>

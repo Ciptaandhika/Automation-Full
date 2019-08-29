@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID
+- Click edit button
+- Check history log
+- Verify action</description>
+   <name>CheckPrepaidCreditSettingPulsa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e66b2462-6e67-4bc2-8801-6e8db55bc04d</testCaseGuid>
+</TestCaseEntity>

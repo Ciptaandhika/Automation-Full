@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik download report
+verify download report</description>
+   <name>LTD Download Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f048ab3-10ce-4708-a0d9-018c6d27903a</testCaseGuid>
+</TestCaseEntity>

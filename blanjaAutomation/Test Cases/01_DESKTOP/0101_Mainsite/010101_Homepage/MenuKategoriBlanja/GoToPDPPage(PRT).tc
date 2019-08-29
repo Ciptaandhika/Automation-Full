@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PCP page
+    - Perlengkapan Rumah Tangga</description>
+   <name>GoToPDPPage(PRT)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa72f89a-74a6-4b4d-8b63-7810bee9ebb8</testCaseGuid>
+</TestCaseEntity>

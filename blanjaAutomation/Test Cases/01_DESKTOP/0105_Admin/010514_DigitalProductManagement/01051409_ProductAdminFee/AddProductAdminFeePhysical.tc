@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill product id and admin fee field
+- Click button submit
+- Click button ok</description>
+   <name>AddProductAdminFeePhysical</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c4ccaff-5a97-41d3-8f73-bfce9f466416</testCaseGuid>
+</TestCaseEntity>

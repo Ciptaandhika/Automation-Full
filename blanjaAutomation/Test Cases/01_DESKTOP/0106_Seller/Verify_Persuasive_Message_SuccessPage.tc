@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi terdapat pesan ajakan / persuasive message untuk upload product</description>
+   <name>Verify_Persuasive_Message_SuccessPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fdb995e-2896-4f39-97ce-e18ca4cdd243</testCaseGuid>
+</TestCaseEntity>

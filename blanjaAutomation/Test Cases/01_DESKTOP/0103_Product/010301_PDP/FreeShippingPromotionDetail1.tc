@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click sunsilk
+click btn close layanan express
+click tambah troli</description>
+   <name>FreeShippingPromotionDetail1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7473b218-b148-4a81-b7c0-8285ad2c68a2</testCaseGuid>
+</TestCaseEntity>

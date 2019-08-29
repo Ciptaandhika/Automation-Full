@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman order list klik hubungi penjual
+- muncul pop up send message
+- klik label order ID</description>
+   <name>Click_Oder_Detail_ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b1a3db6-fbd3-4b8b-bdcc-e6afce001da5</testCaseGuid>
+</TestCaseEntity>

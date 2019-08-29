@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman message list input keyword untuk mendapatkan kondisi pesan tidak ditemukan (keywordnya yang diinputkan adalah abcde)
+- verifikasi label warning pesan tidak ditemukan</description>
+   <name>Verify_Search_Message_Not_Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a7786c7-2afa-4181-83f2-7038dd635606</testCaseGuid>
+</TestCaseEntity>

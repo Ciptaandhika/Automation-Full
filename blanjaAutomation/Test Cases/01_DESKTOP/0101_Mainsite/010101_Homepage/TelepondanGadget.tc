@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih Telepom dan Gadget di Menu hot produk
+sistem akan menampilkan semua produk yang berkaitan</description>
+   <name>TelepondanGadget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3577778b-016c-4e22-ab69-31e5707e18ac</testCaseGuid>
+</TestCaseEntity>

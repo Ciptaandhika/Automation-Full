@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PDP url on the chat dialogue is redirected to correct URL</description>
+   <name>verifyPDPDialogCorrectUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>437c1ad7-9026-4b24-99c1-2b33fedbb6dd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on post sale page</description>
+   <name>SearchOnPostSalePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f6ca110-e77b-44be-a949-3c3ac2868df5</testCaseGuid>
+</TestCaseEntity>

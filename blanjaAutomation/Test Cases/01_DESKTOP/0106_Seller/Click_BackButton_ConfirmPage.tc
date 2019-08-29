@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify tombol back di halaman konfirmasi bisa di klik
+- klik tombol back pada halaman konfirmasi</description>
+   <name>Click_BackButton_ConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a5b71bc-1d37-4534-856f-dcb6ffff7dfc</testCaseGuid>
+</TestCaseEntity>

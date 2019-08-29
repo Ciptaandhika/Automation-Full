@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>admin can input label for digital product (all fields mandatory)
+
+Step :
+1. access Digital Product Management - Master Attribute Digital Product
+2. filled all mandatory fields 
+3. then click button 'Submit' for saved attribute</description>
+   <name>SettingMasterAttribute</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a38701ae-8b0e-4937-a81c-02bcbfb72202</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik menu produk management - modification sold qyt and atau product rating
+- input produk ID
+- klik btn search</description>
+   <name>searchByProductId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2bf983e-f6e1-4215-a934-aabbbe23c053</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin
+Masukkan nomor order, dari order yang sudah dijalankan sebelumnya di TC Pay Manually
+Klik tombol Cari
+Verify status 'Paid'</description>
+   <name>GoToTransaksiPenjualan_PayManually_InputOrderNumber_KlikBtnCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae7adfaf-acea-4cd3-834e-59bc7448b4d4</testCaseGuid>
+</TestCaseEntity>

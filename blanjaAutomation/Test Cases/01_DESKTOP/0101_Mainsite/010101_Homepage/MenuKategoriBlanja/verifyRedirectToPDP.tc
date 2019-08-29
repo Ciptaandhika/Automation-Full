@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirect to https://www.bljstaging.com/katalog/p/dgt/pantene-damage-18142273</description>
+   <name>verifyRedirectToPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68dd0ac2-21a4-41e0-9093-29afc7143a0d</testCaseGuid>
+</TestCaseEntity>

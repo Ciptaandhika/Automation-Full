@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Order list paid order
+2. Bila terdapat popup fitur baru akan accept
+3. Go to Order Detail Page</description>
+   <name>SellerTradesDirectOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99ee4a1d-e6a8-47af-8c0e-e6f8784283f7</testCaseGuid>
+</TestCaseEntity>

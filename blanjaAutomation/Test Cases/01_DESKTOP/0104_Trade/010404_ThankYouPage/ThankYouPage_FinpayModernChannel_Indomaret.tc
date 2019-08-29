@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_FinpayModernChannel_Indomaret</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16105605-872e-4c54-b5e8-fa26a7499a3c</testCaseGuid>
+</TestCaseEntity>

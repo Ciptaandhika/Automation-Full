@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL PDP (harga 10K dari WarungKami)
+Clear Text Box QTY
+set Text Box yang sudah di atur di global variable
+click button masukkan ke keranjang</description>
+   <name>GoToPDPURLRegular10K_AddQty_AddToCart_Payment10qty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88803e34-f504-4cf1-9da5-1518f9e3e07f</testCaseGuid>
+</TestCaseEntity>

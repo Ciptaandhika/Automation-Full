@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;app.sandbox.midtrans.com&quot;
+Verify nominal payment dan installment info tampil</description>
+   <name>ThankYouPage_MandiriDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7478cad-a3e6-473e-acc9-cb7fc31d16b1</testCaseGuid>
+</TestCaseEntity>

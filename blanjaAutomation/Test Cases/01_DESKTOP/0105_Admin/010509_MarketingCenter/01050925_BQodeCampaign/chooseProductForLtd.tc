@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Choose Product
+Verify Text Present
+Verify Text Present
+Verify Text Present
+Verify Text Present
+Click Button product LTD
+Delay 
+Click Button Select
+Delay 
+Verify Text Present</description>
+   <name>chooseProductForLtd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4c3d414-3923-4a3a-b073-307dff0021fe</testCaseGuid>
+</TestCaseEntity>

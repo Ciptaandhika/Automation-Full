@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman seller.bljstaging.com klik menu pesan pembeli</description>
+   <name>Seller_Go_To_Pesan_Pembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5281d05-6cec-4368-beb0-f8d24ab06fac</testCaseGuid>
+</TestCaseEntity>

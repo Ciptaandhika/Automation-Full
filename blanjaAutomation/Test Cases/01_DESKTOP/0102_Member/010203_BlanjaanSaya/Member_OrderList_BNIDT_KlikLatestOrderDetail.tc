@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+Get Text Last Order dan di simpan di Global Variable
+Get Text Verify tulisan 'Pembayaran :Transfer Bank BNI'
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.
+Klik Order Detail sesuai order yang telah dilakukan
+Switch to window Order Detail</description>
+   <name>Member_OrderList_BNIDT_KlikLatestOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e63ff000-655f-467d-a377-184cca18daa9</testCaseGuid>
+</TestCaseEntity>

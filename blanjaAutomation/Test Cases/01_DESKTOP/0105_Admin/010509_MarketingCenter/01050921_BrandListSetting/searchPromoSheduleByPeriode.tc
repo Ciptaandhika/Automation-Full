@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill in promo period
+click btn search</description>
+   <name>searchPromoSheduleByPeriode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8c4979f-c0ec-4884-bbd5-62b7ac499add</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Promotion Name
+Verify Discount</description>
+   <name>VerifyOrderDetailsNew</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9844fedb-aad4-48df-96bd-a9398eac9f77</testCaseGuid>
+</TestCaseEntity>

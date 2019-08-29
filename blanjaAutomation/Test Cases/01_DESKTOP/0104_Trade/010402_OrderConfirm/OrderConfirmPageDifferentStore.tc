@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. select jasa pengiriman
+2. lanjutkan pembayaran</description>
+   <name>OrderConfirmPageDifferentStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f71409bc-291d-4e8a-b476-673f300e8f67</testCaseGuid>
+</TestCaseEntity>

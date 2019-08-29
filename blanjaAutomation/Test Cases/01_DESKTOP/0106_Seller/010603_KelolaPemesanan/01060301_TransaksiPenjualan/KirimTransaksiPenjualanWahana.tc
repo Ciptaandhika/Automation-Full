@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>URL Transaksi Penjualan Seller
+Set Text Box Transaksi (paid terakhir)
+Search Transaksi (paid terakhir)
+Click button Ship
+Delay
+Pop up Shipping Seller
+Button Select Shipping untuk Seller (Pilihan lainnya)
+Select Wahana as Sub Selection
+Set Text Invoice Number Last Order Number
+Button Simpan resi Pengiriman</description>
+   <name>KirimTransaksiPenjualanWahana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80e176e9-f3e8-4de5-bcfe-b14545763b24</testCaseGuid>
+</TestCaseEntity>

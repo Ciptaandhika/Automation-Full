@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Buy pulsa and go to page pembayaran
+- Verify phone number</description>
+   <name>BuyPulsaAndDoPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cae645c9-c977-41d3-b5a1-2297a785d474</testCaseGuid>
+</TestCaseEntity>

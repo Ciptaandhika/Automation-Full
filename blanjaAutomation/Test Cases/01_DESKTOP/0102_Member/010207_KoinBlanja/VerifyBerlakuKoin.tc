@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify koin blanja
+verify tanggal expired
+verify cara mendapatkan koin</description>
+   <name>VerifyBerlakuKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25d74c71-2778-4792-bcca-45524fa8e649</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify checkbox
+verify value dissable</description>
+   <name>VerifyCheckBoxTextBoxDisable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3a40ad4-fd04-4c64-a941-f4f305bde571</testCaseGuid>
+</TestCaseEntity>

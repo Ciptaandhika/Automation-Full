@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Transaksi Penjualan Menu.
+search order number.
+verify button Pick Up.</description>
+   <name>SellerSeeOrderPaidInstantCourier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d50de86a-8160-4d2f-ab2a-b29821111326</testCaseGuid>
+</TestCaseEntity>

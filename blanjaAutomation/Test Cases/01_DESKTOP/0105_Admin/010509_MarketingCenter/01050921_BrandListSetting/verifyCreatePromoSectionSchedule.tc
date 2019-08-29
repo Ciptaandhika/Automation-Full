@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify popup &quot;the schedule has been added successfully&quot;</description>
+   <name>verifyCreatePromoSectionSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc629469-0475-4002-90f8-1db6fc18e4d0</testCaseGuid>
+</TestCaseEntity>

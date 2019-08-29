@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify shipping price and delivery time</description>
+   <name>VerifyShippingInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db4d99c8-d524-473a-b0e0-ce881a650a96</testCaseGuid>
+</TestCaseEntity>

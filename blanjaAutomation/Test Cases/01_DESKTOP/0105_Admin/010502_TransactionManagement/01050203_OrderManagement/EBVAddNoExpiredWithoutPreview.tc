@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Setelah admin Preview Store, admin input store id D4 di Store List tanpa klik Preview Store
+2. Admin klik Save</description>
+   <name>EBVAddNoExpiredWithoutPreview</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04ade2ef-5054-4a9c-b359-f822fe68142c</testCaseGuid>
+</TestCaseEntity>

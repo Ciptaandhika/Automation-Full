@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Navigate ke homepage (www.bljstaging.com)
+- input keyword warung
+- klik cari / search
+- klik tab toko blanja pada hasil pencarian
+- verify lokasi toko misalnya DKI Jakarta
+</description>
+   <name>Verify_Search_Result_Location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab509db7-9e3b-4491-ac27-225c712dfff2</testCaseGuid>
+</TestCaseEntity>

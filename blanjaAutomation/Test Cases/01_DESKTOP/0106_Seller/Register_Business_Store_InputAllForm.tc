@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+
+- Jika user belum pernah memilih type store maka akan di direct ke halaman typestore
+- pilih button open store (Business Store)
+- Input Semua Form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+-  User akan di direct ke halaman konfirmasi
+
+Kondisi 2 : 
+- Jika user sudah pernah memilih type store maka akan langsung di direct ke halaman form registrasi
+- Input semua form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+- User akan di direct ke halaman dokumen pendukung
+
+Kondisi 3 :
+- Jika user sudah pernah mengisi form registrasi akan langsung di direct ke halaman dokumen pendukung
+- Click tombol kembali yang ada di halaman dokumen pendukung
+- User akan di direct kembali ke halaman form registrasi
+- Input semua form yang tersedia pada halaman tersebut
+- Click Lanjutkan
+- User akan di direct kembali ke halaman dokumen pendukung
+
+</description>
+   <name>Register_Business_Store_InputAllForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a09ef8e9-a972-40ef-bc75-589dbf1d5742</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin blanja
+2. go to 'Order Management'
+3. search  order number where product on campaign
+4. click 'Order detail'</description>
+   <name>SearchOrderNumber_getPaymentCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81080cfb-7ea2-4974-9d10-9ebed0b1dd8a</testCaseGuid>
+</TestCaseEntity>

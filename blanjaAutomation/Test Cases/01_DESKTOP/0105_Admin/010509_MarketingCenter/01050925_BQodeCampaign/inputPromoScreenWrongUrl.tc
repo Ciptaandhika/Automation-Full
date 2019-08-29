@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Upload file
+Set text url
+Set text label</description>
+   <name>inputPromoScreenWrongUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>015f6840-b75a-4603-bf46-328a81101d19</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text promotion name
+Click button Search
+Click button view
+Verify text present</description>
+   <name>SearchLtdNormalPromoName 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a604a76-f16d-4368-a897-ed41c457583f</testCaseGuid>
+</TestCaseEntity>

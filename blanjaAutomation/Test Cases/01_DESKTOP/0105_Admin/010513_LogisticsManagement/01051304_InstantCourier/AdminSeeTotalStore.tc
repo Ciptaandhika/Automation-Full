@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Instant Courier Menu
+Check Same Day checkbox
+Input store's id
+Click Save
+See total of serviceable stores</description>
+   <name>AdminSeeTotalStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0fc7fef-0595-43e5-abfd-fd17ebf31365</testCaseGuid>
+</TestCaseEntity>

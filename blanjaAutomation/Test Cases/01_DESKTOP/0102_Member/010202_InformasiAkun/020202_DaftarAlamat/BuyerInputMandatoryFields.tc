@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>fill first name buyer.
+fill last name buyer.
+fill shipping address buyer.
+fill province's buyer.
+fill city's buyer.
+fill sub-district's buyer.
+fill phone number's buyer.
+click button save.</description>
+   <name>BuyerInputMandatoryFields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82ef6181-2fe3-413a-9ab9-184841a0a720</testCaseGuid>
+</TestCaseEntity>

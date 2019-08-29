@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input program name
+input promotion name
+input promotion time
+input covereage area
+input shipping discount
+input promotion info
+input applied to
+input type
+input budget area
+input budget alocationn partnership
+klik save</description>
+   <name>MultipleFreeShippingSeluruhIndonesia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7cf7631-17a9-4ddd-a04d-2767ef2564b7</testCaseGuid>
+</TestCaseEntity>

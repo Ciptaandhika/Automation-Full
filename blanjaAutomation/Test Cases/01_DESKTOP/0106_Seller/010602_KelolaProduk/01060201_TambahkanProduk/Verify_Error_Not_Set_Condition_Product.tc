@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify label warning error not set condition product</description>
+   <name>Verify_Error_Not_Set_Condition_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a57cd7d4-403f-4453-8984-82471c2b7160</testCaseGuid>
+</TestCaseEntity>

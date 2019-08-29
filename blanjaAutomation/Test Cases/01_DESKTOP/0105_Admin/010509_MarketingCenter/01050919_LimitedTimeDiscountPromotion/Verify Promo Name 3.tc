@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present</description>
+   <name>Verify Promo Name 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>571a424f-34c3-47a9-8a55-7af098bd2c55</testCaseGuid>
+</TestCaseEntity>

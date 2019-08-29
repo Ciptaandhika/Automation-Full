@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>view LTD
+verify LTD</description>
+   <name>LTD Full Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4013925e-f674-4ad8-a7d0-ef4c93ceacdf</testCaseGuid>
+</TestCaseEntity>

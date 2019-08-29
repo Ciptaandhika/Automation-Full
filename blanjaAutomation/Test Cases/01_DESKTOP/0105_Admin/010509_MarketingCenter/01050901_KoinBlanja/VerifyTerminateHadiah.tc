@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>hrefEditCampaignKoin
+Date Picker Extend Expiration 
+Save</description>
+   <name>VerifyTerminateHadiah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5736f306-0cb4-4640-82b0-dec949442de3</testCaseGuid>
+</TestCaseEntity>

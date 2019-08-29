@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih menu System Management >> Exclude Being Verified Management
+2. Pilih Add
+3. Admin menampilkan halaman Add new settings
+4. Pilih start date &amp; time
+5. Centang No Expired
+6. Input Store Toko A
+7. Klik Preview Store
+8. Klik Save</description>
+   <name>EBVTokoAOktober</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6b0dfc9-9098-4194-89d8-182751e7fe5b</testCaseGuid>
+</TestCaseEntity>

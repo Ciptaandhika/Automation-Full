@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify tulisan Debit Online</description>
+   <name>VerifyPaymentMethod_OthersDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27043d71-260d-4768-9314-d9a997976d34</testCaseGuid>
+</TestCaseEntity>

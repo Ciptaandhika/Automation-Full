@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mouse over
+Click href Sukses
+Delay</description>
+   <name>clickSukses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8827dda7-7cc4-4112-9859-ea8c761a2f39</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik icon menu hot produk
+2. klik button lihat lebih banyak
+3. sistem akan menampilkan semua produk</description>
+   <name>SemuaKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9aa56799-3cc6-4723-94f4-1cee247e8d00</testCaseGuid>
+</TestCaseEntity>

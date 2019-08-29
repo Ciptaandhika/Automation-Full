@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer already added product(s) support First Purchase or LTD on shopping cart</description>
+   <name>MasukProdukKranjangLTDProductAddQty3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd46f8e8-eb8e-426f-9e2d-c0105a8ddec2</testCaseGuid>
+</TestCaseEntity>

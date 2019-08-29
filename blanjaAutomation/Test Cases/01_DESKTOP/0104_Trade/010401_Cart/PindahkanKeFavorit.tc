@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL
+Klik tombol 'Pindahkan ke Favorit'
+Klik 'Ok'
+Delay</description>
+   <name>PindahkanKeFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ed43e3e-8827-40a8-85bf-4f40f16211a5</testCaseGuid>
+</TestCaseEntity>

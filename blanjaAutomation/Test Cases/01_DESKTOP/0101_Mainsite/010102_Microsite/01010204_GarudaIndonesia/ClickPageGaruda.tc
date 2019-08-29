@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.  Klik icon Garuda dari operator
+2. Redirect ke garuda &quot;https://www.bljstaging.com/tiket/pesawat/garuda-indonesia&quot;
+</description>
+   <name>ClickPageGaruda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fe31ba7-6cff-41b2-8cf5-acde39ad13ec</testCaseGuid>
+</TestCaseEntity>

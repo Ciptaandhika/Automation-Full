@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+ 2. Akses menu Marketing Center >> Koin Blanja
+ 3. Klik Create Campaign
+ 4. Input Campaign Name
+ 5. Pilih Campaign Time Start : 26 Februari 2019 
+ 6. Pilih Campaign Time End :28 Februari 2019
+ 7. Ubah Campaign Time Start : 1 Maret 2019</description>
+   <name>Verify_StartTime_MoreThan_EndTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e209f7fd-b506-48c7-8d3e-68ff7071f8b3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'Add Promotion' button
+2. Choose Payment Type = 'Credit Card' and filled Installment Plan
+ex : 
+06 month | 0% inst = YES
+12 month | 0% inst = YES
+3. Fill all mandatory fields, then select 'Applied To' = 'Product ID'
+4. then input Product ID(s)  which will support this campaign
+5. click button 'Save'
+
+Note :
+Promotion name tidak ada yg sama, agar verify berhasil</description>
+   <name>Create Bank Payment Promotion (Product ID) forMweb 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3d5c4ac-a919-4ca6-acf8-86d915b5cbe2</testCaseGuid>
+</TestCaseEntity>

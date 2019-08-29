@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Akun saya
+2. User access Dompet Blanja
+3. User select tanggal mulai 17 Juli 2018
+4. User select tanggal berakhir 13 Juli 2018
+Show message error Waktu mulai tidak boleh melampaui waktu berakhir</description>
+   <name>WaktuMulaiKrgdariWaktuBerakhir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45655f77-9c46-45f6-94a3-7d0493bec4ed</testCaseGuid>
+</TestCaseEntity>

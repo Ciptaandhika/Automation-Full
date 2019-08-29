@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify promotion info max karakter
+
+nb : sudah ditulis maksimal 55 karakter</description>
+   <name>VerifyPromotionInfoMaxKarakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>979c099e-17d7-4e41-ac89-5348a397e106</testCaseGuid>
+</TestCaseEntity>

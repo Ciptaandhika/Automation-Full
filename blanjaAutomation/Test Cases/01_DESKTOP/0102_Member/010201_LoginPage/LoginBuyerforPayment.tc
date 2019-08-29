@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in as Buyer</description>
+   <name>LoginBuyerforPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d8c7ba1-c57f-46a6-b8d3-2996cb4adea9</testCaseGuid>
+</TestCaseEntity>

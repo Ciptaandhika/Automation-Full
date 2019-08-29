@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membuat SubAccount Baru-Setting
+Close button X halaman Seller
+Menu Kelola Akun Tambahan
+Button Tambah Akun
+Set New Nama Akun
+Set New Sandi Akun
+Confirm New Sandi Akun
+Set Nama Asli 
+Click Jenis Kelamin
+Btn Lanjutkan</description>
+   <name>KelolaSubAkunBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8f86a96-5f3a-4ce0-a27d-c78f7638cf4c</testCaseGuid>
+</TestCaseEntity>

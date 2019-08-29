@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System show &quot;belum ada produk&quot; icon on the store page</description>
+   <name>verifyProductBelumAda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1d5756b-5e33-419e-9348-e62327ee60ae</testCaseGuid>
+</TestCaseEntity>

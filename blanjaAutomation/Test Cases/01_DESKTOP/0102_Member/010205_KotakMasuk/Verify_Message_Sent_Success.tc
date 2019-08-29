@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik salah satu pesan di halaman message list
+- ketik pesan misalnya halo
+- kirim pesan / klik send
+- verify label berhasil</description>
+   <name>Verify_Message_Sent_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc4e3d7f-ceb5-441f-8dc9-8bf5b2db5c39</testCaseGuid>
+</TestCaseEntity>

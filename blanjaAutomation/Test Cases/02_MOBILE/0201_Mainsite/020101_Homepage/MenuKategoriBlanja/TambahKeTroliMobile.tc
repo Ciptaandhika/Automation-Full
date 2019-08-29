@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah ke troli</description>
+   <name>TambahKeTroliMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61ffee20-c24a-44b7-8b06-cf99ca8d8bd4</testCaseGuid>
+</TestCaseEntity>

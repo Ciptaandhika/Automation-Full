@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mouse over
+Click button Telah dibayar
+Verify text present</description>
+   <name>clickTelahDibayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40e523a1-5fa9-4dd2-8898-d343cd2c5ae5</testCaseGuid>
+</TestCaseEntity>

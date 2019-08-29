@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text judul promosi
+Date picker
+Date picker
+Click combo 
+Set text diskon amount
+Click button tambah produk
+Click combo 
+Set text stok promosi
+Set text kuota pembelian
+Click button tambah LTD
+Delay 
+Get alert text
+log.info
+Verify text present</description>
+   <name>setLtd_shbAmount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf9357f3-d70d-41de-a27f-6fd37dfe5483</testCaseGuid>
+</TestCaseEntity>

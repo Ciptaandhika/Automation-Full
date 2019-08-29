@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik 'Konfirmasi Pembayaran'
+Verify pop up 'Konfirmasi Pembayaran' tampil
+</description>
+   <name>Member_OrderDetail_VerifyPopUpKonfirmasiPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f16100ed-88d0-47b9-a45e-51ceb8387b45</testCaseGuid>
+</TestCaseEntity>

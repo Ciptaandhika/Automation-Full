@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Buyer navigate ke salah satu store homepage (misalnya warungkita)
+- klik hubungi penjual
+- kirim pesan / chat lebih dari 3x</description>
+   <name>Buyer_Send_Message_To_Seller_More_Than_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19ff8fe1-fe30-4669-8cbe-7d70bf44e629</testCaseGuid>
+</TestCaseEntity>

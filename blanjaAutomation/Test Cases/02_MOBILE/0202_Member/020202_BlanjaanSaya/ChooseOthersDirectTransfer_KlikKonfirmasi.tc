@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik Bank Transfer
+2. Klik konfirmasi
+3. Verify url contains 'success'</description>
+   <name>ChooseOthersDirectTransfer_KlikKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ceca0d47-00d1-45f5-a207-abe481a0f01b</testCaseGuid>
+</TestCaseEntity>

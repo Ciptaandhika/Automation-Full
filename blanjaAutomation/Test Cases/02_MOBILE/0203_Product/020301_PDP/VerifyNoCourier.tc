@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer can't add/edit pick up address. 
+ 2. There is no courier info too.
+
+Note : Hanya verify berhasil klik alamat pengambilan</description>
+   <name>VerifyNoCourier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c96a8d07-7878-4271-9d56-66a1166ab95f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click &quot;Lihat Selengkapnya&quot;</description>
+   <name>verifyLiatSelengkapnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3c7c84a-f3a9-45d1-98d2-bf897a4014f9</testCaseGuid>
+</TestCaseEntity>

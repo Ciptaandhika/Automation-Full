@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill all attribute field
+- Make sure agreement checkbox is checked</description>
+   <name>CheckCheckboxAgreement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>230ad4c7-735a-42df-a013-5a0702abbb2f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer click button pembayaran</description>
+   <name>ClickPembayaranVerifyPromoOngkir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdc5a775-3109-4317-9d1b-51e17e2bee79</testCaseGuid>
+</TestCaseEntity>

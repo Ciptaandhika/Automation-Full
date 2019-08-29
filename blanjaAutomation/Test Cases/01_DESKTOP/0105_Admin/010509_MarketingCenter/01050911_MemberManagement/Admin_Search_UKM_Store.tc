@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-  input username salah satu toko UKM yang sudah terdaftar (misalnya seller02)
+- hapus startdate dan end date yang muncul (defaultnya adalah today)
+- klik search
+- verify hasil search (Store Name)</description>
+   <name>Admin_Search_UKM_Store</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>236f607d-1699-4dd2-a5c1-43d2498b6d92</testCaseGuid>
+</TestCaseEntity>

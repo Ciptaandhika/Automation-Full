@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose product.
+Choose Jasa Pengiriman Gosend.
+Choose Jenis Pengiriman Instant Courier.
+Click Blanja Sekarang.</description>
+   <name>BuyerCreateOrderInstantCourier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21cff988-0765-4ac8-bf3a-e4272e984f38</testCaseGuid>
+</TestCaseEntity>

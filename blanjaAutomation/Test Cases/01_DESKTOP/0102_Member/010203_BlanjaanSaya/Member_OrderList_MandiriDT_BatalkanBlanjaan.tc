@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+
+Klik 'Batalkan Blanjaan'
+Select reason 
+Klik 'OK' 
+Verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup</description>
+   <name>Member_OrderList_MandiriDT_BatalkanBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da299383-0ce8-4a64-be65-18941aa3ebea</testCaseGuid>
+</TestCaseEntity>

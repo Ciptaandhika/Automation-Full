@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya mweb
+- Klik 'Ubah Pembayaran' untuk another order (tidak ada fitur search)</description>
+   <name>GoToBlanjaanSaya_KlikUbahMetodePembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e724a2e0-e62d-4b80-ae0a-c6927bfeb07c</testCaseGuid>
+</TestCaseEntity>

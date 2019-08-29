@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page with online payment method
+2. click on 'Confirm' button
+3. payment method will display Credit card installment, and choose existing installment 
+4. if choose Credit card installment payment method then confirm, system will display sprint asia payment page</description>
+   <name>ChoosePaymentFinpayModernChannelAlfamart2Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>731ca488-0c84-4ea1-b7e8-6d8a722bf685</testCaseGuid>
+</TestCaseEntity>

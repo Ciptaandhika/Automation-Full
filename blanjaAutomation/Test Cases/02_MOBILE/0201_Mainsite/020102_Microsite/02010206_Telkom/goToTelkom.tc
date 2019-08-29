@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Delay
+Get URL
+Verify equal</description>
+   <name>goToTelkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1da63ae6-cffb-4de0-b9d5-e556c4941c52</testCaseGuid>
+</TestCaseEntity>

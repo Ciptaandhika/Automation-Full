@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL Shopping Cart
+Delete Salah Satu Product</description>
+   <name>GoToShoppingCartURL-DeleteProductA2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8f650e5-922b-4faf-be83-bd0955842987</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Expired Direct Prize3</description>
+   <name>VerifyExpiredDirectPrize3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c605705-2da6-43c1-89b1-7ca59e272dc2</testCaseGuid>
+</TestCaseEntity>

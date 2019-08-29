@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create free shipping promotion with diferent periode</description>
+   <name>FreeShippingPromotionCreateWithDifferentPeriod2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>522f493d-ccf0-4c51-9e38-4ab5c057562e</testCaseGuid>
+</TestCaseEntity>

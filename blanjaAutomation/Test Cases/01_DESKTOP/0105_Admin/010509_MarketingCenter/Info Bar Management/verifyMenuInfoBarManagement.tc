@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present</description>
+   <name>verifyMenuInfoBarManagement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d237c5e-2bdd-4da7-bad8-9ded299e92b7</testCaseGuid>
+</TestCaseEntity>

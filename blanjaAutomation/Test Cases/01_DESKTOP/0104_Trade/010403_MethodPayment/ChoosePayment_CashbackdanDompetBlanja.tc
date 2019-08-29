@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih pembayaran dengan Cashback Dompet Blanja, CC, tanpa voucher</description>
+   <name>ChoosePayment_CashbackdanDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a13a1010-13b2-4111-ab6c-bb17c343dbd6</testCaseGuid>
+</TestCaseEntity>

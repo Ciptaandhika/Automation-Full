@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Verify url Order Confirm
+2. Set Qty Product  = 2
+3. if display allert klik OK
+4. Verify Total Order
+5. Clear text
+6. Set Qty Max Product
+7. Verify add button will be disable</description>
+   <name>OrderConfirmPageAddQtyAndMax</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75676d02-6e69-4754-90f0-5277d72c83eb</testCaseGuid>
+</TestCaseEntity>

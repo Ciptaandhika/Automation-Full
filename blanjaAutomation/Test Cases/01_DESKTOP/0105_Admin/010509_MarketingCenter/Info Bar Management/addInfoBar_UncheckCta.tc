@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Set text CTA
+Click redirect URL desktop
+Set text redirect URL Desktop
+Click redirect URL mobile
+Set text redirect URL Mobile
+Click button save
+Delay
+Accept alert</description>
+   <name>addInfoBar_UncheckCta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c17d4a4a-4c26-4f33-a431-2ea7c9d98979</testCaseGuid>
+</TestCaseEntity>

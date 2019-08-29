@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sent a message to seller</description>
+   <name>SentAMessageToSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c557219c-09e8-4a77-97ac-b48e3896bcb9</testCaseGuid>
+</TestCaseEntity>

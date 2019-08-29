@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input phone number yang belum pernah digunakan
+- verify label nomer sudah digunakan tidak muncul</description>
+   <name>Input_Phone_Number_UKM_Never_Used</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca46683e-cb23-40bc-9681-6fa290af6823</testCaseGuid>
+</TestCaseEntity>

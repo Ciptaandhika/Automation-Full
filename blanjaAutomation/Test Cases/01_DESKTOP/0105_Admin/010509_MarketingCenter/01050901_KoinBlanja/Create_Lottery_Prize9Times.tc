@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin create campaign Koin Blanja Campaign 01 no criteria sebagai berikut :
+ a. Periode campaign : 1 - 10 Maret 2019
+ b. Pilih Points Expiration Time :15 Maret 2019
+ c. Untick Use Redeem Time
+ d. Input threshold : 10.000
+ e. Tick Applies Multiply
+ f. Input max koin : 4
+ g. Use Criteria = No
+ h. tidak set extra koin 
+ i. Admin tidak create direct Prize
+ j. Admin create Lottery Prize :
+ - Prize 1 : tipe hadiah undian, stock= 10, exchange koin = 5, prize redeem = 1-15 maret 2019 12:00 WIB. Draw time = 15 maret 2019 17:00 WIB
+ - Prize 2 : tipe hadiah undian, stock= unlimited, exchange koin = 10, prize redeem = 1-15 maret 2019 12:00 WIB. Draw time = 15 maret 2019 17:00 WIB
+ - Prize 3 : tipe hadiah undian,stock= 15, exchange koin = 100, prize redeem = 1-5 maret 2019 12:00 WIB. Draw time = 14 maret 2019 12:00 WIB
+ - Prize 4 : tipe hadian undian, stock=unlimited, exchange koin = 7, prize redeem = 5-14 maret 2019 12:00 WIB. Draw time = 15 maret 2019 17:00 WIB
+ - Prize 5 : tipe hadian undian,stock= 20, exchange koin = 15, prize redeem = 1-15 maret 2019 99:00 WIB, Draw time = 15 maret 2019 00:00 WIB
+ - Prize 6 : tipe hadian undian, stock= 1, exchange koin = 7, prize redeem = 1-15 maret 2019 12:00 WIB. Draw time = 15 maret 2019 17:00 WIB 
+ - Prize 7 : tipe hadiah undian,stock= 999999, exchange koin = 20, prize redeem = 1-15 maret 2019 12:00 WIB. Draw time = 15 maret 2019 17:00 WIB
+ - Prize 8 : tipe hadiah undian,stock= unlimited, exchange koin = 9.999, prize redeem = 1-15 maret 2019 12:00 WIB. Draw time = 15 maret 2019 17:00 WIB
+ - Prize 9 : tipe hadiah undian,stock= unlimited, exchange koin = 5, prize redeem = 1-15 maret 2019 12:00 WIB. Draw time = 15 maret 2019 17:00 WIB</description>
+   <name>Create_Lottery_Prize9Times</name>
+   <tag></tag>
+   <comment>row 1
+row 2
+row 3
+row 4
+row 5
+row 6
+row 7
+row 8
+row 9</comment>
+   <testCaseGuid>3cae958d-c407-4862-b2d6-0d3d48ff3562</testCaseGuid>
+</TestCaseEntity>

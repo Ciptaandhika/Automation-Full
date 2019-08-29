@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to old PDP url 
+http://m.bljstaging.com/item/jual-beli-sw-41-50540</description>
+   <name>NavigateToNewURLMobile1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d55eea0a-792d-445c-9712-77626e8e545e</testCaseGuid>
+</TestCaseEntity>

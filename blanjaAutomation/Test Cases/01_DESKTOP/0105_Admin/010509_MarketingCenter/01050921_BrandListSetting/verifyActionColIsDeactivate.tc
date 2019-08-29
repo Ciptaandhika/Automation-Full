@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify action coloum is deactivate in table history log</description>
+   <name>verifyActionColIsDeactivate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5f97c94-a53e-4aae-9151-28a65d9754d2</testCaseGuid>
+</TestCaseEntity>

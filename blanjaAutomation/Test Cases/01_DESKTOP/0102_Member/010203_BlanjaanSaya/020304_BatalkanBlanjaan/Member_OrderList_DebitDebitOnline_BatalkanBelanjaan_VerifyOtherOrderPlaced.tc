@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number 
+click Search
+Get Text Verify tulisan 'Pembayaran :Debit Online'
+
+click batalkan blanjaan
+select reason 
+click ok 
+verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup
+isi order number kedua
+klik search
+Verify status 'Telah Ditempatkan'
+</description>
+   <name>Member_OrderList_DebitDebitOnline_BatalkanBelanjaan_VerifyOtherOrderPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27644d3a-291d-4a84-81fc-65081c94af66</testCaseGuid>
+</TestCaseEntity>

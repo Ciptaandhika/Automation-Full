@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL PDP (harga 5K)
+Add Qty
+Click button blanja sekarang</description>
+   <name>GoToPDPURLRegular5K_AddQty20_ClickBlanjaSekarang_WARUNGKAMI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a21329ae-8521-4616-8899-d3d1be164e27</testCaseGuid>
+</TestCaseEntity>

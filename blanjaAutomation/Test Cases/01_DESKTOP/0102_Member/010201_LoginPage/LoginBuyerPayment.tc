@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Open browser
+2. Maximize window
+3. Navigate to URL: https://member.bljstaging.com/member/login
+4. Masukkan username
+5. Masukkan password
+6. Klik button 'Masuk'</description>
+   <name>LoginBuyerPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>479ba6bd-bd1d-4a75-aa13-0a303ab792e6</testCaseGuid>
+</TestCaseEntity>

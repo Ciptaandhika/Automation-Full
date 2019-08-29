@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi halaman store</description>
+   <name>VerifyStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b8e80aa-fda3-4d74-9261-1b3979b8a60a</testCaseGuid>
+</TestCaseEntity>

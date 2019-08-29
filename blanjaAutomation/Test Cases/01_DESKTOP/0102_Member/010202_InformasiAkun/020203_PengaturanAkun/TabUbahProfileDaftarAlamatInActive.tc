@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tab ubah profile dan daftar alamat dalam keadaan tidak aktif</description>
+   <name>TabUbahProfileDaftarAlamatInActive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ca4b67a-d900-4f19-bf8f-0a7d6235c7d8</testCaseGuid>
+</TestCaseEntity>

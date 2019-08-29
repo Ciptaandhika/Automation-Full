@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Untuk mengecek apakah alamatnya ada atau tidak sebelum lanjut ke test lainnya</description>
+   <name>CekKetersediaanAlamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50eace3f-1ba8-4c54-9a9a-05ddf06ae98b</testCaseGuid>
+</TestCaseEntity>

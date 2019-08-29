@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click one link from suggestion list</description>
+   <name>ClickSuggestionList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9817da72-adee-4e72-a495-8305e51c3dfa</testCaseGuid>
+</TestCaseEntity>

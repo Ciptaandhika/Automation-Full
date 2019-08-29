@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Wait till system done upload
+Click &quot;Download File&quot; button</description>
+   <name>SellerDownloadFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b4c24a6-9564-42b3-928c-65e7fbfc0910</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Favorit
+Ensure user can click “Favorit” menu</description>
+   <name>GoToFavorite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91501ffd-809c-4764-9909-8aa8f24a4f4a</testCaseGuid>
+</TestCaseEntity>

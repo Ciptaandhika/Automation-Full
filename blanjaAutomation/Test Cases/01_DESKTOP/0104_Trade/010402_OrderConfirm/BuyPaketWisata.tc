@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill attribute (email, phone)
+- Click button lanjutkan pembayaran</description>
+   <name>BuyPaketWisata</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f1f2e05-2899-4f2f-95e3-612e9173ea78</testCaseGuid>
+</TestCaseEntity>

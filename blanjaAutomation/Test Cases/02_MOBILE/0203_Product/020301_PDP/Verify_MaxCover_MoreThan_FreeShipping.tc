@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify jika max cover lebih dari freeshipping maka biaya pengiriman menjadi 0</description>
+   <name>Verify_MaxCover_MoreThan_FreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46291a17-c085-487a-ac10-68be4bfbb891</testCaseGuid>
+</TestCaseEntity>

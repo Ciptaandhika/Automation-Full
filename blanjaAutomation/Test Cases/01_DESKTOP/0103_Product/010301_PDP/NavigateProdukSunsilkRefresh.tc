@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Click button close gosend</description>
+   <name>NavigateProdukSunsilkRefresh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b9b6a48-77af-40e8-9d0c-59e980be2f7b</testCaseGuid>
+</TestCaseEntity>

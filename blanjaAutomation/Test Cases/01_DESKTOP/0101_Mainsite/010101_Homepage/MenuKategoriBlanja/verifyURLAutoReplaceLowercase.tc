@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify URL auto replace become https://www.bljstaging.com/katalog/c/hnl/perlengkapan-rumah-tangga</description>
+   <name>verifyURLAutoReplaceLowercase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d76eb0c3-8cf9-4712-8792-97f9c67310da</testCaseGuid>
+</TestCaseEntity>

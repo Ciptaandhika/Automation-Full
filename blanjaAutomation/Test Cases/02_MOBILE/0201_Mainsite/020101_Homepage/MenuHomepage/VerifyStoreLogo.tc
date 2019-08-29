@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan store logo</description>
+   <name>VerifyStoreLogo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>663c36b5-ccff-4e23-8565-ed48300df6cc</testCaseGuid>
+</TestCaseEntity>

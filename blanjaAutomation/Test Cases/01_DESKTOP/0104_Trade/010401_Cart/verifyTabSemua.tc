@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Billing number will be created once user confirms payment</description>
+   <name>verifyTabSemua</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53d90cd5-5b1b-4529-aea0-1c91823488fa</testCaseGuid>
+</TestCaseEntity>

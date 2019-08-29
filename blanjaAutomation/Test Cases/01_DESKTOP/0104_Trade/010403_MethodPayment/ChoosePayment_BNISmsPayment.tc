@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BNI SMS Payment
+verify text box phone number is appeared
+verify +62 is displayed
+Masukkan no HP
+Klik Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_BNISmsPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3bb37d6-bb51-40ee-8ebf-3d82ad3e85fa</testCaseGuid>
+</TestCaseEntity>

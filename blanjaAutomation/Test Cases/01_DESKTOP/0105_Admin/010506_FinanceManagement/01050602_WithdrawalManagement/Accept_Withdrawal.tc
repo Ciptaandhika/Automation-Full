@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search user test13
+- checklist 
+- accept withdrawal</description>
+   <name>Accept_Withdrawal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa709bcc-14ca-4bc5-8b68-0bcd8fe40a52</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 : 
+
+- Jika member belum pernah memilih type store maka akan di direct ke   halaman tersebut
+-  member pilih/ klik business store
+
+Kondisi 2  :
+- Pada form registrasi business store upload logo toko</description>
+   <name>Register_Business_Store_UploadLogo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f66c92-2867-45b6-a21a-369339ab010b</testCaseGuid>
+</TestCaseEntity>

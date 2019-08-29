@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih order yang akan di submit
+2. Klik tombol Konfirmasi
+3. Masukan data konfirmasi
+4. Klik tombol submit</description>
+   <name>KonfirmasiPembayaranBNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>beba097e-79d2-4d56-b008-234bf0b1b7fe</testCaseGuid>
+</TestCaseEntity>

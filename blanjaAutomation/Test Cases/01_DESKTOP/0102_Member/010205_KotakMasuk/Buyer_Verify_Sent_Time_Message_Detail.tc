@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Buyer buka salah satu detail conversation / message
+- Pada detail conversation verify time chat tersebut dikirim muncul</description>
+   <name>Buyer_Verify_Sent_Time_Message_Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24cdecae-1e8e-438e-8f68-b739dbd7cc44</testCaseGuid>
+</TestCaseEntity>

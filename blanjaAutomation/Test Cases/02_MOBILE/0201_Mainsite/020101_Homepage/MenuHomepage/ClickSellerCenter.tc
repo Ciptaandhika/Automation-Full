@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik seller center</description>
+   <name>ClickSellerCenter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dae82f9d-b236-46da-860e-0fac83c40650</testCaseGuid>
+</TestCaseEntity>

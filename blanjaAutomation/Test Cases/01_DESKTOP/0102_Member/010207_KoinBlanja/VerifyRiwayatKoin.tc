@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Default Div Hadiah Undian
+Click Tab Riwayat Koin</description>
+   <name>VerifyRiwayatKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d893eead-bdaf-4be5-a6e9-2cf43101e054</testCaseGuid>
+</TestCaseEntity>

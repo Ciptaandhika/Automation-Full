@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer create order untuk digital produk dengan menggunakan kupon cashback Kupon A
+- Total transaksi buyer = total harga produk = 52.000
+- Spesifikasi Kupon A :
+   threshold = 45.000
+   cashback = 35% maksimal 350.000
+2. Di halaman pembayaran order, buyer input Kupon A dan klik Gunakan
+3. Buyer memilih salah satu metode pembayaran, dan order berhasil di generate</description>
+   <name>Product_Digital_Verify_Generate_CashBack_Coupons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73342872-4b17-486b-9857-8784dd04ee8d</testCaseGuid>
+</TestCaseEntity>

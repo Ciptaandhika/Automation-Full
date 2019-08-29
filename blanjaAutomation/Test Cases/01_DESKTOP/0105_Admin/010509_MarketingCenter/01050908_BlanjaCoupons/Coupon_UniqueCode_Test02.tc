@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- create kupon unique dengan nama test02
+- set jumlah kupon 1
+- threshold 10k
+- klik create</description>
+   <name>Coupon_UniqueCode_Test02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fdc0173-a533-4acd-8d35-4452b2f02ed1</testCaseGuid>
+</TestCaseEntity>

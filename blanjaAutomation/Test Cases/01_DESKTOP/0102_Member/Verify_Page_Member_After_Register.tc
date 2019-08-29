@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify setelah klik button lanjutkan pada proses registrasi dan sukses, maka halaman yang di direct selanjutnya mengandung link member.bljstaging.com/emailVerify untuk proses verifikasi email</description>
+   <name>Verify_Page_Member_After_Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e39fa732-3ab6-47ce-ab5f-84e55d010851</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Coupon dengan Custom Code tanpa checklist LTD Spesial Price dan Mob</description>
+   <name>Create Coupons Only Blanja Custom Code (Verify coupon n date 2)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>710382b1-68c4-417f-9c4f-08650409eb18</testCaseGuid>
+</TestCaseEntity>

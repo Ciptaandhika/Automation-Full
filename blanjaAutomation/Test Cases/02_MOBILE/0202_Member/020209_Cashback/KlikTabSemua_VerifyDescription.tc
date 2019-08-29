@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik tab Semua
+2. Verify operation time
+3. Verify amount
+4. Verify status
+5. Verify order number</description>
+   <name>KlikTabSemua_VerifyDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c271c961-4ea7-47ef-a209-b52c4e8f3399</testCaseGuid>
+</TestCaseEntity>

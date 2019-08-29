@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User type 'samsung s8' on search bar (homepage)
+Click on &quot;Samsung S8&quot; (without category) search result</description>
+   <name>SearchSamsungS8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4958a2f0-9ed6-4aed-b9e1-f5867b218139</testCaseGuid>
+</TestCaseEntity>

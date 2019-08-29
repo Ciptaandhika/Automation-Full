@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify List Bandara</description>
+   <name>verifyListBandaraKeberangkatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76b5305d-24c2-4bea-a51c-482a3e3827db</testCaseGuid>
+</TestCaseEntity>

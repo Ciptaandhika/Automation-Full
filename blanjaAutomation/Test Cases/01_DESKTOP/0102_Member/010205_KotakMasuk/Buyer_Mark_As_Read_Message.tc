@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik tab pesan belum dibaca
+- pilih salah satu pesan / check pesan tersebut
+- pilih mark as read message
+- klik GO
+- verify label belum ada pesan (untuk menandakan pesan sudah berhasil di mark as read di tab pesan belum dibaca)</description>
+   <name>Buyer_Mark_As_Read_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bc639e2-3ff5-49aa-8f50-b4879b8fbf42</testCaseGuid>
+</TestCaseEntity>

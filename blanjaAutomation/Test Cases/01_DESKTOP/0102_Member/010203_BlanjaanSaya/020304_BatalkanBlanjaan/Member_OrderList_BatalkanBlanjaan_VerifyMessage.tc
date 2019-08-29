@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click batalkan blanjaan
+verify pesan '*Dengan membatalkan pesanan ini, maka pesanan dengan nomor 418541347564339240 juga akan di batalkan karena kurang dari syarat minimal transaksi sebesar Rp 10.000.' tampil
+select reason 
+click ok 
+verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup</description>
+   <name>Member_OrderList_BatalkanBlanjaan_VerifyMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b981714-31a4-4fdd-9a1a-f60415a864fd</testCaseGuid>
+</TestCaseEntity>

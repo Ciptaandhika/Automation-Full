@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On web admin can applied coupons only to selected operator
+- Custom Code (Thematic)  + Lock Payment
+
+1. User already access and login on web admin
+2. User open Coupons page
+3. Select coupon type : Custom Code (Thematic)
+4. Type all required field 
+5. Check applied only to operator : TELKOMSEL
+6. Leave Backend Product Category unchecked
+7. Checklist Lock Payment and choose the payment
+8. Create coupon</description>
+   <name>Create Coupons Only Blanja Costum Code (1 operator, lock payment)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e098a75-fe78-4619-8dca-98c525a83a4e</testCaseGuid>
+</TestCaseEntity>

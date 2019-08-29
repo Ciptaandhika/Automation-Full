@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page
+2. tap on store home page</description>
+   <name>ChoosePaymentDirectStoreHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99c964a8-f4aa-4ae4-8001-62dde021fb97</testCaseGuid>
+</TestCaseEntity>

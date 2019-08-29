@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin create campaign Koin Blanja Campaign A01 no criteria dengan detail :
+ a. Periode campaign : 8 - 12 April
+ b. Koin exp : 13 April 
+ c. Extra Koin : 
+ - Produk A : extra koin 2 
+ - Metode Pembayaran : finpay atm extra koin 3
+ d. Admin create Prize :
+ - Hadiah undian : Undian 1-10
+ - Hadiah langsung : Hadiah langsung 1-10
+
+1. Login sebagai buyer
+ 2. Dari Halaman Akun saya tap Koin Blanja
+ 3. Halaman mweb menampilkan halaman Koin Blanja</description>
+   <name>Verify_InfomasiKoin_And_PageHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e5b6d45-a8b6-413c-95ef-784296687ac8</testCaseGuid>
+</TestCaseEntity>

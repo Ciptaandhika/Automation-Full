@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Condition 1 : 
+- Jika member belum pernah memilih tipe toko maka akan di direct ke halaman type store
+- Klik Button Open Store (Individual Store)
+- Verifikasi Semua Element / Form Registrasi
+Condition 2 : 
+- Jika member sudah pernah memilih tipe toko maka langsung di direct ke form registrasi individual store
+-  Verifikasi Semua Element / Form Registrasi</description>
+   <name>Register_Individual_Store_Verify_All_Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4b17730-02d1-4406-97c5-900ad5652823</testCaseGuid>
+</TestCaseEntity>

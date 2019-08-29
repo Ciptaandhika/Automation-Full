@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See testimonial video from seller.</description>
+   <name>SeeTestimonialVideoFromSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3748a81-8e7e-4de5-95d2-36e930832370</testCaseGuid>
+</TestCaseEntity>

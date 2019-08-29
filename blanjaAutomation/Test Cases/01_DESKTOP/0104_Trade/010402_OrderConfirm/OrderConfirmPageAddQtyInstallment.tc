@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3.1 user can edit to add or deducate qty
+3.2 if qty = max stock , 'add' button should be disable and system will display pop-up message 'stock yang tersedia ... unit'
+3.3 when qty added, price will be multiplied by quantity</description>
+   <name>OrderConfirmPageAddQtyInstallment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1185c959-8dbb-476d-822d-074308386069</testCaseGuid>
+</TestCaseEntity>

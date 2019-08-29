@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BintangPengiriman</name>
+   <tag></tag>
+   <elementGuidId>52793295-23d5-4c11-9d50-ab026535d9df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;scoreForm&quot;]/div/ul[3]/li[2]/div/div/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;scoreForm&quot;]/div/ul[3]/li[2]/div/div/ul/li[5]</value>
+   </webElementProperties>
+</WebElementEntity>

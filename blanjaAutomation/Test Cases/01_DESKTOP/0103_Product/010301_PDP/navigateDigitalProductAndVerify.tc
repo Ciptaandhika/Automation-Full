@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to digital produk voucher blanja lalu verify terdapat sale price list price diskon label dan hanya button blanja sekarang </description>
+   <name>navigateDigitalProductAndVerify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ef149ee-0995-44a4-b99f-76077555b022</testCaseGuid>
+</TestCaseEntity>

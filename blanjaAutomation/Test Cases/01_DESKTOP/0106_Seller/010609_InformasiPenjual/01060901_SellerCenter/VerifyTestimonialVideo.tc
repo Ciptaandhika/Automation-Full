@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See testimonial video in seller center page.</description>
+   <name>VerifyTestimonialVideo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbb479e9-c9a4-45ce-b5f6-d4af860b257f</testCaseGuid>
+</TestCaseEntity>

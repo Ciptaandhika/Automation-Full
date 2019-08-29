@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>system will refer to device phone page</description>
+   <name>HubungiLayananPelanggan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f11ca0a8-65d5-4ad5-8c30-4f30c00fc772</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Condition 1 : 
+- Jika member belum pernah memilih tipe toko maka akan di direct ke halaman type store
+- member klik open individual store
+- member mengisi form Alamat Toko
+Condition 2 : 
+- Jika member sudah pernah memilih tipe toko maka langsung di direct ke form registrasi individual store
+- member mengisi form Alamat Toko</description>
+   <name>Register_Individual_Store_SetText_AlamatToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89a093ca-97f8-4c27-9261-8959e2f57fad</testCaseGuid>
+</TestCaseEntity>

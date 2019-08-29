@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada halaman konfirmasi (Registration individual store) click button kembali</description>
+   <name>Verifiy_BackButton_ConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b577254f-6dd6-4907-a231-9ba4fd2838bd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>scroll down page and go to first line - left side footer
+hover and click shop image
+hover and click information 'Ayo Berjualan'
+hover and click button 'Cara Berjualan'
+hover and click button 'Mulai Berjualan'</description>
+   <name>FooterCaraBerbelanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2bec872-7038-4a4d-8a85-f598311dbfd3</testCaseGuid>
+</TestCaseEntity>

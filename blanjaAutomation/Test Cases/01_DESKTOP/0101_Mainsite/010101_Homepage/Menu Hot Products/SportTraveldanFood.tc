@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Browser ke url homepage
+PIlih Kategori Sport travel dan food di hot produk
+sistem akan menampilkan semua produk yang berkaitan</description>
+   <name>SportTraveldanFood</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51e15264-a3f8-441a-a7f6-591d8402ee02</testCaseGuid>
+</TestCaseEntity>

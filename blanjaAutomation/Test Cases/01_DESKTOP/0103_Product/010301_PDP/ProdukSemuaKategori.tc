@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih semua produk di hot produk
+sistem akan menampilkan semua hot produk
+pilih satu produk</description>
+   <name>ProdukSemuaKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc015edf-588b-40c0-8140-12adfeede329</testCaseGuid>
+</TestCaseEntity>

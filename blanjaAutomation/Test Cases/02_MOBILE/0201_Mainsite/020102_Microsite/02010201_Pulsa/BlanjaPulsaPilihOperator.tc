@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Buyer choose operator
+- Input phonenumber
+- Verify buyer could choose nominal
+- Click button blanja pulsa</description>
+   <name>BlanjaPulsaPilihOperator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a296f03e-aa29-4918-a2d0-6aae2ef5d4f4</testCaseGuid>
+</TestCaseEntity>

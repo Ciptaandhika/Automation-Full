@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access admin > bank payment promotion
+1. Click on 'Add Promotion' button
+2. Check on Installment Plan section
+3. Verify Installment Plan</description>
+   <name>Ensure Installment Plan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7010aa4-4288-4ce2-9b68-dd2ef10c91ad</testCaseGuid>
+</TestCaseEntity>

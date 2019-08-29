@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi upload logo toko sukses pada halaman dokumen pendukung 
+(Business Store)</description>
+   <name>Success_Bussiness_Store_Upload_Logo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18bf5b16-5d2b-44cc-abc2-3b3e7e17be39</testCaseGuid>
+</TestCaseEntity>

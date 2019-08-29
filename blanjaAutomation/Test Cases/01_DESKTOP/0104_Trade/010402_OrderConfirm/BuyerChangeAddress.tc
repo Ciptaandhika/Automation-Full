@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click ahrefUbahAlamat
+click ddlAlamat</description>
+   <name>BuyerChangeAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7eaf672b-bde4-48f1-b005-1c4311c37556</testCaseGuid>
+</TestCaseEntity>

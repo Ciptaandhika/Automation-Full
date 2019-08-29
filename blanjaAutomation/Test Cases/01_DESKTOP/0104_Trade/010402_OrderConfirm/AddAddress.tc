@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Tambah Alamat
+Set text nama depan
+Set text nama belakang
+Set text nomor telepon
+Choose dropdown provinsi
+Choose dropdown Kotamadya/Kabupaten
+Choose dropdown Kecamatan
+Set text Kode Pos
+Set text Alamat Pengiriman
+Click combo box
+Click button simpan</description>
+   <name>AddAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3687d7e9-c0cd-4180-aed3-54cacadce63c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, user input thematic code coupon which cant combine with all promotions 
+  e.g :
+  product name :
+  code coupon :
+  value coupon :
+  exclude : all promotion (LTD Admin, LTD Seller, Pre-Order)
+ 2. click on 'USE' button
+
+2.1 after user input code coupon and click on 'USE' button, system will display message 'Sorry this coupon cant be used....'
+ 2.2 check total payment, it shouldn't deducted</description>
+   <name>Verify_Coupon_ProductLTD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c045f844-dbb6-4eb5-b884-5ea2eb64574e</testCaseGuid>
+</TestCaseEntity>

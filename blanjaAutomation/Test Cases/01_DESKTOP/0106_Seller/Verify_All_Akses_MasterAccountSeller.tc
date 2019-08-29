@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify hak akses dari master account seller</description>
+   <name>Verify_All_Akses_MasterAccountSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c6d66d9-06ce-46e6-939c-84f7fd61ff11</testCaseGuid>
+</TestCaseEntity>

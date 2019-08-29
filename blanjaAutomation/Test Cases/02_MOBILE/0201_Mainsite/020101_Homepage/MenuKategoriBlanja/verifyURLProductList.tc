@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The page redirected to URL Produk</description>
+   <name>verifyURLProductList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b785b3f-0c49-4d66-98bd-c475a986ef3a</testCaseGuid>
+</TestCaseEntity>

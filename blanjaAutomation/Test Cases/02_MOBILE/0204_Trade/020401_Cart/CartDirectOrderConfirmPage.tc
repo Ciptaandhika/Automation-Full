@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. make variable object_sku
+2. click checkbox select all
+3. modify object property into variable object_sku value and store to new object named new_cbox
+4.  click object new_cbox
+5. click checkout</description>
+   <name>CartDirectOrderConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64a38e38-462f-45cd-ba7e-6eb3c2c66e87</testCaseGuid>
+</TestCaseEntity>

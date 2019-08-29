@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search ID From Store List in Index Exclude Store Being Verified Page Case TCT-BVBUY020</description>
+   <name>EBVTokoB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba0cfade-61c7-4bf1-af92-a894ca9aee08</testCaseGuid>
+</TestCaseEntity>

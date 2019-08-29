@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User redirected to store page
+2. URL of the storepage is www.blanja.com/store/[storename]</description>
+   <name>verifyToStorePageSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb6c702d-be5e-4202-a94b-7e31a958d085</testCaseGuid>
+</TestCaseEntity>

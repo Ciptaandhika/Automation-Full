@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- open browser
+- set text test10
+- set text mii123
+- klik login</description>
+   <name>BuyerLogin10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0b195ef-cd97-4b2d-9789-796766ac3aac</testCaseGuid>
+</TestCaseEntity>

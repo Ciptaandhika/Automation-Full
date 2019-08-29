@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih satu produk di menu Sport travel dan food
+sistem akan menampilkan produk tsb secara detail</description>
+   <name>ProdukSportTraveldanFood</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7e6244a-c6b8-4bf5-a622-d9b06d8cd6c3</testCaseGuid>
+</TestCaseEntity>

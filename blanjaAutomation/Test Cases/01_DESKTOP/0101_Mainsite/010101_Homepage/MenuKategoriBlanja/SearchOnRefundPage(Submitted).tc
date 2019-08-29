@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Do search on refund page (submitted)</description>
+   <name>SearchOnRefundPage(Submitted)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b68d3f7a-dfff-4175-abc9-4834427fac67</testCaseGuid>
+</TestCaseEntity>

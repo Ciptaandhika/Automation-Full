@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose jasa pengiriman GOSEND in order confirm page.</description>
+   <name>InstantCourierFromOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c11e54e7-768e-4f80-a925-f39ee2620b4c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On Admin klik 'VIEW' on operate tab
+2. System will display Store Owner Information</description>
+   <name>Admin_Verify_Store_Was_Approved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6de7b0e-e90a-4602-b2b1-41350b7f959d</testCaseGuid>
+</TestCaseEntity>

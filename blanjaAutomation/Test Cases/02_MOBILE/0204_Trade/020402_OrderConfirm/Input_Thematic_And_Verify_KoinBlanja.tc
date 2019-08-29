@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih jasa pengiriman
+- input kupon kode thematic
+- verify koin blanja</description>
+   <name>Input_Thematic_And_Verify_KoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cf0ce3d-fef4-43be-961e-7c07e23e3c22</testCaseGuid>
+</TestCaseEntity>

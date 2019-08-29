@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button tanpa isi di textbox</description>
+   <name>ClickWithoutInputTextbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f84146a4-cdfe-4d84-8540-5421015e131d</testCaseGuid>
+</TestCaseEntity>

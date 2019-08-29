@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>popupTukarPoin</name>
+   <tag></tag>
+   <elementGuidId>a46d3497-cb22-4ae7-8c2d-2438e1d18a93</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shopnwin-modals-body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Kamu akan menukarkan 1 Kupon  (10 Koin)  untuk mendapatkan hadiah Hadiah Undian 01. Lanjut? 
+                 Tidak Ya   Syarat &amp; Ketentuan  Kode kupon yang diperoleh merupakan kupon yang akan digunakan sebagai alat pengundian. Jumlah kupon yang didapat merupakan jumlah kesempatan yang kamu miliki untuk memenangkan hadiah undian. Pengundian hadiah Hadiah Undian 01 akan dilaksanakan oleh pihak BLANJA.com pada tanggal 15 May 2019. Pihak BLANJA.com akan melakukan konfirmasi kepada pihak pemenang undian melalui No.Telepon &amp; email user yang terdaftar. Jika pemenang tidak dapat dihubungi pada saat pengundian maka pihak BLANJA.com akan melakukan pengundian ulang. Pihak pemenang harus melakukan konfirmasi sesuai dengan petunjuk dari  pihak BLANJA.com pada email konfirmasi pemenang undian. Pajak hadiah undian sepenuhnya ditanggung oleh pihak BLANJA.com. KOIN BLANJA yang sudah ditukarkan akan hangus dan tidak dapat dikembalikan. Program undian ini tidak diperuntukkan bagi trader. BLANJA berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu. BLANJA berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya. Hal-hal yang tidak sesuai atau melanggar peraturan BLANJA, bisa berakibat pembatalan transaksi ataupun pemblokiran akun pengguna.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopnwin&quot;)/div[@class=&quot;shopnwin-list&quot;]/div[@class=&quot;shopnwin-list-body&quot;]/div[@class=&quot;shopnwin-coupon&quot;]/div[@class=&quot;shopnwin-overlay&quot;]/div[@class=&quot;shopnwin-overlay-modals&quot;]/div[@class=&quot;shopnwin-modals&quot;]/div[@class=&quot;shopnwin-modals-body&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='shopnwin']/div[4]/div[2]/div/div[4]/div/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tukar'])[1]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hadiah Undian 01'])[1]/following::div[16]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[4]/div[2]/div/div[4]/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

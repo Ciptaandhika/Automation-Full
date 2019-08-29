@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik report
+- get total budget coupon</description>
+   <name>Verify_Total_Budget_After_Paid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d98e1ee-5cc2-4c8c-bd3f-bc951e6f163a</testCaseGuid>
+</TestCaseEntity>

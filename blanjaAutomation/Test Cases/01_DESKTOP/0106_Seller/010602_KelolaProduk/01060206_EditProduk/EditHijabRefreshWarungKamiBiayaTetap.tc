@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate To url seller Edit Hijab Refresh
+Select option Biaya Tetap</description>
+   <name>EditHijabRefreshWarungKamiBiayaTetap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f864162-b8d5-49f8-a2c3-e102be5ae71b</testCaseGuid>
+</TestCaseEntity>

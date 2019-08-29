@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin shows Create New Category Group page
+2. Input Group Name
+3. Select category related to this group based category that define by business users
+4. Click Create button</description>
+   <name>CategoryGroupCreateNewGroupSelectCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>091b7ec6-a76c-47ca-af54-4e57fc542609</testCaseGuid>
+</TestCaseEntity>

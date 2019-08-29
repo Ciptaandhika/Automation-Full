@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke salah satu URL toko (store homepage), pada testcase ini store homepage yang dituju adalah tokokami</description>
+   <name>GoToWarungkami</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c699009c-e052-474b-a622-d0a5dcb9ccfa</testCaseGuid>
+</TestCaseEntity>

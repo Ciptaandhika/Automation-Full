@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. go to withdrawal management
+
+there is check box select all and  button status complete </description>
+   <name>WithdrawalManagementVerifyCBBTNTabHold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>badfed47-acd5-4492-b705-01dc4b8b9b6b</testCaseGuid>
+</TestCaseEntity>

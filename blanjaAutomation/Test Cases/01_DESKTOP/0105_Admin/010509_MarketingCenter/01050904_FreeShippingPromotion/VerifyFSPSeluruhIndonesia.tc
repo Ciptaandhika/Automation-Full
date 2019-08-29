@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify free shipping seluruh indonesia</description>
+   <name>VerifyFSPSeluruhIndonesia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da852fc2-7daf-46a6-aa95-bf1e4996af6c</testCaseGuid>
+</TestCaseEntity>

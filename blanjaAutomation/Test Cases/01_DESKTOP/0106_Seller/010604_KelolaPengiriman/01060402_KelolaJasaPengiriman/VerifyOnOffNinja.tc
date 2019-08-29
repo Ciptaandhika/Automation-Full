@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on off Ninja.
+Click Simpan.</description>
+   <name>VerifyOnOffNinja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b0b7759-6986-4cbc-a7b3-1ab6bddd9ee4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click label Masukkan 50 Alamat</description>
+   <name>Verify50Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec74fdc4-f6d6-4930-ba6a-1dec3aaff193</testCaseGuid>
+</TestCaseEntity>

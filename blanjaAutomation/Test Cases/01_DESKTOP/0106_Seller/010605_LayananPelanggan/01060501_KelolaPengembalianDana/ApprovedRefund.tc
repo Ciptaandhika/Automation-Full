@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click membutuhkan konfirmasi
+klik setuju
+input password
+konfirmasi</description>
+   <name>ApprovedRefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b8ba7e1-d51e-42e7-9170-fd8b26883361</testCaseGuid>
+</TestCaseEntity>

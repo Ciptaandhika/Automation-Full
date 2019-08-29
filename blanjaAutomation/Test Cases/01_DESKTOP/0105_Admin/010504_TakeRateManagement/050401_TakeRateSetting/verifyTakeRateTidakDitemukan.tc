@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify text &quot;Take Rate tidak ditemukan pada periode tersebut&quot;</description>
+   <name>verifyTakeRateTidakDitemukan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2f0883c-cb04-433d-aaa0-a01159ce6a97</testCaseGuid>
+</TestCaseEntity>

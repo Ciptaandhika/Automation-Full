@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Order Management
+isi order Number 
+click Search
+verify informasi payment method: 'Payment Method :BRI Credit Card Installment (Finnet)'
+Klik Order Detail sesuai nomor order yang dimasukkan</description>
+   <name>GoToTCashManagement_KlikView</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccac86f2-7582-4354-a7d7-7d1b667b6e7a</testCaseGuid>
+</TestCaseEntity>

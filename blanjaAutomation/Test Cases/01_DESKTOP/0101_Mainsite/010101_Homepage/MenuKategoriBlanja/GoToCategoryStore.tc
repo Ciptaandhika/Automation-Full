@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to category at the store</description>
+   <name>GoToCategoryStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c76ec1fc-6643-455f-b12e-2ea9b1da5d23</testCaseGuid>
+</TestCaseEntity>

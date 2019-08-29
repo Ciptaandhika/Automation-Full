@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- set extra point method payment
+- set extra point product ID
+- set extra point kode voucher
+- isi field lotte prize
+- klik save</description>
+   <name>Create_LottePrize_AllExtraYES</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdec3a57-0a7f-4330-a569-5ce6093e2166</testCaseGuid>
+</TestCaseEntity>

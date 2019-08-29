@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to transaction page (select courier).</description>
+   <name>BuyerCheckJneGantiLokasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c664e1fc-aa0d-4683-89a6-f13609b0c209</testCaseGuid>
+</TestCaseEntity>

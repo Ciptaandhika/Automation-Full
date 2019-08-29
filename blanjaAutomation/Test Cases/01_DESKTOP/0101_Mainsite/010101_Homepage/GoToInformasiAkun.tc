@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click 'Informasi Akun'</description>
+   <name>GoToInformasiAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa6bdfa8-27f7-4979-beea-628ffa616766</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url daftar alamat</description>
+   <name>GoToDaftarAlamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2039d8d-3984-42c4-b523-12cefbacbdff</testCaseGuid>
+</TestCaseEntity>

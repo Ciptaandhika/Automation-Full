@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to transaction page (select courier).
+
+Dropdown pilih kurir main (JNE, kurir standar dsb)
+Verify/Get Text Dropdown sub Pilihan jenis kurir 
+Sub pilihan Jenis Kurir (Standar, express)
+Click btn Lanjutkan pembayaran</description>
+   <name>BuyerBlanjaJneReg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e944a2a6-866f-45d2-8a35-c04c5b517db5</testCaseGuid>
+</TestCaseEntity>

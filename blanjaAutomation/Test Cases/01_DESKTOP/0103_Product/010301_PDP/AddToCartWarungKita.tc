@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer add to cart warung kita</description>
+   <name>AddToCartWarungKita</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae563d2a-cb07-4d3e-ba3b-a75e78cb8820</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url produk panten yang ada di menu kategori ibu bayi dan anak</description>
+   <name>PDPMiIbuBayidanAnak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7cdacc8-d136-4d5d-ae38-2187bc9ac07d</testCaseGuid>
+</TestCaseEntity>

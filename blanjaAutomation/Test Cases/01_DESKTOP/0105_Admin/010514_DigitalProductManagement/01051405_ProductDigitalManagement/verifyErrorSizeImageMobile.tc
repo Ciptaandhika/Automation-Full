@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Jika image >300kb  maka akan menampilkan error
+Tidak berhasil di submit
+Jika image =! 1920x250 walaupun &lt;= 300kb maka tidak berhasil upload dan muncul notif &quot;image is not valid&quot;</description>
+   <name>verifyErrorSizeImageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f87a65a-8bb3-4086-a186-e2e71d478e47</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Old PDP
+'https://www.blanja.com/p/mnb/sweety-silver-pants-popok-bayi-s66-xl44-xxl36-16219236'</description>
+   <name>NavigateToOldPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73ab66ac-5591-492e-967d-067a105d6eeb</testCaseGuid>
+</TestCaseEntity>

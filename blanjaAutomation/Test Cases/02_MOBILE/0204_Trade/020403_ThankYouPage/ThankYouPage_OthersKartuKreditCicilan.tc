@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Get URL Succes Midtrans
+- Jika ada kata-kata &quot;midtrans&quot;:
+   1. label jumlah
+   2. label order id
+   3. label user information</description>
+   <name>ThankYouPage_OthersKartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da7f7b2f-55de-4178-93a3-7d69f69e7354</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin should not be able to create campaign without input nominal threshold</description>
+   <name>FreeShippingPromotionCreateWithoutThreshold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a76216c3-fb80-48b1-8f12-da47f8cc325e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify warning limited by phone number ketika sudah pernah membeli barang tersebut</description>
+   <name>Verify_Limited_By_PhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3383adbf-8eb5-4cb8-b8ba-53aab5dc3b2c</testCaseGuid>
+</TestCaseEntity>

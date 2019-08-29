@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create discount TR setting for 
+ - Group name = Fashion.
+ - Take Rate discount = 40%
+ - Periode = 25 April 2017 - 25 April 2017</description>
+   <name>TakeRateSettingGroupDiscountSpesificTime40Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>077c6f66-8213-4f49-af8d-174d63bf59c4</testCaseGuid>
+</TestCaseEntity>

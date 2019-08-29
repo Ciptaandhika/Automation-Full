@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin pilih Start Time untuk tanggal hari ini
+- Admin pilih End Time 1 bulan ke depan
+- klik back end category
+- klik search
+- klik export
+- verify button export clickable</description>
+   <name>Admin_Click_Export_With_Choose_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>160f0433-6126-4323-a68f-75f23b2de8e0</testCaseGuid>
+</TestCaseEntity>

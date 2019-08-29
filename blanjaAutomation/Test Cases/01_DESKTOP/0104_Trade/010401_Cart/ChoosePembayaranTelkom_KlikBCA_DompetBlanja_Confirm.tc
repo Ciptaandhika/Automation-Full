@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Billing number will be created once user confirms payment</description>
+   <name>ChoosePembayaranTelkom_KlikBCA_DompetBlanja_Confirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd962ed5-8187-45a7-947c-e6e9620b6a92</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify label History Migrate Listing
+- verify moved product Name</description>
+   <name>Verify_History_Moved_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34492fb2-14f6-4b44-9412-7f2473d56783</testCaseGuid>
+</TestCaseEntity>

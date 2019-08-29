@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click the QR code</description>
+   <name>ClickQRCodeOnPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7b7b8aa-20f2-4001-bb2e-d5d3043cd818</testCaseGuid>
+</TestCaseEntity>

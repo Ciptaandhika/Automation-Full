@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifi warning information &quot;mohon login terlebih dahulu untuk menggunakan kurir ini&quot;</description>
+   <name>Click_Select_Kurir_VerifyClickNinjaX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5c7cf10-75a9-4b11-a551-c36bf70a53d3</testCaseGuid>
+</TestCaseEntity>

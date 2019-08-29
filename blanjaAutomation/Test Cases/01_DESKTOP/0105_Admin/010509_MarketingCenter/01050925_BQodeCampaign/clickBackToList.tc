@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button back to list</description>
+   <name>clickBackToList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>866ebe4e-1eb1-4865-88be-947c23af79a8</testCaseGuid>
+</TestCaseEntity>

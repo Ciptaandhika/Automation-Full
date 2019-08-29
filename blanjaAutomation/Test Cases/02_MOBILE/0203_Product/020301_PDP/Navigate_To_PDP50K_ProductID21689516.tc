@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to URL 50k product ID 21689516</description>
+   <name>Navigate_To_PDP50K_ProductID21689516</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6b27dcd-c810-40d1-9fda-c0f1aa21d4c7</testCaseGuid>
+</TestCaseEntity>

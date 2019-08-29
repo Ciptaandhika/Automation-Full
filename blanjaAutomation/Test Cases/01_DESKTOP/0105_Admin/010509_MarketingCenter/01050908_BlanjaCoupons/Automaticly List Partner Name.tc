@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Automaticly Box Partner Coverage
+1. Access admin.blanja.com
+2. Go to Blanja Coupons
+3. Create a coupon using type Unique Coupon
+4. Set the budget with partial type
+5. Input budget amount on Blanja Coverage field
+6. Verify the result</description>
+   <name>Automaticly List Partner Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>920aa342-db12-4efa-b137-af3995544290</testCaseGuid>
+</TestCaseEntity>

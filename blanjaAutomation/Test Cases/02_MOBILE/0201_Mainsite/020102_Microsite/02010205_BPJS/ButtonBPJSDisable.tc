@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure user can't click bayar bpjs when no tagihan is empty</description>
+   <name>ButtonBPJSDisable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3e32567-63eb-42b8-b4f8-286df968fe41</testCaseGuid>
+</TestCaseEntity>

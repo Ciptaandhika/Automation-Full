@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Get text nomor order</description>
+   <name>ChoosePaymentGetOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>832a5b5c-0671-49cd-8dcd-afe01575cb67</testCaseGuid>
+</TestCaseEntity>

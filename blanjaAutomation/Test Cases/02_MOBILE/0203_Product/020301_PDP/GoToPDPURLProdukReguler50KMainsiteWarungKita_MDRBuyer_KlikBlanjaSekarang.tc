@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Navigate to url produk
+- Close button Gojek, jika ada
+- Set text jumlah barang
+- Klik button simulasi cicilan
+- Verify element present informasi Installment Payment
+- Klik button close simulasi cicilan
+- Klik button Blanja Sekarang</description>
+   <name>GoToPDPURLProdukReguler50KMainsiteWarungKita_MDRBuyer_KlikBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10ffab60-5e23-4e13-9cf1-15b7ea9d2727</testCaseGuid>
+</TestCaseEntity>

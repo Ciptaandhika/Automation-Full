@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Export Download Excel</description>
+   <name>Export Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e93f37ad-d099-4a43-990c-9f6c6e750e39</testCaseGuid>
+</TestCaseEntity>

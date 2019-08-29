@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik punya kode voucher
+- input kode kupon
+- klik gunakan</description>
+   <name>Input_Coupon_Unique_CashBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40120141-6354-4168-813f-345d4d13f0b0</testCaseGuid>
+</TestCaseEntity>

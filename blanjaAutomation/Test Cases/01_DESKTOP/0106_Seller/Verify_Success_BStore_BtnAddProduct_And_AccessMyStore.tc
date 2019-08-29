@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi btn add product dan access my store pada success page</description>
+   <name>Verify_Success_BStore_BtnAddProduct_And_AccessMyStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08f33688-cab6-45b2-84f7-a72d6d609090</testCaseGuid>
+</TestCaseEntity>

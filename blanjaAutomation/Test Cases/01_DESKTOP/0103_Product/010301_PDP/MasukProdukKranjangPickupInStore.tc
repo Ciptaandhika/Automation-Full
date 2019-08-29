@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select one or more product(s)
+2. Go to PDP page 
+3. Click on &quot;Tambahkan ke Troli&quot;
+4. verifikasi sudah berhasil ditambahkan</description>
+   <name>MasukProdukKranjangPickupInStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf6f2531-2a50-43d0-b611-35bf00e51167</testCaseGuid>
+</TestCaseEntity>

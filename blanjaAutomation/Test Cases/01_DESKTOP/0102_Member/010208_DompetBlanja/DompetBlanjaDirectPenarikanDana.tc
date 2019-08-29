@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access Dompet Blanja
+2. User access to Penarikan Dana</description>
+   <name>DompetBlanjaDirectPenarikanDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac874fb2-e1ff-41aa-9d8d-b74f530b9f24</testCaseGuid>
+</TestCaseEntity>

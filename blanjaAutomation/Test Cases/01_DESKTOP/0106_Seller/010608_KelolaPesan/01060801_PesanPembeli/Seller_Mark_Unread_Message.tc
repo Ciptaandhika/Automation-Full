@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik tab unread
+- pilih beberapa pesan yang akan di mark
+- klik mark as read</description>
+   <name>Seller_Mark_Unread_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b6ec0da-7a67-4069-90d4-f84692b245eb</testCaseGuid>
+</TestCaseEntity>

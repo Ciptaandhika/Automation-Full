@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. go to withdrawal management
+
+check box select all and two button status: hold and complete on pending tab</description>
+   <name>WithdrawalManagementVerifyCBBTNTabPending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b05b87e5-3900-4e93-925e-55188b27df9a</testCaseGuid>
+</TestCaseEntity>

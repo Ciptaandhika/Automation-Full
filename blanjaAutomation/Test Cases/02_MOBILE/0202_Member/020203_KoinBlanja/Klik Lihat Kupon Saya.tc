@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Lihat Pada Kupon Saya</description>
+   <name>Klik Lihat Kupon Saya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b65a56ef-2b14-4cc2-97e4-115c85eb7c3d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi link tipe toko setelah klik tombol kembali</description>
+   <name>Verify_Business_Store_Link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb20b506-96d7-4f8e-be3b-fb09fa56c9f7</testCaseGuid>
+</TestCaseEntity>

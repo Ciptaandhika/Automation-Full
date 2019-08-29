@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer click hitung pengiriman and choose kurir standar</description>
+   <name>CheckHitungKurirStandar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65ee9460-83ab-4381-83e8-29caa7068401</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata 'simulator.sandbox.midtrans.com/bri/epay/'
+
+Verify label BRI ePay tampil
+Verify label nominal Total Transaksi tampil</description>
+   <name>Sandbox_BRIePay_VerifyPaymentInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0949ce99-7438-431b-932a-88d810f0a712</testCaseGuid>
+</TestCaseEntity>

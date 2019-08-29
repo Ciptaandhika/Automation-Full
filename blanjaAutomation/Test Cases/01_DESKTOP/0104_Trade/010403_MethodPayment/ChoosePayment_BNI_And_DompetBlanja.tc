@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik toggle dompet blanja
+- input 100
+- input password dompet blanja
+- pilih BNI debit online
+- klik lanjutkan pembayaran</description>
+   <name>ChoosePayment_BNI_And_DompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1f21074-5d60-470b-8f7f-b8378346c9fe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi pickup store address</description>
+   <name>VerifyPickupStoreAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67e48f5b-0a66-45c9-972d-ca4b8af48701</testCaseGuid>
+</TestCaseEntity>

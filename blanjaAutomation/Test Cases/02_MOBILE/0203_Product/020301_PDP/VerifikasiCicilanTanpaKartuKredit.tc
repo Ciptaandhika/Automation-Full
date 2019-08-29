@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi halamant tersebut</description>
+   <name>VerifikasiCicilanTanpaKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69f50ba6-2d06-47ae-a45b-ac8e81a1f12f</testCaseGuid>
+</TestCaseEntity>

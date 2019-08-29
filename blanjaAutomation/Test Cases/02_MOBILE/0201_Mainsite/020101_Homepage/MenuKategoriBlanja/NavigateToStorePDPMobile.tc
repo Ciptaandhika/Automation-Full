@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to store page</description>
+   <name>NavigateToStorePDPMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14e40361-6284-43ff-ac81-c5f8e9f3d3f6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url homepage</description>
+   <name>VerifyHomepageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb1646a6-1522-4816-a2ae-07a7a723b88b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>inactive ubah profile</description>
+   <name>TabUbahProfil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a82d21cf-f174-4b5a-8cad-44804c98a6ae</testCaseGuid>
+</TestCaseEntity>

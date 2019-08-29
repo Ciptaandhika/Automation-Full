@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to transaction page (select courier).
+
+Dropdown pilih kurir main (Tiki)
+Verify/Get Text Dropdown sub Pilihan jenis kurir 
+Sub pilihan Jenis Kurir (Standar, express)
+Click btn Lanjutkan pembayaran</description>
+   <name>BuyerBlanjaTikiOverNight</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f85ef35-cf81-40b2-bbd4-e87c6cd19f82</testCaseGuid>
+</TestCaseEntity>

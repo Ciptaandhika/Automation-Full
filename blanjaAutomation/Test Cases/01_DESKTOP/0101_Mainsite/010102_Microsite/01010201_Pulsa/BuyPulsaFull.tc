@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buying pulsa all step</description>
+   <name>BuyPulsaFull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>009d13a5-aa2c-4694-b41c-f00403a8cae5</testCaseGuid>
+</TestCaseEntity>

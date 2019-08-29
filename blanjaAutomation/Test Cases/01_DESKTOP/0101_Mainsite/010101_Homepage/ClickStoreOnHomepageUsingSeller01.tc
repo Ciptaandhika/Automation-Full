@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Toko Saya dari Homepage menggunakan Seller01</description>
+   <name>ClickStoreOnHomepageUsingSeller01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c2b95d0-c09b-4861-8496-e355a18b1c22</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer login
+2. Buyer add to cart the product from Shop A
+3. Buyer add to cart product from shop B
+4. At Confirm page, buyer apply the coupon Thematic for product A (Shop A)
+and unique code for product B (Shop B)
+5. Buyer success order using coupon</description>
+   <name>VerifyKlikBCADisabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6de012a-20f3-4e77-bb69-f52039a5d193</testCaseGuid>
+</TestCaseEntity>

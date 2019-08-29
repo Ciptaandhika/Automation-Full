@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik report
+- get left budget</description>
+   <name>Verify_After_Refund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79e5b82e-43d2-45e1-bf2e-1bc8931667fd</testCaseGuid>
+</TestCaseEntity>

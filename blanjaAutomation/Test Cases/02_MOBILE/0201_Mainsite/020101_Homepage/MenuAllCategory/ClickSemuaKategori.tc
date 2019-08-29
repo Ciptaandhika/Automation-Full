@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click all category</description>
+   <name>ClickSemuaKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6a345fc-54a8-486f-9159-91d60fa2c8ed</testCaseGuid>
+</TestCaseEntity>

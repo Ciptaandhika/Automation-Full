@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify promo popup</description>
+   <name>verifyPromoTidakBisaDigunakan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f86eba3d-e2ad-4481-a0d1-29f7aabca1c6</testCaseGuid>
+</TestCaseEntity>

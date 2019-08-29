@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose &quot;Semua&quot; tab or &quot;Menunggu Pembayaran&quot; tab</description>
+   <name>CheckTransactionMenungguPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c093dc9d-2d0b-4079-b411-4e8d678df65f</testCaseGuid>
+</TestCaseEntity>

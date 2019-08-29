@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada textbox input kategori yang akan dicari misalnya Camilan
+- verify search result hasil kategori yang mengandung kata camilan</description>
+   <name>Verify_Search_Result_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>def42642-48e7-4794-b861-e5dbb27cedc4</testCaseGuid>
+</TestCaseEntity>

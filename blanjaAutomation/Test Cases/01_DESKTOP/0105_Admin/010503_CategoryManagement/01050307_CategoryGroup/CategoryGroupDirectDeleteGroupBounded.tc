@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Group List select Group Name that not bound to take rate and click Delete
+
+Admin will show Error pop-up &quot;You can't delete this group since it is bound to take rate setting&quot;</description>
+   <name>CategoryGroupDirectDeleteGroupBounded</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>451d22c8-5c51-4baa-bedb-c5d20aab32bc</testCaseGuid>
+</TestCaseEntity>

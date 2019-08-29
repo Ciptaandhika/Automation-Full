@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Refund
+Choose Reason Refund
+Fill Description
+Click Submit
+Click Konfirmasi</description>
+   <name>BuyerRefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7dc10ed-613b-4c67-bfc7-9b5a2c92ac1d</testCaseGuid>
+</TestCaseEntity>

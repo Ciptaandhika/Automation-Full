@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a product to edited and changed</description>
+   <name>EditProdukDiJual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd8f075-a8f7-4cf2-a45b-ab48d3a035b0</testCaseGuid>
+</TestCaseEntity>

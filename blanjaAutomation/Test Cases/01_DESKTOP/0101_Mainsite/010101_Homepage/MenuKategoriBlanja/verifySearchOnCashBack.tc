@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search URL is correct
+2. Product on search result page has correct URL</description>
+   <name>verifySearchOnCashBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>907f6d3f-5756-46d9-956f-11ef6acd5903</testCaseGuid>
+</TestCaseEntity>

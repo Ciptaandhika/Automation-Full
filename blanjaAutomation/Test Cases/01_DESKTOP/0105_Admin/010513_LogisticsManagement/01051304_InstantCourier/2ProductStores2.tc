@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Tambahkan Troli.
+choose product.</description>
+   <name>2ProductStores2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1b57954-0412-4407-9e8c-277a13de9040</testCaseGuid>
+</TestCaseEntity>

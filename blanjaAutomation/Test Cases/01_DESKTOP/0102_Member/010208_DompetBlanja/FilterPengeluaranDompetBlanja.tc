@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Akun saya
+2. User access Dompet Blanja
+3. User select 'Pengeluaran' then Cari
+Show result data Pengeluaran like Pembayaran transaksi and Pengembalian alokasi akun virtual</description>
+   <name>FilterPengeluaranDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>962e4781-0bb6-4c06-af1a-360a0b11c25e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Pembayaran
+Pilih opsi pengiriman: Kurir Standar A
+Klik button Kode Voucher A
+Set text Kode Voucher A
+Klik button Gunakan A
+Pilih opsi pengiriman: Kurir Standar B
+Klik button Kode Voucher B
+Set text Kode Voucher B
+Klik button Gunakan B
+Click button VA
+Delay
+Click button Mandiri
+Click button Transfer Mandiri
+Delay
+Click Bayar
+Get URL
+Verify url success payment</description>
+   <name>ChooseJasaPembayaran2Store_UCodeTCode_VA_KlikBCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df8533ed-4976-45c2-9028-67a8487fa863</testCaseGuid>
+</TestCaseEntity>

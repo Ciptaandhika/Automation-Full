@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin.blanjadev.com
+2. go to withdrawal management
+
+there is check box on every row</description>
+   <name>WithdrawalManagementCheckEveryRow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f83adae8-93f1-466b-9068-05991708dd44</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Pos
+Get Label Pos
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment Mandiri Debit Online Campaign Unique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b9ace69-21da-4035-b64a-1420f29e8204</testCaseGuid>
+</TestCaseEntity>

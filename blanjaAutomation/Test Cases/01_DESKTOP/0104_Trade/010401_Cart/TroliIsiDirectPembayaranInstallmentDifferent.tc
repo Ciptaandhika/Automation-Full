@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. tap on shopping cart icon
+2. system will display shopping cart page
+3. click on &quot;lanjutkan pembayaran&quot; button
+4. after click checkout button, system will display validation message pop-up &quot;Produk yang ada pada shopping cart anda mempunyai installment plan yang berbeda ... &quot;, 
+5. then user agree to continue (if click &quot;OK&quot; on pop-up), it will direct to order confirm page with only support to same installment option</description>
+   <name>TroliIsiDirectPembayaranInstallmentDifferent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c256c76-030d-4d02-80f5-2740aef239cf</testCaseGuid>
+</TestCaseEntity>

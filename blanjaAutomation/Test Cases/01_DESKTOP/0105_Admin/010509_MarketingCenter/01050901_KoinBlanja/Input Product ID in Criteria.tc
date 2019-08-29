@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. admin has been filled all mandatory field(s)
+2. tick on 'Product IDs' checkbox
+3.1 input correct product ID, then click 'SAVE'
+3.2 input incorrect product ID, then click 'SAVE'
+3.3 input random product ID, then click 'SAVE
+3.4 input some product ID without comma, then click 'SAVE'</description>
+   <name>Input Product ID in Criteria</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9877ce41-b72c-4a93-b9ce-26d4adf63f56</testCaseGuid>
+</TestCaseEntity>

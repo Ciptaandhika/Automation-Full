@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Product Mobile Phone.
+Click Tambahkan ke Troli.</description>
+   <name>BuyerChooseProductMobilePhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8eeae5c3-1912-469c-b719-9f9fa98562bb</testCaseGuid>
+</TestCaseEntity>

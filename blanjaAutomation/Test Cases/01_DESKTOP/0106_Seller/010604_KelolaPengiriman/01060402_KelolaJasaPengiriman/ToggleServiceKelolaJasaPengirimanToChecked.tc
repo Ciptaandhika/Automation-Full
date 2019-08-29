@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Toggle Salah Satu Service jasa pengiriman jadi on
+
+Menu Kelola Jasa Pengiriman
+Pilih Jasa pengiriman aktif
+check Service yang non aktif dan di aktifkan
+Simpan Setting</description>
+   <name>ToggleServiceKelolaJasaPengirimanToChecked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80999231-8a78-40cf-9984-89d1de8a4199</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button List Brand
+Upload file
+Set brand title
+Set brand link
+Click add brand</description>
+   <name>addBrandList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a0e60df-38c8-401e-9a24-4d150c257264</testCaseGuid>
+</TestCaseEntity>

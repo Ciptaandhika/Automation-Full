@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.
+Click Tukar.</description>
+   <name>VerifyPrize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e182d72-7488-4f42-a803-979c85b83672</testCaseGuid>
+</TestCaseEntity>

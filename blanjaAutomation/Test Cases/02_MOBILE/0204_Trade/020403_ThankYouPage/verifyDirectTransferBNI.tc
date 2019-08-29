@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present noPesanan
+verify element present cuniqcode
+verify element present detailPembayaran</description>
+   <name>verifyDirectTransferBNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5a0e0ba-ceee-4702-94ba-8b05e24db8cf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure warning appear as buyer address is to far</description>
+   <name>VerifyTidakTerjangkau</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e30d8213-dd05-4ee4-aa79-ebdf1f406198</testCaseGuid>
+</TestCaseEntity>

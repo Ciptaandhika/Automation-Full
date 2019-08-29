@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Toggle Off/On Service KelolaJasaPengiriman
+Close Btn X halaman Seller
+Masuk menu Kelola jasa
+Memastikan tiap service jasa pengiriman bisa di non aktif/ aktifkan
+Confirm Setting</description>
+   <name>ToggleAllKelolaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb023f51-48c1-4800-9f56-d5c523d652ad</testCaseGuid>
+</TestCaseEntity>

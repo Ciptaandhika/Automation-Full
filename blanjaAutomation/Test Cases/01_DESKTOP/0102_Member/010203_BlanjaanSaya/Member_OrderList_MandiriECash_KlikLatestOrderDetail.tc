@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+Get Text Verify tulisan 'Pembayaran :Mandiri E-Cash'
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.
+Klik Order Detail sesuai order yang telah dilakukan</description>
+   <name>Member_OrderList_MandiriECash_KlikLatestOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>736f62f8-aeb2-4b7a-a255-ac103622524a</testCaseGuid>
+</TestCaseEntity>

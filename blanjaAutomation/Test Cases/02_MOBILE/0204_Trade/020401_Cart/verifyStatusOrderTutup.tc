@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify equal staus = tutup</description>
+   <name>verifyStatusOrderTutup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad1422e0-8ce6-42d2-8007-aebc6410d2bf</testCaseGuid>
+</TestCaseEntity>

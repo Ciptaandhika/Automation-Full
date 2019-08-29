@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User bisa memilih semua main kategori</description>
+   <name>MainKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d09f42be-72ea-4a81-9d2f-f18676229d45</testCaseGuid>
+</TestCaseEntity>

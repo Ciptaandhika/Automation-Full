@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User open individual store with revamp open store
+2. User do withdrawal and upload KTP and Surat Pernyataan
+3. On Seller Center, go to Info Toko --> Info Pemilik Toko</description>
+   <name>Verify_IndividualStore_KTP_Surat_Pernyataan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e576ab5-77a1-4ea6-a020-edb248f8a1ac</testCaseGuid>
+</TestCaseEntity>

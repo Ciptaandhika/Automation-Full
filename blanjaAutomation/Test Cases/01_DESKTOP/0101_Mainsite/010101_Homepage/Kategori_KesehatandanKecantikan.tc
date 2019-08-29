@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik kategori kesehatan dan kecantikan
+sistem akan menampilkan semua produk yang berkaitan</description>
+   <name>Kategori_KesehatandanKecantikan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4424b10a-04f8-4a84-95e8-310fa764c5d4</testCaseGuid>
+</TestCaseEntity>

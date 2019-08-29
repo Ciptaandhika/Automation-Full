@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Last Order Number
+Choose Radio Button Debit Niaga
+Select Option Pilih Nama Promosi
+Verify label Diskon Blanja
+Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_BRICC - Bank Payment Promotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e953d00f-db73-4eba-aba7-e9a3325dc548</testCaseGuid>
+</TestCaseEntity>

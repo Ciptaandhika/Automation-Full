@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get semua object yang sama
+Pilih Kurir Standar untuk semua produk
+Verify Total Produk + Biaya Pengiriman
+Klik Lanjutkan Pembayaran</description>
+   <name>transactionOrderConfirmMultipleProducts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f43d6a8-9608-4c92-b75e-3413086caede</testCaseGuid>
+</TestCaseEntity>

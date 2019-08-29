@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify preview mobile</description>
+   <name>verifyPreviewMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f82716a3-9c4a-47b4-b3ab-4dc65a2645b9</testCaseGuid>
+</TestCaseEntity>

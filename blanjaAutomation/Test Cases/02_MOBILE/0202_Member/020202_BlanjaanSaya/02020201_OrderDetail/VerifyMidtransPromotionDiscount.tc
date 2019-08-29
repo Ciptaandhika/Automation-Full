@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Midtrans Discount applied</description>
+   <name>VerifyMidtransPromotionDiscount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef851b15-715f-489d-b651-017db58c5f05</testCaseGuid>
+</TestCaseEntity>

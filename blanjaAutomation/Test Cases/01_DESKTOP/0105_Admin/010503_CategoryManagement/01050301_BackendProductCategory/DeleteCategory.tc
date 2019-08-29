@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Url Backend Product Category Admin
+click button Backend Product Category
+click button Edit Category 
+Set text Product Category
+Set text Product Category2
+accept alert
+Href Delete Category
+Click button delete category</description>
+   <name>DeleteCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3f62866-a467-4a93-8130-071ca262d7ed</testCaseGuid>
+</TestCaseEntity>

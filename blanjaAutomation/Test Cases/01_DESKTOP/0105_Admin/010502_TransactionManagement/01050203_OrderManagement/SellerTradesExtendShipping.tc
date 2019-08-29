@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Dari halaman Transaksi Penjual, search order
+2. Bila terdapat popup fitur baru accept
+3. Klik Perpanjang Waktu Proses Barang
+4. Set waktu perpanjangan
+5. Set pesan untuk pembeli
+6. Kirim perpanjangan waktu pengiriman
+7. Accept bila terdapat alert </description>
+   <name>SellerTradesExtendShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23d7d30d-6d2f-4f83-9ad9-fb3db739f45c</testCaseGuid>
+</TestCaseEntity>

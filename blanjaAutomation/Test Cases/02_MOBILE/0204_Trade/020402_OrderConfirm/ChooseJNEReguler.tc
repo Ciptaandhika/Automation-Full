@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer choose shipping method - gosend same day</description>
+   <name>ChooseJNEReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>317ed699-4010-4112-9445-0b2428d01b80</testCaseGuid>
+</TestCaseEntity>

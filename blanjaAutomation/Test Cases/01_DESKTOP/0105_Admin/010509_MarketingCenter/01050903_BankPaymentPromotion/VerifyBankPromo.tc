@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>view vendor payment
+view group bin bank
+Informatin Card Promo</description>
+   <name>VerifyBankPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f9628bf-80d3-4d8e-9340-e11b713e7012</testCaseGuid>
+</TestCaseEntity>

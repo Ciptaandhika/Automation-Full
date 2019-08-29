@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi produk yang ada di semua kategori</description>
+   <name>VerifyPDPMSemuaKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75fecb04-571d-45c1-ba59-c5a742eb7812</testCaseGuid>
+</TestCaseEntity>

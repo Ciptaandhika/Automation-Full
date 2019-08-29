@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Set text CTA
+Click redirect URL desktop
+Set text redirect URL Desktop
+Click redirect URL mobile
+Set text redirect URL Mobile
+Click button save
+Delay
+Accept alert</description>
+   <name>addInfoBar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acbf04c4-3b27-44f0-bf0f-243879bba915</testCaseGuid>
+</TestCaseEntity>

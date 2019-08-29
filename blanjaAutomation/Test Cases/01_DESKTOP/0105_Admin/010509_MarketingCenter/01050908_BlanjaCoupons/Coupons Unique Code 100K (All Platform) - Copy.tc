@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Only Blanja (Unique Code)
+3. Verify Coupon</description>
+   <name>Coupons Unique Code 100K (All Platform) - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62436fb8-b7f3-4d96-8e4f-2ce749405679</testCaseGuid>
+</TestCaseEntity>

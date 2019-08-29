@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click ROOT.
+click Mom, Baby, Kids.
+click Diapers.
+click Cloth Diapers.
+click Product.</description>
+   <name>ChooseNewCathegoryPagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8deb8b99-25a2-4ca3-b825-12d45a298a45</testCaseGuid>
+</TestCaseEntity>

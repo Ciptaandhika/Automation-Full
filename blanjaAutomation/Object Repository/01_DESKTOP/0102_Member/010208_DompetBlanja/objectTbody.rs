@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>objectTbody</name>
+   <tag></tag>
+   <elementGuidId>05558c84-2e33-42e1-80a8-3e45f73e6a4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;row&quot;]/div[2]/table/tbody/tr[2]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;row&quot;]/div[2]/table/tbody/tr[2]/td[4]</value>
+   </webElementProperties>
+</WebElementEntity>

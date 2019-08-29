@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableListItem</name>
+   <tag></tag>
+   <elementGuidId>4d499265-d04a-44a1-a769-ba2a5b4adf7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='phoneCreditSettingTable']/table</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cellspacing</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cellpadding</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SKU IdProduct NameTypeNominalOperator NameProvider NameLevelDisplay On PDPURL DesktopURL MobileShow PublicCreated ByAction16927420Voucher Blanja 2000Nilai Top Up: Provider: Pulsa20.001INDOSATINDOSAT OOREDOOYESYESmiiadmin16927430Pulsa 3 Rp 150.000Nilai Top Up: 150000Provider: 3Pulsa150.00033NOhttps://www.bljstaging.com/katalog/p/dgt/pulsa-3-rp-150-000-21669076https://m.bljstaging.com/katalog/p/dgt/pulsa-3-rp-150-000-21669076YESmpadmin16927419Sunsilk Hijab SachetNilai Top Up: Provider: Pulsa5.000INDOSATINDOSAT OOREDOOYESYESmiiadmin16927417Sunsilk Hijab BotolNilai Top Up: Provider: Pulsa50.000INDOSATINDOSAT OOREDOOYESYESmiiadmin16927427Pulsa IndosatNilai Top Up: 10000Provider: Indosat OoredooPulsa10.000INDOSATINDOSAT OOREDOOYESYESmiiadmin16927425Indosat1234Nilai Top Up: 500000Provider: Indosat OoredooPulsa6.000INDOSATINDOSAT OOREDOOYESYESmiiadmin16927421Voucher Blanja 1000Nilai Top Up: Provider: Pulsa20.000INDOSATINDOSAT OOREDOOYESYESmiiadmin13213657Voucher Data Gamesmax Rp 25.000Nilai Top Up: Data GamesMAX Rp 25.000Provider: ASPaket DataData GamesMAX Rp 25.000TELKOMSELASNOwww.blanja.com/top-up/paket-data/telkomsel/asm.blanja.com/top-up/paket-data/telkomsel/asYESdinipratiwi13213664Voucher Data Gamesmax Rp 25.000Nilai Top Up: Data GamesMAX Rp 25.000Provider: SimpatiPaket DataData GamesMAX Rp 25.000TELKOMSELSIMPATINOwww.blanja.com/top-up/paket-data/telkomsel/simpatim.blanja.com/top-up/paket-data/telkomsel/simpatiYESdinipratiwi12519593Telkomsel Data Rp 50.000Nilai Top Up: Telkomsel Data Rp 50.000Provider: ASPaket DataTelkomsel Data Rp 50.000TELKOMSELASNOwww.blanja.com/top-up/paket-data/telkomselm.blanja.com/top-up/paket-data/telkomselYESdinipratiwi</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phoneCreditSettingTable&quot;)/table[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='phoneCreditSettingTable']/table</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[1]/following::table[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/0'])[1]/following::table[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[2]/div/table</value>
+   </webElementXpaths>
+</WebElementEntity>

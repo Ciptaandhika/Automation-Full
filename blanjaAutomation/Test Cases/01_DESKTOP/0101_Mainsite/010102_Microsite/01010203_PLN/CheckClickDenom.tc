@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that default selected in Nominal is the first denom</description>
+   <name>CheckClickDenom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b96e6bfd-e429-4bee-9b5f-84da6284f74f</testCaseGuid>
+</TestCaseEntity>

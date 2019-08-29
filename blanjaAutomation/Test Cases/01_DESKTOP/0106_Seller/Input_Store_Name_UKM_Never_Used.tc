@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih tab perusahaan
+- isi form nama toko dengan data yang belum pernah digunakan
+- verify label warning nama toko sudah digunakan tidak muncul</description>
+   <name>Input_Store_Name_UKM_Never_Used</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f20c38df-e15b-4e8f-8bb7-813b87d1e4aa</testCaseGuid>
+</TestCaseEntity>

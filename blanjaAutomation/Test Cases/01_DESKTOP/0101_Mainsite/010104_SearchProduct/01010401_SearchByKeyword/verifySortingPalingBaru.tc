@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element clickable spanPalingBaru</description>
+   <name>verifySortingPalingBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0f8c895-f012-4029-8bed-963ed3cb14a8</testCaseGuid>
+</TestCaseEntity>

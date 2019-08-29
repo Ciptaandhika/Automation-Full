@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik btn root
+- klik sub category dari root
+- input category baru
+- add
+- verify alert
+- edit category tersebut
+- save
+- verify alert
+- delete category tersebut
+- klik ok
+- verify alert</description>
+   <name>Admin_Set_Backend_NewSadCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>535aebb3-60d3-473d-95f4-dbcd0cbc3785</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Banner Setting
+Upload file
+Set Banner Title
+Set Banner Link
+Click button Add Main Banner
+Click button OK
+Verify text present
+Set Banner Title Side Banner 1
+Set Banner Link Side Banner 1
+Set Banner Title Side Banner 2
+Set Banner Link Side Banner 2
+Set Banner Title Mini Banner 1
+Set Banner Link Mini Banner 1
+Set Banner Title Mini Banner 2
+Set Banner Link Mini Banner 2
+Click button submit
+Log info
+Accept alert</description>
+   <name>addBannerSetting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>131d8d27-fef3-4d98-9d4f-bd0e58f8d566</testCaseGuid>
+</TestCaseEntity>

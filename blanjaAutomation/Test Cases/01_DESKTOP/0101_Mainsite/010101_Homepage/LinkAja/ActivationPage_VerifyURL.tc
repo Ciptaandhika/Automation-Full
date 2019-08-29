@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Get URL Activation page
+- Cek URL contain 'linkaja'</description>
+   <name>ActivationPage_VerifyURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61e48f3b-c131-4582-b4cf-c94dd4ecbb5b</testCaseGuid>
+</TestCaseEntity>

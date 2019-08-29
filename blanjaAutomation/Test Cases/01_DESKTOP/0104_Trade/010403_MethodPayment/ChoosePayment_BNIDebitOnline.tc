@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get order number
+klik RB BNI Debit Online
+Get Label BNI Debit Online
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BNIDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76cef0c9-465c-468d-9bbc-f2973f76f2dd</testCaseGuid>
+</TestCaseEntity>

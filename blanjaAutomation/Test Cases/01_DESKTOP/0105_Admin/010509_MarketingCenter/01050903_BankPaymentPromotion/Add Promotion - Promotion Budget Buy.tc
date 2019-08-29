@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Bank Payment Promotion
+2. Add Promotion
+3. Input n verify Promotion Budget Buy</description>
+   <name>Add Promotion - Promotion Budget Buy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bb6cbc1-dca1-4530-bebd-e9b674b3e4a9</testCaseGuid>
+</TestCaseEntity>

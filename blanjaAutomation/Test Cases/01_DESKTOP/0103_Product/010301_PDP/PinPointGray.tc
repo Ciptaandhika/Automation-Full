@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product
+Click Select Courier
+Choose &quot;Go Send&quot;
+Click Same Day / Instant Courier
+Click beli sekarang</description>
+   <name>PinPointGray</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f64f0214-a8fd-4962-bc7b-301f6744689a</testCaseGuid>
+</TestCaseEntity>

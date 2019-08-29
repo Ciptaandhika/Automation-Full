@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Limited Time Discount Promo
+2. verify access Limited Time Discount Promo</description>
+   <name>Access Limited Time Discount Promotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc17ca00-bcc3-48a7-8881-eb1fe3d15e70</testCaseGuid>
+</TestCaseEntity>

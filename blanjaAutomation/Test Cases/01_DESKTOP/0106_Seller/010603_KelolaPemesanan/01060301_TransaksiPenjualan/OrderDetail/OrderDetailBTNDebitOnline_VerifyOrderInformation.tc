@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify informasi method payment contains 'Tipe Pembayaran :Mandiri E-Cash'
+</description>
+   <name>OrderDetailBTNDebitOnline_VerifyOrderInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d6fe7bf-de0a-4d42-bfe4-a618dcf3a9bf</testCaseGuid>
+</TestCaseEntity>

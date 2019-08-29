@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url PDP 100 Warungkami
+Klik tombol Close Gojek, jika ada
+Clear text qty
+Input qty (1 pcs)
+Klik tombol Blanja Sekarang</description>
+   <name>GoToPDPURLProdukRegulerSKU_AddToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdac0b15-73e1-437a-88ed-d231b0220dcf</testCaseGuid>
+</TestCaseEntity>

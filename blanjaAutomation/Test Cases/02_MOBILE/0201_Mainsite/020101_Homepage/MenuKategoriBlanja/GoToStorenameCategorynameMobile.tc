@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to store page
+2. Click a category name</description>
+   <name>GoToStorenameCategorynameMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a99c775-9de4-462f-932f-8e048ea2edb8</testCaseGuid>
+</TestCaseEntity>

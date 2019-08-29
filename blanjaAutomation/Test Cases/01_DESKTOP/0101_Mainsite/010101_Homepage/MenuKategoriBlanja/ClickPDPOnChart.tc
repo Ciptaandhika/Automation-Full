@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click PDP on a cart</description>
+   <name>ClickPDPOnChart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b649fcd7-b9b2-40ca-9302-c3a90361fe5a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+fill quantity of product more than 7kg.</description>
+   <name>ProductWeightInstant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>629ae4d4-0aaf-45f1-8ef0-8dbcd31b1082</testCaseGuid>
+</TestCaseEntity>

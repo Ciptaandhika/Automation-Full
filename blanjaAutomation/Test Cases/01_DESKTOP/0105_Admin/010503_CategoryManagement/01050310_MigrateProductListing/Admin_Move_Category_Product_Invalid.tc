@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- admin pilih product di current category ( pada case ini adalah kategorinya adalah office laptop)
+- pilih salah satu product
+- pindahkan ke category e-voucher Hotel
+- verify label / notifikasi yang muncul</description>
+   <name>Admin_Move_Category_Product_Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0928587b-0ec4-4229-b807-bd1475ba52d6</testCaseGuid>
+</TestCaseEntity>

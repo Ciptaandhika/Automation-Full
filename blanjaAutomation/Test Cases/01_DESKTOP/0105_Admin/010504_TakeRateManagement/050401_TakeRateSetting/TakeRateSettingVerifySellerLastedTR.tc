@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify take rate setting for category group created</description>
+   <name>TakeRateSettingVerifySellerLastedTR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7e6f7a8-fb94-4843-a3b6-b6cfbde496b1</testCaseGuid>
+</TestCaseEntity>

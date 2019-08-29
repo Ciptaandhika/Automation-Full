@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL Shopping Cart
+click button Lanjutkan Pembayaran</description>
+   <name>GoToShoppingCartURL-FavoriteProductA2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce76b970-47b7-4c73-b344-6bf1d8fb267a</testCaseGuid>
+</TestCaseEntity>

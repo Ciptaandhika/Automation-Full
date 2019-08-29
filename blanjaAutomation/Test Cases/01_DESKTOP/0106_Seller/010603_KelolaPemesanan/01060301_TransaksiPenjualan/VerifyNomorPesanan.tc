@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Nomor Pesanan</description>
+   <name>VerifyNomorPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f3e6f0e-fef0-404c-b2cc-f9b1a8bd074f</testCaseGuid>
+</TestCaseEntity>

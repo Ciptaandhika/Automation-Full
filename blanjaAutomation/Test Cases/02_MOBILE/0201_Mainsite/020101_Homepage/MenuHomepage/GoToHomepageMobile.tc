@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>url homepage</description>
+   <name>GoToHomepageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddfe7858-e958-4bda-921a-cab86afe5c0b</testCaseGuid>
+</TestCaseEntity>

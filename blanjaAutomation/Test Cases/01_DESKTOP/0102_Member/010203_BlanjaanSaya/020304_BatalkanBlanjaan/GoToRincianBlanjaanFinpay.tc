@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to rincian blanjaan page that using finpay as payment method</description>
+   <name>GoToRincianBlanjaanFinpay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>802d1a25-6180-4503-b889-a9071571976d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>btn close
+klik transaksi penjualan</description>
+   <name>TransaksiPenjualanMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c78016f-6d7e-47e3-90e4-9d97b545cb70</testCaseGuid>
+</TestCaseEntity>

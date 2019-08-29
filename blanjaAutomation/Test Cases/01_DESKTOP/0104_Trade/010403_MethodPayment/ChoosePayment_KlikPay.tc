@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BCA KlikPay
+Get Label BCA KlikPay
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_KlikPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4056843-00c1-4ed1-ade2-82fe1c0f41ed</testCaseGuid>
+</TestCaseEntity>

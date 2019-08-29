@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Click Cetaphil
+Get URL
+Verify Equal
+Verify text present
+Get text
+Click product
+Delay
+Verify text present
+Get text</description>
+   <name>verifyUnileverDiscount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e89151f5-52f7-40ea-8b0f-908e0495821d</testCaseGuid>
+</TestCaseEntity>

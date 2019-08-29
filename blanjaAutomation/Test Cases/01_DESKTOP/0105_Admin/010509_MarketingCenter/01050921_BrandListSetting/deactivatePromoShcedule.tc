@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn deactive
+click btn confirmasi ok 
+click ok</description>
+   <name>deactivatePromoShcedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3e8c63c-b503-466a-840e-ee779d78e7bf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>ChooseJasaPengiriman_BCACCPromoKupon_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae9738ab-f07f-4ddb-b141-7b54f803e1b9</testCaseGuid>
+</TestCaseEntity>

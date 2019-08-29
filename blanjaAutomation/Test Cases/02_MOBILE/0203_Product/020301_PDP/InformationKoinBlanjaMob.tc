@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mouse over koin blanja
+kemudian akan muncul informasi koin blanja
+sistem akan memverifikasi informasi tsb</description>
+   <name>InformationKoinBlanjaMob</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db761f72-16eb-4d8f-9dd1-9c7920d2225f</testCaseGuid>
+</TestCaseEntity>

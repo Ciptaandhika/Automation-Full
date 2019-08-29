@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+4. Input Campaign Name
+5. Pilih Campaign Time
+6. Pilih Points Expiration Time
+7. Tick Use Redeem Time
+8. Pilih Use Redeem Time
+9. Input threshold
+10. Tick Applies Multiply
+11. Use Criteria = No
+12. Input prize :
+- Input Title
+- Upload Image
+- Input exchange Koin
+- Select Bind to Coupon
+- Pilih start time &amp; end time redeem
+
+1. Pastikan default prize's start redeem time = start time use redeem time
+2. Pastikan default prize's end redeem time = end time use redeem time</description>
+   <name>Verify StartEnd Date Prize Same Point Exp Time</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da9f91a2-01ef-4c39-9679-0722e86a0bce</testCaseGuid>
+</TestCaseEntity>

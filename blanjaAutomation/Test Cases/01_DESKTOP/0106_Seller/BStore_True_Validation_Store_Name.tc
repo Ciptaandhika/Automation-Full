@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'My Store' button in top right page
+2. User choose store type 'Business Store'
+3. Fill field 'Store Name' 
+
+Rule: 
+~ Mandatory
+~ Chars length should be within 2-30 chars. No char can be typed once the length reach 30 chars.
+~ Can't use store name listed in admin menu &quot;Shop Black List&quot;. Not case sensitive.
+If seller inputs &quot;samsung&quot; while the name listed in &quot;Shop Black List&quot; is &quot;Samsung&quot;, then still &quot;samsung&quot; can't be used.
+~ Can't use store name that has been used by others</description>
+   <name>BStore_True_Validation_Store_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bfad20b-20dd-4ec3-9c1d-626882a096e9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click ROOT.
+click Mom, Baby, Kids.
+click Diapers.
+choose product.
+click submit.</description>
+   <name>MoveProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3f6ce52-d857-4fe6-9159-d1d076863e9f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. Create Coupons Only Blanja Custom Code
+3. Verify Coupon</description>
+   <name>Coupons Custom Code 20K (All Platform) Cashback For Koin Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>056a2b2e-ebd4-4ff3-8a07-b33e30caddfa</testCaseGuid>
+</TestCaseEntity>

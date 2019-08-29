@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata &quot;success'
+Verify informasi virtual account number BCA VA is appeared
+Verify informasi expired date is appeared
+Verify informasi steps how to pay use BCA VA is appeared
+Verify tulisan BCA tampil
+Verify tulisan 'Mohon transfer dalam jangka waktu' tampil</description>
+   <name>ThankYouPage_BCAVirtualAccount_VerifyPaymentInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79c63c72-d7d5-423d-825f-0219d86f4b7c</testCaseGuid>
+</TestCaseEntity>

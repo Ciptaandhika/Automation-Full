@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill Judul Promosi.
+Set Batas Waktu Promo.
+Set Batas Pemesanan.
+Choose Isi Promo.
+Set Area.
+Click Tambah.</description>
+   <name>SellerCreateStoreCoupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58d3e659-fc4f-408d-9d43-7d86b912da17</testCaseGuid>
+</TestCaseEntity>

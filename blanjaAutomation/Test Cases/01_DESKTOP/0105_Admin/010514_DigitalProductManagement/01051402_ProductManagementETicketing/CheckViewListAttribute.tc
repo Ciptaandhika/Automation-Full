@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check view list attribute</description>
+   <name>CheckViewListAttribute</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d29f5614-ed27-4934-a37c-ba94ebdae9b8</testCaseGuid>
+</TestCaseEntity>

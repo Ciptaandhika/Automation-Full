@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Get URL Succes Thank You Page
+2. Verify ada kata &quot;success'</description>
+   <name>ThankYouPage_BCAVirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74f44f42-0af3-4955-8623-239276b21dce</testCaseGuid>
+</TestCaseEntity>

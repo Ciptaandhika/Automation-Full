@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition : 
+
+User sudah pernah memilih type store
+
+navigate to member login URL
+isi username buyer
+isi password buyer
+klik submit
+
+
+
+- Login sebagai member test01</description>
+   <name>LoginBuyer01_CloseButtonX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e66fb76-5d6d-40e8-8604-a8831868d65c</testCaseGuid>
+</TestCaseEntity>

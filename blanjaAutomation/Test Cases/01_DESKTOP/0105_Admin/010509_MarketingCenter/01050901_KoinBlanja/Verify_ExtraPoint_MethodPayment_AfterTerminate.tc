@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik view
+- verify status active
+- verify extra koin pada halaman view
+- klik edit
+- verify extra koin pada halaman edit</description>
+   <name>Verify_ExtraPoint_MethodPayment_AfterTerminate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6c1b527-c932-410a-83ec-13b84db7cca7</testCaseGuid>
+</TestCaseEntity>

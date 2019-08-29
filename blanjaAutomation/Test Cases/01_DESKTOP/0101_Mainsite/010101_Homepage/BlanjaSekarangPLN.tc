@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input no meter and click button blanja sekarang</description>
+   <name>BlanjaSekarangPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74cf165b-0dc6-4c63-aed2-10e21c72ea24</testCaseGuid>
+</TestCaseEntity>

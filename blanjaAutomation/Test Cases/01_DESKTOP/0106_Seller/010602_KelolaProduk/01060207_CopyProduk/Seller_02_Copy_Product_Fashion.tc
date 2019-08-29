@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Seller select copy product
+2. Click lanjutkan
+3. Verify Popup berhasil copy
+4. Close Popup</description>
+   <name>Seller_02_Copy_Product_Fashion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bb4fc21-c0b4-42a5-8637-80d2504b4879</testCaseGuid>
+</TestCaseEntity>

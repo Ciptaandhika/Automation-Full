@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Masuk URL kelola Jasa pengiriman
+2. Checkbox Reguler First Service
+3. Btn Toogle First Jasa
+4. Checkbox Reguler Jne Service
+5. Checkbox Yes Jne Service
+6. Btn Toogle JNE Jasa
+7. Checkbox Pos Kilat Service
+8. Checkbox Pos Exp Next day Service
+9. Checkbox Pos Exp Same day Service
+10. Btn Toogle Pos Jasa
+11. Checkbox Reguler Tiki Service
+12. Checkbox Overnight Riki Service
+13. Btn toggle Tiki
+14. Btn Simpan Kelola Jasa</description>
+   <name>ConfirmKelolaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90b7ffce-4c6a-4a43-87b9-191e2c9d7793</testCaseGuid>
+</TestCaseEntity>

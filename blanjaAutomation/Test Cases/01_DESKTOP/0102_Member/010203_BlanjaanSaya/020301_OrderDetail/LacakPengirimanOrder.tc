@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search order number.
+click Cari Blanjaan Saya.
+see RincianBlanjaan.
+</description>
+   <name>LacakPengirimanOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53bc8d95-1e60-4359-a1df-ef62f2538c92</testCaseGuid>
+</TestCaseEntity>

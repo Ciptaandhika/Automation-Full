@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Ninja Xpress is exist</description>
+   <name>VerifyNinjaXpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7afe074c-8aa5-4843-967d-74d7c32f344e</testCaseGuid>
+</TestCaseEntity>

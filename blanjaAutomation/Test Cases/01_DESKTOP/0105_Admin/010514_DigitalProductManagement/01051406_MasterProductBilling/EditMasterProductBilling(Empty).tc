@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit master product billing, emptying information field</description>
+   <name>EditMasterProductBilling(Empty)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ce734f9-9752-46dd-b5c7-6b488de7e9a3</testCaseGuid>
+</TestCaseEntity>

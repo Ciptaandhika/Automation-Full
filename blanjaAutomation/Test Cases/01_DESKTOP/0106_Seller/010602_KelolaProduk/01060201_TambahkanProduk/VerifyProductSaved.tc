@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi produk telah berhasil ditambahkan</description>
+   <name>VerifyProductSaved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33146768-a2c4-4a7e-9a7e-e0995fb05357</testCaseGuid>
+</TestCaseEntity>

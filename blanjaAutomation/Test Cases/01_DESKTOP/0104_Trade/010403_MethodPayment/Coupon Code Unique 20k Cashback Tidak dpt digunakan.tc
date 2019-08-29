@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input code cupon costum</description>
+   <name>Coupon Code Unique 20k Cashback Tidak dpt digunakan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>175c727e-da2f-41bd-bdae-3e6f8572b65a</testCaseGuid>
+</TestCaseEntity>

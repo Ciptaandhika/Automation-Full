@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- member navigate ke salah satu URL PDP
+- klik hubungi penjual
+- kirim pesan
+- verifikasi button send (Hal ini dikarenakan alert pesan sukses tidak muncul dari sistem. sehingga verifikasi diganti ke objek lain)</description>
+   <name>Member_Send_Message_From_PDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52c11358-18a9-4839-b2d3-e6771b021f5c</testCaseGuid>
+</TestCaseEntity>

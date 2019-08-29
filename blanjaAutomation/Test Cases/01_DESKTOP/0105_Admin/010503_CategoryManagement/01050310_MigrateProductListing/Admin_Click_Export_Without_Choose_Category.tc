@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin input tanggal hari ini
+- Admin input end time 1 bulan setelah hari ini
+- klik export
+- verify button export tersebut di click</description>
+   <name>Admin_Click_Export_Without_Choose_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bd8d9fa-3a5e-4f91-aaba-6c4b04460204</testCaseGuid>
+</TestCaseEntity>

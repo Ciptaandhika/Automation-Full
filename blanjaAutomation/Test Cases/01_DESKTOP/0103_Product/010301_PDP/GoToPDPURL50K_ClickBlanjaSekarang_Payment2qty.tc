@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL PDP
+Clear Text Box QTY
+set Text Box yang sudah di atur di global variable
+click button blanja sekarang</description>
+   <name>GoToPDPURL50K_ClickBlanjaSekarang_Payment2qty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>112fa1b9-82e7-4cdc-aeef-e7f6f186373c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify hide edit bcode</description>
+   <name>VerifyEditBcode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4d79e59-e95f-4ffb-8c5b-374f8e2c35c3</testCaseGuid>
+</TestCaseEntity>

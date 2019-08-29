@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check &quot;check box&quot;
+click btn delete
+click btn ok</description>
+   <name>selectPromoSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>740b2fe1-8c7d-487a-a3e3-9a20fb351d70</testCaseGuid>
+</TestCaseEntity>

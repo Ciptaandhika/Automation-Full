@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer pay transaction using dompet blanja
+- input nominal
+- input password dompet blanja</description>
+   <name>PayWithDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebcd6a75-d1f7-4dda-b85c-3107b026ec0a</testCaseGuid>
+</TestCaseEntity>

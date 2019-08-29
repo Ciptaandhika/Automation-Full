@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_BTNKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4da1377-b503-4c9d-9d62-9a61f0a6d751</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover and click 'Blog Resmi'
+Verify URL
+Hover and click 'Perjanjian Pengguna'
+Verify URL
+Hover and click 'Kebijakan Privasi'
+Verify URL
+Hover and click 'Syarat &amp; Ketentuan'
+Verify URL
+Hover and click 'FAQ (Bantuan)'
+Verify URL</description>
+   <name>FooterThirdLineInfoBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3ced3dc-ddf5-4941-81e3-16dcf8fce74e</testCaseGuid>
+</TestCaseEntity>

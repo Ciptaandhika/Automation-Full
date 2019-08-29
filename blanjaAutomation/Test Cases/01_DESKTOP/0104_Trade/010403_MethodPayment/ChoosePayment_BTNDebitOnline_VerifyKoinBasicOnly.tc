@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get order number
+klik RB BTN Debit Online
+Get Label BTN Debit Online
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BTNDebitOnline_VerifyKoinBasicOnly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f81baf4f-7436-412e-8144-9f8e7bf6544d</testCaseGuid>
+</TestCaseEntity>

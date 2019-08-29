@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click &quot;Sold Product&quot;
+2. Click Edit
+3. Make sure it can be edited.</description>
+   <name>Seller_02_Edit_Import_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b118f305-e149-426f-b1a2-3bb56cbbaee9</testCaseGuid>
+</TestCaseEntity>

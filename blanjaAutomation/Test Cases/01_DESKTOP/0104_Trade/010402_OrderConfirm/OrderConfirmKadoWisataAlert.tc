@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check alert ketika attribute tidak diisi</description>
+   <name>OrderConfirmKadoWisataAlert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a11732a-f38d-4383-9804-3ae885152db4</testCaseGuid>
+</TestCaseEntity>

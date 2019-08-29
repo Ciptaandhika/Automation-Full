@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set LTD promo at a product of the store</description>
+   <name>SetLTDStrore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>941f3f00-5aa6-4eca-8c18-147737a24232</testCaseGuid>
+</TestCaseEntity>

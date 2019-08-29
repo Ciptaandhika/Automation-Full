@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On admin select order management
+Select order periode and click Search button then click Export</description>
+   <name>AdminSearchProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a7f78e-98e8-42ed-a610-943f578d5e5a</testCaseGuid>
+</TestCaseEntity>

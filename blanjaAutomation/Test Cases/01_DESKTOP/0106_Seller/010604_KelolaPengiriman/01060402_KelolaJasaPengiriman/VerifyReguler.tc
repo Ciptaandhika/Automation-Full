@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on off Ninja.</description>
+   <name>VerifyReguler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecbda175-a2ed-4097-94ca-f22b4facd378</testCaseGuid>
+</TestCaseEntity>

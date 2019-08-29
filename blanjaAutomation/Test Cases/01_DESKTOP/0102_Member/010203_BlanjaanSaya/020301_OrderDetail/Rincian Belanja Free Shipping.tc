@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Rincian Belanja
+Verify Free Shipping</description>
+   <name>Rincian Belanja Free Shipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fab85185-2a9a-4d0f-84de-dbe823926559</testCaseGuid>
+</TestCaseEntity>

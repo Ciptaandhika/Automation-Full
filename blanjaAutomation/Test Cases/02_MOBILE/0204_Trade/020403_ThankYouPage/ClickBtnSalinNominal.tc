@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn salinNominal</description>
+   <name>ClickBtnSalinNominal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e637fe26-b983-40f0-9352-23f40abea7b7</testCaseGuid>
+</TestCaseEntity>

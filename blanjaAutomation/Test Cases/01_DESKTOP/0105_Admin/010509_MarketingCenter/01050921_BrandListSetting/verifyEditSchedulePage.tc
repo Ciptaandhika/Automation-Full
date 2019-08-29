@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url
+verify equal</description>
+   <name>verifyEditSchedulePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efc318a5-fbc1-4297-a420-474de8a0a641</testCaseGuid>
+</TestCaseEntity>

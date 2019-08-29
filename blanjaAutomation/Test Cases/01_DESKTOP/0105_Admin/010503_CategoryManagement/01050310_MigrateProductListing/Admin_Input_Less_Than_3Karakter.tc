@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik  Main Root di current category
+- klik kategori computer dan laptop
+- klik kategori Laptop
+- klik kategori laptop gaming
+- input 2 karakter (misalnya ab)
+- verify label warning</description>
+   <name>Admin_Input_Less_Than_3Karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d598c1dc-7290-47f0-8697-6ad2dd5cfe8f</testCaseGuid>
+</TestCaseEntity>

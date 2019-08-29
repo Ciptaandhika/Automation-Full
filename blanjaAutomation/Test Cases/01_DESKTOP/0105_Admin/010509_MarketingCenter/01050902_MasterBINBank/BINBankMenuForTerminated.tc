@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik master binbak
+klik terminate
+klik oke terminate
+verify eror information</description>
+   <name>BINBankMenuForTerminated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1aebb3e-2930-44fc-841d-ca78124b7feb</testCaseGuid>
+</TestCaseEntity>

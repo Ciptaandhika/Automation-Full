@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Breadcrumb is using Bahasa</description>
+   <name>verifyBreadcrumblinkBahasa(category3)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>305cae6e-3d92-4e3b-a4cd-d4895a269139</testCaseGuid>
+</TestCaseEntity>

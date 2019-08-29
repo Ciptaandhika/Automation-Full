@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in as Buyer</description>
+   <name>LoginBuyerforPaymentNavigate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>622fc65f-61bb-4130-b903-643da4dcb692</testCaseGuid>
+</TestCaseEntity>

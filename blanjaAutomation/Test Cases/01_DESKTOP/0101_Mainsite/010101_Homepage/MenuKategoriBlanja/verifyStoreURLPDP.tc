@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Store URL on the chat dialogue is redirected to correct URL</description>
+   <name>verifyStoreURLPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b34c5c48-ee09-4555-b730-996a1ee7e56f</testCaseGuid>
+</TestCaseEntity>

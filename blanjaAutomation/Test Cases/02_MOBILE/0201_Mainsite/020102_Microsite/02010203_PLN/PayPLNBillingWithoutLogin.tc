@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pay billing pln without login, make sure user directed to login page when click button pay billing without login</description>
+   <name>PayPLNBillingWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b13b5c-b7c2-4ce2-97f6-d49729f9c401</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik seo text
+edit
+klik save</description>
+   <name>goToSeoText_Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6a28ab8-93f2-4009-99e2-522706d7f1f6</testCaseGuid>
+</TestCaseEntity>

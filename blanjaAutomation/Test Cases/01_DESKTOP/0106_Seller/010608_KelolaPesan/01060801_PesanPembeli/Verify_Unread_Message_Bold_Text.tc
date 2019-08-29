@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik tab unread message
+- verifikasi pesan yang belum terbaca mempunyai tag bold</description>
+   <name>Verify_Unread_Message_Bold_Text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>838fd8c7-86ab-45ea-89b5-dfc01aa02665</testCaseGuid>
+</TestCaseEntity>

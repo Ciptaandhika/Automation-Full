@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access m.blanja.com
+2. Go to kotak masuk page</description>
+   <name>BuyerGoToKotakMasukPageMobile - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4b862c5-7d29-4316-aa5b-069d93c9c309</testCaseGuid>
+</TestCaseEntity>

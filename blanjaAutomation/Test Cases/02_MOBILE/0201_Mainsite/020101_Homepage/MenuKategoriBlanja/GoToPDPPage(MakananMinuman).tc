@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PCP page
+   - Makanan &amp; Minuman</description>
+   <name>GoToPDPPage(MakananMinuman)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6071ad6-dd31-478c-b15f-b2bccf84bb6f</testCaseGuid>
+</TestCaseEntity>

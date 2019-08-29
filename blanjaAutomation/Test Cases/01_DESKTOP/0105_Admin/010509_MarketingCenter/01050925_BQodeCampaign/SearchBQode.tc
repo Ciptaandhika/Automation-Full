@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input promotion name
+klik search</description>
+   <name>SearchBQode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e177d146-8e56-4550-bacf-7d1913b9c7e7</testCaseGuid>
+</TestCaseEntity>

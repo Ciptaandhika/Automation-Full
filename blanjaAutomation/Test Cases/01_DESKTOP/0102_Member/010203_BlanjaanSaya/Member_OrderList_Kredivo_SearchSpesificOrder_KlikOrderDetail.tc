@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik close button TCash
+isi order Number (diisi dengan order number yang sudah ada)
+get URL order detail
+click Search
+switch window to order detail</description>
+   <name>Member_OrderList_Kredivo_SearchSpesificOrder_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c71acbaf-bf79-4bbb-8bc7-43183d943c3a</testCaseGuid>
+</TestCaseEntity>

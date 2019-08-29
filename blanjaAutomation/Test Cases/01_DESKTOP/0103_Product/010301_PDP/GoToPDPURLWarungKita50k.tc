@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url PDP 5k Warungkami
+Klik tombol Close Gojek, jika ada
+Clear text qty
+Input qty (1 pcs)
+Klik tombol Blanja Sekarang</description>
+   <name>GoToPDPURLWarungKita50k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5a8013e-eb9c-49cc-943d-c7dc45dd0925</testCaseGuid>
+</TestCaseEntity>

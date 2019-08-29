@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Category URL is correct
+2. Category URL is not concatenated with ID
+
+https://www.bljstaging.com/katalog/c/fas/kaos-pria</description>
+   <name>verifyURLCategory4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1790790f-6be3-4713-a898-7a15daabfc0d</testCaseGuid>
+</TestCaseEntity>

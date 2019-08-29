@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page
+2. tap checkbox on Virtual Account field, input total order and input VA password
+3. click on 'Confirm' button'
+
+4.1 after buyer input VA password then check total payment, it should be deducted
+5.1 if buyer input correct VA password, system will display success payment page
+5.2 if buyer input wrong VA password, system will display error message pop-up
+</description>
+   <name>ChoosePaymentDompetBlanja10KMandiriDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3cfe8f4-5134-4095-9f58-62ea8680ee58</testCaseGuid>
+</TestCaseEntity>

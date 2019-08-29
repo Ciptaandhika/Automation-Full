@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+4. Input Campaign Name
+5. Pilih Campaign time
+6. Pilih Points Expiration Time
+7. Tick Use Redeem Time
+8. Pilih start date &amp; end date redeem time
+9. Input threshold
+10. Tick Applies Multiply
+11. Pilih Use Criteria = No
+12. Set Extra Koin untuk product id
+13. Admin input multiple product id. Contoh : P001, P002
+14. Input Prize
+15. Klik Save
+
+1. Campaign berhasil di generate dengan extra koin untuk beberapa produk sekaligus
+2. Kolom value untuk Product IDs, menampilkan P001,P002
+3. Pastikan ketika admin input multiple product id, setiap product id dipisahkan oleh koma (,)</description>
+   <name>Create Campaign Set 2 Product ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1c34605-bd2b-4941-81e1-bf6de2dcaedc</testCaseGuid>
+</TestCaseEntity>

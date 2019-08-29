@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klick menu &quot;tentang blanja&quot;</description>
+   <name>tentangBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc92be71-45ff-4a87-b652-11b9c03ad01f</testCaseGuid>
+</TestCaseEntity>

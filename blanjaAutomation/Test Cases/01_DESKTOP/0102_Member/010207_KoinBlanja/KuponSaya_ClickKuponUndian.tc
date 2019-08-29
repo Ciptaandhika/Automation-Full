@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik button Kupon Undian pada tab Kupon Saya</description>
+   <name>KuponSaya_ClickKuponUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>952807a6-a18c-4fc0-a402-0c0a9b1b8c31</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify jika max cover melebihi harga pengiriman normal, maka biaya pengiriman menjadi 0</description>
+   <name>Verify_PDP_MaxCover_MoreThan_FreeShippingNormal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>308a3c00-1afa-4024-80a1-d85d9cf830f0</testCaseGuid>
+</TestCaseEntity>

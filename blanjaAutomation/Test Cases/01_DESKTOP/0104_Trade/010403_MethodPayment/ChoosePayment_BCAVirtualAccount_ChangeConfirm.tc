@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BCA Virtual Account
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BCAVirtualAccount_ChangeConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e84ceb0-d58a-428f-aea8-2d55475677c8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Order detail was showed by admin in Billing Transaction menu
+- Admin can see transaction detail on selected product</description>
+   <name>verifyViewOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fed47c51-ffce-4d3f-b939-0c57d80616b2</testCaseGuid>
+</TestCaseEntity>

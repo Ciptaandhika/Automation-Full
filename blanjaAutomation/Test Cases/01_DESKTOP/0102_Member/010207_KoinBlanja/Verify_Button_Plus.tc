@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User login as buyer di halaman desktop
+ 2. Dari header profile/ Sidebar Akun Saya klik Koin Blanja
+ 3. Desktop menampilkan halaman Koin Blanja
+ 4. Klik tab Hadian Undian 
+ 5. Buyer memilih prize 5 di tab Hadiah Undian dan klik tombol + di tukar koin
+ 6. Buyer memilih prize 6 di tab Hadiah Undian dan input qty di tukar koin</description>
+   <name>Verify_Button_Plus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d6ba712-7dbd-45ae-9037-9706fa4e9cb5</testCaseGuid>
+</TestCaseEntity>

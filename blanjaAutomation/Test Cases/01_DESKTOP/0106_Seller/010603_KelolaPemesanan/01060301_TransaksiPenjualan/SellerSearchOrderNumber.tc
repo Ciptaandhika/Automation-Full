@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Transaksi Penjualan.
+Fill Order Number.
+Click button Cari.</description>
+   <name>SellerSearchOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1623c21c-1375-49ac-b6f7-8aae424ea1b9</testCaseGuid>
+</TestCaseEntity>

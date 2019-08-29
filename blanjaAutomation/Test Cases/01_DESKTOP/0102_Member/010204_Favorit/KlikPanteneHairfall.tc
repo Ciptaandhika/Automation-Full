@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik produk favorit Pantene</description>
+   <name>KlikPanteneHairfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97f46f0a-6d88-4ae9-81dc-805a553adc76</testCaseGuid>
+</TestCaseEntity>

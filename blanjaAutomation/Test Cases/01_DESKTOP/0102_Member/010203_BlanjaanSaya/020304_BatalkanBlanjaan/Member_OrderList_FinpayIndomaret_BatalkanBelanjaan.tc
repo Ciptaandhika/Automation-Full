@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number 
+click Search
+Get Text Verify tulisan 'Pembayaran :Finpay 021 Channel - Indomaret'
+
+click batalkan blanjaan
+select reason 
+click ok 
+verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup</description>
+   <name>Member_OrderList_FinpayIndomaret_BatalkanBelanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5c736ac-e035-4e65-98cc-1312fab01158</testCaseGuid>
+</TestCaseEntity>

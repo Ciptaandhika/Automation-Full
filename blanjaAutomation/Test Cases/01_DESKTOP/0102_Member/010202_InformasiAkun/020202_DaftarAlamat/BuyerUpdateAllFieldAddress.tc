@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click edit button
+See all field was filled or not</description>
+   <name>BuyerUpdateAllFieldAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1e02b3f-26ac-4bfc-9b67-d31ee79fab55</testCaseGuid>
+</TestCaseEntity>

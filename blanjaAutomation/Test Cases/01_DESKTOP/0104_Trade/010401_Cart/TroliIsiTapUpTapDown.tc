@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Product has been add on user shopping cart
+2. Verify Object</description>
+   <name>TroliIsiTapUpTapDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72bb2442-8b46-49bd-8193-51be4e05e5a1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik punya kode voucher
+- input kode voucher thematic yang sudah digunakan (limit penggunaan per user 1)
+- verify pop up muncul</description>
+   <name>Input_LimitCoupon_MoreThanUsed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc0cc005-405f-485a-80b0-67432a9c7169</testCaseGuid>
+</TestCaseEntity>

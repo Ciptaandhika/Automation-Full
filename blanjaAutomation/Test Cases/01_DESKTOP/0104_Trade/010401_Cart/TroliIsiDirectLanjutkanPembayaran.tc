@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Tap on shopping cart icon  
+2. system will display shopping cart page
+3. click &quot;lanjutkan pembayaran&quot;
+4. system will display order confirm page</description>
+   <name>TroliIsiDirectLanjutkanPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>686ddbc2-1c30-49d2-8682-21e13f3ae5db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Upload file
+Delay
+Click button X delete
+Upload File
+</description>
+   <name>uploadFileDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>128b7dba-723d-4d4a-bd94-a85fb4de5ff8</testCaseGuid>
+</TestCaseEntity>

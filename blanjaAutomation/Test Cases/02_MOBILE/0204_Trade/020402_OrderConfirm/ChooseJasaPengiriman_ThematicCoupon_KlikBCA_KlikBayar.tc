@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik button Kode Voucher
+- Set text Kode Voucher
+- Klik button Gunakan
+- Klik tab Bank BCA
+- Pilih BCA Virtual Account
+- Klik button Bayar
+- Get URL
+- Verify contains</description>
+   <name>ChooseJasaPengiriman_ThematicCoupon_KlikBCA_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41334244-c8fe-449c-84e8-b1e3de086d4e</testCaseGuid>
+</TestCaseEntity>

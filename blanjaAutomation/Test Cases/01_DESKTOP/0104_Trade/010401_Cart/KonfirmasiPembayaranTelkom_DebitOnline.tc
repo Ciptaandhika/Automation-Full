@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click &quot;Konfirmasi Pembayaran&quot;</description>
+   <name>KonfirmasiPembayaranTelkom_DebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6697257-81ee-4e1e-8aea-98a4c3fbf97f</testCaseGuid>
+</TestCaseEntity>

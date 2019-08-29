@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill name field
+- Verify user can insert character</description>
+   <name>CheckAttributeName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7bc4884-56c2-417e-9740-b7b4b5bc4d6d</testCaseGuid>
+</TestCaseEntity>

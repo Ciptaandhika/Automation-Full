@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search suggestion, product popular suggestion and store suggestion is showed</description>
+   <name>PilihProdukSuggestion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4415c41-5eb3-4538-ac00-7c755ea9026a</testCaseGuid>
+</TestCaseEntity>

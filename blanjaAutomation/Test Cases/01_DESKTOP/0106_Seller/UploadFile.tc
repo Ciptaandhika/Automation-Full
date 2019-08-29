@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill Nama Toko.
+Fill Alamat Toko.
+Fill Provinsi.
+Fill Kota.
+Fill Kecamatan.
+Fill Nomor Rekening.
+Fill Nama Bank.
+Fill Nama Pemilik Rekening.
+Fill Cabang.
+Fill Nama Perusahaan.
+Fill NPWP Perusahaan.</description>
+   <name>UploadFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ada497a-23fc-48f5-9686-5a5452deb96a</testCaseGuid>
+</TestCaseEntity>

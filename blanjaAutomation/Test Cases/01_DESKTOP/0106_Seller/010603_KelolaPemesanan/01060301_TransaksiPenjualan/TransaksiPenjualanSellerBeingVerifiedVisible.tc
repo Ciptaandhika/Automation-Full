@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To URL Transaksi Penjualan
+2. Isi Nomor Order
+3. Klik tombol Cari
+4. On admin order list order status should be &quot;being verified&quot;
+
+
+</description>
+   <name>TransaksiPenjualanSellerBeingVerifiedVisible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>111f040f-8117-4958-8f1a-5b52e35a471b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Previous Cond :
+- File already uploaded, then running this steps :
+1. Login as admin
+2. Select menu Finance Management > Bank Mutation</description>
+   <name>Verify_Log_AfterUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09578cc2-3b6b-42d9-9877-8b6ff5323a88</testCaseGuid>
+</TestCaseEntity>

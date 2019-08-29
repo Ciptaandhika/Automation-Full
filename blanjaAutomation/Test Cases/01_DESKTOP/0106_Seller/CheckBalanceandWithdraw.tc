@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to balance and withdraw page
+- Check detail such as merchant fee and fund paid by buyer</description>
+   <name>CheckBalanceandWithdraw</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a324f49-4f4d-4f76-a7cf-32a32eadc1ca</testCaseGuid>
+</TestCaseEntity>

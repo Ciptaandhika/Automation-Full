@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Wait for payment and item shipped succesfully (Manually)
+2. Verify Pengembalian Dana button</description>
+   <name>VerifyPengembaianDana_Delay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6fdee00-4be1-48d7-9ab6-f02e1d393a52</testCaseGuid>
+</TestCaseEntity>

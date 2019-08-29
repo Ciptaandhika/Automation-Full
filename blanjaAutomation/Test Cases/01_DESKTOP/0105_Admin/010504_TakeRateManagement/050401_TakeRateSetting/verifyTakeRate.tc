@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify take rate</description>
+   <name>verifyTakeRate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f71d2af9-30ac-4334-9f6c-7aaf30afd69c</testCaseGuid>
+</TestCaseEntity>

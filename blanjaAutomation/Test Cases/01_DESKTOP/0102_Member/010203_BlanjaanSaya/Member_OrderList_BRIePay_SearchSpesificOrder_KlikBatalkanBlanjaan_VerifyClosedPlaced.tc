@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number (order 1, set di Global Variable)
+click Search
+Get Text Verify tulisan 'Pembayaran :BRI e-Pay'
+
+Klik 'Batalkan Blanjaan'
+Select reason 
+Klik 'OK' 
+Verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup
+
+isi order Number (order 2 - yang diorder bersamaan dengan order 1, set di Global Variable)
+click Search
+Verify status blanjaan = 'Telah ditempatkan'</description>
+   <name>Member_OrderList_BRIePay_SearchSpesificOrder_KlikBatalkanBlanjaan_VerifyClosedPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a04dfe9e-2fb9-44ea-94cf-27f7376c0494</testCaseGuid>
+</TestCaseEntity>

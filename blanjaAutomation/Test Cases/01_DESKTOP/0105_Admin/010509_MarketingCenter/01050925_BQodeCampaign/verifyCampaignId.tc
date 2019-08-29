@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button view
+Get attribute
+Call stmnt logInfo</description>
+   <name>verifyCampaignId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>862791e6-dea9-4f2e-9178-585646124b54</testCaseGuid>
+</TestCaseEntity>

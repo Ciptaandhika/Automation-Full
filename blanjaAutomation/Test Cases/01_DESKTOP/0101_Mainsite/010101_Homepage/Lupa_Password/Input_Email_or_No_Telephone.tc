@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input email atau no hp
+- pada case ini yang diinputkan adalah no.hp</description>
+   <name>Input_Email_or_No_Telephone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb66b8e6-9ee1-4a1e-9aa0-6078c7c45ed5</testCaseGuid>
+</TestCaseEntity>

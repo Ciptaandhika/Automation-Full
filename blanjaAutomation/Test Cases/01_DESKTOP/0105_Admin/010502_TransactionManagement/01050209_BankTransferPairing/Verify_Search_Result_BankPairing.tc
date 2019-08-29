@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Previous condition, pairing data already available
+
+1. As admin, go to &quot;Bank Transfer Pairing&quot; menu.
+2. Admin search data by choose payment bank
+3. Click on &quot;Search&quot; button</description>
+   <name>Verify_Search_Result_BankPairing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a86fb2fa-0fdd-48da-bdfb-ecb8a2a6f2d8</testCaseGuid>
+</TestCaseEntity>

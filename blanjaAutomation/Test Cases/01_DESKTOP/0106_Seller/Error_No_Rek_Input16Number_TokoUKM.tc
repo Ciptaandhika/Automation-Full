@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih tab perusahaan
+- input no rekening 17 digit pada form nomor rekening
+- verify label no rekening lebih dari 17 digit</description>
+   <name>Error_No_Rek_Input16Number_TokoUKM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e6a720a-827d-49f0-ae09-3f8418c5de1e</testCaseGuid>
+</TestCaseEntity>

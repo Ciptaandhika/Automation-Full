@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. In header menu,  If member click “Favorit” menu, member will be redirected to “Favorit” page
+If member click “Favorit” menu, member will be redirected to “Favorit” page</description>
+   <name>VerifyFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdd3396e-bf69-407d-a481-86f8e1ccabeb</testCaseGuid>
+</TestCaseEntity>

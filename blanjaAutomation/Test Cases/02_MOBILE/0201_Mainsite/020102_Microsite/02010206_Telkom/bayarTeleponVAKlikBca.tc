@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Click button Pilih Metode Pembayaran
+Click Dompet blanja
+Delay
+Set text nominal
+Set text password
+Delay
+Click button ATM Transfer
+Delay 
+Click button Konfirmasi Pembayaran
+Delay</description>
+   <name>bayarTeleponVAKlikBca</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca5ec589-bcdd-4b69-90cc-2d0e3ecf4991</testCaseGuid>
+</TestCaseEntity>

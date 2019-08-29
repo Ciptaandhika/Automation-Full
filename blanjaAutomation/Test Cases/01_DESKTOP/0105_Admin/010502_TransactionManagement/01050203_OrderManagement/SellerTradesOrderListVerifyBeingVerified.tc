@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Order list paid order
+2. Bila terdapat popup fitur baru akan accept
+3. Verify Ship Button</description>
+   <name>SellerTradesOrderListVerifyBeingVerified</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bb229e9-6442-49b6-a4c4-a25faa067fba</testCaseGuid>
+</TestCaseEntity>

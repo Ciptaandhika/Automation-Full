@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click PDP on refund page</description>
+   <name>ClickPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>238ceed3-386d-4abe-89b2-f232ef112e0b</testCaseGuid>
+</TestCaseEntity>

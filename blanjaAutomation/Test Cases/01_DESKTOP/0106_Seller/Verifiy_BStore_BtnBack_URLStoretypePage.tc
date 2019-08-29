@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 : 
+
+- Jika member belum pernah memilih type store maka akan di direct ke   halaman tersebut
+-  verifikasi tombol kembali
+- klik tombol kembali
+
+Kondisi 2  :
+-Jika sudah pernah memilih type store verifikasi tombol kembali
+- klik tombol kembali</description>
+   <name>Verifiy_BStore_BtnBack_URLStoretypePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4f5b92d-c05c-43c8-982a-85c06bae2139</testCaseGuid>
+</TestCaseEntity>

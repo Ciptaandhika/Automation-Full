@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Last Order Number
+Choose Radio Button Debit Niaga
+Select Option Pilih Nama Promosi
+Verify label Diskon Blanja
+Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_BNICC - Bank Payment Promotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63d1c8ec-a7b8-41a2-90db-23db90670b1b</testCaseGuid>
+</TestCaseEntity>

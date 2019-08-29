@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin klik history migrate listing
+- verify URL yang dituju mengandung historyMigrate</description>
+   <name>Admin_Click_History_Migrate_Listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b14241a-c59f-451d-a250-45cef41ab525</testCaseGuid>
+</TestCaseEntity>

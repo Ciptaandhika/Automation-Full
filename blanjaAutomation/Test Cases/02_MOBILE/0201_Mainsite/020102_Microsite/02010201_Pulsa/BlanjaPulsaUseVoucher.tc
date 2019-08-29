@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer blanja pulsa
+- Go to pulsa microsite
+- Input phone number
+- Choose nominal
+- Click button blanja pulsa
+- Choose payment method</description>
+   <name>BlanjaPulsaUseVoucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>378ceb58-0008-4f3a-af73-5fcd9d13c320</testCaseGuid>
+</TestCaseEntity>

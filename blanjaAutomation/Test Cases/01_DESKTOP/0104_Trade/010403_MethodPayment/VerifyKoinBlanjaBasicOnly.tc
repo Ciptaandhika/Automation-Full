@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that system display Koin Blanja </description>
+   <name>VerifyKoinBlanjaBasicOnly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d850aeda-f03d-412f-898d-88e62deb5413</testCaseGuid>
+</TestCaseEntity>

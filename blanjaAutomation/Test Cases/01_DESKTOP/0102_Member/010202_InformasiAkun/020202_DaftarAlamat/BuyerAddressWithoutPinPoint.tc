@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+choose jasa pengiriman.</description>
+   <name>BuyerAddressWithoutPinPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c57a616a-f0ec-4f15-8b7d-29136c3a5b98</testCaseGuid>
+</TestCaseEntity>

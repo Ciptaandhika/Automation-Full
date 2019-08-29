@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi nominal refund di dompet seller</description>
+   <name>VerifyRefundDIDompetSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e737b29f-fb72-478b-b4c4-8ca27c5cc200</testCaseGuid>
+</TestCaseEntity>

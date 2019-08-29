@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Bank Payment Promotion
+2. Add Promotion
+3. Input n verify Max and Mix Transaction</description>
+   <name>Add Promotion - Max n Min Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5cfe812-e5cc-4f3a-842a-30f6aaabd339</testCaseGuid>
+</TestCaseEntity>

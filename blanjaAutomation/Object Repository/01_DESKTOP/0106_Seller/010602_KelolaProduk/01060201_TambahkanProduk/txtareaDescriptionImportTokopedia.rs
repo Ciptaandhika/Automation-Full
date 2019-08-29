@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtareaDescriptionImportTokopedia</name>
+   <tag></tag>
+   <elementGuidId>556d64cb-c02e-488b-8339-7795a139ace2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ke-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ASUS ROG GL504GM-ES029T ROG HERO 2 SERIES For MOBA gamers, With Special Design Keyboard Q W E R  Spesifikasi - Intel Coffee Lake 8th Hexa Core i7 8750H 2.2GHz up to 4.1GHz (9MB Cache), 12 Threads - 8GB RAM DDR4 2666MHz (Max. 32GB) - 128GB PCIe NVMe SSD + 1TB SSHD (5400 RPM) - VGA nVidia GeForce GTX1060 6GB DDR5 - Intel UHD Grapchis 630 - 15.6inch Non-glare IPS FHD 144Hz,3ms,72% NTSC with narrow bezel case - Windows 10 Home 64bit  FITUR : - Intelinch HM370 Express Chipsets - Wireless Data Network 802.11AC, Bluetooth 5.0 - Non DVD - 2 x speakers with smart-amplifier technology Array microphone - 4 RGB Backlit Keyboard,Aura Sync,Marked WASD keys - HD Web Camera  Ports 1x Headphone-out &amp; Audio-in Combo Jack 1x RJ45 LAN Jack for LAN insert 1x HDMI 1x mini Display Port 1x USB Type-C 3.1(Gen 2) 2x USB Type-A 3.1(Gen.1) 1x USB Type-A 3.1(Gen 2) 1x SD Card Reader  - 802.11ac 2x2 Wave 2 Wi-Fi Bluetooth 5.0 - 2.4kg included battery/html[1]/body[@class=&quot;ke-content&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/01_DESKTOP/0106_Seller/010602_KelolaProduk/01060201_TambahkanProduk/iframeImportTokopedia</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//body</value>
+   </webElementXpaths>
+</WebElementEntity>

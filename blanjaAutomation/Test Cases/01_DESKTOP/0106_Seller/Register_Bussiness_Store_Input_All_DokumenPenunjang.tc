@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+
+- Jika member belum pernah mengisi form halaman dokumen penunjang maka isi semua form di halaman tersebut
+- member click lanjutkan
+- member di direct ke halaman konfirmasi (Bussiness Store)
+- verifikasi link pada halaman konfirmasi
+
+Kondisi 2 : 
+- Jika user sudah pernah memilih type store maka akan langsung verifikasi link di halaman tersebut 
+</description>
+   <name>Register_Bussiness_Store_Input_All_DokumenPenunjang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cc4f66f-7c42-495a-a4a0-3171056fc5df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present
+Verify element present
+Verify element not clickable</description>
+   <name>VerifyKoinKurang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a775bd64-d438-4d5f-85af-4988516a1dbc</testCaseGuid>
+</TestCaseEntity>

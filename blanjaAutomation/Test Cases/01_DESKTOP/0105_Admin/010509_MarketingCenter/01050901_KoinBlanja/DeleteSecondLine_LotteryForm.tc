@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Form Lottery baris ke 2</description>
+   <name>DeleteSecondLine_LotteryForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc0ac59c-a893-4542-9acb-2e7c762da03c</testCaseGuid>
+</TestCaseEntity>

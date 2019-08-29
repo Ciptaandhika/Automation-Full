@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+Klik button 'Konfirmasi Pembayaran' untuk transaksi Direct Transfer BNI (latest transaction)
+Verify pop up 'Konfirmasi Pembayaran' tampil</description>
+   <name>Member_OrderList_BNIDT_VerifyPopUpKonfirmasiPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ba32ea4-478c-413c-a264-6d9011289abc</testCaseGuid>
+</TestCaseEntity>

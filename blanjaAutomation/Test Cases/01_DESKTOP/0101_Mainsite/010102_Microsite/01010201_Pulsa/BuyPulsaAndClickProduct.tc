@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy pulsa and click product in pembayaran page</description>
+   <name>BuyPulsaAndClickProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c4233f1-6517-4401-bf68-beae127ecb7c</testCaseGuid>
+</TestCaseEntity>

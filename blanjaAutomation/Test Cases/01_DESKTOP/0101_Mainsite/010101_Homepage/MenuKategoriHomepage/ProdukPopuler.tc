@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. scroll produk populer
+2. sistem memverifikasi list produk populer
+</description>
+   <name>ProdukPopuler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f672e02-e9d0-4f07-98ee-88ed741535e9</testCaseGuid>
+</TestCaseEntity>

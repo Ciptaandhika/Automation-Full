@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>aBantuan</name>
+   <tag></tag>
+   <elementGuidId>502e96c9-332d-4a26-8783-f235f3ce55b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;no-scroll&quot;]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;user-info&quot;]/section[1]/div[@class=&quot;mt20 pt30&quot;]/div[@class=&quot;curtain-menu-action&quot;]/ul[1]/li[@class=&quot;help relative bgColor-white&quot;]/a[@class=&quot;fColor-dgray fSize-14&quot;][count(. | //a[@href = '//m.bljstaging.com/help/index.html' and (text() = 'Bantuan' or . = 'Bantuan')]) = count(//a[@href = '//m.bljstaging.com/help/index.html' and (text() = 'Bantuan' or . = 'Bantuan')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//m.bljstaging.com/help/index.html</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fColor-dgray fSize-14</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bantuan</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;no-scroll&quot;]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;user-info&quot;]/section[1]/div[@class=&quot;mt20 pt30&quot;]/div[@class=&quot;curtain-menu-action&quot;]/ul[1]/li[@class=&quot;help relative bgColor-white&quot;]/a[@class=&quot;fColor-dgray fSize-14&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <value>(//a[contains(text(),'Bantuan')])[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[2]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[1]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <value>(//a[contains(@href, '//m.bljstaging.com/help/index.html')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[2]/div[2]/ul/li/a</value>
+   </webElementXpaths>
+</WebElementEntity>

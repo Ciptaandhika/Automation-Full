@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verifikasi link halaman toko setelah seller klik mystore di halaman homepage</description>
+   <name>Verify_MyStore_Seller_Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff26e97d-8f7d-45ec-b867-a320454bc70f</testCaseGuid>
+</TestCaseEntity>

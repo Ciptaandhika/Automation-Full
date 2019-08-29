@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify shipping fee ninja xpress</description>
+   <name>Verify_Shipping_Fee_NinjaXpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8e9b7ac-747d-447c-93c0-48267a60dfb8</testCaseGuid>
+</TestCaseEntity>

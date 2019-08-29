@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Indomaret
+Get Label Indomaret
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_FinpayModernChannel_Indomaret_Kupon(Tanpa Konfirmasi Pembayaran)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b28c133d-110e-4578-8515-f7237e196df3</testCaseGuid>
+</TestCaseEntity>

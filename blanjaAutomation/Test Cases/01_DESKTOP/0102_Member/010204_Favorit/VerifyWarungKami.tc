@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify object element</description>
+   <name>VerifyWarungKami</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8aa6d7d3-d441-4d59-bef6-86b909b4f343</testCaseGuid>
+</TestCaseEntity>

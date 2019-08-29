@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify button kirim ulang kode verifikasi</description>
+   <name>Verify_ButtonVerification_AfterCreateAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2af54338-3a20-4f58-8dbe-825f41adcb93</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. go to blanja website
+2. tap on shopping cart icon
+3. system will display shopping cart page
+4. click on &quot;lanjutkan pembayaran&quot; button</description>
+   <name>EBVAddSearchStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec230116-c4e5-443e-a06d-7cbc0745f1df</testCaseGuid>
+</TestCaseEntity>

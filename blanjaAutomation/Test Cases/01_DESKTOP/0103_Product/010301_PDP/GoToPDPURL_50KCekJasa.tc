@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL Produk
+2. If Button Gosend, Close Button Gosend
+3. Else go to Step 4
+4. Click Drop Down Jasa Pengiriman PDP
+5. Verify Drop Down jasa pengiriman PDP</description>
+   <name>GoToPDPURL_50KCekJasa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8074c8a-b92b-4b25-86e6-eee8b58dbe5b</testCaseGuid>
+</TestCaseEntity>

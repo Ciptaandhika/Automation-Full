@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Copy Sebuah Produk + Hover info tool
+btn X halaman Seller
+Menu Produk Dijual
+Pilih Produk yang ingin Dicopy
+Scroll ke Detail Pengiriman Copy
+select Cb box Kurir Standar
+Mouse over pada i Kurir Standar</description>
+   <name>CopyProdukInfoTool</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>612cd7b9-dcce-4152-97a3-b8a514078f8c</testCaseGuid>
+</TestCaseEntity>

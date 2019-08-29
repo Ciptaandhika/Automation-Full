@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get url
+Verify equal</description>
+   <name>verifyBqodePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6f1c7bf-aed1-403a-9665-eca52af6c8df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai buyer
+ 2. Dari Halaman Akun saya tap Koin Blanja
+ 3. Dari halaman Koin Blanja, tap Lihat Lainnya pada section Hadiah Langsung
+ 4. Halaman mweb menampilkan halaman Hadiah Langsung</description>
+   <name>Verify_Empty_Detail_HadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2aad0206-a9b5-44f5-8c9e-06eeec0b51a3</testCaseGuid>
+</TestCaseEntity>

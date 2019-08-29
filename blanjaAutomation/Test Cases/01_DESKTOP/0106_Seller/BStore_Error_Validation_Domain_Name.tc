@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi semua kondisi error pada input domain name , maka akan muncul label error warning
+(Business Store)</description>
+   <name>BStore_Error_Validation_Domain_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f04769a5-cf9e-481a-b682-8958c440082d</testCaseGuid>
+</TestCaseEntity>

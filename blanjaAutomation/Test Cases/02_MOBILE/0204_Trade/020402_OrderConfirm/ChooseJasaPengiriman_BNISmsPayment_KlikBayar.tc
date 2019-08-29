@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BNI
+- Pilih SMS Payment
+- Verify element present: +62
+- Set text nomor handphone
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_BNISmsPayment_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb8e197e-6e51-4520-b2df-90691d90e0e9</testCaseGuid>
+</TestCaseEntity>

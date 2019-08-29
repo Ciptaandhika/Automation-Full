@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL
+Verify equal</description>
+   <name>verifyLinkPromoName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e596926-5e62-43cf-9a5c-58b12554b682</testCaseGuid>
+</TestCaseEntity>

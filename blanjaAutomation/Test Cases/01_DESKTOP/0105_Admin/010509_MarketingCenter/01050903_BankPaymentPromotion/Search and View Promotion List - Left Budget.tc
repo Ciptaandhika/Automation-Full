@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.  Input text box and drop down in Promotion
+2.  Click button search
+3.  View n verify Promotion List
+
+note :
+Dibuat terlebih dahulu promotion nya
+&quot;WARDAHMURAH&quot; menyesuaikan globalvariable</description>
+   <name>Search and View Promotion List - Left Budget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ae82f5f-03eb-4087-933f-1389b0114fb2</testCaseGuid>
+</TestCaseEntity>

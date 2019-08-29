@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate no meter PLN token</description>
+   <name>ValidateNoMeter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6890733b-e884-48e9-b59e-5bebf62e80b7</testCaseGuid>
+</TestCaseEntity>

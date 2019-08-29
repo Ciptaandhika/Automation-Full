@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PDP</description>
+   <name>NavigateToPDPMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4571c73-57e6-4ea1-a77b-06fa3382537a</testCaseGuid>
+</TestCaseEntity>

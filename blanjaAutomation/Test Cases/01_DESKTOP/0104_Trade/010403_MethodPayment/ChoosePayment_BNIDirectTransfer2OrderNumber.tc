@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Transfer Bank di kotak Bank BNI
+Get Label Transfer Bank
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BNIDirectTransfer2OrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34ce44aa-518d-4e21-8b52-64f500553469</testCaseGuid>
+</TestCaseEntity>

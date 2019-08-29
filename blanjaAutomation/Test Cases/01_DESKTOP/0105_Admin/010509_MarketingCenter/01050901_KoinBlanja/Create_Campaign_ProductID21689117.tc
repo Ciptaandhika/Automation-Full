@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- create campaign product ID 21689117
+- set extra koin 3
+- create lottery prize</description>
+   <name>Create_Campaign_ProductID21689117</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4822228e-03eb-4c59-b9c2-50b57300ac73</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID for PLN
+- Check the combo box of the searched SKUID
+- Check place to close combo box
+- Click submit button</description>
+   <name>PlaceToClosePLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff8c7a67-9058-4da2-bfed-4b95c67fd2ac</testCaseGuid>
+</TestCaseEntity>

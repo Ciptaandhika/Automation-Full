@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BintangProduk</name>
+   <tag></tag>
+   <elementGuidId>c73a8e1e-3bd1-40eb-8f3c-f960543e4213</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;scoreForm&quot;]/div/ul[2]/li[2]/div[1]/div/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;scoreForm&quot;]/div/ul[2]/li[2]/div[1]/div/ul/li[5]</value>
+   </webElementProperties>
+</WebElementEntity>

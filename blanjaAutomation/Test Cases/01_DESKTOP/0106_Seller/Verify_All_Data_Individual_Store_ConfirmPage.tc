@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'My Store' button in top right page
+2. User choose store type 'Individual Store'
+3. Fill all fields store info
+4. Click 'Next' button to confirm page
+
+Display all fields that filled by user</description>
+   <name>Verify_All_Data_Individual_Store_ConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02cb0995-bc77-40ab-996b-38db60807dfa</testCaseGuid>
+</TestCaseEntity>

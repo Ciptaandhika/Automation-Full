@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify label subtotal pembayaran</description>
+   <name>VerifySubtotalPaymentPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d15e8803-d843-4966-8cbd-4d303f7f1fc6</testCaseGuid>
+</TestCaseEntity>

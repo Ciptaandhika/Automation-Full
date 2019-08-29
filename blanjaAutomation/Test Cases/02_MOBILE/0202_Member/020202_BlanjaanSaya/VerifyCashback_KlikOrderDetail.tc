@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya
+- Klik link order number</description>
+   <name>VerifyCashback_KlikOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>271d731c-a187-4ec9-89c4-94a270a61b61</testCaseGuid>
+</TestCaseEntity>

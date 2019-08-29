@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate PDP produk 10k
+- set qty 12
+- klik blanja sekarang</description>
+   <name>Navigate_To_PDP10k_WarungKamiQTY10_BlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd2b1e4-1517-4fb1-8adf-2597b8fd5d0a</testCaseGuid>
+</TestCaseEntity>

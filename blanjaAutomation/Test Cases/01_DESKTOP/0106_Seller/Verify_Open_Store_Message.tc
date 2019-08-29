@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi pesan '' Selamat anda berhasil membuka toko'' saat  berhasil mendaftar Individual Store</description>
+   <name>Verify_Open_Store_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f50e13b7-4b65-4750-a89a-a4ec14d43edc</testCaseGuid>
+</TestCaseEntity>

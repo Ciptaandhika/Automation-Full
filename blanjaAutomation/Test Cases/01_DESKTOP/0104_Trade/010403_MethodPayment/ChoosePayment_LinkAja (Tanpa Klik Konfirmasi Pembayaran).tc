@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Get text No Pesanan
+- Klik check box LinkAja
+- Verify pop up 'LinkAja bisa digabungkan dengan...'
+- Get text subtotal
+- Set text subtotal ke text box LinkAja
+- Klik button Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_LinkAja (Tanpa Klik Konfirmasi Pembayaran)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0702867b-39db-41cf-93a3-1eb226afbad1</testCaseGuid>
+</TestCaseEntity>

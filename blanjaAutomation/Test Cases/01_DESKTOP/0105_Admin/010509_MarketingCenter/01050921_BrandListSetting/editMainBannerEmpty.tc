@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Banner Setting
+Click button Edit
+Set Banner Title
+Set Banner Link
+Set Banner Title Mobile
+Set Banner Link Mobile
+Click button Update
+Verify text present
+Verify text present</description>
+   <name>editMainBannerEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8b3e96a-e08e-4e75-a16d-9081412e4a1d</testCaseGuid>
+</TestCaseEntity>

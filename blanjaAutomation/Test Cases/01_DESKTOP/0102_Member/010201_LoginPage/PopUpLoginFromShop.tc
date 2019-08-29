@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set username
+Set password
+Klik masuk</description>
+   <name>PopUpLoginFromShop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8f9e0ac-b005-4760-969b-39c61a098aeb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Input no meter
+- Choose denom
+- Click button blanja pln</description>
+   <name>BlanjaPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ab846f-823c-4c72-b225-555396476b6d</testCaseGuid>
+</TestCaseEntity>

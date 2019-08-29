@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate URL https://www.blanja.com/tiket/pesawat/garuda-indonesia
+2. Pilih Sekali Jalan
+3. Memunculkan kota dari dan kota tujuan
+4. Memunculkan tanggal pergi
+5. Memunculkan dewasa, anak, bayi
+6. Memunculkan kelas kabin
+	Value : Economy, Business, FirstClass
+7. Memunculkan kode promo</description>
+   <name>AddLandingPage(One)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba9bfcf6-ebc9-4469-ada3-a9f93070c27a</testCaseGuid>
+</TestCaseEntity>

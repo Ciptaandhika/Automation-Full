@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kode kupon
+- verify kupon cashback tidak dapat digunakan</description>
+   <name>Verify_Kupon_CashBack_TidakDapatDigunakan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d0420a9-a554-403c-bd47-ddb572a4c158</testCaseGuid>
+</TestCaseEntity>

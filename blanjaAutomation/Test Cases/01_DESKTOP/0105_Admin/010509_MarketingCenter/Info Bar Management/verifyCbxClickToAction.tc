@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify cbxClickToAction is checked</description>
+   <name>verifyCbxClickToAction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f556a531-1bc0-49f0-ae63-0cb134ecfcf9</testCaseGuid>
+</TestCaseEntity>

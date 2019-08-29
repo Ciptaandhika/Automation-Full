@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Transaksi Penjualan Menu.</description>
+   <name>VerifyDetailLogistikPopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97d01bda-d432-41e3-9230-9cfaf4cfdccf</testCaseGuid>
+</TestCaseEntity>

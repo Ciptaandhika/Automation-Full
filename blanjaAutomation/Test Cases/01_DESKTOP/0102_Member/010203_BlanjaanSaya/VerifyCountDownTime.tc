@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See count down time.</description>
+   <name>VerifyCountDownTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3a3284f-e705-473e-bc6d-8a5a480c07cb</testCaseGuid>
+</TestCaseEntity>

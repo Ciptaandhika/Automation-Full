@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The page redirected to 
+https://m.bljstaging.com/katalog/c/fas/fashion</description>
+   <name>verifyNewURLMobile1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7c934fd-5408-428b-8426-2d4bdb3f92ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to URL blanjaan saya</description>
+   <name>Navigate_To_BlanjaanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c8624f4-27d1-49cc-83a9-3581c71a18c9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To Order List</description>
+   <name>AdminOrderListPaidStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a502d25f-17af-4788-b958-bca242f7d52f</testCaseGuid>
+</TestCaseEntity>

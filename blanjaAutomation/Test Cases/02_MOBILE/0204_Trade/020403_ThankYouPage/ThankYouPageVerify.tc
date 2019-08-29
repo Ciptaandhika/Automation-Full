@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. get url
+2. verify that url contains 'sucess'
+3. navigate to url order member list
+4. get no order number from first list of order and store it to global variable
+</description>
+   <name>ThankYouPageVerify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2f7e735-707a-44b8-a32d-173b0d9dfa0b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BCA Virtual Account
+Get Label BCA Virutal Account
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_MandiriECash</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93aeb5d4-8420-41ac-b247-48e72ccb9af2</testCaseGuid>
+</TestCaseEntity>

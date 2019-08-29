@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User click board Profile/Username
+Default active tab is Ubah Profile
+pastikan user akan langsung ke URL Ubah Profile</description>
+   <name>VerifyUbahProfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c792fb94-866c-4e07-ab5e-20de27b320f1</testCaseGuid>
+</TestCaseEntity>

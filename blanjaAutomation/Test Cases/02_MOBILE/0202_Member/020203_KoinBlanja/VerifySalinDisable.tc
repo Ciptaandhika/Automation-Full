@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify salin disable</description>
+   <name>VerifySalinDisable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb24a4b4-eaf7-4291-810b-745a8886deed</testCaseGuid>
+</TestCaseEntity>

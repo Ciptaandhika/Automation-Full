@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Get URL Succes Thank You Page
+2. Verify ada kata &quot;success'</description>
+   <name>ThankYouPage_LinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf689b2c-4eaf-41f4-a02f-acf64fcb0555</testCaseGuid>
+</TestCaseEntity>

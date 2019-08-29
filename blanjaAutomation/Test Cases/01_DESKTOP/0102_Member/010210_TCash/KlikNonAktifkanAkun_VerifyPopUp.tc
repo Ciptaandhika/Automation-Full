@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Klik button TCash, jika ada
+- Klik button Non Aktifkan Akun
+- Verify pop up konfirmasi tampil</description>
+   <name>KlikNonAktifkanAkun_VerifyPopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ba7e207-b290-4ba2-80b7-619a492a1969</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman type store click button individual open store</description>
+   <name>Click_Open_Individual_Store</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d61c9110-664e-4163-a086-425c53b8c81e</testCaseGuid>
+</TestCaseEntity>

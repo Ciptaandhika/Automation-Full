@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select one or more product(s)
+2. Go to PDP page 
+3. Click on &quot;Tambahkan ke Troli&quot;</description>
+   <name>MasukProdukKranjang10K</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d93c804-0a0b-4353-8f64-6fba7952fb0b</testCaseGuid>
+</TestCaseEntity>

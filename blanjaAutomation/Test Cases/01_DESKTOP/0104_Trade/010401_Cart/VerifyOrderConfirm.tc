@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify ongkos kirim order confirm</description>
+   <name>VerifyOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0617c7e-0a04-4e5e-8597-116705fe01cb</testCaseGuid>
+</TestCaseEntity>

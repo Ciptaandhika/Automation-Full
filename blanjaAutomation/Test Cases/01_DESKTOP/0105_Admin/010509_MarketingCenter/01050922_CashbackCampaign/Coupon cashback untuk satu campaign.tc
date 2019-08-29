@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin dan masuk ke menu Marketing Center, pilih menu Cashback Campaign
+2. Pilih Program Name
+3. Input campaign name
+4. Select blanja coupon, klik &quot;Select Coupon&quot;
+5. Admin menampilkan pop-up &quot;Select Coupon&quot;
+6. Select coupon, klik Select 
+- admin select coupon cashback A, sebagai contoh
+7. Admin klik &quot;select coupon&quot; untuk kedua kalinya
+8. Admin menampilkan pop-up &quot;Select Coupon&quot;
+9. Admin memilih coupon yang lain, memilih coupon cashback B, sebagai contoh
+10. Admin klik Select dari halaman Select Coupon</description>
+   <name>Coupon cashback untuk satu campaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5443881f-c71d-40fd-8afa-be0e96dc9b83</testCaseGuid>
+</TestCaseEntity>

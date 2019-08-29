@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get object 
+check text box &quot;new_btn&quot;
+click &quot;btnUnbind&quot;
+click &quot;btnConfrmUnbind&quot;</description>
+   <name>unbindKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c861870b-fffd-415b-a5ac-2411808630e0</testCaseGuid>
+</TestCaseEntity>

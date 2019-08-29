@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click 'Brand' on main menu
+system will display brand list page</description>
+   <name>BrandStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9047e9d9-b7ce-409b-b8a0-fd1d35142099</testCaseGuid>
+</TestCaseEntity>

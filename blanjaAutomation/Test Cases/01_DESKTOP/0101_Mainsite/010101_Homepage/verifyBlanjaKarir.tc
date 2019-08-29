@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Career Page information in the first page</description>
+   <name>verifyBlanjaKarir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61c79f6e-8548-4d15-97f1-1bab74868bde</testCaseGuid>
+</TestCaseEntity>

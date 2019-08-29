@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik button cari
+sistem akan memverifikasi produk yg dicari</description>
+   <name>VerifyClickSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e54d02fa-0b14-4da0-8215-6694da7ce8e9</testCaseGuid>
+</TestCaseEntity>

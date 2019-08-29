@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Verify url Order Confirm
+2. Set Qty Product  = 2
+3. if display allert klik OK
+4. Verify Total Order</description>
+   <name>OrderConfirmPageAddQtyDirectChoosePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27c12b7e-87cf-457f-b294-4e368cca7ab5</testCaseGuid>
+</TestCaseEntity>

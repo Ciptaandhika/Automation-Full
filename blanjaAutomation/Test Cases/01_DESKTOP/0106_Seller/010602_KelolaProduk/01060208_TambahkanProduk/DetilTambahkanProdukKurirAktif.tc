@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Detil Tambahkan Produk 
+
+1. Scroll to Label Detail Pengiriman
+2. delay
+3. radio Button Biaya Pengiriman 1
+4. radio Button biaya Pengiriman 2
+5. scroll to element kurir standar
+6. List kurir standar
+7. verifiy element kurir standar</description>
+   <name>DetilTambahkanProdukKurirAktif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b7736c0-19e4-4d98-89da-55e817527c19</testCaseGuid>
+</TestCaseEntity>

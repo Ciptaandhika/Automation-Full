@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check confirm order kado wisata</description>
+   <name>OrderConfirmKadoWisata</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdc5b7c5-f8a7-4aa6-9798-8e3207e4aa60</testCaseGuid>
+</TestCaseEntity>

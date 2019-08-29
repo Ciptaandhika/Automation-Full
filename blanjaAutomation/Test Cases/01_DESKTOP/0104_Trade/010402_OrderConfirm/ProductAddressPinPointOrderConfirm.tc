@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Tambah Alamat.
+fill first name buyer.
+fill last name buyer.
+fill shipping address buyer.
+fill province's buyer.
+fill city's buyer.
+fill sub-district's buyer.
+fill code post's buyer.
+fill phone number's buyer.
+fill shipping address.
+click Jadikan Alamat Utama.
+click Alamat Lainnya.
+click Alamat.
+
+</description>
+   <name>ProductAddressPinPointOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34715700-efa5-456f-b940-5f83cca1bf41</testCaseGuid>
+</TestCaseEntity>

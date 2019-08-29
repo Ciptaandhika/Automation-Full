@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Konfirmasi Penerimaan barang yang sudah dikirim penjual</description>
+   <name>KonfirmasiPenerimaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b65dd247-ece5-44af-b3da-b1293b241203</testCaseGuid>
+</TestCaseEntity>

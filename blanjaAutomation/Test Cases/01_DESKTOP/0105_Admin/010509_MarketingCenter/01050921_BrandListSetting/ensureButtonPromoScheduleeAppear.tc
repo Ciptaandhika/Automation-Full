@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu Brand List Setting
+click btn Promo Section</description>
+   <name>ensureButtonPromoScheduleeAppear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f978a6c-e831-45a2-9ab8-a3b720443226</testCaseGuid>
+</TestCaseEntity>

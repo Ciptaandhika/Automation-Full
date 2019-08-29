@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Klik Pesan pada Pesan Pembeli
+- Click the PDP on it</description>
+   <name>Seller_Click_PDP_Pesan_Pembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3583fea0-4a42-41d2-82d0-7911b7b6aca2</testCaseGuid>
+</TestCaseEntity>

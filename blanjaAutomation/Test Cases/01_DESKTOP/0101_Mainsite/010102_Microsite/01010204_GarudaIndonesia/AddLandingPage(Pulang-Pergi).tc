@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih Pulang Pergi
+2. Memunculkan kota dari dan kota tujuan
+3. Memunculkan tanggal pergi dan tanggal pulang
+4. Memunculkan dewasa, anak, bayi
+5. Memunculkan kelas kabin
+	Value : Economy, Business, FirstClass
+6. Memunculkan kode promo</description>
+   <name>AddLandingPage(Pulang-Pergi)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f62aade5-d9d6-4bcc-9e1b-c209cc3ff12c</testCaseGuid>
+</TestCaseEntity>

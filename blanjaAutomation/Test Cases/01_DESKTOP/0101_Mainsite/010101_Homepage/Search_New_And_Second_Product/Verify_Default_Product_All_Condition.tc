@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access blanja.com
+2. Go to search result page
+3. Check the default filter of product condition</description>
+   <name>Verify_Default_Product_All_Condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8e55df7-cb8c-4a64-9362-77e7b84bc11a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login as admin
+2. Click Bank Transfer Pairing
+3. untuk melihat data yang akan disesuaikan di templeate .xls
+2. Select menu Finance Management > Bank Mutation
+3. Click &quot;Choose File&quot;
+4. Admin select *xls file that contain Bank (ex. Mandiri) mutation data
+5. Click &quot;Upload&quot;
+
+
+Ensure balance calculate correctly (sum from all record that showing on mutation list)</description>
+   <name>Upload_File_And_GetAllTotalBalance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7b0e7be-7cf7-4b7c-9f3a-7f57c8365a7a</testCaseGuid>
+</TestCaseEntity>

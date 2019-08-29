@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify All element in Lottery form</description>
+   <name>GoToKoinBlanja_CreateCampaign_VerifyAllLotteryElement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7abf55c0-6b09-4d1b-bdcd-5feb9b411123</testCaseGuid>
+</TestCaseEntity>

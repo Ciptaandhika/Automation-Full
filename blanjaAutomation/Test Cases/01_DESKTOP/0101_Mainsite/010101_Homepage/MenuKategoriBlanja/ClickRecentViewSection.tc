@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to recent view section</description>
+   <name>ClickRecentViewSection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed601d9a-447c-40ac-9a63-80084461da71</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kondisi error saat pilih bank di halaman dokumen penunjang (Business Store)</description>
+   <name>BStore_Error_Validation_Bank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2a7269d-795b-4797-805c-5d4697393cd0</testCaseGuid>
+</TestCaseEntity>

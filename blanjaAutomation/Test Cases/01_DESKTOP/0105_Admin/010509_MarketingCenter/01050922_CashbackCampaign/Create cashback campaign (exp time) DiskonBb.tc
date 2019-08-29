@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin dan masuk ke menu Marketing Center, pilih menu Cashback Campaign
+2. Pilih Program Name
+3. Input campaign name
+4. Select blanja coupon, klik &quot;Select Coupon&quot;
+5. Admin menampilkan pop-up &quot;Select Coupon&quot;
+6. Select coupon, klik Select 
+7. Input Cashback will expired = 3
+8. Klik tombol Submit</description>
+   <name>Create cashback campaign (exp time) DiskonBb</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a6aa13d-f393-4a40-bd8e-2e8a727bcbef</testCaseGuid>
+</TestCaseEntity>

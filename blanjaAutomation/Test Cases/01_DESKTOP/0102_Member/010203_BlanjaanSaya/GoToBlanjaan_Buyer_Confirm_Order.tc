@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search last order number
+klik konfirmasi</description>
+   <name>GoToBlanjaan_Buyer_Confirm_Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09898c38-cccb-41f3-b78c-51a2b25d4b14</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin, admin generate Kupon A dengan tipe cashback
+2. Admin generate cashback campaign dengan menggunakan kupon A
+3. Admin deactive Kupon A
+
+deactive sesudah coupon exp time = bisa deactived
+Cashback campaign nya harus dibuat terlebiih dahulu, jika sudah exp sudah tidak bisa di playback, karena id view nya sudah tidak bisa</description>
+   <name>Deactivate coupon blanja (Jika sudah selesai exp time)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b884e39-9f77-4215-8510-305c7e9ea84f</testCaseGuid>
+</TestCaseEntity>

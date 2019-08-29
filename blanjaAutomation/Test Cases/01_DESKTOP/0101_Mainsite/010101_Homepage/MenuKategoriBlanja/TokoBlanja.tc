@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik menu toko blanja
+sistem akan menampilkan yang sesuai</description>
+   <name>TokoBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35a2bab4-873d-4dd9-a147-c3b01b9a79b3</testCaseGuid>
+</TestCaseEntity>

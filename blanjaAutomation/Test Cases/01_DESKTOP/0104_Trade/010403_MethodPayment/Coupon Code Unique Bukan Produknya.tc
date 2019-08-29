@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input code cupon costum</description>
+   <name>Coupon Code Unique Bukan Produknya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eccd5469-5360-4a3c-8f9a-dc9ff7359561</testCaseGuid>
+</TestCaseEntity>

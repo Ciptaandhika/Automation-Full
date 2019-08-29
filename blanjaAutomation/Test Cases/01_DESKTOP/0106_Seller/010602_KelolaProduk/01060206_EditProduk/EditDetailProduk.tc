@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Detail Produk</description>
+   <name>EditDetailProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9e9c784-9ae6-4901-9a0e-269f118fd899</testCaseGuid>
+</TestCaseEntity>

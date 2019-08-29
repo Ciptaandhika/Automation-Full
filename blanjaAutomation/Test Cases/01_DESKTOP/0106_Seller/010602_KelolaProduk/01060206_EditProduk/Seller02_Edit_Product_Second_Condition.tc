@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click &quot;Sold Product&quot;
+2. Click Edit
+3. Select Second Condition
+3. Make sure it can be edited.</description>
+   <name>Seller02_Edit_Product_Second_Condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61bb2634-ce18-4fee-8143-6997369db393</testCaseGuid>
+</TestCaseEntity>

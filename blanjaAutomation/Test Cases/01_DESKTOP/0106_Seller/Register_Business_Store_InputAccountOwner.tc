@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>isi form nama pemilik rekening</description>
+   <name>Register_Business_Store_InputAccountOwner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>879662e7-56d9-472e-92b8-dd9d75e1a560</testCaseGuid>
+</TestCaseEntity>

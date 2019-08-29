@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik coin blanja
+- klik new campaign
+- add / tambahkan baris
+- verify baris yang telah ditambahkan</description>
+   <name>Edit_Prizes - RedeemTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f127db07-6167-49a4-b05e-212a88f7e76f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. As admin, go to &quot;Bank Transfer Pairing&quot; menu.
+2. Click on &quot;view pairing id&quot; on pairing data rows</description>
+   <name>Verify_Detail_Pairing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bb031a6-b29f-45eb-aebc-7d50d0806118</testCaseGuid>
+</TestCaseEntity>

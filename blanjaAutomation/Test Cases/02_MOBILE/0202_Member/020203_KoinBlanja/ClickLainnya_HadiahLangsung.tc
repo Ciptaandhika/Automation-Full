@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click label Lainnya ada bagian Hadiah Langsung</description>
+   <name>ClickLainnya_HadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f88b0269-37cb-4b27-a50b-a56e87555342</testCaseGuid>
+</TestCaseEntity>

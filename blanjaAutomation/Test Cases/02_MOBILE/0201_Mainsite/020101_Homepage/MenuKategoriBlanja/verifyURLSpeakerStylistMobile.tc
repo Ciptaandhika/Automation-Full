@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL is
+https://www.bljstaging.com/katalog/p/mnb/boneka-interaksi-15747504</description>
+   <name>verifyURLSpeakerStylistMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8f45ec6-a6d4-456b-8365-9eb6e982a83b</testCaseGuid>
+</TestCaseEntity>

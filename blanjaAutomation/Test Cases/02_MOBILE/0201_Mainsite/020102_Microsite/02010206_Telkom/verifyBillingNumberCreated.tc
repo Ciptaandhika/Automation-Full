@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Element Present</description>
+   <name>verifyBillingNumberCreated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa953687-0300-4d54-9a82-aaa4a5809098</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Verifikasi Nomor Telepon
+</description>
+   <name>VerifyPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>412da30a-4bcf-4d4e-acdc-21f5e679f1d4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check pesan pembatalan otomatis tanpa extend time
+- Search nama produk
+- Click rincian blanjaan
+- Check pesan muncul</description>
+   <name>CheckPesanPembatalanOtomatis(NoExtendTime)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5921d413-f835-49aa-9dc7-148c6632e33f</testCaseGuid>
+</TestCaseEntity>

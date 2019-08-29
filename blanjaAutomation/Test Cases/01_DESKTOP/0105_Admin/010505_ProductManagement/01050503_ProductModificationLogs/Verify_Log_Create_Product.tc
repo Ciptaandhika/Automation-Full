@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search product name
+click search
+verify difference</description>
+   <name>Verify_Log_Create_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1db2bf11-ecfc-4195-9a14-4007c68814c7</testCaseGuid>
+</TestCaseEntity>

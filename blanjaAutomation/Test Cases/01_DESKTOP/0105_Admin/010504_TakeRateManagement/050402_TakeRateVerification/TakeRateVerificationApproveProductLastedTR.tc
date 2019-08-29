@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Take Rate Verification Page
+Approve Lasted Take Rate</description>
+   <name>TakeRateVerificationApproveProductLastedTR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b882a6d8-42e2-4e0f-ac66-f2eafc6e0bc8</testCaseGuid>
+</TestCaseEntity>

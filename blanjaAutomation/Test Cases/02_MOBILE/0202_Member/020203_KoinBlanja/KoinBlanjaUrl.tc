@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate koin blanja.</description>
+   <name>KoinBlanjaUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecdeb13a-4348-485f-add4-27215e327b93</testCaseGuid>
+   <variable>
+      <defaultValue>'https://m.bljstaging.com/shopnwinpoints'</defaultValue>
+      <description></description>
+      <id>be83057a-9ab8-4c48-ba2d-63673bfda067</id>
+      <masked>false</masked>
+      <name>urlMWebKoinBlanja</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding new normal product</description>
+   <name>AddNewNormalProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b49e3fbc-54ee-440d-8ea4-a43eb8927ff7</testCaseGuid>
+</TestCaseEntity>

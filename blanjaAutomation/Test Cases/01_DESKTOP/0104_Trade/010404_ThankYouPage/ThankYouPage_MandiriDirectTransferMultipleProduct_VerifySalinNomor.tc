@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata &quot;success'
+
+verify tulisan &quot;salin nomor&quot; tampil
+klik &quot;salin nomor&quot;
+verify tulisan &quot;nomor tersalin&quot;</description>
+   <name>ThankYouPage_MandiriDirectTransferMultipleProduct_VerifySalinNomor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c080910c-a668-4635-bcbd-80f53d70bc15</testCaseGuid>
+</TestCaseEntity>

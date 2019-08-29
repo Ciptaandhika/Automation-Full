@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih kurir standar
+- pilih method payment link aja</description>
+   <name>ChooseJasaPengiriman_And_LinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90d0dc69-3963-469a-a47f-f55767ee136f</testCaseGuid>
+</TestCaseEntity>

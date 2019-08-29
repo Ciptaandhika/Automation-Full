@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text promo name
+Upload file promo
+Set text banner title
+Upload file promo mobile
+Set text banner title mobile
+Set text product list
+Spload file inner promo 
+Upload file inner promo mobile
+Click button add promo
+Accept alert
+Get URL
+Verify Equal
+Verify text present</description>
+   <name>addPromoSection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f000b5b-5ca2-4352-8b44-595edb294624</testCaseGuid>
+</TestCaseEntity>

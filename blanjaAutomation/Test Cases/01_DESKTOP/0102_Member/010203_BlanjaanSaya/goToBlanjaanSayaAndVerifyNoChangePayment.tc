@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to blanjaan saya 
+cari nomor order paling atas 
+verify tidak ada button ubah metode pembayaran
+</description>
+   <name>goToBlanjaanSayaAndVerifyNoChangePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb1ce1f7-77fc-48da-820e-867dffce01bd</testCaseGuid>
+</TestCaseEntity>

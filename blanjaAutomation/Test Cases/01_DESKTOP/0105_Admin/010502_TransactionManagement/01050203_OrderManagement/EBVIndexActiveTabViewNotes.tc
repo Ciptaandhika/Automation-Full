@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih menu System Management >> Exclude Being Verified Management
+Klik tab Active</description>
+   <name>EBVIndexActiveTabViewNotes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b03786a6-5400-4439-b145-2e87da77e8fe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify export order management</description>
+   <name>VerifyExportOM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dddf48c7-7290-4a66-ad08-fde1e956d1b6</testCaseGuid>
+</TestCaseEntity>

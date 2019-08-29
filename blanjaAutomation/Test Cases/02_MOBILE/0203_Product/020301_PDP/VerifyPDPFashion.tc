@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi produk yang ada di menu fashion</description>
+   <name>VerifyPDPFashion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9aec983a-99c7-4182-86ac-eeab88e6e430</testCaseGuid>
+</TestCaseEntity>

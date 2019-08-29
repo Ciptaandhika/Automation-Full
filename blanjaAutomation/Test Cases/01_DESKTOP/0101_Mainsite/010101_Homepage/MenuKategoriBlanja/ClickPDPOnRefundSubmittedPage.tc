@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click the PDP on the submitted page</description>
+   <name>ClickPDPOnRefundSubmittedPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3de5d462-999b-4a19-9f62-883134af6e97</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada menu migrate product listing klik submit tanpa pilih kategori
+- verify alert warning yang muncul</description>
+   <name>Admin_Click_Submit_Migrate_Without_Choose_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>338c39b7-14c4-4f5d-b2b5-0e9f08b00316</testCaseGuid>
+</TestCaseEntity>

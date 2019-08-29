@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Note :
+
+Kode verifikasi OTP didapatkan dari database sehingga tidak bisa masuk proses automate
+
+
+- klik checkbox 
+- klik lanjutkan
+- pada pop up OTP input misalnya 1 
+- verify button verifikasi enable ketika 6 digit OTP di inputkan
+- verify label warning input kode salah
+</description>
+   <name>BStore_Input_OTP_And_Verify_Failed_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26422303-25e7-44c3-8531-af9981e51f81</testCaseGuid>
+</TestCaseEntity>

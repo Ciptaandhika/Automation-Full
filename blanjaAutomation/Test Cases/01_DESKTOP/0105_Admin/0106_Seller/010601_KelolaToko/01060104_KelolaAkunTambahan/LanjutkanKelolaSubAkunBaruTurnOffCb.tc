@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>KelolaSubAkunBaru child-Authorities-TurnoffCheckBox
+Checkbox jasa pengiriman akun to off
+Btn Lanjutkan Buat akun</description>
+   <name>LanjutkanKelolaSubAkunBaruTurnOffCb</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bda1de45-fbec-4d5d-82dc-f2b5991a55d3</testCaseGuid>
+</TestCaseEntity>

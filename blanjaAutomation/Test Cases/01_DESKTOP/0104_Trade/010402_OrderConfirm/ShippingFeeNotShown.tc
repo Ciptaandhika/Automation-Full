@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Jasa Pengiriman Gosend.
+See shipping fee.</description>
+   <name>ShippingFeeNotShown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aacc4e6d-ff5b-44c7-85cb-860793691e96</testCaseGuid>
+</TestCaseEntity>

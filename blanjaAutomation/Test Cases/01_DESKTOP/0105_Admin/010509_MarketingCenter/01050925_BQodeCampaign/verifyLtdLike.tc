@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present
+Verify text present</description>
+   <name>verifyLtdLike</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bbb403b-da23-40ea-8374-d26e9f7d11da</testCaseGuid>
+</TestCaseEntity>

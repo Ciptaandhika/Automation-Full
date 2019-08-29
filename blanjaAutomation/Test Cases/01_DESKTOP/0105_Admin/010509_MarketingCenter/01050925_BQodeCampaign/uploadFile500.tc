@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Upload file
+Verify text present</description>
+   <name>uploadFile500</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7df6fc30-2eff-4bc9-874e-62242d227293</testCaseGuid>
+</TestCaseEntity>

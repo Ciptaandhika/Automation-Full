@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih kategori camilan
+- klik salah satu auto suggest dari kategori tersebut
+- verify terdapat kondisi barang new dan second</description>
+   <name>Verify_New_And_Second_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d063a7a-4afb-464a-b0ad-0c0df8ae3f8c</testCaseGuid>
+</TestCaseEntity>

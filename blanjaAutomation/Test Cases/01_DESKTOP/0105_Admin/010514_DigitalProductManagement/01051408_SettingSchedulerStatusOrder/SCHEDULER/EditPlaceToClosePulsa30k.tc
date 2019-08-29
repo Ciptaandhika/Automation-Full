@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID
+- Click radio button action
+- Click radio button paid to close 1 hour
+- Submit changes
+- Search the edited product
+- Verify status</description>
+   <name>EditPlaceToClosePulsa30k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaff93e4-6e1b-4910-927f-fcdcbc284639</testCaseGuid>
+</TestCaseEntity>

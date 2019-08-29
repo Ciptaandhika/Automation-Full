@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check pernyataan 'Saya Menyetujui Data yang Saya Masukkan Benar'
+Get sub total awal
+Get Total Amount awal
+Klik Lanjutkan Pembayaran
+input code coupon
+get sub total setelah input code coupon
+get total amoun setelah input code coupon
+verify harga tidak berubah setelah input code coupon</description>
+   <name>transactionOrderConfirmVerifyFirstTotal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68d54bb0-0738-4f6b-87cf-5b5fb5e76df4</testCaseGuid>
+</TestCaseEntity>

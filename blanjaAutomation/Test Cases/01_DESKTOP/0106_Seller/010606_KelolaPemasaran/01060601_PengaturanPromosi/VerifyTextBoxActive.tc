@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click checkbox potongan diskon
+verify textbox active</description>
+   <name>VerifyTextBoxActive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82820bb8-81e4-4a71-8ff1-de8dea822f8d</testCaseGuid>
+</TestCaseEntity>

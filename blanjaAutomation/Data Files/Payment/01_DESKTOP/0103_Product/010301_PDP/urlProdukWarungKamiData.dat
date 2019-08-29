@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Reguler_5k
+Reguler_10k
+Reguler_50k
+Reguler_PreOrder_5k
+Reguler_PreOrder_10k
+Reguler_PreOrder_50k
+Digital_5k
+Digital_10k
+Digital_50k</description>
+   <name>urlProdukWarungKamiData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>7072b44e-25ba-4c6f-a863-845dd7c0d511</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>https%3A%2F%2Fwww.bljstaging.com%2Fkatalog%2Fp%2Fhnb%2Fpantene-black-shine-botol-180ml-21689250 https%3A%2F%2Fwww.bljstaging.com%2Fkatalog%2Fp%2Fhnb%2Fsunsilk-hijab-refresh-21689194 https%3A%2F%2Fwww.bljstaging.com%2Fkatalog%2Fp%2Fhnb%2Fsunsilk-hijab-botol-21689117 null null null null null null</data>
+   <data>null null null null null null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>reguler5k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>reguler10k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>reguler50k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>regulerPreOrder5k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>regulerPreOrder10k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>regulerPreOrder50k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>digital5k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>digital10k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>8</columnIndex>
+      <name>digital50k</name>
+      <size>2</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. mouse over button category
+2. mouse over button fashion
+3.  mouse over fashion pria
+4. mouse ober pakaian pria</description>
+   <name>ChildKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87c9b978-2f8b-4136-aa79-4a3fe8c37ed3</testCaseGuid>
+</TestCaseEntity>

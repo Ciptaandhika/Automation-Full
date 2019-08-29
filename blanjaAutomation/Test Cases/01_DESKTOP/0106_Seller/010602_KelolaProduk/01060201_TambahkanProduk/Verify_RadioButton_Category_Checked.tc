@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Dari Product Management, buka Add Product
+- Masukkan &quot;key&quot; di field Search
+- Klik button &quot;Search&quot; -> Muncul hasil pencarian kategori yang mengandung kata &quot;Key&quot; pencarian.
+- Dari hasil pencarian kategori,  Klik Radio Button kategori.</description>
+   <name>Verify_RadioButton_Category_Checked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f5d7608-74f0-42b6-bb94-42d11e87212d</testCaseGuid>
+</TestCaseEntity>

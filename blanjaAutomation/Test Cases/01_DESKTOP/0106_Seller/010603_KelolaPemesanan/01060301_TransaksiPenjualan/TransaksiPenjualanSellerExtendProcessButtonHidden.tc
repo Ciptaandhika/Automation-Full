@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To URL Transaksi Penjualan
+2. Isi Nomor Order
+3. Klik tombol Cari
+4. Order list ship button should be hidden
+
+
+</description>
+   <name>TransaksiPenjualanSellerExtendProcessButtonHidden</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fd37b46-0206-425e-98f2-281665836602</testCaseGuid>
+</TestCaseEntity>

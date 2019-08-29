@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to refund page (submitted)</description>
+   <name>ClickRefund(Apply)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f90a981-63f6-491b-a256-b5d4297f382a</testCaseGuid>
+</TestCaseEntity>

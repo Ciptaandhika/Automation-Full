@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Direct to product</description>
+   <name>DirectToProductPLNToken20k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ee0d700-420c-4e13-9272-de6378d1eb00</testCaseGuid>
+</TestCaseEntity>

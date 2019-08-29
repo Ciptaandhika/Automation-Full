@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>fill in SchedulerForm
+clik btn Clear</description>
+   <name>clearTextPromoScheduleForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f06d2ac-01bb-46f7-9478-57710ee70915</testCaseGuid>
+</TestCaseEntity>

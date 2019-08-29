@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number (Set di Global Variable)
+click Search
+Verify status blanjaan = 'Telah ditempatkan'
+Verify tulisan 'Pembayaran :BRI e-Pay'
+
+Klik 'Ubah Metode Pembayaran'
+Tunggu page loading
+Switch to page 'Choose Payment Method'</description>
+   <name>Member_OrderList_BRIePay_SearchSpesificOrder_KlikUbahMetodeBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23cabeac-55be-41e4-a436-a52ab834c8cd</testCaseGuid>
+</TestCaseEntity>

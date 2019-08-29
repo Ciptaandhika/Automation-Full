@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Link Aja</description>
+   <name>clickLinkAjaAktifkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67e32a90-07e6-4ea1-a9ac-6f9e3ce820ba</testCaseGuid>
+</TestCaseEntity>

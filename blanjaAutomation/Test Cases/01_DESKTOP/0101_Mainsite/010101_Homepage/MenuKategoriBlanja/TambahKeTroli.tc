@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tambahkan ke Troli</description>
+   <name>TambahKeTroli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bd22539-26aa-4e5d-8e92-d4d2f60705ab</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description> Click Instant Courier Menu
+Click page 2</description>
+   <name>AdminClickNextPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b48b2609-8223-43f0-ab97-ffe67f2aa192</testCaseGuid>
+</TestCaseEntity>

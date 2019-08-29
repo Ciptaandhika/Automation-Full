@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Withdrawal summary hanya untuk transaksi yang dilakukan setelah withdrawal pertama
+2. Pastikan withdrawal summary tercatat dengan benar di tabel withdrawal detail</description>
+   <name>DompetBlanjaVerifyWithdrawalSummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86da5c24-4362-43a2-9298-e805659eba40</testCaseGuid>
+</TestCaseEntity>

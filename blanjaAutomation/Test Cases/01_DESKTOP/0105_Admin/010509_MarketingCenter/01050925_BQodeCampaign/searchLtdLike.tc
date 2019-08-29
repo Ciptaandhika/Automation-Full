@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Click Search</description>
+   <name>searchLtdLike</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae945370-3d56-49c1-9778-0c9831786004</testCaseGuid>
+</TestCaseEntity>

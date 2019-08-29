@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Tap on shopping cart icon
+2. Checklist the checkbox on left side from product name to selected product or click &quot;tandai semua&quot;
+3. Click &quot;Hapus Semua&quot;
+4. system will display pop-up for make sure to move the product &quot; Are you sure you want ... &quot;, and pop-up title is 'hapus produk' 
+5. if click &quot;OK&quot;, only product selected will be delete</description>
+   <name>TroliIsiDeleteAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0960c51-44e5-4e5c-b53b-f49337845348</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk semua produk: Kurir Standar
+- Klik tab Bank BTN
+- Pilih Debit Online
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_BTNDebitOnline_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7add00cb-9242-480d-9b7e-db2fd1baa722</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Lanjutkan Pembayaran.
+Click Lanjut.</description>
+   <name>LanjutkanPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55ff4811-59ea-40a6-9e35-7ef2b524fbc0</testCaseGuid>
+</TestCaseEntity>

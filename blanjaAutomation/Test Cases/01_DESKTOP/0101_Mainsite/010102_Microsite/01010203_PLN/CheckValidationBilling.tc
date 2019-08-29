@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check payment has been paid validation billing</description>
+   <name>CheckValidationBilling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0267ac5-c473-4598-9ae9-0ac51b33733f</testCaseGuid>
+</TestCaseEntity>

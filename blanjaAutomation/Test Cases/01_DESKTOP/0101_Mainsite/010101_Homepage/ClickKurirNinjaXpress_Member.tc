@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik Hitung Biaya Kirim
+2. Klik Pengiriman
+3. Klik Ninja Xpress</description>
+   <name>ClickKurirNinjaXpress_Member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a44e5856-202f-48f8-a1ef-87474eaa0b08</testCaseGuid>
+</TestCaseEntity>

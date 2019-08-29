@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickTabKuponSaya
+TabKuponUndian</description>
+   <name>tukarHadiahLangsungNoKupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a623942-c74c-4a2e-b53f-51012fbe3028</testCaseGuid>
+</TestCaseEntity>

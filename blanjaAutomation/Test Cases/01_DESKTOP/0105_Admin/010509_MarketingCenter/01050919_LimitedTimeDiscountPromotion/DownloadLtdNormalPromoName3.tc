@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text promotion name
+Click button Search
+Verify clickable</description>
+   <name>DownloadLtdNormalPromoName3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f75c83b2-aff6-435d-a355-770e92e57fd2</testCaseGuid>
+</TestCaseEntity>

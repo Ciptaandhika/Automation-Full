@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify btn search</description>
+   <name>verifyBtnSearchPromoSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41dcc2dc-fd10-40a4-90dc-e8c53f6c4ad8</testCaseGuid>
+</TestCaseEntity>

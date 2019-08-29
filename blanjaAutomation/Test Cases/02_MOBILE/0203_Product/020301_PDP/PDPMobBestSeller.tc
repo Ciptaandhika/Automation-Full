@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pilih produk yang ada di menu best seller</description>
+   <name>PDPMobBestSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99fb17aa-8a62-4a7c-af3c-2ae147211277</testCaseGuid>
+</TestCaseEntity>

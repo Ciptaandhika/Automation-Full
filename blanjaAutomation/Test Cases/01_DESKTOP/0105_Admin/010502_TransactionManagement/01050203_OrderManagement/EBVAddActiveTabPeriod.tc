@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih store dengan periode = no expired, kemudian klik Edit
+2. Uncheck No Expired
+3. Pilih tanggal dan jam pada End Time
+4. Klik Save</description>
+   <name>EBVAddActiveTabPeriod</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e0effd4-9fad-47cf-9f7b-1f367f458b24</testCaseGuid>
+</TestCaseEntity>

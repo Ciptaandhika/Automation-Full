@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Add Product(s)
+Input Product ID/ Store ID and click Search</description>
+   <name>LTDAddProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4b6eaaf-e737-4f86-bc6e-87c0aef8c792</testCaseGuid>
+</TestCaseEntity>

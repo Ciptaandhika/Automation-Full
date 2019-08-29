@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Product has been add on user shopping cart
+2. tap checkbox on store name
+3. will be checklist to select by store name
+4. after tap checkbox to select by store name then tap delete all, system will delete product by store name selected
+5. if tap &quot;lanjutkan pembayaran&quot; button, product that selected by store name will continue to payment</description>
+   <name>TroliIsiChecklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18ad897e-8c24-499b-a46e-0cd94755bd62</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Seller klik salah satu pesan pembeli
+- pada detail conversation seller langsung klik send tanpa menginputkan apapun
+-verify label warning yang muncul</description>
+   <name>Verify_Empty_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a170c6c-6857-4b9c-8991-bd9fc81acc17</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID
+- Click button search
+- Click radio button of the choosen SKUID
+- Click check box paid to close
+- Click submit</description>
+   <name>PaidToCloseDinamis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0965f5f-24c0-497d-9182-58f91dfc12a7</testCaseGuid>
+</TestCaseEntity>

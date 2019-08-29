@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Member click checkbox pada halaman konfirmasi
+- Member click button Lanjutkan</description>
+   <name>Click_Seller_Agreement_And_Button_Lanjutkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eee1909-dd84-4c05-b969-f692da33edf0</testCaseGuid>
+</TestCaseEntity>

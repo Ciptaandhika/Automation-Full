@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add to cart and clik 'Lanjutkan Pembayaran&quot;</description>
+   <name>LanjutkanPembayaran_Daftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7b0023d-532b-4336-a15c-a5ff9d9c0f83</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Add Product(s)
+Input Product ID/ Store ID and click Search</description>
+   <name>CreateLTDProductDigitalForPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ee84370-f4ca-43b8-87a4-62ae34bcb9d1</testCaseGuid>
+</TestCaseEntity>

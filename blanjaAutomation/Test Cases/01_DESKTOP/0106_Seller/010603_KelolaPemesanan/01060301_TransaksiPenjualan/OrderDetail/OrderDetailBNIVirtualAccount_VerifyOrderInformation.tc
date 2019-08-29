@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify informasi method payment contains 'Tipe Pembayaran :Mandiri E-Cash'
+</description>
+   <name>OrderDetailBNIVirtualAccount_VerifyOrderInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c71bddc4-9308-46c9-b2b8-29176daebc3c</testCaseGuid>
+</TestCaseEntity>

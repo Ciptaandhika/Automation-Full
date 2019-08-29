@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click hitung biaya pengiriman</description>
+   <name>ClickHitungBiayaPengiriman_PilihNinjaXpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4fdf00f-ec3c-4065-a8b3-cb02031d836e</testCaseGuid>
+</TestCaseEntity>

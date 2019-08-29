@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover and click 'Facebook'
+Hover and click 'Twitter'
+Hover and click 'Youtube'
+Hover and click 'Instagram'
+Hover and click 'LinkedIn'
+Hover and click 'Google'</description>
+   <name>FooterThirdLineTemukanBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3dbd4f8-969c-45fb-8002-5eed197d9173</testCaseGuid>
+</TestCaseEntity>

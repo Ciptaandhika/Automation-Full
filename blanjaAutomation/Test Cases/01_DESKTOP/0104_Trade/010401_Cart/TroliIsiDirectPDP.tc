@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Tap on shopping cart icon
+2. system will display shopping cart page then tap on product name
+3. system will redirect to PDP page for this product</description>
+   <name>TroliIsiDirectPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e01e5227-154e-4d81-9941-f8736ecb2218</testCaseGuid>
+</TestCaseEntity>

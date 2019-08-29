@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click &quot;btnFotografiVideo&quot;</description>
+   <name>clickMenuFotografiVideo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b9b0f64-3ede-43d2-8f34-9a85bb758d7f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;app.sandbox.midtrans.com&quot;
+Verify nominal payment dan installment info tampil</description>
+   <name>ThankYouPage_Kredivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e87f910-87b0-46e3-9dd2-030610998796</testCaseGuid>
+</TestCaseEntity>

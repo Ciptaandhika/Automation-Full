@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify ketika search menggunakan nama pengirim maka akan muncul warning pesan tidak ditemukan</description>
+   <name>Verify_Search_by_Username_Not_Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdb12e65-171f-4735-ba6c-918f673c435e</testCaseGuid>
+</TestCaseEntity>

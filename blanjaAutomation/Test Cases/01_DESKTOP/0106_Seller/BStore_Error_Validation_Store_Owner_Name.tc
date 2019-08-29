@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- validasi jika field kosong maka akan muncul label warning error ''mohon masukan nama pemilik toko''</description>
+   <name>BStore_Error_Validation_Store_Owner_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f6b194f-e0fe-4376-bc7e-8bea78088d04</testCaseGuid>
+</TestCaseEntity>

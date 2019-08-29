@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin Create Event
+- Admin klik detail Event
+- Verify match di halaman detail event antara nama event yang di buat dan nama event yang ada di detail tersebut</description>
+   <name>Admin_Verify_LandingPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ad358fd-1825-45eb-8a09-9afc3094a280</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify kondisi error untuk upload SIUP pada halaman dokumen penunjang (Business Store)</description>
+   <name>BStore_Error_Validation_UploadSIUP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5321e8a-05a2-4ecc-a565-46f5d7aea53d</testCaseGuid>
+</TestCaseEntity>

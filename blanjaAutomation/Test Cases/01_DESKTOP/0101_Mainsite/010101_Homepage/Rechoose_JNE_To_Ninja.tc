@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer Rechoose Ninja Xpress to be JNE
+2. Buyer Rechoose Ninja Xpress again</description>
+   <name>Rechoose_JNE_To_Ninja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb0e9b49-2398-4bd8-8c90-5e7480a993d3</testCaseGuid>
+</TestCaseEntity>

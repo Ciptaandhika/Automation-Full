@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify search promo schedule by status</description>
+   <name>verifySearchPromoScheduleByPeriode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4959906c-aabb-4932-846c-abf5840b50f0</testCaseGuid>
+</TestCaseEntity>

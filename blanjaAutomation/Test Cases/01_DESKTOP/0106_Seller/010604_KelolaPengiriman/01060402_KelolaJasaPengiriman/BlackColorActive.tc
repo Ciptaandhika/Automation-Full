@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on off Ninja.
+Click Simpan.</description>
+   <name>BlackColorActive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7aadb2ee-78f6-4e84-b5ee-8524f86ec8b9</testCaseGuid>
+</TestCaseEntity>

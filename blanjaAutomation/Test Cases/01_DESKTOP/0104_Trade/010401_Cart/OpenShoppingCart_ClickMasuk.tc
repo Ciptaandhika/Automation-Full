@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open shopping cart
+Display product from cart
+Checkout
+Set username
+Set Password
+Klik masuk</description>
+   <name>OpenShoppingCart_ClickMasuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2ed53c5-ac60-496f-9187-e2a9a2358d12</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik troli
+verify promo ongkos kirim 2 produk</description>
+   <name>KeranjangBlanjaanProdukFSP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c002e18-75f8-433a-b3e8-d20f4e4abd3d</testCaseGuid>
+</TestCaseEntity>

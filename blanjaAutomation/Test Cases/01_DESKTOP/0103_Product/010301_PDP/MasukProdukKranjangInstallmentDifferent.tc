@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go to installment product installment
+2. Tambahkan ke trolli
+3. Verfifikasi popup berhasil ditambahkan</description>
+   <name>MasukProdukKranjangInstallmentDifferent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e469751a-7dfa-4d82-9e03-af9ea5695684</testCaseGuid>
+</TestCaseEntity>

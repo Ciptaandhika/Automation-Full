@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Navigate to url produk
+- Close button Gojek, jika ada
+- Set text jumlah barang
+- Klik button simulasi cicilan
+- Verify element present informasi Installment Payment
+- Klik button close simulasi cicilan
+- Klik button Blanja Sekarang</description>
+   <name>GoToPDPURLProdukPreOrder_PickUp_KlikPreOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6a678b1-62d8-4ae2-a5b3-60c604ca1c49</testCaseGuid>
+</TestCaseEntity>

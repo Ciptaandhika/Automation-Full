@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GetPaymentCode</name>
+   <tag></tag>
+   <elementGuidId>3d01b1d1-9e5a-4cbe-9362-70909ca2c65f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tradesTable&quot;]/div[3]/table/thead/tr/th/p[2]/span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tradesTable&quot;]/div[3]/table/thead/tr/th/p[2]/span[4]</value>
+   </webElementProperties>
+</WebElementEntity>

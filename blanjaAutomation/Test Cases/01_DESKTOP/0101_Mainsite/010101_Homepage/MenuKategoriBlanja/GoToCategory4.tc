@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PDP page Category level 3</description>
+   <name>GoToCategory4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b25a7391-1239-498f-bca3-301304eb3038</testCaseGuid>
+</TestCaseEntity>

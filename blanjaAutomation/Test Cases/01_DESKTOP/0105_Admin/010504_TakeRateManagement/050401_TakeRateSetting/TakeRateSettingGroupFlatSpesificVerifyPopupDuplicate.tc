@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create TR settings for category group same with point 1
+
+When admin save TR setting from point 2, admin will show error message &quot;can not create duplicate TR settings)</description>
+   <name>TakeRateSettingGroupFlatSpesificVerifyPopupDuplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25bd4522-8ea9-497f-9f92-41cd556e541e</testCaseGuid>
+</TestCaseEntity>

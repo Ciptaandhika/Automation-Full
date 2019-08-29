@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Verify element present
+Verify element present
+Verify text present
+Verify text present</description>
+   <name>verifyBqodeWaiting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a16604f-ec6e-49c0-bc29-28866ed63ca9</testCaseGuid>
+</TestCaseEntity>

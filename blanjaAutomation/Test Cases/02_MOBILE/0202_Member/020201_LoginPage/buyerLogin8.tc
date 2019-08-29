@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>step in this test case 
+
+1. open browser with url login
+2. set username text
+3. set password text
+4. click button login
+</description>
+   <name>buyerLogin8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82110073-5850-4c42-88bc-6dcd69089d62</testCaseGuid>
+</TestCaseEntity>

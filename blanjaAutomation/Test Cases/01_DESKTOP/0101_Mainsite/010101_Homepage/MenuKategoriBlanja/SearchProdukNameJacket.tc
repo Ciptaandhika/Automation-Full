@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search product by input product name
+Go to PDP page 
+    - Jaket Fleece Combie Sky Blue ( 15747504 )</description>
+   <name>SearchProdukNameJacket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1394f5b3-473a-4e1b-bb27-0571a00ca202</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin-Transaksi Penjualan
+Masukkan nomor order
+Klik tombol Cari
+Verify payment methode = 'Mandiri E-Cash'
+Klik 'Detail Pesanan'</description>
+   <name>GoToTransaksiPenjualan_BNIVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f447bab-3d33-411e-b42a-3f03b6f1098c</testCaseGuid>
+</TestCaseEntity>

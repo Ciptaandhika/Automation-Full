@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on order confirm apage, tap 'add' on qty field
+2. on shopping cart, when seller set max qty of 'each buyer can order' = 2, buyer can't added qty more than 2 and will display validation pop-up then 'add' qty button still enable
+3. if  stocks are already depleted, 'add' button will be disabled</description>
+   <name>OrderConfirmPageAddQtyPreOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99f5727f-d2d8-4e53-bba5-23556fe213e5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik produk kondisi baru</description>
+   <name>ConditonProductNew</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2aa7f44-8c79-40f3-88ab-3073923a21e7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify element present: 'Kartu Kredit Cicilan'
+- Verify text tampil: 'Estimasi cicilan per bulan'
+- Verify text tampil: 'Total Pembayaran'
+- Verify text tampil: 'Tenor'</description>
+   <name>VerifyPaymentMethod_KartuKreditCicilanMDRByBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6b191bf-071d-4a16-9b5f-42ee68466003</testCaseGuid>
+</TestCaseEntity>

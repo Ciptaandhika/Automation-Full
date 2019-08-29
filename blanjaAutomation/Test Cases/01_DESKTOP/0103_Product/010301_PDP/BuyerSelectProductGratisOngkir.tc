@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+click Tambahkan Troli.
+click Troli.
+click button Lanjutkan Pembayaran.
+</description>
+   <name>BuyerSelectProductGratisOngkir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae5bb30c-474e-472e-a0e4-b7bfc167e89c</testCaseGuid>
+</TestCaseEntity>

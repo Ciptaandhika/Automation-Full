@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Kupon Pada Koin Blanja</description>
+   <name>KoinBlanjaVerifyKupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75b38837-24b8-4089-a38f-109d637c3f48</testCaseGuid>
+</TestCaseEntity>

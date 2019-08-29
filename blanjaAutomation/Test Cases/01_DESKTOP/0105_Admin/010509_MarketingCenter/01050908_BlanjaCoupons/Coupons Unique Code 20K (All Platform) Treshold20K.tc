@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Only Blanja (Unique Code)
+3. Verify Coupon</description>
+   <name>Coupons Unique Code 20K (All Platform) Treshold20K</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f362777-f884-4dd6-8501-8b81d7785aae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 : 
+
+- Jika member belum pernah memilih type store maka akan di direct ke   halaman tersebut
+-  member pilih/ klik business store
+
+Kondisi 2  :
+- Pada form registrasi business store isi alamat toko</description>
+   <name>Register_Business_Store_SetText_AlamatToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45e07122-9678-426a-8805-8f62851c168f</testCaseGuid>
+</TestCaseEntity>

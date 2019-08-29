@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Go to PDP page 
+        - Tiket, Voucher &amp; Hadiah</description>
+   <name>GoToPDPPage(TicketVH)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b5796d-67d2-437e-a9e1-3ba31be29a8e</testCaseGuid>
+</TestCaseEntity>

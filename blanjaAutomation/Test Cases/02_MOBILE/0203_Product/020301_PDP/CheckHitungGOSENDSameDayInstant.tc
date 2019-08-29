@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer click hitung pengiriman and choose gosend</description>
+   <name>CheckHitungGOSENDSameDayInstant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecdd5700-859a-499c-b6c0-9b45ec456a56</testCaseGuid>
+</TestCaseEntity>

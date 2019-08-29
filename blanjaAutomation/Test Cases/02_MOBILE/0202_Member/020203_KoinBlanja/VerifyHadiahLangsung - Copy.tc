@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.</description>
+   <name>VerifyHadiahLangsung - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47ce4870-92a5-4779-8eb1-c6f5f3fa0845</testCaseGuid>
+</TestCaseEntity>

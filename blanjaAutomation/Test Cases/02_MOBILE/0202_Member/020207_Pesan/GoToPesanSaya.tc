@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan halaman pesan saya</description>
+   <name>GoToPesanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50dcb2b7-3083-4edf-a6f9-63f76feb9bec</testCaseGuid>
+</TestCaseEntity>

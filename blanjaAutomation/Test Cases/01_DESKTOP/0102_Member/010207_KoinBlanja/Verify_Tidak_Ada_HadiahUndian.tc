@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User login as buyer di halaman desktop
+ 2. Dari header profile/ Sidebar Akun Saya klik Koin Blanja
+ 3. Desktop menampilkan halaman Koin Blanja
+ 4. Klik tab Hadian Undian</description>
+   <name>Verify_Tidak_Ada_HadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcd3ccf6-45f8-415d-84ab-4a2cad7da41c</testCaseGuid>
+</TestCaseEntity>

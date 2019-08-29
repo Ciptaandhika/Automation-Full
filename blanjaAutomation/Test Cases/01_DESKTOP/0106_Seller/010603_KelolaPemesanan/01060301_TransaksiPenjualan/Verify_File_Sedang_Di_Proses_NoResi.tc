@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Seller go to Seller Center
+2. Open Sold Transaction menu (Transaksi Penjualan)
+3. Go to &quot;Sudah Dibayar&quot; tab
+4. Click button &quot;Upload Nomor Resi&quot;
+5. Click &quot;Pilih File&quot;
+6. Choose file
+7. When confirmation pop up appear, click &quot;Lanjutkan&quot;</description>
+   <name>Verify_File_Sedang_Di_Proses_NoResi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a29f00d-7285-472a-be8b-af902812fa6c</testCaseGuid>
+</TestCaseEntity>

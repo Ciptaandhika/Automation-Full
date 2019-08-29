@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- get order number
+- pilih bca virtual account
+- klik konfirmasi pembayaran</description>
+   <name>BCAVA_OrderA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97f2ee85-6320-479a-944f-7e1bd9d8b1f5</testCaseGuid>
+</TestCaseEntity>

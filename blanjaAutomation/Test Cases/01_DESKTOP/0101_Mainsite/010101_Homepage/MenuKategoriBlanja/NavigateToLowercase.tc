@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>URL should be lowercase, if any uppercase url auto replace to be lowercase
+
+Navigate to https://www.bljstaging.com/katalog/p/mnb/PASHMINA-kerudung-pk5-175-50671</description>
+   <name>NavigateToLowercase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee57ca82-eab4-49a5-9e0e-9846796025c3</testCaseGuid>
+</TestCaseEntity>

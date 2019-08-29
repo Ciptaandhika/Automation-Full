@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik icon masuk
+2. klik masuk dengan google
+3. sistem akan mendirect ke page masuk google</description>
+   <name>LoginGoogle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7668744a-bf9e-4a8c-82b2-c1b518052790</testCaseGuid>
+</TestCaseEntity>

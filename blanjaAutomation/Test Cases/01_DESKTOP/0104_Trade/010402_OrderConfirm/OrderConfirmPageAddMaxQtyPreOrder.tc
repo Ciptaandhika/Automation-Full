@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on order confirm page, tap 'add' on qty field
+2. if added qty more than limited buyer can order, it will display validation pop-up
+3. if  stocks are already depleted, 'add' button will be disabled</description>
+   <name>OrderConfirmPageAddMaxQtyPreOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82e0da19-87f6-4ed3-8138-425fcbe1a3f8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin > bank payment promotion
+1. Click on 'Add Promotion' button
+2. Choose Payment Type = 'Credit Card'
+3. Input tenor 
+ex : 3 month
+4. then click button 'Add'
+5. Display error message 'Please input installment month or choose is 0% installment'</description>
+   <name>Error Installment Plan setting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16c7bfdb-8a11-43f1-ae2b-8be1da6d2b34</testCaseGuid>
+</TestCaseEntity>

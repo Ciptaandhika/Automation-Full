@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Coupon
+as an OP, on web admin can applied coupons to all operator
+Verify Coupon
+
+1. OP already access and login on web admin
+2. OP open Coupons page
+3. Select coupon type : Custom Code (Thematic)
+3. Type all required field 
+4. Leave applied only to operator unchecked
+4. Leave apllied only to operator unchecked
+5. Create coupon</description>
+   <name>Create Coupons Only Blanja Costum Code (All Operator)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36c79923-e603-4138-bb06-b7b45b63277e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik image icon blanja
+sistem akan menampilkan homepage</description>
+   <name>ClickIconBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d27141ca-1b38-4af2-9755-074e5f0a2ec7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To URL Order Management
+isi order Number 
+click Search 
+Get Payment Code</description>
+   <name>VerifyOrderManagement-ChangeAwbTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec16297e-0a0d-4a4d-a24f-5e458e464244</testCaseGuid>
+</TestCaseEntity>

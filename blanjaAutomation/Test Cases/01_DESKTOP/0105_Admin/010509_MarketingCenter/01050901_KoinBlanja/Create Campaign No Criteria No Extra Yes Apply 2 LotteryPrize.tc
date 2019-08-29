@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+4. Input Campaign Name
+5. Pilih Campaign time
+6. Pilih Points Expiration Time
+7. Tick Use Redeem Time
+8. Pilih start date &amp; end date redeem time
+9. Input threshold
+10. Tick Applies Multiply
+11. Input maximum get point in one order
+11. Pilih Use Criteria = No
+12. Input Prize
+13. Klik Save</description>
+<<<<<<< HEAD:blanjaAutomation/Test Cases/01_DESKTOP/0105_Admin/010509_MarketingCenter/01050901_KoinBlanja/Create Campaign No Criteria No Extra Yes Apply 2 LotteryPrize.tc
+   <name>Create Campaign No Criteria No Extra Yes Apply 2 LotteryPrize</name>
+=======
+   <name>Create Campaign Edit All StartEnd Date Four Prize3</name>
+>>>>>>> daf3f90d50fced6504d1a3877ff69fb3a53f8b7d:blanjaAutomation/Test Cases/01_DESKTOP/0105_Admin/010509_MarketingCenter/01050901_KoinBlanja/Create Campaign Edit All StartEnd Date Four Prize3.tc
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d263935-929b-4467-8531-f44cb79e30e9</testCaseGuid>
+</TestCaseEntity>

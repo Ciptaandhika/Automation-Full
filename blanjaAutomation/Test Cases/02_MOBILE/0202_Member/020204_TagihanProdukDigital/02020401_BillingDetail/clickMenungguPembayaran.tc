@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Semua
+Verify text present
+Verify element present</description>
+   <name>clickMenungguPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38509f23-4729-4c60-b9bf-acbddebf37af</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose &quot;Product Type&quot; - Telkom / Indihome</description>
+   <name>SearchProductType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3950b79-91dc-4c04-99eb-d9e6e397ead9</testCaseGuid>
+</TestCaseEntity>

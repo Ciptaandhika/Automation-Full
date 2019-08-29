@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik btn masuk
+klik btn facebook
+</description>
+   <name>LoginFacebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fe74bb3-22d4-4447-856d-f5452da32238</testCaseGuid>
+</TestCaseEntity>

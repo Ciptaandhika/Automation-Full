@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify kolom operator</description>
+   <name>verifyOperatorColom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b132f12c-692b-497d-9143-7f3b6d0d755e</testCaseGuid>
+</TestCaseEntity>

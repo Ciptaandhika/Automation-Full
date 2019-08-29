@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search seller02
+- klik search
+- klik view
+- verify NPWP
+-verify SIUP</description>
+   <name>Verify_Seller02_SIUP_And_NPWP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee65c558-d56b-431b-a4ce-50fc882aeddd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Transfer Bank di kotak Bank BNI
+Get Label Transfer Bank
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_Kredivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>554c0839-0551-4673-9bec-0812534c7425</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get to url produk out of stock</description>
+   <name>GoToPDPOutOfStock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e03b9871-9671-4b31-a311-f3909b970f93</testCaseGuid>
+</TestCaseEntity>

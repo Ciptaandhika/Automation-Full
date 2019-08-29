@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number (dari test suite precondition)
+click Search
+Get Text Verify tulisan 'Pembayaran :Kredivo'
+
+Klik 'Batalkan Blanjaan'
+Verify informasi &quot;Dengan membatalkan pesanan ini, maka pesanan dengan nomor ...&quot; tampil
+Select reason 
+Klik 'OK' 
+Verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup
+
+</description>
+   <name>Member_OrderList_Kredivo_SearchSpesificOrder_KlikBatalkanBlanjaan_VerifyMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8a10b2b-0c43-4579-8550-985fc3ed52c9</testCaseGuid>
+</TestCaseEntity>

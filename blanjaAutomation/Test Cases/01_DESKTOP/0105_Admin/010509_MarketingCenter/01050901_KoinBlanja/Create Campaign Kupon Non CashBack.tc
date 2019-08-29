@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+4. Input Campaign Name
+5. Pilih Campaign time
+6. Pilih Points Expiration Time
+7. Tick Use Redeem Time
+8. Pilih start date &amp; end date redeem time
+9. Input threshold
+10. Tick Applies Multiply
+11. Pilih Use Criteria = No
+12. Set Extra Koin untuk voucher, input coupon name (kupon non-cashback)
+13. Input Prize
+14. Klik Save</description>
+   <name>Create Campaign Kupon Non CashBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a84c3722-b4de-4a2d-96dd-526f65e644a0</testCaseGuid>
+</TestCaseEntity>

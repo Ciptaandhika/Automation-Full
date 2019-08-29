@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tambahkan ke troli
+sistem akan memverifikasi sudah berhasil di tambahkan</description>
+   <name>AddTroli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fbce4f3-e71e-4ab6-9da5-fe2cfa84fa02</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL
+Verify element present
+Verify text present
+Verify text present</description>
+   <name>verifyLtd45k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e543f0ba-86d2-4e74-8cf5-b03fac87e050</testCaseGuid>
+</TestCaseEntity>

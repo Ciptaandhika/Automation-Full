@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate To url seller Edit Hijab Botol
+Select option Biaya by Tetap</description>
+   <name>EditHijabBotolWarungKamiBiayaTetap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>294a144b-c55d-47e8-82a6-b41bfc6e0911</testCaseGuid>
+</TestCaseEntity>

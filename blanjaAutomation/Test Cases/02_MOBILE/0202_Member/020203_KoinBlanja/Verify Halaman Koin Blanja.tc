@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Halaman Koin Blanja</description>
+   <name>Verify Halaman Koin Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c41ee8ae-53d6-48a9-94e8-55766cf743bd</testCaseGuid>
+</TestCaseEntity>

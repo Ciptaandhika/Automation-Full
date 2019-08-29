@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Mandiri Debit Online
+Get Label Mandiri Debit Online
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_MandiriDebitWithDDPromoWrongPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>951f22e2-d3f1-4207-97db-532d4101100a</testCaseGuid>
+</TestCaseEntity>

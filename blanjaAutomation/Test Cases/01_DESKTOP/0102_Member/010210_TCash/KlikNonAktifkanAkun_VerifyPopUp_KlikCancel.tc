@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Klik button TCash, jika ada
+- Klik button 'Non Aktifkan Akun'
+- Verify pop up 'Apakah Anda yakin ingin menonaktifkan...'
+- Klik buttton 'Cancel'
+- Get URL
+- Verify url contains 'member.bljstaging.com/linkaja/'</description>
+   <name>KlikNonAktifkanAkun_VerifyPopUp_KlikCancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc0b27a5-0b7f-41fd-8981-28cda7288e3b</testCaseGuid>
+</TestCaseEntity>

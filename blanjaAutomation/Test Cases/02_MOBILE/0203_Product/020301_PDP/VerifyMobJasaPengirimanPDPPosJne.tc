@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll to Label Biaya Pengiriman
+Select Jasa Pengiriman
+Verify Jasa Pengiriman</description>
+   <name>VerifyMobJasaPengirimanPDPPosJne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>935d6185-6b49-4acd-ac2c-a41ef7ded466</testCaseGuid>
+</TestCaseEntity>

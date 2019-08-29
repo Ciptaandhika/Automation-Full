@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik switch button
+
+1. Masukkan kota keberangkatan (Misalnya Jakarta)
+2. Masukkan kota tujuan (Misalnya Medan)
+3. Klik button switch</description>
+   <name>AddLandingPage(SwitchButton)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c728a5d-cb5e-4614-b17a-61ed9e633cd3</testCaseGuid>
+</TestCaseEntity>

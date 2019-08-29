@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click All.
+Fill Take Rate Flat.
+Choose Category Group.
+Click Save.
+</description>
+   <name>TakeRateBaby5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecfeee28-534a-4986-91c3-d3db858e938a</testCaseGuid>
+</TestCaseEntity>

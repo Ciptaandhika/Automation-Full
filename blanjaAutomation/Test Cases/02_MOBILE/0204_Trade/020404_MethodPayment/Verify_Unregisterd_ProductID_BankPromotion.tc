@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify alert untuk product ID yang tidak di apply filter pada bank promotion</description>
+   <name>Verify_Unregisterd_ProductID_BankPromotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a650c760-5e19-49d7-9acd-4be1a17d59c1</testCaseGuid>
+</TestCaseEntity>

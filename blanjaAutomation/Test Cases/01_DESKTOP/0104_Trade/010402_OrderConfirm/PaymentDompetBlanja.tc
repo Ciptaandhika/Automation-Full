@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer pay using dompet blanja</description>
+   <name>PaymentDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00e546b0-c98b-4f50-add9-4f5f256ecd7d</testCaseGuid>
+</TestCaseEntity>

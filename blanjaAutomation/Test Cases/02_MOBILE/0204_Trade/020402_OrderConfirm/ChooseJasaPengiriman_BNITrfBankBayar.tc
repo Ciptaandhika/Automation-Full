@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BNI
+- Pilih Transfer bank
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_BNITrfBankBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67eeb144-6fd2-4534-ac6c-f68e4cd538e6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click button 'Add New'
+2. click button 'Add New' without input Prize, then click button 'SAVE'</description>
+   <name>Verify No Input Prize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e607f1a8-e74a-455d-a8f5-055eb40014a9</testCaseGuid>
+</TestCaseEntity>

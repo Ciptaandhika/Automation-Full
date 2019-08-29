@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi tombol back pada dokumen penunjang (business store)
+- setelah tombol back enabled, kemudian kembali ke halaman input form (business store)</description>
+   <name>Verify_B_Store_Backbtn_DokumenPenunjangPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1858089d-d041-4b98-a9fa-e93002a31603</testCaseGuid>
+</TestCaseEntity>

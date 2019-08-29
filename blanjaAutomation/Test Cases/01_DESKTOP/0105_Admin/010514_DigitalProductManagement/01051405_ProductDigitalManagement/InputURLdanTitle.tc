@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Masukkan redirect URL
+2. Masukkan title
+3. Save</description>
+   <name>InputURLdanTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8c1ab08-5706-4f5b-ad56-67dbf52b9ac7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Close Button Panduan Pengguna Baru 
+2. Klik User Account
+3. Go to Blanjaan Saya Page</description>
+   <name>BuyerHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abcaa093-cecb-4fb1-83e5-67e1963e40d3</testCaseGuid>
+</TestCaseEntity>

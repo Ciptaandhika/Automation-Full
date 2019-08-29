@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search pulsa (check ltd)</description>
+   <name>SearchPulsaLTD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcd094c5-b2c8-4eee-b3cb-4dd8254e2833</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. click order button</description>
+   <name>ChooseJasaPengirimanMultipleProducts_Kredivo_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c08fdcdc-8ea9-4f0d-ad75-472564385510</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Kupon 1 
+Search Kupon 2</description>
+   <name>SearchandVerifyKuponKonserBlackpinkSearchAllKonser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e27e617-4861-46f7-b78c-ba6b1e5d05fa</testCaseGuid>
+</TestCaseEntity>

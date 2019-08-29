@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menyalakan GoSend (jika belum aktif)</description>
+   <name>GoSendOn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02c5bac5-38e5-4f05-aca8-afd7c2cd57f5</testCaseGuid>
+</TestCaseEntity>

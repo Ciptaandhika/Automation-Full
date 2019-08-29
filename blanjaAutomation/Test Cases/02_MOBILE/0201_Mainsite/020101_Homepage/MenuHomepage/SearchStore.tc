@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik icon search
+2. set text input kategori
+3. sistem akan menampilkan kategori yang dicari
+3.  verifikasi kategori tsb</description>
+   <name>SearchStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0025d41-456b-4390-9b4e-71192f355f5a</testCaseGuid>
+</TestCaseEntity>

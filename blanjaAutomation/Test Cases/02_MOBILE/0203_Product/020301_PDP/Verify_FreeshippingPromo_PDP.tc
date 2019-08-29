@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify jika terdapat freeshipping maka ada promo, jika tidak ada maka akan menampilkan log tidak ada promo</description>
+   <name>Verify_FreeshippingPromo_PDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6eeb0ccb-eada-439a-b41a-00f1e4675be9</testCaseGuid>
+</TestCaseEntity>

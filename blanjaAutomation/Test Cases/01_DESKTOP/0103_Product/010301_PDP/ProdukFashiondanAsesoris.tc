@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih produk yang ada di fashion dan asesoris
+sistem akan menampilan detail produk</description>
+   <name>ProdukFashiondanAsesoris</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d65550-7282-4817-8cc0-0ec20e294ee0</testCaseGuid>
+</TestCaseEntity>

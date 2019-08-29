@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. Create Coupons Only Blanja Custom Code
+3. Verify Coupon</description>
+   <name>Coupons Custom Code 20K (PC,Android)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>594c1401-b820-49f7-bf4e-60e07bc26bc4</testCaseGuid>
+</TestCaseEntity>

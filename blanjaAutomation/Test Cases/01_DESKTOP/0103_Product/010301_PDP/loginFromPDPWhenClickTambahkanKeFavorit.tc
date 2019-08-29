@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to PDP page
+klik btn tambahkan ke favorit</description>
+   <name>loginFromPDPWhenClickTambahkanKeFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c29df470-d817-45f5-bb0b-f355e2be6c04</testCaseGuid>
+</TestCaseEntity>

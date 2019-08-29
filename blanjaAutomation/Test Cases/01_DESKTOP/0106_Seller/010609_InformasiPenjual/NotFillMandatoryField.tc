@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill Nama Toko.
+Fill Alamat Toko.
+Fill Nomor Rekening.
+Fill Nama Bank.
+Fill Nama Pemilik Rekening.
+Fill Cabang.
+Fill Nama Perusahaan.
+Fill NPWP Perusahaan.</description>
+   <name>NotFillMandatoryField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d841db8-1869-4fa2-aa53-1cf628782d48</testCaseGuid>
+</TestCaseEntity>

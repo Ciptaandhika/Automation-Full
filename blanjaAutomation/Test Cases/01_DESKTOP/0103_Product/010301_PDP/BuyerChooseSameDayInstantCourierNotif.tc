@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product
+Click Select Courier
+Choose &quot;Go Send&quot;
+Choose Same Day
+Verify message for Same Day
+Choose Instant Delivery
+Verify message for Instant Delivery</description>
+   <name>BuyerChooseSameDayInstantCourierNotif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7db8534-ee45-463c-8835-ac465d73f4de</testCaseGuid>
+</TestCaseEntity>

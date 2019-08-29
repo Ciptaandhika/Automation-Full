@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik menu bank promotion
+- create bank promotion CC</description>
+   <name>Bank_Promotion_BNICC_NoInstallment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d30b999d-ead3-4f7f-a52c-8cabae676c42</testCaseGuid>
+</TestCaseEntity>

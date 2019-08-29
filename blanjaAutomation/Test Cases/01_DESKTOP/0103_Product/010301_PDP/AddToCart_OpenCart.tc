@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik tombol 'Tambahkan ke Troli'
+Klik ikon Troli</description>
+   <name>AddToCart_OpenCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>740e2bb4-feda-4e6a-9400-e01e6473139f</testCaseGuid>
+</TestCaseEntity>

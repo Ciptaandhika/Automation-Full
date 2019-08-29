@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button TCash OK
+isi order Number 
+click Search
+Get Text Verify tulisan 'Pembayaran :Finpay 021 Channel - Alfamart'
+
+click batalkan blanjaan
+select reason 
+click ok 
+verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup</description>
+   <name>Member_OrderList_OthersKartuKredit_BatalkanBelanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb40d3cb-96ac-4346-ba0d-d6fece601ad0</testCaseGuid>
+</TestCaseEntity>

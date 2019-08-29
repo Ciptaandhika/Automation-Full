@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose action &quot;View&quot; on selected product</description>
+   <name>ViewDetailTelkomIndiHome</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ba2dfc4-e679-44b6-bf19-695dbf0b96fa</testCaseGuid>
+</TestCaseEntity>

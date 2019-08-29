@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Bank Payment Promotion
+2. Add Promotion
+3. Input all required field
+4. Create n verify Promotion in Bank Payment Promotion
+
+Note :
+Promotion name tidak ada yg sama, agar verify berhasil</description>
+   <name>Create Bank Payment Promotion Sprint Low Disc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd8183c4-21a9-4641-8013-3d14e237269e</testCaseGuid>
+</TestCaseEntity>

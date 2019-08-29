@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User redirected to category page
+2. The category URL using new format</description>
+   <name>verifyBreadcrumbLinkMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80cced3e-962c-44a9-846c-c153b4ca9059</testCaseGuid>
+</TestCaseEntity>

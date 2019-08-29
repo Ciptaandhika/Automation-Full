@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi list tanggapan saya</description>
+   <name>VerifyTangapanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f093c762-4ef9-42c7-8bc4-56bc8e1264dd</testCaseGuid>
+</TestCaseEntity>

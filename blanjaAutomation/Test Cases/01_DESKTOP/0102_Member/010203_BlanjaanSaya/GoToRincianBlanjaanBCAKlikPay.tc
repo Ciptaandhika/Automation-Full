@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to rincian blanjaan after buying product using klik BCA</description>
+   <name>GoToRincianBlanjaanBCAKlikPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcf08cbe-4afc-4952-8fe9-29337391aaa8</testCaseGuid>
+</TestCaseEntity>

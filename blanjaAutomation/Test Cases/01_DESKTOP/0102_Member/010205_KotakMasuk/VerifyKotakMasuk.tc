@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. In header menu, If member click “Kotak Masuk” menu, member will be redirected to “Kotak Masuk” page
+If member click “Kotak Masuk” menu, member will be redirected to “Kotak Masuk” page</description>
+   <name>VerifyKotakMasuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66d2508c-33bb-4622-ab2b-53f59edea8d0</testCaseGuid>
+</TestCaseEntity>

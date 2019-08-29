@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik mandiri debit online
+pilih diskon spesial
+verify pop up promo tidak dapat digunakan</description>
+   <name>VerifyMandiriDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efb723c0-4f10-4994-8580-e0b97c0b39a0</testCaseGuid>
+</TestCaseEntity>

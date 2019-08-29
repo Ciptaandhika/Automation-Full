@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik checkbox
+- klik lanjutkan
+- verify pop up yang muncul</description>
+   <name>BStore_OTP_Verify_Display_PopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7bfb3956-9315-42a8-a54f-4a3ee3e3263f</testCaseGuid>
+</TestCaseEntity>

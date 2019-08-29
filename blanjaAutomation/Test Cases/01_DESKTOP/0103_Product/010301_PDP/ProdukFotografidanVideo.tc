@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih satu produk di menu Fotografi  dan video
+sistem akan menampilkan produk secara detail</description>
+   <name>ProdukFotografidanVideo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3223222d-1dca-4456-b1b1-b1cd36b4f1f4</testCaseGuid>
+</TestCaseEntity>

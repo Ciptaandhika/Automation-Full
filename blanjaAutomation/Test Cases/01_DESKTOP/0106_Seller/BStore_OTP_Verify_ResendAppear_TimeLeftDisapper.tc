@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik checkbox
+- klik lanjutkan
+- verifikasi ketika tidak menginputkan kode verifikasi selama 1 menit, maka tombol resend akan muncul kembali dan countdown akan hilang</description>
+   <name>BStore_OTP_Verify_ResendAppear_TimeLeftDisapper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cd94862-05fa-466e-87e7-f2c09664b94e</testCaseGuid>
+</TestCaseEntity>

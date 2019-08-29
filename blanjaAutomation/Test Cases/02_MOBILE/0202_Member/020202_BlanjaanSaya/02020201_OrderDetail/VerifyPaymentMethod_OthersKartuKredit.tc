@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify tulisan Kartu Kredit tampil</description>
+   <name>VerifyPaymentMethod_OthersKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8ae0cf9-96c3-4789-b126-ad02a530c43f</testCaseGuid>
+</TestCaseEntity>

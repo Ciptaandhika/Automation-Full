@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik salah satu conversation chat
+- pada detail conversation pilih back
+- verify halaman message list setelah member klik back</description>
+   <name>Member_Click_Back_From_Detail_Conversation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ec27420-96bc-428c-9e30-d04348da0816</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- scroll ke arah checkbox agar tombol button lanjutkan terlihat
+- verifikasi tombol lanjutkan pada halaman konfirmasi di individual   store disable/ tidak bisa di click.</description>
+   <name>Verify_Next_Button_Disable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5625567-df0e-4c5a-b1e3-783956f5edf2</testCaseGuid>
+</TestCaseEntity>

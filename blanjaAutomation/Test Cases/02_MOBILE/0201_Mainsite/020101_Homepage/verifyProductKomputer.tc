@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present product komputer</description>
+   <name>verifyProductKomputer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ae7592c-3355-485e-aff9-6866f30eb65a</testCaseGuid>
+</TestCaseEntity>

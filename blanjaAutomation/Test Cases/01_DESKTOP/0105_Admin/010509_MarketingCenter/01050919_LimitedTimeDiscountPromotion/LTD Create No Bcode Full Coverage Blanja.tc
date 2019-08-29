@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Create Promotion
+Select option program name
+Set text promotion name
+Click date time from
+Click number of date 
+Click date time to
+Click number of date 
+Click radio button BQode
+Set text Store ID
+Set text Product ID
+Click button Search
+Set text total budget
+Select option budget type
+Set text each buyer
+Set text promotion inventory
+Click button Select
+Click radio button BQode
+Click button Save
+Click button OK
+</description>
+   <name>LTD Create No Bcode Full Coverage Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77e70b05-879b-42c3-8239-e644c8e47d6a</testCaseGuid>
+</TestCaseEntity>

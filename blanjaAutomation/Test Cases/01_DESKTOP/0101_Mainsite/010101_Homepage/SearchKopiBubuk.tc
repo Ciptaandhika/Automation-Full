@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search product kopi bubuk 100gr</description>
+   <name>SearchKopiBubuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93f69459-b46d-48cf-8f21-b1bb1973a49a</testCaseGuid>
+</TestCaseEntity>

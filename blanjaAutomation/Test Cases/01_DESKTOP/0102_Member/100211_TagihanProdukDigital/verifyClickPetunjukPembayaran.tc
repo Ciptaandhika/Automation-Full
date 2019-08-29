@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click &quot;Lihat Bukti Pembayaran&quot;</description>
+   <name>verifyClickPetunjukPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aec7b8f2-20d0-4fee-948a-317d09c0680a</testCaseGuid>
+</TestCaseEntity>

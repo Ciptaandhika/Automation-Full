@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to product kopi bubuk 100gr</description>
+   <name>GoToKopiBubuk100gr</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b6e6ad6-746d-42e5-9e82-a663c0bf34e5</testCaseGuid>
+</TestCaseEntity>

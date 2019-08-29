@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 : 
+
+- Jika member belum pernah memilih type store maka akan di direct ke   halaman tersebut
+-  member pilih/ klik business store
+
+Kondisi 2  :
+- Pada form registrasi business pilih provinsi</description>
+   <name>Register_Business_Store_ChooseProvince</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b0b67f8-be44-4a34-bba8-75077adcebee</testCaseGuid>
+</TestCaseEntity>

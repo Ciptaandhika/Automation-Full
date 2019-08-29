@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element, hover and click 'Metode Pembayaran' image
+Verify element, hover and click 'Jasa Pengiriman' image</description>
+   <name>FooterFourthLineRight</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b04c9788-6f08-4c26-a714-76f176dbcfc2</testCaseGuid>
+</TestCaseEntity>

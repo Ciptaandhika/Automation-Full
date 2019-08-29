@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Cetaphil
+Get URL
+Verify Equal</description>
+   <name>clickCetaphil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a17a2247-1d54-4310-8795-88d199923bdf</testCaseGuid>
+</TestCaseEntity>

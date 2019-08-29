@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click search bar
+2. Input Store name
+3. Verify if store only have 2 or 1 product, system will display all product</description>
+   <name>Count_Image_PDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b356879-420b-44ce-a71e-528f2b78bbdc</testCaseGuid>
+</TestCaseEntity>

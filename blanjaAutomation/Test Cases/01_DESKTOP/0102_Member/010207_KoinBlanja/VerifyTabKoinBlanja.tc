@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Verify element present
+Verify element present
+Verify element present</description>
+   <name>VerifyTabKoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32d381c9-5a4f-48e0-ad6f-2d28ca2205e8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify title promo same with admin set on dashboard</description>
+   <name>VerifyTitlePromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a51d56e2-8d70-403e-a9bf-cecd2de58e67</testCaseGuid>
+</TestCaseEntity>

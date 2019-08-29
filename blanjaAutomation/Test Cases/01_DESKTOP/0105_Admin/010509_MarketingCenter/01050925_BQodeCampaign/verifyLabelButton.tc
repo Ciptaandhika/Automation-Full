@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present
+Get text
+Verify equal</description>
+   <name>verifyLabelButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfac75eb-c6fd-4f74-af95-adf987388738</testCaseGuid>
+</TestCaseEntity>

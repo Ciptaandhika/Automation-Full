@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Get text nomor order
+2. klik RB BCA Virtual Account
+3. Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BCAVirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16c974c6-7f90-4bde-8af8-f8c64313d34e</testCaseGuid>
+</TestCaseEntity>

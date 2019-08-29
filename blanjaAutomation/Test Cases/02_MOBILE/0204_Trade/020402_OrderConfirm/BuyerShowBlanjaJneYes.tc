@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Option Pengiriman Jne
+Select Pelayanan Jasa Reguler
+Verify Biaya Pengiriman</description>
+   <name>BuyerShowBlanjaJneYes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a878d9b-62b5-4236-aaf8-7d22b681338a</testCaseGuid>
+</TestCaseEntity>

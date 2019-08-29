@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify ribbon discn</description>
+   <name>verifyRibbonDisc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa4a5ca6-89b0-4101-a9ad-de6355b4582b</testCaseGuid>
+</TestCaseEntity>

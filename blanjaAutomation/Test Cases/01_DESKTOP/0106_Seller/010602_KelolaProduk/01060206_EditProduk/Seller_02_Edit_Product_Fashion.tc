@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.Search Product
+2. Click Edit
+3. Edit Category for Product</description>
+   <name>Seller_02_Edit_Product_Fashion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>842b54e4-25f2-4565-91d0-5085599bb7eb</testCaseGuid>
+</TestCaseEntity>

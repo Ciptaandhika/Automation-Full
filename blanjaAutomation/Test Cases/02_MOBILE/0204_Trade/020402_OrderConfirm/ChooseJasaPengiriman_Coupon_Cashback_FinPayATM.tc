@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'mandiri 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_Coupon_Cashback_FinPayATM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bc841a8-00b3-4705-8588-849640e37830</testCaseGuid>
+</TestCaseEntity>

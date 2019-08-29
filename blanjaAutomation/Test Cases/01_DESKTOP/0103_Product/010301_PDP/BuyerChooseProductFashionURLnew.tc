@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product fashion.
+click tambahkan ke troli.
+click troli.</description>
+   <name>BuyerChooseProductFashionURLnew</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e3818e2-c20c-4fb6-8e4b-804899af9ff3</testCaseGuid>
+</TestCaseEntity>

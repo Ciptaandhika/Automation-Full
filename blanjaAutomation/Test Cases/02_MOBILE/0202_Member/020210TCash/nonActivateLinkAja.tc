@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Non Aktifkan LinkAja
+Verify text present
+Verify element present</description>
+   <name>nonActivateLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac2bc4a0-8497-428e-8e72-2cc6de4fbe41</testCaseGuid>
+</TestCaseEntity>

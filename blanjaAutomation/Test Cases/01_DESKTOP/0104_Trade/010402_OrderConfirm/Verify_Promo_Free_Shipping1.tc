@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify harga pengiriman
+- verify diskon
+- verify buyer paid</description>
+   <name>Verify_Promo_Free_Shipping1</name>
+   <tag></tag>
+   <comment>Shipping Fee</comment>
+   <testCaseGuid>f5fe9ddf-b248-419a-bc2b-d891bf81a6bb</testCaseGuid>
+</TestCaseEntity>

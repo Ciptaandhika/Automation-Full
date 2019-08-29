@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search product by input product name
+ie : pantene</description>
+   <name>SearchProdukInputByNameMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a163c81e-26f7-42a0-9c61-2c52575a362a</testCaseGuid>
+</TestCaseEntity>

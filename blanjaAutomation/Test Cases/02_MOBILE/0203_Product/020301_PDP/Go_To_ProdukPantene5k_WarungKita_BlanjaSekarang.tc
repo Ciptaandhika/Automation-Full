@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to URL produk 5k warung kita
+- klik blanja sekarang</description>
+   <name>Go_To_ProdukPantene5k_WarungKita_BlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8eb2546-b395-444b-bb98-3d92b4ce0967</testCaseGuid>
+</TestCaseEntity>

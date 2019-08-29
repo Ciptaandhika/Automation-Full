@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Last Order Number
+Choose Radio Button Debit Niaga
+Select Option Pilih Nama Promosi
+Verify label Diskon Blanja
+Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_MandiriKreditCicilan_6bln</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a4ca3d5-f6eb-43ea-a120-08dcdafacaf2</testCaseGuid>
+</TestCaseEntity>

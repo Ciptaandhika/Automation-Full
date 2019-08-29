@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;success&quot;
+Verify tulisan nomor rekening pembayaran dan nomor pemesanan tampil</description>
+   <name>ThankYouPage_OthersDirectTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6853cff1-be7f-49f3-a6a2-a603628d8281</testCaseGuid>
+</TestCaseEntity>

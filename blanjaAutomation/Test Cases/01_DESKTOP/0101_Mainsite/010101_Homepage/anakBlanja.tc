@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik menu &quot;Anak Blanja&quot; di karir blanja</description>
+   <name>anakBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d490f9d5-a9ae-45e5-a65a-9eb7c71ee255</testCaseGuid>
+</TestCaseEntity>

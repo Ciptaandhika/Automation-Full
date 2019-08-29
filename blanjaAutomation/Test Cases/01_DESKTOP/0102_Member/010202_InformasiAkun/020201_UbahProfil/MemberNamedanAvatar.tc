@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik tombol close tcash
+2. Klik Icon Account 
+3. Klik Pilih Informasi Akun
+4. sistem akan memverifikasi Avatar</description>
+   <name>MemberNamedanAvatar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4e75776-f536-4334-8487-b1e2ac64a125</testCaseGuid>
+</TestCaseEntity>

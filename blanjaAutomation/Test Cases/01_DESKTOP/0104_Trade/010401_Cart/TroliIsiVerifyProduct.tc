@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Mouse over button troli
+2. sistem akan menampilkan isi troli
+3 . verifikasi pengguna tidak memasukkan produk apa pun ke troli</description>
+   <name>TroliIsiVerifyProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84594acf-42b3-4693-9bee-28c846bb7d88</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login from selected keyword products</description>
+   <name>LoginFromProducts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6de7482-b161-4bb6-a196-675f67b4c85d</testCaseGuid>
+</TestCaseEntity>

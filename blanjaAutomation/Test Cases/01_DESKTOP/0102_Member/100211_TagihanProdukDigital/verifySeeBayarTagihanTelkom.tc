@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Find information 'Bayar Tagihan Telkom...'</description>
+   <name>verifySeeBayarTagihanTelkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ead80dc0-6119-49b2-a53b-4f7dd15cb8af</testCaseGuid>
+</TestCaseEntity>

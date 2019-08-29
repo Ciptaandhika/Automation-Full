@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek info/keterangan</description>
+   <name>CheckInfoPresent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d536b886-3825-41cb-8bf9-749b2c513107</testCaseGuid>
+</TestCaseEntity>

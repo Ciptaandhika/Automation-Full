@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Blanja Coupon
+2. Create Coupons Only Blanja (Unique Code)
+3. Verify Coupon</description>
+   <name>Coup Bind ProdID LTD Admin Exc LTD Seller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24768d61-fb68-44bc-8e34-2b3997e999aa</testCaseGuid>
+</TestCaseEntity>

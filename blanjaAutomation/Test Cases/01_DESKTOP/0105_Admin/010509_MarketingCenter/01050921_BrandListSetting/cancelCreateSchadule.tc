@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click cancel</description>
+   <name>cancelCreateSchadule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3921d72-3144-43c1-8386-de3704bed4ad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+ 2. Akses menu Marketing Center >> Koin Blanja
+ 3. Klik Create Campaign
+ 4. Input Campaign Name
+ 5. Pilih Campaign Time : 26 Februari 2019 - 28 Februari 2019
+ 6. Pilih Points Expiration Time :1 Maret 2019
+ 7. Untick Use Redeem Time
+ 8. Input threshold
+ 9. Tick Applies Multiply
+ 10. Use Criteria = No
+ 11. Input data direct prize :
+ Prize ke - 1 - Input Tittle Prize - Upload Image - Input exchange Koin - Select Bind to Coupon - Pilih start time &amp; end time redeem 12.Klik add new 
+13. Input data direct prize : Prize ke - 2 - Input Tittle Prize - Upload Image - Input exchange Koin - Select Bind to Coupon - Pilih start time &amp; end time redeem
+ 14.Klik button close [X]</description>
+   <name>Verify_Close_Row_DirectPrize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d971934-3454-4db4-8f12-ef29d70c5e2b</testCaseGuid>
+</TestCaseEntity>

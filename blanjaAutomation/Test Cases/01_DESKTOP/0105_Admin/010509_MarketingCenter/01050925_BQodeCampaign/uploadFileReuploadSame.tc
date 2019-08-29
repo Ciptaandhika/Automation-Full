@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Upload 	File
+Upload File
+</description>
+   <name>uploadFileReuploadSame</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb5159db-715a-42d7-aa54-6d5827201f8b</testCaseGuid>
+</TestCaseEntity>

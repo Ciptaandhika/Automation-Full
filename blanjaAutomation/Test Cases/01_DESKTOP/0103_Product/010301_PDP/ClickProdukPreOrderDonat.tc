@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Donat Payu
+Click button Close
+Verify element red flag
+Verify element Periode Pre-Order
+Verify element Estimasi Pengiriman
+Verify element Sisa Waktu
+Verify element button Pre Order</description>
+   <name>ClickProdukPreOrderDonat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bae54cf-9ceb-4ff0-927c-8bee44b2edfa</testCaseGuid>
+</TestCaseEntity>

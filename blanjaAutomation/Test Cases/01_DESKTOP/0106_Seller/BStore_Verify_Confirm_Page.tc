@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi halaman yang di tuju setelah click tombol lanjutkan adalah halaman konfirmasi (Bussiness Store)</description>
+   <name>BStore_Verify_Confirm_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e01ed650-4177-4daa-8114-6c70f0fa5567</testCaseGuid>
+</TestCaseEntity>

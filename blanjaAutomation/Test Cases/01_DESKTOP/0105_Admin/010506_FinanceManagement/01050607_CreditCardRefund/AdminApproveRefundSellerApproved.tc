@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set order number.
+Click search.
+Check order number.
+Click button complete.
+Click ok.</description>
+   <name>AdminApproveRefundSellerApproved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a43c5dc-f912-4993-b9e6-341a4d08b487</testCaseGuid>
+</TestCaseEntity>

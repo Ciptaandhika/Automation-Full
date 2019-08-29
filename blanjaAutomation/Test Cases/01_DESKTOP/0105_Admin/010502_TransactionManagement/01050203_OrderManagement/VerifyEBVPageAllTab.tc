@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Tab Active
+Verify 10 Table
+Klik Tab InActive
+Verify 10 Table
+Klik Tab Expired
+Verify 10 Table</description>
+   <name>VerifyEBVPageAllTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f416cf7a-5330-4aac-b0ce-312d98229049</testCaseGuid>
+</TestCaseEntity>

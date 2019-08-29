@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Ubah Alamat.
+click button Simpan.</description>
+   <name>EditAddressSave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3d854fe-76ab-4b77-b957-9c90e2a895f1</testCaseGuid>
+</TestCaseEntity>

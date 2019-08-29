@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create promo shipping free</description>
+   <name>MultipleSameThresholdDiferentPeriode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1a334a0-18e3-4759-a871-dbd3c8776002</testCaseGuid>
+</TestCaseEntity>

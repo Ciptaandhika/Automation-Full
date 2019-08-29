@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Jasa Pengiriman &quot;Go Send&quot;.
+Choose Jenis Pengiriman &quot;Same Day&quot;.
+See pop up &quot;Jarajk Terlalu Jauh ...&quot;.</description>
+   <name>VerifyAreaTidakTercakupGoSend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a6e3b63-09fd-4227-8c3b-29d4f1bbe49e</testCaseGuid>
+</TestCaseEntity>

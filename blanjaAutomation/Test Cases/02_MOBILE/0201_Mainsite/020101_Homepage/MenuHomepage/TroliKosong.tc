@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik troli kosong di homepage
+verify troli kosong</description>
+   <name>TroliKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>127e1e6f-d6bf-467e-8639-de539665d415</testCaseGuid>
+</TestCaseEntity>

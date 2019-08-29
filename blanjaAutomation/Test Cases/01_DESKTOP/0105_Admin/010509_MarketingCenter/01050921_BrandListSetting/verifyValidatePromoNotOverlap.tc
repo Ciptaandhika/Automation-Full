@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify &quot;Schedule for a promo should not overlap each other....&quot;</description>
+   <name>verifyValidatePromoNotOverlap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0434a08-8186-47e1-8aa7-bc179e7d484c</testCaseGuid>
+</TestCaseEntity>

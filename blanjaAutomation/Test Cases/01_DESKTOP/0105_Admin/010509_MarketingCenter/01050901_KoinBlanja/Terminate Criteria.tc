@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click terminated
+oke terminate
+choose payment method
+choose finpay
+input extra koin
+create</description>
+   <name>Terminate Criteria</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d063135d-d86a-4622-bd73-d7847fd5e5fb</testCaseGuid>
+</TestCaseEntity>

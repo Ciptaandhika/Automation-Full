@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify view active</description>
+   <name>VerifyView</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b26e48d9-e435-4e2a-96b8-e09019caccd2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover user account
+Klik Favorit
+Klik Ok
+Klik Toko Favorite
+</description>
+   <name>TokoFavoritSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfd6a845-f278-4f1a-a488-69d16cdc19fd</testCaseGuid>
+</TestCaseEntity>

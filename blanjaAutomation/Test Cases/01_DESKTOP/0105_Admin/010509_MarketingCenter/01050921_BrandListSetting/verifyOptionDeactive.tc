@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify equal deactive when status 'active'</description>
+   <name>verifyOptionDeactive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cefe6cf-a400-45a6-81ef-f030f2003c58</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click the PDP on it</description>
+   <name>ClickPDPOnOrderDetailPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e8cc82d-fbe1-490e-a107-6e4c73d80153</testCaseGuid>
+</TestCaseEntity>

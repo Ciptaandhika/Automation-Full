@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>labelDiscountInDetailToggle</name>
+   <tag></tag>
+   <elementGuidId>946bd462-f5e3-43ff-91a6-60a90fdd6783</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/section[3]/div/div/div[3]/div[2]/table/tbody/tr/td[6]/div[2]/div/p[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

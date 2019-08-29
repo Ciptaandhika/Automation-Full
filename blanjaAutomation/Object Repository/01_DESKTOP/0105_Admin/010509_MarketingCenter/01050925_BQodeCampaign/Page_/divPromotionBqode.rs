@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divPromotionBqode</name>
+   <tag></tag>
+   <elementGuidId>7ad6b64d-e229-4917-9966-594c02190c70</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clear</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Promotion NameStart DateEnd DateScanning LimitQRCodeStatusOptionLTD BQ14/03/2019 14:00:00 WIB15/03/2019 14:00:00 WIB26 See QRCode Active End  View LTD QODE 14 Mar 145414/03/2019 14:00:00 WIB15/03/2019 14:00:00 WIB26 See QRCode Active End  View QATEST1202201912/02/2019 11:00:00 WIB12/02/2019 12:00:00 WIB10 See QRCode Expired View QATEST02-11201911/02/2019 16:00:00 WIB11/02/2019 19:00:00 WIB5 See QRCode Expired View QATEST11-02201911/02/2019 13:00:00 WIB11/02/2019 18:00:00 WIB5 See QRCode Expired View QATEST1102-0211/02/2019 13:00:00 WIB12/02/2019 13:00:00 WIB30 See QRCode Expired View QATEST1102201911/02/2019 10:00:00 WIB15/02/2019 10:00:00 WIB6 See QRCode Expired View QATEST0802-0108/02/2019 13:00:00 WIB09/02/2019 05:00:00 WIB15 See QRCode Expired View QATEST0802201908/02/2019 12:00:00 WIB08/02/2019 14:00:00 WIB5 See QRCode Expired View QATEST07-0107/02/2019 16:00:00 WIB11/02/2019 16:00:00 WIB30 See QRCode Expired View  &lt; 123...5 > Halaman : /5GO
+                </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formSearch&quot;)/div[@class=&quot;my-dashboard&quot;]/div[@class=&quot;clear&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//form[@id='formSearch']/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status :'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promotion Name :'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//form/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

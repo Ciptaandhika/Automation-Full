@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify tidak ada kondisi product new dan second pada kategori produk digital</description>
+   <name>Digital_Product_Verify_Product_Condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7afdec2-e57b-40d9-a579-bb9cb771a6d7</testCaseGuid>
+</TestCaseEntity>

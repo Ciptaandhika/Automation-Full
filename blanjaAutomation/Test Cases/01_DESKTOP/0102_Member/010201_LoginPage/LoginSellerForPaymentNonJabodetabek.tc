@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Seller Mii
+open browser
+max windows
+go to URLMemberMainsite
+isi txtBoxUsername
+isi txtBoxPassword
+klik masuk</description>
+   <name>LoginSellerForPaymentNonJabodetabek</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8469fda-c5b6-4095-aa15-05f0eb809f4d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>admin upload excel file</description>
+   <name>Upload_Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94348fa2-d793-4d26-a085-5e10735a1c41</testCaseGuid>
+</TestCaseEntity>

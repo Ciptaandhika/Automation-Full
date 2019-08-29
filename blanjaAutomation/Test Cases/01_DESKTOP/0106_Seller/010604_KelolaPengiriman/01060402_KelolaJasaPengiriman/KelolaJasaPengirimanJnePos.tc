@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go To URL Kelola Jasa Pengiriman Pada Seller
+2. Toggle Jasa Pengiriman First Logistic
+3. Toggle Jasa Pengiriman Tiki
+4. Simpan Kelola Jasa
+5. Confirm Kelola Jasa OK
+6. Verify Confirm kelola jasa</description>
+   <name>KelolaJasaPengirimanJnePos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>427ccbf2-b61c-4aa9-a9b6-894c53ef34d6</testCaseGuid>
+</TestCaseEntity>

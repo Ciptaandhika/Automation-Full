@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+choose jasa pengiriman Go Send and jenis pengiriman Same Day Delivery or Instant Delivery.
+click Blanja Sekarang.</description>
+   <name>AddressBuyerBandungOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56a1b95f-3d89-472e-b00a-59d3f3e6d188</testCaseGuid>
+</TestCaseEntity>

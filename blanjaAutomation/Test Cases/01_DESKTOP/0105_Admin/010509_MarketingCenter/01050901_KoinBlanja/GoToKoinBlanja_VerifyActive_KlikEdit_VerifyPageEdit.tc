@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL Koin Blanja
+2. Verify status 'Active' tampil
+3. Klik tombol 'Edit'</description>
+   <name>GoToKoinBlanja_VerifyActive_KlikEdit_VerifyPageEdit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>267b219e-ae3b-4751-ba16-dff248ff26fa</testCaseGuid>
+</TestCaseEntity>

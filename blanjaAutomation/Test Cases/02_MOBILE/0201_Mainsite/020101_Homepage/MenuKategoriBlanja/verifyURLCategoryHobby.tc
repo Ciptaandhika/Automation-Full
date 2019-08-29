@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL is https://m.bljstaging.com/c/hob/hobi-buku-mainan</description>
+   <name>verifyURLCategoryHobby</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e0be8db-f51c-43c5-8785-1fd3112a41d1</testCaseGuid>
+</TestCaseEntity>

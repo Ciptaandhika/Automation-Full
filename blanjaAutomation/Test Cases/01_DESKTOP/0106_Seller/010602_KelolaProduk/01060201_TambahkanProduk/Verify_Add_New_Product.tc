@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Setelah isi semua form verify button tambahkan produk lagi
+- klik button tambahkan produk lagi</description>
+   <name>Verify_Add_New_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d686209d-05cb-48dd-9a8b-1dec2bb64d64</testCaseGuid>
+</TestCaseEntity>

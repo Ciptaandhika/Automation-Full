@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User redirected to confirmation order page</description>
+   <name>verifyOrderConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d424a2ed-dcee-4ca6-b35b-2bfd39120504</testCaseGuid>
+</TestCaseEntity>

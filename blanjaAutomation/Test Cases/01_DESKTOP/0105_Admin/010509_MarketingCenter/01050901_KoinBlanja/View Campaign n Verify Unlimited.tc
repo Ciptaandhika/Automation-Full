@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik view
+- verify unlimited</description>
+   <name>View Campaign n Verify Unlimited</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4b205c3-b04d-4543-98ed-7b676af1e127</testCaseGuid>
+</TestCaseEntity>

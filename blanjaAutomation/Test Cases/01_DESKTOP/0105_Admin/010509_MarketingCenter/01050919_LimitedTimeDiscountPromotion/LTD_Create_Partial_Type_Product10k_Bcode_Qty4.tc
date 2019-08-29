@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create partial type limited time discount</description>
+   <name>LTD_Create_Partial_Type_Product10k_Bcode_Qty4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>556fc905-caff-4802-9245-b372b232eb1c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. admin filled all mandatory field
+2. admin tick on 'Product IDs', then input product ids
+3. admin tick on 'Use Coupon', then input coupon name
+4. then click 'Save' after that</description>
+   <name>Input All Criteria</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>011620c6-2cd9-4fa7-8cf7-39b9b61ae9d7</testCaseGuid>
+</TestCaseEntity>

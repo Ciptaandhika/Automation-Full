@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input custom code coupon
+- pilih mandiri cc
+- input jumlah va yang akan di bayarkan
+- input saldo va
+- klik lanjutkan pembayaran</description>
+   <name>Input_CustomCode_20k_And_MandiriCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>713d8035-aae4-43d1-81e2-29fca2f076bc</testCaseGuid>
+</TestCaseEntity>

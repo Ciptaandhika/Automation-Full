@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih Kartu Kredit 
+- Verify tidak ada diskon untuk metode pembayaran Kartu Kredit Mandiri
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_MandiriKartuKredit_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85214b25-8457-4008-9856-5c42c1c58fce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to a breadcrumb link</description>
+   <name>GoTo(BreadcrumbLink-Category4)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>673b573f-5167-45a9-9650-7480354cde46</testCaseGuid>
+</TestCaseEntity>

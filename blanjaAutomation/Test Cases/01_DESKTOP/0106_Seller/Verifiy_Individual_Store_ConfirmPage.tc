@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi halaman yang dituju adalah halaman konfirmasi (Individual Store)</description>
+   <name>Verifiy_Individual_Store_ConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e44dcb3-cd09-4250-a553-b79af9b31e51</testCaseGuid>
+</TestCaseEntity>

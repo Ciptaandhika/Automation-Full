@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Store URL on the chat dialogue is redirected to correct URL</description>
+   <name>GoToStoreOnPesan(KirimPesan)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f79d0ad2-c222-4873-a93c-913bff7e961a</testCaseGuid>
+</TestCaseEntity>

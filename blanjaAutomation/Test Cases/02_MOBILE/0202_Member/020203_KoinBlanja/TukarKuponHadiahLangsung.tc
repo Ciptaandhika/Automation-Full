@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click tab Kupon Hadiah Langsung</description>
+   <name>TukarKuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d51e531e-42cc-426a-adc2-b378fd62f3a8</testCaseGuid>
+</TestCaseEntity>

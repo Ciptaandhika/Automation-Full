@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- seller check early balance saldo VA</description>
+   <name>Seller_Check_EarlyBalance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3e3576d-c907-4f43-8c89-2bc17b9cb8ae</testCaseGuid>
+</TestCaseEntity>

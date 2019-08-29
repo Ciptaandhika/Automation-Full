@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Delete Image
+- Upload Kembali Image</description>
+   <name>DeleteImage_ReuploadImage_LotteryPrize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98906293-1774-4281-bdd8-cfeb56d0d79d</testCaseGuid>
+</TestCaseEntity>

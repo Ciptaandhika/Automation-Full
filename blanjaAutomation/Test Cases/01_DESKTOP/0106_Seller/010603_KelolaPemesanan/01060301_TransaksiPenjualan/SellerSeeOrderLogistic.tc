@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Transaksi Penjualan Menu.
+search order number.
+click Detail Logistik.</description>
+   <name>SellerSeeOrderLogistic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a9c4aa2-ba59-437a-b2a9-b761a73137b8</testCaseGuid>
+</TestCaseEntity>

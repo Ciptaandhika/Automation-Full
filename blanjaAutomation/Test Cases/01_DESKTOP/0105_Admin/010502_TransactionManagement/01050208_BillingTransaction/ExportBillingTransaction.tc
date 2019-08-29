@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Select product with the dropdown
+- Click button search
+- Click button export</description>
+   <name>ExportBillingTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4037be67-28c6-4481-aa08-b657c492fdb2</testCaseGuid>
+</TestCaseEntity>

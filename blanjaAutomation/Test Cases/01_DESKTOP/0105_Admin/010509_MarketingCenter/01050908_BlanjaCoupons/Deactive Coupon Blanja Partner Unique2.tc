@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. View Report Coupon Blanja Custom Code
+2. Verify Coupon
+
+Note :
+Dipastikan kupon sudah dibuat sesuai dengan global variable</description>
+   <name>Deactive Coupon Blanja Partner Unique2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daa7ab49-b73a-43c0-a143-961607c9ab7c</testCaseGuid>
+</TestCaseEntity>

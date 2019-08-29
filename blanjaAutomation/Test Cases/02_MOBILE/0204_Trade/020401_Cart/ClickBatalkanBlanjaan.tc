@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btnBatalkanBlanjaan</description>
+   <name>ClickBatalkanBlanjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09385e81-4c5a-4355-abd1-6273521c73ff</testCaseGuid>
+</TestCaseEntity>

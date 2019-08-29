@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hapus semua informasi alamat</description>
+   <name>ClearAddressSection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6916456-69ef-4d74-90af-df644d8fc583</testCaseGuid>
+</TestCaseEntity>

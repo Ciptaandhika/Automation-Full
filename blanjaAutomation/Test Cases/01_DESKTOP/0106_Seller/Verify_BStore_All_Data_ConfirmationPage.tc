@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify store type (Business) &amp; all fields filled by seller on previous page (fill store info)</description>
+   <name>Verify_BStore_All_Data_ConfirmationPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d26986b8-b606-4c59-9eb9-215203b8c78a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk semua produk: Kurir Standar
+- Klik opsi 'Debit Online'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_OthersDebitOnline_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfa4633d-62c3-4776-a3f2-6e202fdd424d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get billing transaction row 1</description>
+   <name>BillingTransactionVerifyLastedTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b508c4fe-f0d6-48cf-946c-ac0f1120e5a8</testCaseGuid>
+</TestCaseEntity>

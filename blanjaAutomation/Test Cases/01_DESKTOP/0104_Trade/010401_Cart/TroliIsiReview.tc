@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Product will added on shopping cart
+2. Verify Object :
+Lanjutkan Belanja
+Tandai Semua
+Hapus Semua 
+Store name
+Product image
+Product name
+Special price and normal price will be scratch
+Qty product
+Add to favorite button
+Delete button
+Total order product(s)
+Button &quot;Lanjutkan Pembayaran&quot;
+Product grouping by store if order on 2 store</description>
+   <name>TroliIsiReview</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e7ce6a4-ca04-4ecd-bdc0-8e8efe0824c0</testCaseGuid>
+</TestCaseEntity>

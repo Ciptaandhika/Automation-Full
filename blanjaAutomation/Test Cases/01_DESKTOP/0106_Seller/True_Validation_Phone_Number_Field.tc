@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'My Store' button in top right page
+2. User choose store type 'Individual Store'
+3. Fill all fields
+4. Next to verification phone number
+
+
+Rule: 
+~ Mandatory
+~ Only numbers are allowed (Any other char can't be entered). 
+~ Valid length is between 8-12.</description>
+   <name>True_Validation_Phone_Number_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>446425b3-deb1-4f5e-acd2-437dbd9cf540</testCaseGuid>
+</TestCaseEntity>

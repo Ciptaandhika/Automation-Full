@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose dropdown Jasa Pengiriman
+Choose dropdown Jenis Pengiriman
+Click button Lanjutkan Pembayaran
+Verify text present
+Click button Close</description>
+   <name>VerifyNoAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3da77316-6c9c-4aa3-aaf4-bd47368e8508</testCaseGuid>
+</TestCaseEntity>

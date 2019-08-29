@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify field yang autofield dapat di update</description>
+   <name>Verify_Update_Auto_Filled_Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5043e9e7-a52f-43db-9943-228fb85527a7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL Shopping Cart
+Verify lokasi Produk</description>
+   <name>GoToShoppingCartURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b06e249-7e93-443d-b9a5-829f648fbb5b</testCaseGuid>
+</TestCaseEntity>

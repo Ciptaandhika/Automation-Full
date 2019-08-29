@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access m.blanja.com
+2. Go to PCP</description>
+   <name>GoToPDPMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e43f721d-d165-449f-b152-9082e935335d</testCaseGuid>
+</TestCaseEntity>

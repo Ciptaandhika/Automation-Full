@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify dana yang berhasil di settled dari transaksi buyer</description>
+   <name>Verify_Settled_Ammount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09909221-06d8-4a96-b572-ff49cb631146</testCaseGuid>
+</TestCaseEntity>

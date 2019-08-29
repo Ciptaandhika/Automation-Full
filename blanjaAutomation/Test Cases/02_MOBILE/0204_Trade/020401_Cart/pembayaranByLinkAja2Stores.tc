@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Pembayaran
+Delay
+Select option by index
+Delay
+Delay
+Select option by index
+Delay
+Click button VA
+Delay
+Click button slider LinkAja
+Delay
+Set text nominal
+Delay
+Click button Bayar
+Delay
+Click Bayar
+Get URL
+Verify url success payment</description>
+   <name>pembayaranByLinkAja2Stores</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81755f1a-c8be-4612-a9c2-75a0e06352ea</testCaseGuid>
+</TestCaseEntity>

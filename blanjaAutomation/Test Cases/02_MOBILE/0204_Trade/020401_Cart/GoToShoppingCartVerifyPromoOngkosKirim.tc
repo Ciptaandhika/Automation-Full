@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to shopping cart</description>
+   <name>GoToShoppingCartVerifyPromoOngkosKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bede8163-ae1c-415b-a44d-c9d31c996254</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL PDP (harga 50K)
+Verify informasi 'Simulasi Cicilan' is appeared
+Clear Text Box QTY
+set Text Box yang sudah di atur di global variable (10 pcs)
+click button masukkan ke keranjang</description>
+   <name>GoToPDPURLRegular5K_AddQty_ClickBlanjaSekarang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68183933-9574-49e9-9e82-aa7e9a6464f8</testCaseGuid>
+</TestCaseEntity>

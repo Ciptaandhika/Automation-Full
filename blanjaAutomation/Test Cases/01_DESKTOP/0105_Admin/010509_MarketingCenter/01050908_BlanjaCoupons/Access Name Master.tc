@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access Name Master
+verify URL Program Name Master
+Verify Program Name is unique, can combine char and numeric, min 10 char and max char 200
+
+Note :
+Tapi harus dibuat program name yang sama persis terlebih dahulu agar muncul error unique</description>
+   <name>Access Name Master</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1edffec-6a0f-4cdf-92c7-8d5c01e11bd8</testCaseGuid>
+</TestCaseEntity>

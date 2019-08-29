@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create coupon
+Lock Payment select 1 payment method (Ex : Select Only &quot;Klik BCA&quot;)
+verify coupon
+
+On admin web user can create coupon using Lock Payment (one payment method) combine with &quot;User Name&quot;.</description>
+   <name>Create Coupons Only Blanja Unique Code (Payment BCA with 2 Email)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73f76311-3668-44c7-9421-40497d1d9864</testCaseGuid>
+</TestCaseEntity>

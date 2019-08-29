@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See pinpoints's icon color in address list</description>
+   <name>RedPinPointAsBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4941e198-cb6c-4623-b906-044abf779379</testCaseGuid>
+</TestCaseEntity>

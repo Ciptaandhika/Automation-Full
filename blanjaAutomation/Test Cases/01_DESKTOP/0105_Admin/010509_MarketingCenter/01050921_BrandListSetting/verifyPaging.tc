@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify paging clickable</description>
+   <name>verifyPaging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a80b7ae0-0923-488c-95f1-c44129562963</testCaseGuid>
+</TestCaseEntity>

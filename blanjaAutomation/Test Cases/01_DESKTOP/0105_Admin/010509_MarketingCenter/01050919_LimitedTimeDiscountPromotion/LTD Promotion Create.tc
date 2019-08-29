@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>limetid time discount to create promotion</description>
+   <name>LTD Promotion Create</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13a50738-ae8b-47e7-8930-3b026a290733</testCaseGuid>
+</TestCaseEntity>

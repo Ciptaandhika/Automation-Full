@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Settlement Amount</description>
+   <name>Verify_Settle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a72a66aa-ba1f-471e-8f65-35115ccd8099</testCaseGuid>
+</TestCaseEntity>

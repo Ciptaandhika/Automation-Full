@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scroll and click setting scheduler</description>
+   <name>ClickSettingScheduler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b6f1131-7474-4103-8b62-d592f755f1c3</testCaseGuid>
+</TestCaseEntity>

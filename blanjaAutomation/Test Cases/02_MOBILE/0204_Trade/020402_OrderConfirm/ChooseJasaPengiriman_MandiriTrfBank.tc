@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank Mandiri
+- Pilih transfer bank
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_MandiriTrfBank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a704d3e8-e238-4bf0-acb0-b1c4f6ba99d1</testCaseGuid>
+</TestCaseEntity>

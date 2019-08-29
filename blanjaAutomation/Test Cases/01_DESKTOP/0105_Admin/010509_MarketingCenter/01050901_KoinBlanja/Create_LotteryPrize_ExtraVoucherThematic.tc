@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- set extra voucher untuk thematic 3
+- klik no criteria
+- isi field lottery prize
+- klik save</description>
+   <name>Create_LotteryPrize_ExtraVoucherThematic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>629e2eb3-2334-481a-8dc8-7d8f74b00253</testCaseGuid>
+</TestCaseEntity>

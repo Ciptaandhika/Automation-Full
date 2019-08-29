@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Produk Tersimpan Menu.</description>
+   <name>SellerClickProdukTersimpan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62354e5b-8f32-4df5-8681-50e3cd70292c</testCaseGuid>
+</TestCaseEntity>

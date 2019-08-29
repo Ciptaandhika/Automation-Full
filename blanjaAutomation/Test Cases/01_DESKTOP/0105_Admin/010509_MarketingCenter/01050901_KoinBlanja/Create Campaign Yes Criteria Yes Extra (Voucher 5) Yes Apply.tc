@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+4. Input Campaign Name
+5. Pilih Campaign time
+6. Pilih Points Expiration Time
+7. Tick Use Redeem Time
+8. Pilih start date &amp; end date redeem time
+9. Input threshold
+10. Tick Applies Multiply
+11. Input maximum get point in one order
+11. Pilih Use Criteria = No
+12. Input Prize
+13. Klik Save</description>
+   <name>Create Campaign Yes Criteria Yes Extra (Voucher 5) Yes Apply</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>801d2f02-b9d4-495e-84ea-6762660ed4bf</testCaseGuid>
+</TestCaseEntity>

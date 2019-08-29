@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select group name, where status = Active
+2. Click Deactivate button
+
+1. TR status will be deactivated</description>
+   <name>TakeRateSettingVerifyDeactiveLastedCategorySeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6beac21-dbc7-41f3-982b-1ff1a53912e1</testCaseGuid>
+</TestCaseEntity>

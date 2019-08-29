@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Buat Event dengan status end
+- search event tersebut
+- validasi event sudah auto end</description>
+   <name>Verify_Auto_Event_End</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1634bb45-d83f-4580-93f9-221bedb5cec7</testCaseGuid>
+</TestCaseEntity>

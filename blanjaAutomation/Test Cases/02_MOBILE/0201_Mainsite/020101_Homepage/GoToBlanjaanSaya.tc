@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to blanjaan saya page</description>
+   <name>GoToBlanjaanSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d72d930-018b-4611-b0d1-4d8268754796</testCaseGuid>
+</TestCaseEntity>

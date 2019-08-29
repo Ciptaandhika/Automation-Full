@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.
+Click Tukar.</description>
+   <name>VerifyUndianTidakCukup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0d9b6fe-6062-436b-8792-5d7cc1809c7a</testCaseGuid>
+</TestCaseEntity>

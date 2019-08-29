@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Download.</description>
+   <name>SellerDownloadNomorResi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdeab4cf-7bb4-42b2-999f-18b00c7f73d6</testCaseGuid>
+</TestCaseEntity>

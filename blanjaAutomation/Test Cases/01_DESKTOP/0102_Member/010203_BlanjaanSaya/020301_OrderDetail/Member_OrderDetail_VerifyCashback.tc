@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text 'Tipe Pembayaran :  Mandiri E-Cash' is appeared</description>
+   <name>Member_OrderDetail_VerifyCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63c53d57-1ce1-4d8c-82c5-285f592fdbbb</testCaseGuid>
+</TestCaseEntity>

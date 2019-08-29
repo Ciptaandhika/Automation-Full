@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. seller access seller center, then go to 'Produk Dijual'
+2. select one product which want to modified by click 'Edit' button
+3. then change category prroduct by click button 'Change'
+4. choose one category product</description>
+   <name>Seller_Edit_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7665b3d-d76a-4455-ab9f-373193a8b75d</testCaseGuid>
+</TestCaseEntity>

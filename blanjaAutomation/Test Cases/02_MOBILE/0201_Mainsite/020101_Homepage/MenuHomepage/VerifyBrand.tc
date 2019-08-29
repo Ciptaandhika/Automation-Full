@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi menu brand</description>
+   <name>VerifyBrand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa7cd376-9157-48f2-82af-75e19761bfaa</testCaseGuid>
+</TestCaseEntity>

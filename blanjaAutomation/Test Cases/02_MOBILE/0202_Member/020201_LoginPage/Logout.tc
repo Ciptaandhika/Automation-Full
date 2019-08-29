@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. logout
+
+jika and ingin keluar dari akun ini click sini saja bosss</description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3082fa4-0622-4217-9552-59ac5bee576b</testCaseGuid>
+</TestCaseEntity>

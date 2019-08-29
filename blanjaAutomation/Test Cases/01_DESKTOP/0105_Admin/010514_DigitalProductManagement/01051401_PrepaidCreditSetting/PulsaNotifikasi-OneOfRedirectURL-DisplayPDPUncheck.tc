@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pulsa Admin
+
+Admin harus dapat menampilkan notifikasi jika Redirect URL kosong dan Display On PDP unchecked
+
+Step :
+1. Input SKU Id kemudian tekan enter
+2. Nilai Top Up, Operator Name, dan Provider Name akan terisi otomatis ketika admin tekan enter di kolom sku id
+3. Input Type = Pulsa/Paket Data
+4. Untick pada checkbox Display On, agar produk tidak dapat di tampilkan lewat PDP
+5.Tambahkan Redirect URL di desktop dan mweb
+6. Pilih Show public = Yes
+7. Klik tombol Create Setting</description>
+   <name>PulsaNotifikasi-OneOfRedirectURL-DisplayPDPUncheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56ea86a7-591a-4661-9a4f-78ca01c2146d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify semua element</description>
+   <name>Verify_AddLandingPage(Pulang-Pergi)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e36aac5-36da-44a6-887b-614c789a93ea</testCaseGuid>
+</TestCaseEntity>

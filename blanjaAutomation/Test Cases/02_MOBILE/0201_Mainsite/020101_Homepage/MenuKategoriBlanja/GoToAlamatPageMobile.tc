@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access m.blanja.com
+2. Go to alamat page</description>
+   <name>GoToAlamatPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a5306d8-0f39-4855-bcc5-a00d9f35504f</testCaseGuid>
+</TestCaseEntity>

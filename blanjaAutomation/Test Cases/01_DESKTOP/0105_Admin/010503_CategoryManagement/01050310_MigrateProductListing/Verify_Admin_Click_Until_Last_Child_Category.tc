@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Note :
+
+Pada case ini sample kategori yang digunakan adalah computer
+
+- klik  Main Root di current category
+- klik kategori computer dan laptop
+- klik kategori Laptop
+- klik kategori laptop gaming
+
+verify last child kategori laptop gaming</description>
+   <name>Verify_Admin_Click_Until_Last_Child_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>198dddb9-a8df-4fe4-8d91-33124c9bc0e0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>QR code sticker is exist</description>
+   <name>verifyCodeSticker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40f0e1b1-b9a0-49c7-aef1-62ae492017a9</testCaseGuid>
+</TestCaseEntity>

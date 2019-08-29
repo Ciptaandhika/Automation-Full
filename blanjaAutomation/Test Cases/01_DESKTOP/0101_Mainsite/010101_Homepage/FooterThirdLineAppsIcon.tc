@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover and click icon Google Play
+Verify URL
+Hover and click AppStore
+Verify URL</description>
+   <name>FooterThirdLineAppsIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9eab57c7-95ac-41e4-8087-5e329b9269db</testCaseGuid>
+</TestCaseEntity>

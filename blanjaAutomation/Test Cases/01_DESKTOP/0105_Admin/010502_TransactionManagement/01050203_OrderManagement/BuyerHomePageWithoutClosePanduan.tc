@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Klik User Account
+2. Go to Blanjaan Saya Page</description>
+   <name>BuyerHomePageWithoutClosePanduan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d92185cc-4159-460f-9b7d-318b426e70f0</testCaseGuid>
+</TestCaseEntity>

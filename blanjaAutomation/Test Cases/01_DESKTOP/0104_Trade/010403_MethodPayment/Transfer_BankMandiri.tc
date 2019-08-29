@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- click transfer bank mandiri
+- click lanjutkan pembayaran</description>
+   <name>Transfer_BankMandiri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ea47ba2-0748-44dc-ae96-fd3fd3b1ae4c</testCaseGuid>
+</TestCaseEntity>

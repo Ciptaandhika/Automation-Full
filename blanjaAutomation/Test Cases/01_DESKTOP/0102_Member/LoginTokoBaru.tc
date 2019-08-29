@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set username.
+Set password (invalid).
+Click masuk.</description>
+   <name>LoginTokoBaru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aae8f1d2-b124-4c55-8fc3-06f2b38ed11f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PCP page
+   - Produk Digital</description>
+   <name>GoToPDPPage(ProdukDigital)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da5dbe11-689d-4584-b8e7-226f0ce3ff66</testCaseGuid>
+</TestCaseEntity>

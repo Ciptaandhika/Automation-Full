@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check kwh and token in order details</description>
+   <name>CheckkWhToken</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfe2274d-900e-4f74-95a1-f7c04562324e</testCaseGuid>
+</TestCaseEntity>

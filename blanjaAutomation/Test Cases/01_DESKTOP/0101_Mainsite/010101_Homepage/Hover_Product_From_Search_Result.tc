@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Navigate ke homepage (www.bljstaging.com)
+- input keyword warung
+- klik cari / search
+- klik tab toko blanja pada hasil pencarian
+- hover salah satu product berdasarkan search result
+- verify product clickable
+- verify product present
+</description>
+   <name>Hover_Product_From_Search_Result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9af383df-5ff8-4380-a180-76ca5c64dbb6</testCaseGuid>
+</TestCaseEntity>

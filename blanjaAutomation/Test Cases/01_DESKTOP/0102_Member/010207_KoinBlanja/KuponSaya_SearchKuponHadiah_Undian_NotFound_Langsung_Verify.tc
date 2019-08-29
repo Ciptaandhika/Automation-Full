@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to kupon saya
+search voucher
+verify</description>
+   <name>KuponSaya_SearchKuponHadiah_Undian_NotFound_Langsung_Verify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>045b376c-ff8b-4b29-a75b-bfaddaaa131d</testCaseGuid>
+</TestCaseEntity>

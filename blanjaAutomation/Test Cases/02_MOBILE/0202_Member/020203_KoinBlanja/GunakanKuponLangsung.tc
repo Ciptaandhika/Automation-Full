@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Gunakan Sekarang pada halaman kupon Hadiah Langsung</description>
+   <name>GunakanKuponLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8487be89-0b76-4cc5-9549-a94ba076477b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>show normal shipping fee when buyer select area out of coverage by blanja as shipping address</description>
+   <name>PDPFreeShippingOutCoverage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>addc76e7-8b7f-41f5-a2af-35354c2f72ce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Homepage</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>958c5fc5-e097-4803-867b-8e6e407e548a</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>https%3A%2F%2Fwww.bljstaging.com%2Fkatalog%2Fp%2Fcom%2Fmifi-modem-wifi-router-4g-unlock-huawei-e5673-free-telkomsel-kuota14gb-15810093</data>
+   <data>https%3A%2F%2Fwww.bljstaging.com%2Fkatalog%2Fp%2Fhob%2Fsony-ps4-super-robot-wars-og-the-moon-dwellers-15394752</data>
+   <data>null</data>
+   <data>null</data>
+   <data>null</data>
+   <data>null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>URL</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

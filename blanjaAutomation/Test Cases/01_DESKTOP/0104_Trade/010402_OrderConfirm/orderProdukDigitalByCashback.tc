@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Lanjutkan Pembayaran
+Click slider Cashback
+Delay
+Set text nominal
+Click button Konfirmasi Pembayaran
+Delay
+Get URL
+Verify Equal</description>
+   <name>orderProdukDigitalByCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a3d4104-f88b-4d92-a8ff-e198b33525cb</testCaseGuid>
+</TestCaseEntity>

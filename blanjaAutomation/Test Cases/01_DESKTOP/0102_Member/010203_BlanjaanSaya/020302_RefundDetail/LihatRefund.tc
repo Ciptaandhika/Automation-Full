@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Refund Ditangguhkan/Lihat Refund page</description>
+   <name>LihatRefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fd925d0-cb42-4e4e-8a37-7f9d3702c58d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi stok habis di cart</description>
+   <name>VerifyStockHabis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac508334-c21e-4e28-85a4-6512d844322f</testCaseGuid>
+</TestCaseEntity>

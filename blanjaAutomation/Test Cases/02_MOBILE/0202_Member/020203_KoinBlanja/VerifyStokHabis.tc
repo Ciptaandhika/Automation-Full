@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element stok habis, campaign kosong.</description>
+   <name>VerifyStokHabis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac04d84f-0993-4e55-830d-863eafbe1d78</testCaseGuid>
+</TestCaseEntity>

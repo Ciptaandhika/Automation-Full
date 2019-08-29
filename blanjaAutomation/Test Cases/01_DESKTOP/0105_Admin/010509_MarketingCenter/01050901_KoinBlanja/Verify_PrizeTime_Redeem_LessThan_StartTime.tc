@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+ 2. Akses menu Marketing Center >> Koin Blanja
+ 3. Klik Create Campaign
+ 4. Input Campaign Name
+ 5. Pilih Campaign Time : 26 Februari 2019 - 28 Februari 2019
+ 6. Pilih Points Expiration Time :1 Maret 2019
+ 7. Untick Use Redeem Time
+ 8. Input threshold
+ 9. Tick Applies Multiply
+ 10. Use Criteria = No
+ 12.Input data lottery prize
+ -Prize ke-1 - Input Title - Upload Image size 390 x 200 format jpg - Input stock dengan qty = 10 - Input exchange Koin = 0 - Pilih start time : 24 Februari 2019 - Pilih end time : 25 Februari 2019</description>
+   <name>Verify_PrizeTime_Redeem_LessThan_StartTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83af810c-7722-4dbc-b202-04b357ea6034</testCaseGuid>
+</TestCaseEntity>

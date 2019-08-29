@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>kondisi 1 :
+- jika belum pernah memilih type store maka pilih business store
+- isi semua form di halaman registration
+- klik lanjutkan dan input kondisi error untuk upload SIUP
+- verifikasi label warning error 
+kondisi 2 : 
+- akun sudah pernah memilih type store (Business Store)
+- isi semua form di halaman registration
+- klik lanjutkan dan input kondisi error untuk upload SIUP
+- verifikasi label warning error 
+
+Kondisi 3 :
+
+- jika sudah pernah memilih type store dan mengisi form maka   langsung  input kondisi error untuk upload SIUP
+- verifikasi label warning error </description>
+   <name>BStore_Go_To_Validation_Error_Upload_SIUP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16417352-2a78-46dd-a795-f796f539d8c4</testCaseGuid>
+</TestCaseEntity>

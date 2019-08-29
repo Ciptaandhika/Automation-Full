@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+<<<<<<< HEAD
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik button Kode Voucher
+=======
+   <description>- Klik button Kode Voucher
+>>>>>>> 2d191b964116dd059ae60ede50d3c503db565162
+- Set text Kode Voucher
+- Klik button Gunakan
+- Klik dropdown VA
+- Klik slider Dompet Blanja
+- Set text password Blanja
+- Klik txtBoxDompetBlanjaTerpakai
+- Send keys DELETE
+- Send keys BACK_SPACE
+- Send keys nominal
+- Klik button Bayar
+- Get URL
+- Verify contains</description>
+   <name>Digital_UniqueCoupon_DompetBlanja_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2396f937-a933-4c8e-9e60-4b75d4954b83</testCaseGuid>
+</TestCaseEntity>

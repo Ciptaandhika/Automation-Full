@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See advanytage selling product in blanja.com.</description>
+   <name>VerifyAdvantageSellingProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bee81010-bebf-482d-9356-c64e62507c70</testCaseGuid>
+</TestCaseEntity>

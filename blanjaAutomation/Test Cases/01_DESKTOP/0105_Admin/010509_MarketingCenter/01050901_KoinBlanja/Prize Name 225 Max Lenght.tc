@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. input Prize Name >1 character, max = 255 character
+2. input Prize >255 character
+3. input special character, ex : apostrope (')
+4. input Prize Name = empty</description>
+   <name>Prize Name 225 Max Lenght</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78320ec7-3b8a-4504-a829-ab22cd1a4f4c</testCaseGuid>
+</TestCaseEntity>

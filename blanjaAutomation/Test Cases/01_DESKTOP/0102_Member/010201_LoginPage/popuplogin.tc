@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pop up login opened
+Set text username
+Set text password
+Click button Masuk</description>
+   <name>popuplogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e39259e1-ff3e-4eb2-8f51-19df2782fdf8</testCaseGuid>
+</TestCaseEntity>

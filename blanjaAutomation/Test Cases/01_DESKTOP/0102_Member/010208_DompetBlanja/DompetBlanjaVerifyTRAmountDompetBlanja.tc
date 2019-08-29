@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On Balance &amp; Withdraw, system will show total buyer paid 
+2. On Balance &amp; Withdraw, system will show take rate amount deducted by system</description>
+   <name>DompetBlanjaVerifyTRAmountDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f74b9498-01b7-4e53-a2e8-aa72dcd5f126</testCaseGuid>
+</TestCaseEntity>

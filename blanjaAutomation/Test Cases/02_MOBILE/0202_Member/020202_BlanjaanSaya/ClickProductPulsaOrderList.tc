@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click product pulsa from order list page</description>
+   <name>ClickProductPulsaOrderList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff4ff804-e017-454b-b9bc-d8ca14041af9</testCaseGuid>
+</TestCaseEntity>

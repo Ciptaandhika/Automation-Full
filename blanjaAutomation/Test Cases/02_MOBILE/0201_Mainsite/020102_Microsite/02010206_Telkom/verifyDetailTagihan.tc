@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Verify element present
+Verify element present</description>
+   <name>verifyDetailTagihan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30fff8ee-629b-4a56-a67b-f0ac05ac9e2e</testCaseGuid>
+</TestCaseEntity>

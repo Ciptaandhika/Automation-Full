@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik menu dompet blanja
+sistem akan memverifikasi dompet blanja</description>
+   <name>VerifyDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1cd129d-ed29-444f-9125-5c7da3867864</testCaseGuid>
+</TestCaseEntity>

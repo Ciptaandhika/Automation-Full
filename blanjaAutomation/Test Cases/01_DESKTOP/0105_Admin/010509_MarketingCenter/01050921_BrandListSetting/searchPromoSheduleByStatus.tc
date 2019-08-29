@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose status
+click btn search</description>
+   <name>searchPromoSheduleByStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcb5d1eb-0d24-4337-96f7-9ea1a9e9ba07</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- set extra point untuk method payment 5
+- isi field lottery prize
+- klik save</description>
+   <name>Create_LotteryPrize_FinpayMethodPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7632759-f989-4272-8c49-6f821c8559c0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify validation different store ninja xpress</description>
+   <name>VerifyValidationDifferentStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce98aaf3-02e5-48a0-936e-b1ff25cf3325</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click Alamat Pengiriman.
+fill first name buyer.
+fill last name buyer.
+fill shipping address buyer.
+fill province's buyer.
+fill city's buyer.
+fill sub-district's buyer.
+fill code post's buyer.
+fill phone number's buyer.
+click choose location.
+fill Cari Alamat
+click Use Location.
+click Simpan.</description>
+   <name>SellerInputMandatoryFieldsWithPinPointNotMatch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12d5006d-3d34-4d88-b6fb-ac8373494f9d</testCaseGuid>
+</TestCaseEntity>

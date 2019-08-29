@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+choose jasa pengiriman go send.
+</description>
+   <name>JarakdenganPenjualJauh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>697c7c8c-b00d-43fd-b36b-80632cf9bb90</testCaseGuid>
+</TestCaseEntity>

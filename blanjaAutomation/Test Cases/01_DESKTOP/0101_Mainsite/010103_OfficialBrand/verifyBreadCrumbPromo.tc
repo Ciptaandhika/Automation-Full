@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present</description>
+   <name>verifyBreadCrumbPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5882087-60c7-46f0-99bd-cfaab9cd4658</testCaseGuid>
+</TestCaseEntity>

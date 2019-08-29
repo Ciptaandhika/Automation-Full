@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify menggunakan bank promo dengan include kategori digital product</description>
+   <name>Verify_Bank_Promotion_Include_DigitalProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eac7d08-4010-401b-b90f-1d62ff7123d5</testCaseGuid>
+</TestCaseEntity>

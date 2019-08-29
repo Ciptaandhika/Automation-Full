@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product Management</description>
+   <name>ClickProductManagement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7c52df0-9b1d-4d5f-a16b-37c745618b3e</testCaseGuid>
+</TestCaseEntity>

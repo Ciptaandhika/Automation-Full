@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search by choose category 
+ie : Ibu, Bayi &amp; Anak 
+3. click selected product</description>
+   <name>PilihProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14c79906-793b-4e1f-a718-4fce07efa986</testCaseGuid>
+</TestCaseEntity>

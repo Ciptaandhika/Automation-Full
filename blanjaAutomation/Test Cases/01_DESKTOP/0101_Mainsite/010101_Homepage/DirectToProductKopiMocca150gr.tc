@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer redirect to product</description>
+   <name>DirectToProductKopiMocca150gr</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e07c32d-5c0d-4089-84bc-e3b85f85febe</testCaseGuid>
+</TestCaseEntity>

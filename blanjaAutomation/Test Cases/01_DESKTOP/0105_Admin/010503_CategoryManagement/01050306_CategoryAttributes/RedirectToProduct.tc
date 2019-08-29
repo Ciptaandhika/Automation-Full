@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click ROOT.
+click Mom, Baby, Kids.
+click Diapers.
+click Clothes Diapers.
+choose Product.
+click Link Product.</description>
+   <name>RedirectToProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27cc190f-ab01-4da9-a965-5df85441186b</testCaseGuid>
+</TestCaseEntity>

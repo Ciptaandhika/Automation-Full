@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer click hitung pengiriman and choose gosend</description>
+   <name>CheckHitungGOSEND</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1d1510a-58fb-4f20-bd55-baa2065b27fa</testCaseGuid>
+</TestCaseEntity>

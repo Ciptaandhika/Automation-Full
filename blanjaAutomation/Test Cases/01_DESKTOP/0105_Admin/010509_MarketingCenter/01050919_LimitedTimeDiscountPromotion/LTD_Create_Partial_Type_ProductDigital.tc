@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- create LTD untuk product digital (voucher blanja)</description>
+   <name>LTD_Create_Partial_Type_ProductDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e407414-bae6-4e09-9d1e-2fce0dee4007</testCaseGuid>
+</TestCaseEntity>

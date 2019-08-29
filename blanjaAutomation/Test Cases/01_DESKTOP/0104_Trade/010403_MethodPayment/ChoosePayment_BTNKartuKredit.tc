@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BTN Kartu Kredit
+Get Label BTN Kartu Kredit
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BTNKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8103e55-1887-4402-a4aa-9387f61d2d1a</testCaseGuid>
+</TestCaseEntity>

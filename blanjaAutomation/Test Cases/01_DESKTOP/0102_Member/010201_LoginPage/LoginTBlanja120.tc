@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login sebagai user tblanja120</description>
+   <name>LoginTBlanja120</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3320a5e-3b63-47a7-b31f-e574d2cf2709</testCaseGuid>
+</TestCaseEntity>

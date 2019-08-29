@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User go to PDP
+2. User click button add to Favorit
+Ensure user can add product to favorit</description>
+   <name>AddProduk_Favorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>262a9e6d-575e-4bc1-a533-b6f506e15285</testCaseGuid>
+</TestCaseEntity>

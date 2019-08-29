@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cari barang onshelf</description>
+   <name>SearchDigitalProductProductOnShelf</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24f5b2c6-3d43-4949-bbe8-366692b8750e</testCaseGuid>
+</TestCaseEntity>

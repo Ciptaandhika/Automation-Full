@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pilih start date &amp; time
+Centang No Expired atau pilih End Time
+Input multiple store id di Store List yang dipisahkan dengan koma (,)
+Klik Preview Store
+Admin tidak mengisi Notes
+Klik Save</description>
+   <name>EBVAddMultipleStorePeriodeTertentuWithoutNote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e01f10a0-343a-4941-8f8b-5ce3fa331390</testCaseGuid>
+</TestCaseEntity>

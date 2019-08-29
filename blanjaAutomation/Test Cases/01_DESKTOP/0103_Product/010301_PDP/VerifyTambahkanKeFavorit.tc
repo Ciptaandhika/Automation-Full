@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element button 'Tambahkan ke Favorit'
+Verify text 'Tambahkan ke Favorit'</description>
+   <name>VerifyTambahkanKeFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f92cf2b9-7b2e-4515-97d1-92e974ee69ca</testCaseGuid>
+</TestCaseEntity>

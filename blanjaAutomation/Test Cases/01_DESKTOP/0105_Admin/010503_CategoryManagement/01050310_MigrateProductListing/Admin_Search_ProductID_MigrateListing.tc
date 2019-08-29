@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik  Main Root di current category
+- klik kategori computer dan laptop
+- klik kategori Laptop
+- klik kategori laptop gaming
+- search product ID 23265727
+- verify product ID tersebut</description>
+   <name>Admin_Search_ProductID_MigrateListing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9902388-1d13-4371-b7bf-a87829be296b</testCaseGuid>
+</TestCaseEntity>

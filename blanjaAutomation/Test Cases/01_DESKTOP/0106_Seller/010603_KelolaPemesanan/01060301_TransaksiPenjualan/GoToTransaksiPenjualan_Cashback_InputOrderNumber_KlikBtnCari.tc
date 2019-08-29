@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin-Transaksi Penjualan
+Masukkan nomor order
+Klik tombol Cari
+Verify payment methode = 'Kredivo'
+Verify status 'Paid'
+Klik 'Detail Pesanan'</description>
+   <name>GoToTransaksiPenjualan_Cashback_InputOrderNumber_KlikBtnCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cfc22cf-f59c-470f-9bd4-829365f042d7</testCaseGuid>
+</TestCaseEntity>

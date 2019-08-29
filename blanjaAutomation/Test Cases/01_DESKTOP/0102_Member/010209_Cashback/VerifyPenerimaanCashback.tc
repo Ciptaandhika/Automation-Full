@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi nominal cashbac yang diterima setelah melakukan refund</description>
+   <name>VerifyPenerimaanCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc8d382f-4c43-42b9-a6ae-b55e8ec68020</testCaseGuid>
+</TestCaseEntity>

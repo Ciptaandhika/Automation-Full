@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click href storelink</description>
+   <name>clickStoreLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1907ab87-7e4b-41e2-8698-a1d52ee6281e</testCaseGuid>
+</TestCaseEntity>

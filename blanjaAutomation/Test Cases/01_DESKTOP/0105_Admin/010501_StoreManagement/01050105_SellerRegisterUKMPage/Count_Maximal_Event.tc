@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses admin
+2.  verify setiap pagination hanya dapat menampung maximal 15 event</description>
+   <name>Count_Maximal_Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de1ba292-6374-4df6-8c8a-b50e0fb86b77</testCaseGuid>
+</TestCaseEntity>

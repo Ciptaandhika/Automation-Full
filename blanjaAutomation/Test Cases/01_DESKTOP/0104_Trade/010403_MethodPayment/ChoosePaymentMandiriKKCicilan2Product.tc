@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page with online payment method
+2. click on 'Confirm' button
+3. payment method will display Credit card installment, and choose existing installment 
+4. if choose Credit card installment payment method then confirm, system will display sprint asia payment page</description>
+   <name>ChoosePaymentMandiriKKCicilan2Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45f5c639-00cf-4fee-858a-7837f13f7bd1</testCaseGuid>
+</TestCaseEntity>

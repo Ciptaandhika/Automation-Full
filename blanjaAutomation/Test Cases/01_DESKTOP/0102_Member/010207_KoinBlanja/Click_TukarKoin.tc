@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik button Tukar Koin</description>
+   <name>Click_TukarKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60b08c99-13d6-4257-baf3-2d144ab5bb2e</testCaseGuid>
+</TestCaseEntity>

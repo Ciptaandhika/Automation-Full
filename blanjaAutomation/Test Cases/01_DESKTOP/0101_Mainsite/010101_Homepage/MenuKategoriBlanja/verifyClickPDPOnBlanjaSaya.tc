@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PDP url is correct</description>
+   <name>verifyClickPDPOnBlanjaSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f181ce8b-b27f-49a5-9b4c-859f90ee20cc</testCaseGuid>
+</TestCaseEntity>

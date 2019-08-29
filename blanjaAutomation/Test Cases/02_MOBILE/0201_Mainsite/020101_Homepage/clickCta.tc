@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href
+Get URL
+Verify equal</description>
+   <name>clickCta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5df4bd7-e90b-4fff-a458-1f5c4b854e28</testCaseGuid>
+</TestCaseEntity>

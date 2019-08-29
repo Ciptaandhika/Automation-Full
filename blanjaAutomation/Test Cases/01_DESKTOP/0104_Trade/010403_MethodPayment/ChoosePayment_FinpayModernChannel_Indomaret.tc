@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Indomaret
+Get Label Indomaret
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_FinpayModernChannel_Indomaret</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76ce319b-3d98-4779-a800-53525668a916</testCaseGuid>
+</TestCaseEntity>

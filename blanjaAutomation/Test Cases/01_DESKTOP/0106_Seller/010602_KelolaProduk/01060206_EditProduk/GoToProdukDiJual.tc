@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go To Produk yang di jual</description>
+   <name>GoToProdukDiJual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9e893bf-8bb0-4112-bcb2-9b986dd2e677</testCaseGuid>
+</TestCaseEntity>

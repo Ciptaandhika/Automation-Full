@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to category 'Kesehatan &amp; Kecantikan'</description>
+   <name>GoToPDPPage(IBA)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04e0d6ae-83d6-49d4-a000-eeff1e0016ea</testCaseGuid>
+</TestCaseEntity>

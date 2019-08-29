@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search store name.
+Click toko blanja.
+See warung has no transaction.</description>
+   <name>SearchStoreHasNoTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32f7356e-8353-4f30-bc53-423d96f91720</testCaseGuid>
+</TestCaseEntity>

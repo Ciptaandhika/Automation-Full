@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik checkbox
+- klik lanjutkan
+- delay 60 
+- verify kirim ulang muncul kembali</description>
+   <name>BStore_VerifyOTP_ButtonResend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0287218e-f0ca-481e-80ff-f22e8540986c</testCaseGuid>
+</TestCaseEntity>

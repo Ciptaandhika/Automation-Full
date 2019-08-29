@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login as Admin.
+Click Instant Courier Menu.
+Uncheck All Stores.</description>
+   <name>AdminUnCheckAllStores</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d2a5cbd-35ea-424c-897c-e2229d23f740</testCaseGuid>
+</TestCaseEntity>

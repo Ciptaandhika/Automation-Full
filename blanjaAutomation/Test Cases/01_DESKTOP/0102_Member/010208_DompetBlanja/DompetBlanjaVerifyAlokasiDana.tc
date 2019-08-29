@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Di halaman penarikan dana, menampilkan wording &quot;alokasi virtual account&quot;
+2. Jumlah VA yang digunakan oleh user tercatat dengan benar
+3. Pastikan sisa saldo dan sisa saldo yang dapat ditarik, nilai-nya sama.
+Sisa saldo = sisa saldo yang dapat ditarik = existing saldo - 300
+4. Freezed amount tidak di tampilkan di halaman penarikan dana
+
+Celurut Anonim telah meninggalkan dokumen.</description>
+   <name>DompetBlanjaVerifyAlokasiDana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa1d7311-e8f8-4254-ab34-193f725b020c</testCaseGuid>
+</TestCaseEntity>

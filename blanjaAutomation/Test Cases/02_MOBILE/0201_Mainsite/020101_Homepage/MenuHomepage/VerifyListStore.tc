@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan list store</description>
+   <name>VerifyListStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d05b00b3-c91d-4fbc-b469-70ed1e249c94</testCaseGuid>
+</TestCaseEntity>

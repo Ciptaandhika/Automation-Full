@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk semua produk: Kurir Standar
+- Klik tab Bank BNI
+- Pilih Transfer bank
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_BNITrf_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>546e2b95-fb6e-4f50-80d2-50be342222e4</testCaseGuid>
+</TestCaseEntity>

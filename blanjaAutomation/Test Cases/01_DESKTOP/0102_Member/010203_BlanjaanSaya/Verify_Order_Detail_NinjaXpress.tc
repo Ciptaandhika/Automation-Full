@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Log in as buyer
+ 2. Click &quot;Blanjaan saya&quot;
+ 3. See the order using ninja Xpress in order list</description>
+   <name>Verify_Order_Detail_NinjaXpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41d76ce8-e73a-4c34-9844-051112187bf9</testCaseGuid>
+</TestCaseEntity>

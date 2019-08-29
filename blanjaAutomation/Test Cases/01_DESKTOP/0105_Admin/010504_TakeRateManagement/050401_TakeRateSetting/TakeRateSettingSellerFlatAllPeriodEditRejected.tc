@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Input Period = All
+2. Take rate = Flat
+3. Scope = Category Group, and select group name
+4. Click Save button</description>
+   <name>TakeRateSettingSellerFlatAllPeriodEditRejected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9485885-71a1-41e6-836f-8729664a1f49</testCaseGuid>
+</TestCaseEntity>

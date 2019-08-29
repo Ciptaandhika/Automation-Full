@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select payment method CC - Midtrans 
+ ie : payment method = 'Kartu Kredit'
+ 2. Select promotion on dropdown bank payment promotion
+ 3. Klik button 'Bayar'
+
+System should display error message &quot;Maaf, Anda sudah menggunakan promo ini&quot;</description>
+   <name>Verify_LimitPerUser_BankPromotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f6a3d01-55ae-4ad3-b277-5b2f6789481d</testCaseGuid>
+</TestCaseEntity>

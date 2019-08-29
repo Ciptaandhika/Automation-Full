@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify ketika klik  Message Buyer / Hubungi Pembeli maka akan muncul pop up send message</description>
+   <name>Verify_Send_Message_Appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a1890b2-ce02-4326-b774-82b201fd08e0</testCaseGuid>
+</TestCaseEntity>

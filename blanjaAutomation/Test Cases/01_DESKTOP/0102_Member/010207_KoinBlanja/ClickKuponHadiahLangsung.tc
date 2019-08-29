@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Kupon Undian</description>
+   <name>ClickKuponHadiahLangsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af53d62d-14a2-4bc5-8e79-1a19748a3ac4</testCaseGuid>
+</TestCaseEntity>

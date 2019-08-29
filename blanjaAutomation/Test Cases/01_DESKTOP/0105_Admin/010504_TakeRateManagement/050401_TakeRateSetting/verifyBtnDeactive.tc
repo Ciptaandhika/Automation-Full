@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify btn deactive clickable</description>
+   <name>verifyBtnDeactive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8971126-d0df-4957-8c86-c023f252c658</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access Login box from homepage banner
+2. User Click Link &quot;Daftar Disini&quot;
+3. User Click button &quot; Daftar dengan Google&quot;
+Ensure user can register Blanja.com from Google</description>
+   <name>RegistserBlanjaFromGoogle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dd7da50-af4a-4fbb-9864-af0022979a9c</testCaseGuid>
+</TestCaseEntity>

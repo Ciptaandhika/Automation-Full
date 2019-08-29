@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Pilih words
+6. Isi description
+7. Submit</description>
+   <name>addWords</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51c7f9f7-ebc4-497c-8966-5c20a5bcd48a</testCaseGuid>
+</TestCaseEntity>

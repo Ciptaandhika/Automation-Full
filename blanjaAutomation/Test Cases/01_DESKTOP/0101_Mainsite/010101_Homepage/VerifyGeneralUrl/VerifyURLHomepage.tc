@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify URL Homepage</description>
+   <name>VerifyURLHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccf00366-db21-4702-89ca-1a8091cd1ca4</testCaseGuid>
+</TestCaseEntity>

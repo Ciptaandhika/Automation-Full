@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Navigate ke URL https://seller.bljstaging.com/registration/shop/perusahaan/success</description>
+   <name>BStore_Navigate_To_Success_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>662bc435-dfee-4617-9863-1011b16d154b</testCaseGuid>
+</TestCaseEntity>

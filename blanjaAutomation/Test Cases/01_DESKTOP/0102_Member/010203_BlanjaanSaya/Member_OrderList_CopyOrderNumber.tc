@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To url Member Blanjaan Saya
+2. Klik button close TCash
+3. Get text last order number
+5. Verify text present 'Pembayaran :BCA VA'</description>
+   <name>Member_OrderList_CopyOrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8f35576-5ad1-4706-a2ff-0eabe4422010</testCaseGuid>
+</TestCaseEntity>

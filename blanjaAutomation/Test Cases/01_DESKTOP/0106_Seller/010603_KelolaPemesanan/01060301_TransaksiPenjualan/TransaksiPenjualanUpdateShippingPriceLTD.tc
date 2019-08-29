@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To URL Transaksi Penjualan
+2. Isi Nomor Order
+3. Klik tombol Cari
+4. Order list Extend Processing Time button should be hidden
+
+</description>
+   <name>TransaksiPenjualanUpdateShippingPriceLTD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9cc2118-1358-4a40-ab35-4b08e246f24e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click menu Search Product Keyword Boost</description>
+   <name>goToSearchProductKeywordBoost</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45ffc0db-8598-4ad9-8a04-d0568b0be588</testCaseGuid>
+</TestCaseEntity>

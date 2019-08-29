@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Order list paid order
+2. Bila terdapat popup fitur baru akan accept
+3. Verify Countdown to ship order will be able to show</description>
+   <name>SellerTradesOrderListVerifyCountdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44c6d905-dd84-4abc-a499-3408d090aee2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click href Brand
+Delay
+Click href Lihat Semua
+Get URL
+Verify Equal
+Verify Element Present</description>
+   <name>goToOfficialBrand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faca1dbc-3bc0-4dd8-91b2-cee1e8ac0595</testCaseGuid>
+</TestCaseEntity>

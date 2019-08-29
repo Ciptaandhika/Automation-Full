@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer go to bantuan ninja xpress</description>
+   <name>GoTBantuanNinjaXpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbd6a7dd-cb49-468f-b0b0-7087285ef097</testCaseGuid>
+</TestCaseEntity>

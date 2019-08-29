@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go To Url Kelola Jasa Pengiriman</description>
+   <name>GoToKelolaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d369949f-e496-47e9-8de3-c5b4f21c6fce</testCaseGuid>
+</TestCaseEntity>

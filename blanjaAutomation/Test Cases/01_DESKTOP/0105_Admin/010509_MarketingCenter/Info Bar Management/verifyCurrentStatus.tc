@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present status</description>
+   <name>verifyCurrentStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>968c68b3-d990-48cd-886b-48a597c647db</testCaseGuid>
+</TestCaseEntity>

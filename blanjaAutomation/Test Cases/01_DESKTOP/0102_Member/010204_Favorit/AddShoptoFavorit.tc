@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure user can add shop to favorit
+1. User go to Store Page 
+2. User click button add to Favorit
+Ensure user can add shop to favorit</description>
+   <name>AddShoptoFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cf43cb5-f95b-4df7-bffc-1898189b40fd</testCaseGuid>
+</TestCaseEntity>

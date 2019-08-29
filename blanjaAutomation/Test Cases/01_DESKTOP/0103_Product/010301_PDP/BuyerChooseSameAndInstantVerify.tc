@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+choose jasa pengiriman GO-SEND.
+choose jenis pengiriman Same Day Delivery or Instant Delivery.</description>
+   <name>BuyerChooseSameAndInstantVerify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1b1cf75-8ef7-4520-a44f-39432bda89c1</testCaseGuid>
+</TestCaseEntity>

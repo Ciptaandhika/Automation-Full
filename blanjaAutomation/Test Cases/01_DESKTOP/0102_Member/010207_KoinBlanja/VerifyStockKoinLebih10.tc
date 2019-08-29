@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Hadiah Langsung.
+Click Tukar.</description>
+   <name>VerifyStockKoinLebih10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0ed7c1a-a713-480a-825c-200d03f85612</testCaseGuid>
+</TestCaseEntity>

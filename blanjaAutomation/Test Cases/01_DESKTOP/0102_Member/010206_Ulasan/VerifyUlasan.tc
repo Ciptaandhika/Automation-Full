@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. In header menu, If member click “Ulasan” menu, member will be redirected to “Ulasan” page
+If member click “Ulasan” menu, member will be redirected to “Ulasan” page</description>
+   <name>VerifyUlasan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>246a6c9d-bb78-4708-bcf4-bed11b227cd3</testCaseGuid>
+</TestCaseEntity>

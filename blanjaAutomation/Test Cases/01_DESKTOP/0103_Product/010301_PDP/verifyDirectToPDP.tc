@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify direct to PDP</description>
+   <name>verifyDirectToPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e34f5eed-66f5-4271-9a1a-1ea1f60df451</testCaseGuid>
+</TestCaseEntity>

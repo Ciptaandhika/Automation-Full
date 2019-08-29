@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create specific TR periode for product TR = Product
+ - Periode = 1 april 2017 - 30 april 2017
+ - Take rate = 7%
+ - Scope = Product (product id =)</description>
+   <name>TakeRateSettingProductFlatSpesificTime7Percent - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b00c75f-36c0-4ffb-ad64-fc7dfde4b901</testCaseGuid>
+</TestCaseEntity>

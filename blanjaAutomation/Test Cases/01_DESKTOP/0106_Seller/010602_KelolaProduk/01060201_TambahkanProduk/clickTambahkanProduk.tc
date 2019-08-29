@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition : 
+
+- akun seller01 sudah mempunyai toko dengan nama warungkami
+- pada halaman mystore klik tambahkan produk
+</description>
+   <name>clickTambahkanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cae0b6a9-1871-4c5b-8925-97b96e637f91</testCaseGuid>
+</TestCaseEntity>

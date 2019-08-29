@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi back button enable pada halaman konfirmasi (Business Store)</description>
+   <name>BStore_Verify_Back_Button_Enabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d53dc1ab-6034-485a-bb56-4740201466db</testCaseGuid>
+</TestCaseEntity>

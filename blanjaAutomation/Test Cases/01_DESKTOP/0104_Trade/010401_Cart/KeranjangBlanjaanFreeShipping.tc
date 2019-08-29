@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik troli
+verify ongos kirim</description>
+   <name>KeranjangBlanjaanFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcaa9d40-0928-4a4c-8237-aa6c60fc9c2c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. get url
+2. verify that url contains 'sucess'
+3. navigate to url order member list
+</description>
+   <name>VerifyRedirectPageCCVendor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62f10c61-cd81-47e7-ab6e-62c208bbcfe9</testCaseGuid>
+</TestCaseEntity>

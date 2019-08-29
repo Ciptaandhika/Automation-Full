@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk semua produk: Kurir Standar
+- Klik tab Bank BNI
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'bni 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_FinpayATM_VerifyCoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c69f1ec3-6999-46be-9503-29f7f87dd8df</testCaseGuid>
+</TestCaseEntity>

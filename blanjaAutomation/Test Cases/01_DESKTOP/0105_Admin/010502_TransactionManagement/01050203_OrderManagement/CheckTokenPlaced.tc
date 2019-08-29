@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify order details (placed)</description>
+   <name>CheckTokenPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dd60925-1fcd-4240-b9ae-83a8dc391e44</testCaseGuid>
+</TestCaseEntity>

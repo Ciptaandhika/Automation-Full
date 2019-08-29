@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bayar di Outlet
+- Pilih opsi 'Indomaret'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_FinpayPosIndonesia_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87b2e228-07a7-445f-b4e0-08dd321d0cb1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment with bni</description>
+   <name>PaymentBNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0aada835-3ace-4959-8619-e20f908f86bf</testCaseGuid>
+</TestCaseEntity>

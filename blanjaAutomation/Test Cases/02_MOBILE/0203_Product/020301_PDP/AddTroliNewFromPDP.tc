@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click tambahkan ke troli
+sistem akan memverifikasi sudah berhasil di tambahkan</description>
+   <name>AddTroliNewFromPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>415daf86-1132-4fcd-81b1-617397fe15b8</testCaseGuid>
+</TestCaseEntity>

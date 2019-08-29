@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+choose jasa pengiriman go send.
+click Blanja Sekarang.</description>
+   <name>InstantCourierFromOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>985d882e-caa5-43ae-b17f-4f31bcfacde1</testCaseGuid>
+</TestCaseEntity>

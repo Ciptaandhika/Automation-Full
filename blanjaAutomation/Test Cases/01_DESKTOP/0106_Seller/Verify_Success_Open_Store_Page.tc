@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi link success open store page ketika member klik lanjutkan   pada halaman konfirmasi</description>
+   <name>Verify_Success_Open_Store_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ddad266-df9b-44a6-9c3b-042e7f963e34</testCaseGuid>
+</TestCaseEntity>

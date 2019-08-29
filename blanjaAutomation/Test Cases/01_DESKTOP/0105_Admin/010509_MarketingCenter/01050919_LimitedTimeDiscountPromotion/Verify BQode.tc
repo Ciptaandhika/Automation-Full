@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text present
+Verify text present</description>
+   <name>Verify BQode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a4887b8-1309-4382-8d21-93125e6528ce</testCaseGuid>
+</TestCaseEntity>

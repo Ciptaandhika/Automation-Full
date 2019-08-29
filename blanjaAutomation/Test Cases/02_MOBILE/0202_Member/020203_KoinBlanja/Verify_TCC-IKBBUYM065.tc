@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Tab Lainnya.
+Set Jumlah Koin.
+Click Button Tukar.
+Verify dengan kondisi :
+ 1. input qty tukar
+ 2. tidak bisa input character/special character
+ 3. bisa input angka di kolom tukar, maksimal 2 digit (50 kupon undian maksimal)
+ 4. koin berubah ke 50 dan tombol + disable
+ 5. Pastikan tombol Tukar disabled ketika qty tukar = empty/null</description>
+   <name>Verify_TCC-IKBBUYM065</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ac78a31-0d6e-4cb6-81af-1fc0d797635d</testCaseGuid>
+</TestCaseEntity>

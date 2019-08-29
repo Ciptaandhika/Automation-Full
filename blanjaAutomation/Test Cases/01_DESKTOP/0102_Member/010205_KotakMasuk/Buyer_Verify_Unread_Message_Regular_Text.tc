@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- buyer klik unread message
+- mark as read salah satu pesan dari seller
+- klik semua pesan
+- verify regular text</description>
+   <name>Buyer_Verify_Unread_Message_Regular_Text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c82c8985-417f-448a-b28f-b2f7e42a25fb</testCaseGuid>
+</TestCaseEntity>

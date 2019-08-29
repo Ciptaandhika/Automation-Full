@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+choose jasa pengiriman Go Send.</description>
+   <name>BuyerChooseGoSend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29a80c1c-2ecd-4e4a-8d30-54858f2f0aa4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button tukar.
+Click ya.
+Verify element pop up.</description>
+   <name>BuyerTukarKoinSaatTerminate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a1a6622-c534-4a91-b69f-88c1f3e4949c</testCaseGuid>
+</TestCaseEntity>

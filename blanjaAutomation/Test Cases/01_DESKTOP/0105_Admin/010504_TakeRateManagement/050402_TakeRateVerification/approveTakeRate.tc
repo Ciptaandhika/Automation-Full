@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click href approve</description>
+   <name>approveTakeRate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6734aea6-64c5-4e6b-aec8-dc9b5864f012</testCaseGuid>
+</TestCaseEntity>

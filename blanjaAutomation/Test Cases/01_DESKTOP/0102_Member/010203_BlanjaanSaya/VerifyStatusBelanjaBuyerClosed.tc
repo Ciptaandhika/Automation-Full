@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify label Status belanja</description>
+   <name>VerifyStatusBelanjaBuyerClosed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>040ac340-8419-4d1a-96b2-db97f905e181</testCaseGuid>
+</TestCaseEntity>

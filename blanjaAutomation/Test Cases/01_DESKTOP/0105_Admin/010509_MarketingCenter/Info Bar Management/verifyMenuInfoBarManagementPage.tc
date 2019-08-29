@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>get url
+verify equal</description>
+   <name>verifyMenuInfoBarManagementPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8288490d-4342-4c08-8a83-9d22b5e1bdb9</testCaseGuid>
+</TestCaseEntity>

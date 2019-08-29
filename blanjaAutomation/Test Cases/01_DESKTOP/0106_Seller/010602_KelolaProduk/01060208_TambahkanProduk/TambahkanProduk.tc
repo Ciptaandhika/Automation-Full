@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add A Product
+btn X halaman Seller
+menuTambah Produk
+Pilih Kategori yang diinginkan
+Button Add Product</description>
+   <name>TambahkanProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>494acf4c-dc88-4018-9af9-a182544d1331</testCaseGuid>
+</TestCaseEntity>

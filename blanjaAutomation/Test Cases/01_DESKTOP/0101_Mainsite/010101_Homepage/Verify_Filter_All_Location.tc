@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click search bar
+2. Input store name
+3. Click Filter Country Indonesia
+4. Verify Lihat Semua Lokasi</description>
+   <name>Verify_Filter_All_Location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14e1f164-3911-4ac3-9d97-9f971f764252</testCaseGuid>
+</TestCaseEntity>

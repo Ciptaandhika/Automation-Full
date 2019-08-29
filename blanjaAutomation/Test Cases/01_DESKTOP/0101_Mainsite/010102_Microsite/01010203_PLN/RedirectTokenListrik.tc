@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill id pelanggan field with correct id pelanggan
+- Click blanja button
+- Redirect to confirmation order page</description>
+   <name>RedirectTokenListrik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62edc155-e536-4f3c-8c47-90c81d437d68</testCaseGuid>
+</TestCaseEntity>

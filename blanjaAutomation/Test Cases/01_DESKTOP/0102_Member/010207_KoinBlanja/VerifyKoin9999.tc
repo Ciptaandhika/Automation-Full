@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify 9999 koin.</description>
+   <name>VerifyKoin9999</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc4c6525-df76-49b8-afa2-2f9a1ec96470</testCaseGuid>
+</TestCaseEntity>

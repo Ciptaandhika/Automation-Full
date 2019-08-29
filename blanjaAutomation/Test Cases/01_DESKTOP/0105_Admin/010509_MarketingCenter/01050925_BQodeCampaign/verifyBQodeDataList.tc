@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify element present
+Verify element present
+Verify element present</description>
+   <name>verifyBQodeDataList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adfcaec5-647b-4dbd-8094-5125b2e89129</testCaseGuid>
+</TestCaseEntity>

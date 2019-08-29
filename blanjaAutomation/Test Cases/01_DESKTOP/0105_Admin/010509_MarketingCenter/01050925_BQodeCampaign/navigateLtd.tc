@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Navigate to URL</description>
+   <name>navigateLtd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2dfaeeb-2ec9-41cb-9150-cf1e42f7f575</testCaseGuid>
+</TestCaseEntity>

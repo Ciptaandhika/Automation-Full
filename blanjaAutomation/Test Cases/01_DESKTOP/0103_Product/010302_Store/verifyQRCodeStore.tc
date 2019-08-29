@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element prese3nt qr code store</description>
+   <name>verifyQRCodeStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b171c7f9-4a5e-4b65-9b87-fee741fab6a0</testCaseGuid>
+</TestCaseEntity>

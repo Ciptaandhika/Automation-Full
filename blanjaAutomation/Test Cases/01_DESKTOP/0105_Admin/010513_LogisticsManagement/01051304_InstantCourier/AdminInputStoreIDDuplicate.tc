@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Instant Courier Menu
+Input store's id
+Click Save
+See Serviceable store list</description>
+   <name>AdminInputStoreIDDuplicate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>673cfe35-567e-4f5d-9996-11bc7515a7a3</testCaseGuid>
+</TestCaseEntity>

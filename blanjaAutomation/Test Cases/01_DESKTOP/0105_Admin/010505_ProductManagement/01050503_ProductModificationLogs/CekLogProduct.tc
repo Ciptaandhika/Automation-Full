@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search product name
+click search
+verify difference</description>
+   <name>CekLogProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e44d35f-dc9e-4f3d-a354-890b4e9073fd</testCaseGuid>
+</TestCaseEntity>

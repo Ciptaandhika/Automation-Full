@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element clickable spanHargaTerendah</description>
+   <name>verifySortingHargaTerendah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60811e06-af32-4a3e-94fc-2c7657913b51</testCaseGuid>
+</TestCaseEntity>

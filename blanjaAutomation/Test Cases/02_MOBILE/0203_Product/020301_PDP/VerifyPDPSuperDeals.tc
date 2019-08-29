@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi produk superdeals</description>
+   <name>VerifyPDPSuperDeals</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31027956-64b0-4393-b2ec-abe5a6e8b3cc</testCaseGuid>
+</TestCaseEntity>

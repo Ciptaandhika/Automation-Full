@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to Kirim Pesan section
+- Sent a message to seller</description>
+   <name>SendPesanFromPDPMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd9fab31-5da4-4ddf-86ba-aa84c4af0aee</testCaseGuid>
+</TestCaseEntity>

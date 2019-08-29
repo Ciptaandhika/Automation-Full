@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BRI Kartu Kredit
+Get Label BRI Kartu Kredit
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BRIKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0058d4b8-4523-4fda-be55-146a6272326e</testCaseGuid>
+</TestCaseEntity>

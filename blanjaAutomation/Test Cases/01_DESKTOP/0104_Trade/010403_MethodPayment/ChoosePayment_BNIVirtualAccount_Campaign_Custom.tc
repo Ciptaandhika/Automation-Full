@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BNI Virtual Account
+Get Label BNI Virutal Account
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BNIVirtualAccount_Campaign_Custom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80a7fb71-34f1-4fff-96b0-a49fc10d6576</testCaseGuid>
+</TestCaseEntity>

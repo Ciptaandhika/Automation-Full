@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Choosing type option from dropdown ddType
+- Fill product name, shop id, information field
+- Upload image
+- Choose radio button option
+- Click submit button</description>
+   <name>AddMasterProductBilling-IndiHome(Upload)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afcdd510-02b5-4734-8eca-0b4a101da0b9</testCaseGuid>
+</TestCaseEntity>

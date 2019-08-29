@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify order blanja yang sudah di bayar (status paid) tidak masuk ke settled amount domplet blanja</description>
+   <name>Verify_Amount_Not_Settled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>075c9bff-31a4-4a28-bad3-cc84de73bab8</testCaseGuid>
+</TestCaseEntity>

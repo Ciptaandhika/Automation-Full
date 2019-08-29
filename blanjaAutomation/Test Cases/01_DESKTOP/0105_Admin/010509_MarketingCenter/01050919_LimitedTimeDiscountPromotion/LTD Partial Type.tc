@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>view LTD
+verify LTD</description>
+   <name>LTD Partial Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e9cc903-1999-49db-93cc-4f73e318981e</testCaseGuid>
+</TestCaseEntity>

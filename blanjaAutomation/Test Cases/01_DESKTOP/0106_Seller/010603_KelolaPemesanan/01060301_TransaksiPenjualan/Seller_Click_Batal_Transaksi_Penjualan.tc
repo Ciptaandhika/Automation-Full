@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Seller go to Seller Center
+2. Open Sold Transaction menu (Transaksi Penjualan)
+3. Go to &quot;Sudah Dibayar&quot; tab
+4. Click button &quot;Upload Nomor Resi&quot;
+5. Click &quot;Pilih File&quot;
+6. Choose file
+7. When confirmation pop up appear, click &quot;Batal&quot;</description>
+   <name>Seller_Click_Batal_Transaksi_Penjualan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f46ed0ba-8f78-4d3b-89e2-7cf72ab4b529</testCaseGuid>
+</TestCaseEntity>

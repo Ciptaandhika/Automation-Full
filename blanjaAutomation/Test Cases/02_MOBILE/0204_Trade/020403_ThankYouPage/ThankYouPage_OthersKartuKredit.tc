@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Sandbox
+Pastikan ada kata-kata &quot;bayarind&quot;
+Verify nominal payment dan installment info tampil</description>
+   <name>ThankYouPage_OthersKartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15c49df3-0bab-4b48-a11c-6e0cdbe273b8</testCaseGuid>
+</TestCaseEntity>

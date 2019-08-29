@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Seller Sub Account
+open browser
+max windows
+go to URLMemberMainsite
+isi txtBoxUsername
+isi txtBoxPassword</description>
+   <name>LoginSubAccountForNewProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>550c3a53-758b-4217-b7ef-122aad003938</testCaseGuid>
+</TestCaseEntity>

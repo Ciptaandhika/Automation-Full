@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Program Name.
+Fill Promotion Name.
+Fill Promotion Time.
+Fill Coverage 3 Areas.
+Fill Max Cover, Promotion Info, and Treshold.
+Fill Partnership.</description>
+   <name>FreeShipping3Areas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>166d27d7-a599-46c2-b69d-ffbea2c1d0c5</testCaseGuid>
+</TestCaseEntity>

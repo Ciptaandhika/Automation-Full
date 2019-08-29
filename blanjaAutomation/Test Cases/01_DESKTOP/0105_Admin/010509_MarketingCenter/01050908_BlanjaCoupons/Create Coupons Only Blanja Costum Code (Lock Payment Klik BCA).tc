@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On web admin, want to create custom code (thematic) 
+Lock Payment select 1 payment method (Ex : Select Only &quot;Klik BCA&quot;)
+
+The same step from point 1 to 13 and from point 15 to 16. Point 14 is below ;
+14. Select one bank (only one payment method) on Lock Payment which is at list of Bank.</description>
+   <name>Create Coupons Only Blanja Costum Code (Lock Payment Klik BCA)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cc0eac4-c0ec-4fce-a0ea-7d5b7349f8fa</testCaseGuid>
+</TestCaseEntity>

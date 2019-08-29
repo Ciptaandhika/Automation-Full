@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1 system will redirect to Blanja Homepage</description>
+   <name>VerifyBlanjaHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac4cb613-0687-4a74-93bd-42b2e2ba40e5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoToCashback_VerifyCashbackAfterCancel_VerifyPengembalianCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95f5c845-3e20-43c2-9b43-25fad814adae</testCaseGuid>
+</TestCaseEntity>

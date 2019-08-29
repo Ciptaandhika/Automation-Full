@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Open Browser
+- Max windows
+- Set text di box username
+- Set text box password
+- Klik button masuk</description>
+   <name>LoginBuyerPayment01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53eac570-88ce-4ba6-88eb-252240fc2381</testCaseGuid>
+</TestCaseEntity>

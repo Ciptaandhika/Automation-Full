@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik checkbox
+- klik lanjutkan
+- verify countdown muncul
+- delay 60 detik
+- klik resend button / kirim ulang
+- verify kirim ulang tidak muncul</description>
+   <name>BStore_OTP_Verify_CoundownDisplayed_Resend_Button_Disappear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6da3a8b-5964-47f2-8f0f-09bded5c789a</testCaseGuid>
+</TestCaseEntity>

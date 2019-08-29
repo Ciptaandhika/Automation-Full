@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login as admin
+2. Click Bank Transfer Pairing
+3. untuk melihat data yang akan disesuaikan di templeate .xls
+4. Select menu Finance Management > Bank Mutation
+5. Click &quot;Choose File&quot;
+6. Admin select *xls file that contain all Bank mutation data
+7. Click &quot;Upload&quot;</description>
+   <name>Upload_File_BankMutation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39cfa519-848b-4edb-846a-f6b50d629d5a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to url toko blanja</description>
+   <name>AksesTokoBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58f8a559-06f0-48c7-8cf9-8306863950a0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik lihat detail free shipping
+verify period
+verify minimun transaksi
+verify maksimal diskon</description>
+   <name>LihatDetailFreeShippingSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc0039d2-72ab-415c-aa2c-6cc901ded150</testCaseGuid>
+</TestCaseEntity>

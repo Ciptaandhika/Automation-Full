@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search toko (misalnya warung)
+- hitung toko yang muncul berdasarkan keyword yang diinputkan</description>
+   <name>Search40Stores</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b83216e-1ff0-4b39-a1e5-ecbd036e7b8f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai buyer
+ 2. Dari Halaman Akun saya tap Koin Blanja
+ 3. Halaman mweb menampilkan halaman Koin Blanja 
+
+1. Section Hadiah Langsung menampilkan [jumlah hadiah yang didaftarkan admin] hadiah undian
+ 2. Untuk case ini, section hadiah undian menampilkan 3 hadiah langsung yaitu :
+ - Hadiah Langsung 1
+ - Hadiah Langsung 2
+ - Hadiah Langsung 3</description>
+   <name>Verify_Jumlah_Hadiah_Langsung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d1ba885-a59a-48c9-ba55-ec5abec9da76</testCaseGuid>
+</TestCaseEntity>

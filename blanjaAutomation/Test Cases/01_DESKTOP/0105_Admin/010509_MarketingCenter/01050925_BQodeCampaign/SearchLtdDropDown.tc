@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input promotion name
+select option by index
+klik search</description>
+   <name>SearchLtdDropDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3fe26cd-be2b-4a8a-afb4-34173ca968da</testCaseGuid>
+</TestCaseEntity>

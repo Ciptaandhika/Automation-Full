@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description> Product on search result page has correct URL</description>
+   <name>verifySearchOrderDetailPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf042dc4-ef7d-4167-a4e0-42cd3c7747d1</testCaseGuid>
+</TestCaseEntity>

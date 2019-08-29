@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin shows Edit Category Group page
+2. Edit group name or category
+3. Click Save button to Edit</description>
+   <name>CategoryGroupEditGroupSelectCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>318cbc00-e491-4df2-8382-ba071e9ff513</testCaseGuid>
+</TestCaseEntity>

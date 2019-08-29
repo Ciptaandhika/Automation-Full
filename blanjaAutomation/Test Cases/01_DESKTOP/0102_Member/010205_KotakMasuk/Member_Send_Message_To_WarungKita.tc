@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate ke salah satu store URL Warung Kita
+- klik Hubungi Penjual
+- Pada Detail Conversation kirim pesan ke penjual misalnya Halo</description>
+   <name>Member_Send_Message_To_WarungKita</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85f00e19-af11-41e4-9a6b-4cc91d96dfde</testCaseGuid>
+</TestCaseEntity>

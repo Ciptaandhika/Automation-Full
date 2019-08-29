@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID
+- Click radio button action
+- Click radio button shipping to complete
+- Submit changes
+- Search the edited product
+- Verify status</description>
+   <name>ShippingToCompletePulsa30k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae84c796-2a9c-4835-83d7-3f0a6ba9f551</testCaseGuid>
+</TestCaseEntity>

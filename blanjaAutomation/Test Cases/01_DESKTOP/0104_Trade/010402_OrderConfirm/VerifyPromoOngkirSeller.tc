@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi Promosi Ongkir by Seller di Order Confirm</description>
+   <name>VerifyPromoOngkirSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38411bf5-ce68-4eff-be2a-c922c3625a98</testCaseGuid>
+</TestCaseEntity>

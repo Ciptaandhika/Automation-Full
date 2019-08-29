@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pilih produk yang ada di menu telepon dan gadget
+sistem akan menampilkan url PDP produk</description>
+   <name>ProdukTelepondanGadget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84705e38-45a5-4103-9253-4af8718fc704</testCaseGuid>
+</TestCaseEntity>

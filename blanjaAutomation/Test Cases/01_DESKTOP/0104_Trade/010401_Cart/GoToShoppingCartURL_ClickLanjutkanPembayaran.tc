@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL Shopping Cart
+click button Lanjutkan Pembayaran</description>
+   <name>GoToShoppingCartURL_ClickLanjutkanPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3fc3519-1ddc-41e8-9811-76a6cf57f7bd</testCaseGuid>
+</TestCaseEntity>

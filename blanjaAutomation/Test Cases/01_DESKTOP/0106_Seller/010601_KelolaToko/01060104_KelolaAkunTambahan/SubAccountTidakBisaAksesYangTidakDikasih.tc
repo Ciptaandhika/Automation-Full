@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sub account HARUS TIDAK BISA buka url yang memang dikasih akses</description>
+   <name>SubAccountTidakBisaAksesYangTidakDikasih</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>170409da-ccd8-4eca-b651-c95bcc41ac6a</testCaseGuid>
+</TestCaseEntity>

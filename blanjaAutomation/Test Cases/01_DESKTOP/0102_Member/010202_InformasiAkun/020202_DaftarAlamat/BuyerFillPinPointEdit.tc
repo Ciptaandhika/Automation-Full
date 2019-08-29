@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill Mandatory Field.
+Click Cari Alamat.
+Fill Alamat.
+Click Gunakan Lokasi.</description>
+   <name>BuyerFillPinPointEdit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3cc58a-768c-4765-92a8-711468cbb0b5</testCaseGuid>
+</TestCaseEntity>

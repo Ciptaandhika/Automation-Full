@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman untuk setiap produk: Kurir Standar
+- Klik tab Bank BCA
+- Pilih BCA Virtual Account
+- Klik button Bayar</description>
+   <name>ChooseJasaPengirimanMultipleProducts_DompetBlanja_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86aa0fa2-d40a-489a-a2ab-bd3466383837</testCaseGuid>
+</TestCaseEntity>

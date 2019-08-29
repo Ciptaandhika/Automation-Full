@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btnKonfirmasiPembayaran</description>
+   <name>clickKonfirmasiPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a916af8d-f2ef-407c-9d6c-7e8a63cd0cc2</testCaseGuid>
+</TestCaseEntity>

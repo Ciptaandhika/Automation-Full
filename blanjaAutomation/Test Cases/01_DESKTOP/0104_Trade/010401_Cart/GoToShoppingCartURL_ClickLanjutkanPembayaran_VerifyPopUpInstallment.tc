@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to URL Shopping Cart
+click button Lanjutkan Pembayaran
+Verify pop up Installment Information</description>
+   <name>GoToShoppingCartURL_ClickLanjutkanPembayaran_VerifyPopUpInstallment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e368c56b-cab7-4950-96c7-ef9ca3e32088</testCaseGuid>
+</TestCaseEntity>

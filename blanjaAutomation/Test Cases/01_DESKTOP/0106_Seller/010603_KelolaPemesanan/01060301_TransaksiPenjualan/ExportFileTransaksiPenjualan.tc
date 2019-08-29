@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik keluarkan
+klik detail pesanan</description>
+   <name>ExportFileTransaksiPenjualan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c7d4b29-a2fd-4ffb-87fb-c7c787a22012</testCaseGuid>
+</TestCaseEntity>

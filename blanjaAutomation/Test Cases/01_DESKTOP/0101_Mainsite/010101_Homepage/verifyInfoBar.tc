@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button Close Buku Panduan
+Verify element present
+Verify element present
+Verify element present</description>
+   <name>verifyInfoBar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>076e55af-b2d6-478f-a075-c6372d33c184</testCaseGuid>
+</TestCaseEntity>

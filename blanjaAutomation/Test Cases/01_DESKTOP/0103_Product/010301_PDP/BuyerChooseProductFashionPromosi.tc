@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product.
+click button Blanja Sekarang.</description>
+   <name>BuyerChooseProductFashionPromosi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f33548bd-83f5-4129-9e12-72d13c4d7b57</testCaseGuid>
+</TestCaseEntity>

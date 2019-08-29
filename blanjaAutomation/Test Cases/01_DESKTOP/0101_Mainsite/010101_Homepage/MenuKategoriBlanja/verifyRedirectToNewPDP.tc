@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL is redirected to https://www.blanja.com/katalog/c/{category_label}/{category_name}</description>
+   <name>verifyRedirectToNewPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38fdfb3f-4eea-4fd7-91aa-4b25f5503c44</testCaseGuid>
+</TestCaseEntity>

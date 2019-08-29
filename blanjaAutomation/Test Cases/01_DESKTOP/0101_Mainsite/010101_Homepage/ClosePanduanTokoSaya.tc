@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Panduan Pengguna.
+Choose Toko Saya.</description>
+   <name>ClosePanduanTokoSaya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7dcb05d-3709-4a62-8814-2eb6afea3d27</testCaseGuid>
+</TestCaseEntity>

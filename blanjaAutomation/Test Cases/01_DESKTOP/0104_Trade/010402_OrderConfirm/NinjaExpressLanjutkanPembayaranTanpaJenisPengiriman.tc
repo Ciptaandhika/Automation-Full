@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Add product to cart 
+ 2. At Order confirmation page, choose ninja Xpress
+ 3. Click lanjutkan
+ 4. Go to payment page</description>
+   <name>NinjaExpressLanjutkanPembayaranTanpaJenisPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6639eb72-fc67-4412-94b5-c25b0846ba04</testCaseGuid>
+</TestCaseEntity>

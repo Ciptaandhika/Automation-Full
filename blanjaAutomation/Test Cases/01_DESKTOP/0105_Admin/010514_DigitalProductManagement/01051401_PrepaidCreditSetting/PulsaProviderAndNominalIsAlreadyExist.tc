@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pulsa Admin
+
+Pastikan double sku tidak dapat diinput
+
+Step :
+1. Dari Admin > Phone Credit Setting, tambahkan sku id yang baru (misal sku :1234567)
+2. pilih Operator Name
+3.pilih Provider Name
+4.pilih Type
+5. Input Nilai Top Up
+6. Checkbox display On
+7. show public 'Yes'
+8.Input description
+9. Klik button 'Create
+Result : berhasil create
+Kemudian lakukan step 1 - 9 dengan SKU yang sama
+</description>
+   <name>PulsaProviderAndNominalIsAlreadyExist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>706c2b88-e215-4f0f-8a47-d52141fce54d</testCaseGuid>
+</TestCaseEntity>

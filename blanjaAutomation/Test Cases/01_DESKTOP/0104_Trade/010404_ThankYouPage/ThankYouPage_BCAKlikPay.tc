@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_BCAKlikPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4ed3ef6-e248-40b9-a48a-9992e42ad7a1</testCaseGuid>
+</TestCaseEntity>

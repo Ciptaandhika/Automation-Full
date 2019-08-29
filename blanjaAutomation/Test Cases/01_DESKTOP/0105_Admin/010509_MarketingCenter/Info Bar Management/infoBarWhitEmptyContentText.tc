@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>set txtXontextText empty
+click btn save</description>
+   <name>infoBarWhitEmptyContentText</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88acfa5a-e7ed-4b1f-bed2-754e149775d9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+
+Prize menampilkan kolom :
+- start time redeem prize
+- end time redeem prize</description>
+   <name>Verify Start End Date Prize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdba2ac9-ac35-41e1-8a31-8ba33df68ba3</testCaseGuid>
+</TestCaseEntity>

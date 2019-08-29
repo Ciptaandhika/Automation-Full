@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User choose 'UKM Kementrian Sosial as Jenis Binaan' when created store</description>
+   <name>Verify_Jenis_Binaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9add6d7b-e45b-4d95-a471-78141edb8352</testCaseGuid>
+</TestCaseEntity>

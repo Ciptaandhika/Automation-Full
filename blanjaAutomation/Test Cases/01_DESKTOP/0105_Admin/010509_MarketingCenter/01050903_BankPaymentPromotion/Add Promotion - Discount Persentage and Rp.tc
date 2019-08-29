@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses Bank Payment Promotion
+2. Add Promotion
+3. Input n verify Discount / Rp</description>
+   <name>Add Promotion - Discount Persentage and Rp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b226c3fa-97f6-44d6-883a-33a43bc1d250</testCaseGuid>
+</TestCaseEntity>

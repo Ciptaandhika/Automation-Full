@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+dan pastikan ada kata &quot;success'</description>
+   <name>ThankYouPage_BNIDebitOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>959c2d2e-64d2-4ee8-a07c-d2de401257db</testCaseGuid>
+</TestCaseEntity>

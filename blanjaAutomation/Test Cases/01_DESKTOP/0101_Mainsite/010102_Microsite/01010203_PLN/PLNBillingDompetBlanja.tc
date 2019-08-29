@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pay billing pln using dompet blanja
+- Filling no tagihan textbox
+- Click bayar tagihan listrik</description>
+   <name>PLNBillingDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f0ed7fd-ba5b-4d18-8c39-51a7f8d229c5</testCaseGuid>
+</TestCaseEntity>

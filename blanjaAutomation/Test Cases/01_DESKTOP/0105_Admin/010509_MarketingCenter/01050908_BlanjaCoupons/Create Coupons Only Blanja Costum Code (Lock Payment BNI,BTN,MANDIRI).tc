@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On web admin, want to create custom code (thematic) 
+Lock Payment select more than 1 payment method
+(Ex : Select &quot;BNI&quot;, &quot;BCA&quot; , &quot;BRI&quot;, etc..)
+
+The same step from point 1 to 13 and from point 15 to 16. Point 14 is below ;
+14. Select more than one bank at list of Bank.</description>
+   <name>Create Coupons Only Blanja Costum Code (Lock Payment BNI,BTN,MANDIRI)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>289ce947-151b-4898-92e1-955fa77d0217</testCaseGuid>
+</TestCaseEntity>

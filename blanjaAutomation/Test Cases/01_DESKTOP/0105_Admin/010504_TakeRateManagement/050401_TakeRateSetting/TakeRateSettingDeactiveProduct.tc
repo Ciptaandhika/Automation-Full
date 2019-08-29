@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check product take rate on take rate list</description>
+   <name>TakeRateSettingDeactiveProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bf02a7f-0835-431f-b810-dd11b36cd445</testCaseGuid>
+</TestCaseEntity>

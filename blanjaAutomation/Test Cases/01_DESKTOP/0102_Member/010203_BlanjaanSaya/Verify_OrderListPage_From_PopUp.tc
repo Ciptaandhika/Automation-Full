@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada order list page klik hubungi penjual
+- saat pop up send message muncul klik close
+- verify halaman url orderlist page</description>
+   <name>Verify_OrderListPage_From_PopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2877140-2aa9-4e8b-8e68-ac5c992d3868</testCaseGuid>
+</TestCaseEntity>

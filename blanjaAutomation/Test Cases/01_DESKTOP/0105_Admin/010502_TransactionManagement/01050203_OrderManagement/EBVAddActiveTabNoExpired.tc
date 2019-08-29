@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Centang No Expired
+2. Klik Save
+3.End Date akan disabled ketika admin memilih periode = No expired</description>
+   <name>EBVAddActiveTabNoExpired</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5d55862-9d87-4087-81fb-74f3760ec0df</testCaseGuid>
+</TestCaseEntity>

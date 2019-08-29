@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi nama dan avatar di menu akun saya</description>
+   <name>VerifyNamedanAvatar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>412441cf-6f22-4fbe-8000-0c989847160d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik menu my store
+pilih Kelola produk
+pilih produk dijual 
+pilih produk yang akan di edit</description>
+   <name>EditProdukMyStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f077bd0a-2b5b-479a-80d5-f04f80ff1293</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin.blanjadev.com
+2. go to withdrawal management
+
+appllication time and operation time will be seperated </description>
+   <name>WithdrawalManagementTimeSeperated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb46cf42-70b6-433a-9eed-c9a60099d657</testCaseGuid>
+</TestCaseEntity>

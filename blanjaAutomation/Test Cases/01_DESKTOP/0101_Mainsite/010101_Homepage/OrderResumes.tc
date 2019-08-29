@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. scrool down shopping cart page to see another product
+2. when scroll down, order resumes will follow to down</description>
+   <name>OrderResumes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15558acf-4c09-48d5-bc21-a5333c692ef8</testCaseGuid>
+</TestCaseEntity>

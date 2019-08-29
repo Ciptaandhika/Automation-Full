@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi location</description>
+   <name>VerifyStoreLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c97b0f3d-d1d5-4a24-ace3-c923d5a8e78d</testCaseGuid>
+</TestCaseEntity>

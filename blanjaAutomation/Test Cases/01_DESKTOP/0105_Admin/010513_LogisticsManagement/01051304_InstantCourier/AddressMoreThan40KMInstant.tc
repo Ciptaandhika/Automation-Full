@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose product go send.
+choose jasa pengiriman Go Send (Instant Delivery) and distance of buyer and seller more than 40 KM.</description>
+   <name>AddressMoreThan40KMInstant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba67c463-2b48-4728-873a-025db1fb51d8</testCaseGuid>
+</TestCaseEntity>

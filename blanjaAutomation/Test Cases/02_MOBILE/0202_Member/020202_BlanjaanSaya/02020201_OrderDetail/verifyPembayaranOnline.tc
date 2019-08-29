@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Order Number
+Verify Element present Metode Pembayaran Online
+Verify text present </description>
+   <name>verifyPembayaranOnline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92cbc5bc-7d71-4587-919d-31af69859f93</testCaseGuid>
+</TestCaseEntity>

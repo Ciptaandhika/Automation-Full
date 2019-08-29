@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. admin has been filled all mandatory field(s)
+2. tick on 'Product IDs' checkbox, for binding campign with product IDs
+3. tick on 'Use Coupon' checkbox, for binding campaign with Blanja coupon</description>
+   <name>Verify Criteria Product ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c956074b-26f7-4f7b-a6d2-4892f42e1314</testCaseGuid>
+</TestCaseEntity>

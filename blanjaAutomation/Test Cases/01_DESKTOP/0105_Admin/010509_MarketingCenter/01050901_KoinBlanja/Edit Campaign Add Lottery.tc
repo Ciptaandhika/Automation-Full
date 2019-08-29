@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai admin
+2. Akses menu Marketing Center >> Koin Blanja
+3. Klik Create Campaign
+4. Input Campaign Name
+5. Pilih Campaign Time
+6. Pilih Points Expiration Time 
+7. Tick Use Redeem Time
+8. Pilih Use Redeem Time 
+9. Input threshold
+10. Tick Applies Multiply
+11. Use Criteria = No
+12. Input prize :
+Prize 1 :
+- Input Title
+- Upload Image
+- Input exchange Koin
+- Select Bind to Coupon
+- Pilih start time redeem : beda tanggal
+- Pilih end time redeem : beda tanggal
+Prize 2 :
+- Input Title
+- Upload Image
+- Input exchange Koin
+- Select Bind to Coupon
+- Pilih start time redeem : beda tanggal
+- Pilih end time redeem : beda tanggal
+Prize 3 :
+- Input Title
+- Upload Image
+- Input exchange Koin
+- Select Bind to Coupon
+- Pilih start time redeem : start time use redeem time
+- Pilih end time redeem : end time use redeem time
+
+Campaign berhasil di generate untuk prize's redeem time yang berbeda</description>
+   <name>Edit Campaign Add Lottery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1046b11c-8b07-43d5-a32d-1724eea7f315</testCaseGuid>
+</TestCaseEntity>

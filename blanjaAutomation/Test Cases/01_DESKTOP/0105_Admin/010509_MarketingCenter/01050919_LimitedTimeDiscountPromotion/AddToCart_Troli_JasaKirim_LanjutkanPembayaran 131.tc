@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button GoSend
+Verify text present
+Set text
+Click button Add to chart
+Click Troli icon
+Delay
+Click button Lanjutkan Pembayaran
+Select by index
+Click button Lanjutkan Pembayaran</description>
+   <name>AddToCart_Troli_JasaKirim_LanjutkanPembayaran 131</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5fca5f4-bc36-4d20-8d4a-2eb07a676f39</testCaseGuid>
+</TestCaseEntity>

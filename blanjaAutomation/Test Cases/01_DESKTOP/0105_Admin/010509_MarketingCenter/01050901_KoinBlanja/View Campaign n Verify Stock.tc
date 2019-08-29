@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik view
+- verify stock</description>
+   <name>View Campaign n Verify Stock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60e8217d-8ac4-420e-b87a-81e844dda090</testCaseGuid>
+</TestCaseEntity>

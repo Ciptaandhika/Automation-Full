@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to old PCP url Global Variable : RedirectPage</description>
+   <name>RedirectItemToBlj</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9c00322-c41a-4bf8-9292-4da84d83a8b7</testCaseGuid>
+</TestCaseEntity>

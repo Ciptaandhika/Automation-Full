@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input kupon code dengan kode XZ</description>
+   <name>Input_Coupon_Include_Digital_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6790475-0164-4346-8eb1-15a81adc57ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer click button pembayaran</description>
+   <name>ClickPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2eaf01a-b323-415e-86ec-7b9269d2cb2e</testCaseGuid>
+</TestCaseEntity>

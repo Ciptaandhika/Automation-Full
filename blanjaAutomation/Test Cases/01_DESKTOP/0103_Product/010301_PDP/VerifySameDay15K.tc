@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>See Shipping Fee 15K.</description>
+   <name>VerifySameDay15K</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef8b4814-509a-46b4-b33b-8d0cf056181d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi warning error surat pernyataan yang di upload lebih dari 5MB</description>
+   <name>Upload_Surat_Pernyataan_File_MoreThan_5MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e49760e-b7b5-41d1-8ca3-b1ab91e0c718</testCaseGuid>
+</TestCaseEntity>

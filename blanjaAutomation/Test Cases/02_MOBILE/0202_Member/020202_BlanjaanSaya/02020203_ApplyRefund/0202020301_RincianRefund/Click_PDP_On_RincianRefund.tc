@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik PDP yang ada pada Rincian Refund</description>
+   <name>Click_PDP_On_RincianRefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f648bf9-7f7c-4e4c-8afd-1824975dc8b9</testCaseGuid>
+</TestCaseEntity>

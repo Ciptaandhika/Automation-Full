@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create default TR setting for group name = Sport and Travel.
+- Take Rate = 7% (flat)
+- Periode = All</description>
+   <name>TakeRateFashionPeriod</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05ca06a1-5006-4dca-9468-4d9f721268e6</testCaseGuid>
+</TestCaseEntity>

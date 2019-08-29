@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure user can delete shop at “Toko Favorit” tab
+1. User access tab Favorit
+2. User checklist and click button delete at “Toko Favorit” tab
+Ensure user can delete shop at “Toko Favorit” tab</description>
+   <name>DeleteTokoFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1d52e85-f6cd-482b-a6d3-af81fe4f8146</testCaseGuid>
+</TestCaseEntity>

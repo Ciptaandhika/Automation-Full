@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create coupon
+as an OP, on web admin want to input code coupon for thematic coupon with maximum length</description>
+   <name>Create Coupons Only Blanja Custom Code (Max Lenght)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>590432d2-c335-4f1c-ac3c-fe9b94a3c6dc</testCaseGuid>
+</TestCaseEntity>

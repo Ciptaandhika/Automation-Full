@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose Jasa Pengiriman Kurir Standar.
+Click Lanjutkan Pembayaran.</description>
+   <name>BuyerSelectKurirStandar2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cfadc59-a2dc-4768-be15-93211eef1fdb</testCaseGuid>
+</TestCaseEntity>

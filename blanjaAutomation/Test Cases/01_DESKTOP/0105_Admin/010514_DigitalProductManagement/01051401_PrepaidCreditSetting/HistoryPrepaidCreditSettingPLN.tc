@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search SKUID and click edit button
+- Scroll to history log table
+- Verify history log</description>
+   <name>HistoryPrepaidCreditSettingPLN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2c56929-94b4-4294-bf12-14c4ba4c24bb</testCaseGuid>
+</TestCaseEntity>

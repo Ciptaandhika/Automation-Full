@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik 'Batalkan Blanjaan'
+Pilih alasan pembatalan
+Klik OK
+Verify tulisan 'Pesanan ditutup ( Dibatalkan oleh Pembeli )' tampil</description>
+   <name>Member_OrderDetail_CancelOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca7fc91d-8aba-4636-8515-94458714da60</testCaseGuid>
+</TestCaseEntity>

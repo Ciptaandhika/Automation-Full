@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi jika klik add product maka akan di direct ke halaman
+ https://seller.bljstaging.com/items/publish</description>
+   <name>Verify_Link_AddProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f441b22f-f68a-4474-88c7-a44fa8345280</testCaseGuid>
+</TestCaseEntity>

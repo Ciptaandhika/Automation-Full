@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access admin
+2. Go to Bank Payment Promotion
+3. Do view on a promo</description>
+   <name>Ensure MDR Charge View</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e833259b-0bc3-437f-9644-55f69ed0a19e</testCaseGuid>
+</TestCaseEntity>

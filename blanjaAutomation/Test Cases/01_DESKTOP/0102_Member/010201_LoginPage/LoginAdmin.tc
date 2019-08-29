@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Open browser
+2. Maximize browser window
+3. Navigate to URL admin login
+4. Isi username admin
+5. Isi password admin
+6. Klik login</description>
+   <name>LoginAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb9d98d7-3afc-4e90-8523-95f88d10062c</testCaseGuid>
+</TestCaseEntity>

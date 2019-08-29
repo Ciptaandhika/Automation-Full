@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. Choose or click “Koin Blanja” menu
+If member click “Koin Blanja” menu, member will be redirected to: https://member.blanja.com/shopnwinpoints</description>
+   <name>VerifyHadiahLangsungKoinKosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c8266eb-4a55-498a-8eed-6b1d4a3a65a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik mandiri credit Card
+pilih metode pembayaran
+kemudian piliih lagi Visa
+Pilih metode pembayaran
+konfirmasi pembayaran</description>
+   <name>KonfirmasiChooseVendor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>118f63ec-d288-4116-8538-4d699fe3ea4f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input Kode Voucher</description>
+   <name>InputKodeVoucher_CostumCoup(PC,Android)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2415ccf-5c10-4f32-80da-e2c0eeebf790</testCaseGuid>
+</TestCaseEntity>

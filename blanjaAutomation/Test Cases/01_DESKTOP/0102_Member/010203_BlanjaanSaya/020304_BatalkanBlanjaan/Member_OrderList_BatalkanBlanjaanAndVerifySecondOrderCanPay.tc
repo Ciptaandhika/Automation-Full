@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click batalkan blanjaan
+select reason 
+click ok 
+verify blanjaan yang dibatalkan tadi berubah statusnya menjadi tutup</description>
+   <name>Member_OrderList_BatalkanBlanjaanAndVerifySecondOrderCanPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afe2be2e-503f-4718-ac25-79cf4d6b7e29</testCaseGuid>
+</TestCaseEntity>

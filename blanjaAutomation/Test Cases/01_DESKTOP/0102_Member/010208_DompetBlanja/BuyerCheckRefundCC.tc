@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click order number.
+See pengembalian dana ke limit kartu kredit.</description>
+   <name>BuyerCheckRefundCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4393905f-f4cb-44ea-b9e8-dcfebfeaf233</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Present</description>
+   <name>VerifyPageKonfirmasiPesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>464591f5-7131-4f56-b808-049df87128cb</testCaseGuid>
+</TestCaseEntity>

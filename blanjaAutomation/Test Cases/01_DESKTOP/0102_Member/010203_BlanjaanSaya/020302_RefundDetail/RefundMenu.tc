@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click refund</description>
+   <name>RefundMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>215b809a-3051-4a46-8c8c-820d56d36ee3</testCaseGuid>
+</TestCaseEntity>

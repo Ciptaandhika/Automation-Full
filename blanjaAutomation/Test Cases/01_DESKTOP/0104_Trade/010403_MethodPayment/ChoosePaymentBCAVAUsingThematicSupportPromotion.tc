@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, user input thematic code coupon which cant combine with all promotions 
+ e.g :
+ product name :
+ code coupon :
+ value coupon :
+ exclude : all promotion
+2. click on 'USE' button
+
+2.1 after user input code coupon and click on 'USE' button, system will display message 'Sorry this coupon cant be used....'
+2.2 check total payment, it shouldn't deducted</description>
+   <name>ChoosePaymentBCAVAUsingThematicSupportPromotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34b8ad61-a839-4196-9288-f66fe744d19f</testCaseGuid>
+</TestCaseEntity>

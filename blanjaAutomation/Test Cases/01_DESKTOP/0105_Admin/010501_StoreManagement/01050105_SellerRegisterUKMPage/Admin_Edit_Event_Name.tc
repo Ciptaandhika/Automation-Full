@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin klik Edit Pada Event List
+- Ubah Nama Event
+- Klik Save
+- Verify Alert yg muncul
+- Accept Alert tersebut</description>
+   <name>Admin_Edit_Event_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eebfd291-ed05-4a28-aebc-8665d4b9313f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to instant courier page.</description>
+   <name>AdminUpdateStoreID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cafe6a86-500a-45e7-9a3c-6b89233654c5</testCaseGuid>
+</TestCaseEntity>

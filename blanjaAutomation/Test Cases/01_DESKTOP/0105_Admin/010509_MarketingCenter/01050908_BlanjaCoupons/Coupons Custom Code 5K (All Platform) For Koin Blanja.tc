@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. Create Coupons Only Blanja Custom Code
+3. Verify Coupon</description>
+   <name>Coupons Custom Code 5K (All Platform) For Koin Blanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efb9841a-a3aa-41dc-b775-cb16f22886d8</testCaseGuid>
+</TestCaseEntity>

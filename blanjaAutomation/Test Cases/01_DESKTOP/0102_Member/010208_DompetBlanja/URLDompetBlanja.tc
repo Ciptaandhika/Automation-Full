@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User access tab Akun saya
+2. User access Dompet Blanja
+3. Ensure url Dompet Blanja is https://member.bljstaging.com/balanceAndWithdraw.</description>
+   <name>URLDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fd08ffd-5687-4230-9db1-a5e993749ea7</testCaseGuid>
+</TestCaseEntity>

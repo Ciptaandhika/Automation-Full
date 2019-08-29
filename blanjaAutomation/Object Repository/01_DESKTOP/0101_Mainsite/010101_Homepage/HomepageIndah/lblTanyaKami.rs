@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lblTanyaKami</name>
+   <tag></tag>
+   <elementGuidId>cc627a52-f3fd-446d-8add-34f58b8b0473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Tanya KamiNama Anda (opsional)Alamat emailOrder ID (opsional)Your Order IdAda yang bisa kami bantu?BatalKirim' or . = 'Tanya KamiNama Anda (opsional)Alamat emailOrder ID (opsional)Your Order IdAda yang bisa kami bantu?BatalKirim') and @ref_element = 'Object Repository/01_DESKTOP/0101_Mainsite/010101_Homepage/HomepageIndah/iframe_concat(id(  webWidget']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>scrollcontainer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>src-component-container-ScrollContainer-container u-nbfc src-component-container-ScrollContainer-flexContainer src-component-container-ScrollContainer-desktop src-component-container-ScrollContainer-containerDesktop</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanya KamiNama Anda (opsional)Alamat emailOrder ID (opsional)Your Order IdAda yang bisa kami bantu?BatalKirim</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Embed&quot;)/div[1]/div[@class=&quot;src-component-container-Container-container u-posRelative  src-component-container-Container-desktop&quot;]/div[1]/div[1]/form[@class=&quot;src-component-submitTicket-SubmitTicketForm-form u-cf&quot;]/div[@class=&quot;src-component-container-ScrollContainer-container u-nbfc src-component-container-ScrollContainer-flexContainer src-component-container-ScrollContainer-desktop src-component-container-ScrollContainer-containerDesktop&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/01_DESKTOP/0101_Mainsite/010101_Homepage/HomepageIndah/iframe_concat(id(  webWidget</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='Embed']/div/div/div/div/form/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//form/div</value>
+   </webElementXpaths>
+</WebElementEntity>

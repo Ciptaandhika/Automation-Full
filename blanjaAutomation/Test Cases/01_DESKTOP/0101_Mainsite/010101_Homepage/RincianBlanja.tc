@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik rincian blanja
+klik detail</description>
+   <name>RincianBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3805812-3cab-4e4e-8142-325074c2e5b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System will display sprint asia payment page</description>
+   <name>Sandbox_SprintasiaKartuKreditCicilan_VerifyInstallmentPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>463f4158-eb03-480c-943b-8bf7485b18a7</testCaseGuid>
+</TestCaseEntity>

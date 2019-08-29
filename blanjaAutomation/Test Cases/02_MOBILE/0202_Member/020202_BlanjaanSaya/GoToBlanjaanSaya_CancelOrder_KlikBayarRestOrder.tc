@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to URL Blanjaan Saya mweb
+- Klik tombol 'Batalkan Blanjaan'
+- Pilih alasan pembatalan
+- Klik OK
+- Verify label 'Tutup'
+- Klik Bayar</description>
+   <name>GoToBlanjaanSaya_CancelOrder_KlikBayarRestOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d493dd3a-f3c8-47bc-9f5e-78b67952a2f5</testCaseGuid>
+</TestCaseEntity>

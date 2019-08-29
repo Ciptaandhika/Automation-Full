@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Go To Order Management
+2. Select Order State Paid
+3. Click button search
+4. Go To Order Detail</description>
+   <name>BuyerDirectOrderDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>419d71a1-2896-498e-8b39-d0e95a0ef69b</testCaseGuid>
+</TestCaseEntity>

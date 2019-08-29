@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Anak Blanja Section</description>
+   <name>verifyAnakBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efe85b57-4de7-4eb9-bf3e-793213cc1ea2</testCaseGuid>
+</TestCaseEntity>

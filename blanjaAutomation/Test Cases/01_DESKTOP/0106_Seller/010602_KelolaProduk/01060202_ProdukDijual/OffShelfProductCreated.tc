@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Off Shelf pada produk yang baru dibuat</description>
+   <name>OffShelfProductCreated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fac4d582-5632-4c2d-9707-c3bf198b7fd8</testCaseGuid>
+</TestCaseEntity>

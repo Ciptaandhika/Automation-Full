@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- admin pilih current kategori komputer
+- admin pilih current kategori laptop dan komputer
+- admin pilih 2 barang dari current kategori office laptop
+- move ke new category premium ultrabook
+- klik submit
+- verify migrate success</description>
+   <name>Admin_Move_2Product_Into_New_Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf9e3790-982e-435f-ae88-7011b810507f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek history</description>
+   <name>CheckHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb07ed20-ef3a-4fcd-ab41-a3998f24e295</testCaseGuid>
+</TestCaseEntity>

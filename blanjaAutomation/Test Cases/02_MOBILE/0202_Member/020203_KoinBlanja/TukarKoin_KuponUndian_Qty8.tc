@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Klik lainnya
+- Masukan qty undian
+- Klik tombol tukar</description>
+   <name>TukarKoin_KuponUndian_Qty8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fcf5406-8949-464a-9eee-2ee9b332f2ab</testCaseGuid>
+</TestCaseEntity>

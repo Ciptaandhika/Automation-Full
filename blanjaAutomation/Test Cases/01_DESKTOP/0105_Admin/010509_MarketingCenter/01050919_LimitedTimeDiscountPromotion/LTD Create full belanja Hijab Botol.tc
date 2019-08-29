@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create partial type limited time discount</description>
+   <name>LTD Create full belanja Hijab Botol</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c28af427-fc41-43c1-943f-76500cb73812</testCaseGuid>
+</TestCaseEntity>

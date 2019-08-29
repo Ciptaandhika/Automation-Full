@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose Alamat Pengiriman.
+click Ubah.
+click Choose Location.
+fill Cari Alamat.</description>
+   <name>SellerUpdateAddressFindLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85ca39e2-ba28-4851-9e9e-4be4102e2f6b</testCaseGuid>
+</TestCaseEntity>

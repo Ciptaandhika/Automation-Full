@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browse
+max windows
+nagigate url homepage</description>
+   <name>OpenRegisterPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acf78134-95e5-4b32-8f60-451c2c88f4c1</testCaseGuid>
+</TestCaseEntity>

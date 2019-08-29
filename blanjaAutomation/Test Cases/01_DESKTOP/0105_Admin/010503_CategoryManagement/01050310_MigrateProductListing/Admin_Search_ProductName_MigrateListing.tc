@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik  Main Root di current category
+- klik kategori computer dan laptop
+- klik kategori Laptop
+- klik kategori laptop gaming
+- search msi di product name
+- verify search result gaming laptop msi</description>
+   <name>Admin_Search_ProductName_MigrateListing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab748e89-2f1d-4ac2-b16f-4a357eed64c6</testCaseGuid>
+</TestCaseEntity>

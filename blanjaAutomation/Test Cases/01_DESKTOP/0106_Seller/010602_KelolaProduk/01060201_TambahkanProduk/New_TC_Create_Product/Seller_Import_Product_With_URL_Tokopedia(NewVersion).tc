@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- seller input produk URL dari market lain (Tokopedia)
+- seller  klik go
+- seller input kondisi barang
+- seller input jumlah stok
+- klik next</description>
+   <name>Seller_Import_Product_With_URL_Tokopedia(NewVersion)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aac5017e-7f8b-4df2-bc33-f8a7f06f1b3b</testCaseGuid>
+</TestCaseEntity>

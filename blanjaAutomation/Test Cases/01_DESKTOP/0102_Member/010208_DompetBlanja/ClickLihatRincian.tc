@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik lihat rincian
+sistem akan menampilkan hal riwayat penarikan dana</description>
+   <name>ClickLihatRincian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac500eae-c2e7-4a08-8d5d-62431ec1980b</testCaseGuid>
+</TestCaseEntity>

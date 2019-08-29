@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin-Transaksi Penjualan
+Masukkan nomor order
+Klik tombol Cari
+Verify payment methode = 'Credit Card Installment' atau 'Installment Credit Card' atau 'Kartu Kredit Cicilan'
+Klik 'Detail Pesanan'</description>
+   <name>GoToTransaksiPenjualan_KKCicilan_InputOrderNumber_KlikBtnCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a53ecbb8-c091-4829-a5e5-0fa6b8e4ca29</testCaseGuid>
+</TestCaseEntity>

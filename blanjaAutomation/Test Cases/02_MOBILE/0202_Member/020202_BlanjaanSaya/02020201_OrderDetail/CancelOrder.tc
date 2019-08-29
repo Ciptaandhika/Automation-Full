@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click hrefBatalkanBlanjaan
+select dropdown selectAlasanPembatalan
+click btn btnOkBatalkanBlanjaan</description>
+   <name>CancelOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92f1d6a0-ea63-40d0-82dd-d6b01474c444</testCaseGuid>
+</TestCaseEntity>

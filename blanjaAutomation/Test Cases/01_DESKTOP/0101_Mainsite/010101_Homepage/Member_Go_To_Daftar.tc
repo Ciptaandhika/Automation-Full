@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pada halaman homepage  blanja click daftar</description>
+   <name>Member_Go_To_Daftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6d707a5-b8e6-4216-a671-ff2aa811a07d</testCaseGuid>
+</TestCaseEntity>

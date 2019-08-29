@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check quantity</description>
+   <name>CheckQty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f56a3875-fa76-4f13-9c2b-8669e96ab9ea</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Set text CTA
+Click Pop up image mobile
+Upload file Mobile
+Click button save
+Delay
+Accept alert</description>
+   <name>addInfoBar_UploadImageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52557876-6ef9-459e-a2d8-faf3515508fb</testCaseGuid>
+</TestCaseEntity>

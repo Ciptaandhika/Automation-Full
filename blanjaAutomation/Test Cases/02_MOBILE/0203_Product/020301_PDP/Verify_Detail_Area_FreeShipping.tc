@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify coverage area only show max.3 area : SELURUH INDONESIA or JABODETABEK or WILAYAH TERTENTU ( show pop up contain information detail after click link)</description>
+   <name>Verify_Detail_Area_FreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a482476-06f3-40cc-87a4-8c9b4a50815d</testCaseGuid>
+</TestCaseEntity>

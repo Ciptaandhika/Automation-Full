@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn publish</description>
+   <name>publishBrandListSetting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7313f225-dd6f-4c64-b5b3-274b8c8fb2f8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button 'Tambahkan Ke Favorit'</description>
+   <name>TambahkanKeFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab27b238-56b5-4172-a3b2-d74f55802cec</testCaseGuid>
+</TestCaseEntity>

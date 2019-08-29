@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. In column &quot;jumlah&quot; tap up or down on qty field
+2. user can edit to add or deducate qty
+3. if qty = max stock, 'add' qty button should be disable and system will display pop-up message 'stock yang tersedia ... unit'
+4. when qty added, price will be multiplied by quantity
+
+</description>
+   <name>TroliIsiTapMaxQty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72bb2442-8b46-49bd-8193-51be4e05e5a1</testCaseGuid>
+</TestCaseEntity>

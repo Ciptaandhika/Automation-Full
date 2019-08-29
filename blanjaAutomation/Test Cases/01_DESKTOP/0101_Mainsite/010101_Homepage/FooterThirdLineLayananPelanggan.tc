@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover and click 'CC Phone'
+Hover and click 'SupportBlanja.com'
+Hover and click 'Laporkan Gangguan dan Saran'</description>
+   <name>FooterThirdLineLayananPelanggan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac56f19e-5f6a-4eee-adac-b26b959e57e6</testCaseGuid>
+</TestCaseEntity>

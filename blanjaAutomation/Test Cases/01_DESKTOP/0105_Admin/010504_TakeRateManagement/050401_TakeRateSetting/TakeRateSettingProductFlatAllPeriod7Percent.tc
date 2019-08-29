@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Input Period = All
+2. Take rate = Flat 9%
+3. scope = product (product id = )</description>
+   <name>TakeRateSettingProductFlatAllPeriod7Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4afe9851-06e1-47d3-8bfc-8e3f3664b408</testCaseGuid>
+</TestCaseEntity>

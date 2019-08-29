@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Category group for Take Rate is created</description>
+   <name>VerifyLastedGroupCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78352e77-881c-47e5-af05-cb572036cd08</testCaseGuid>
+</TestCaseEntity>

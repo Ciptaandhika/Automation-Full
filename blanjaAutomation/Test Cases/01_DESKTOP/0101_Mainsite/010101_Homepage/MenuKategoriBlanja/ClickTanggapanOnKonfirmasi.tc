@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Ulasan page</description>
+   <name>ClickTanggapanOnKonfirmasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e314bd05-8684-4405-bf64-5419019d6f89</testCaseGuid>
+</TestCaseEntity>

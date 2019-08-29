@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hover info tool service Kelola Jasa pengiriman
+
+Menu Kelola Jasa Pengiriman
+Hover icon i di salah satu service</description>
+   <name>InfoToolKelolaJasaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d6e57d9-e5c4-4b20-98fa-cb27e36bd768</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik menu Pengembalian Dana</description>
+   <name>Seller_Go_To_Pengembalian_Dana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f05772f-f332-4752-bd91-270ab76e88f5</testCaseGuid>
+</TestCaseEntity>

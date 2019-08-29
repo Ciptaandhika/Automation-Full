@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On order list refund button should be visible
+2. On order detail refund button should be visible
+3. Ensure refund button working correctly</description>
+   <name>BlanjaanSayaOrderListRefund2OrderNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac8b3fb9-8ef8-4230-8aa2-5124a2b383dc</testCaseGuid>
+</TestCaseEntity>

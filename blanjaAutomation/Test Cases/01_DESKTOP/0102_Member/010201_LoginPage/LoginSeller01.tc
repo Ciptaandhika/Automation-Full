@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Open browser
+2. Maximize window
+3. Navigate to URL login member
+4. Set text username (akun WarungKami)
+5. Set text password
+6. Klik tombol Masuk</description>
+   <name>LoginSeller01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49fa0334-104b-45d1-b3e0-b48635f13651</testCaseGuid>
+</TestCaseEntity>

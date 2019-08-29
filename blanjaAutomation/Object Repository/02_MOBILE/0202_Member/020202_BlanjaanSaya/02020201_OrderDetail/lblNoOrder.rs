@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lblNoOrder</name>
+   <tag></tag>
+   <elementGuidId>5fb1e75b-623a-467b-8711-2c42921fdbcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;thelist&quot;]/li[2]/div/div/div[1]/div/div/div[2]/a/table/tbody/tr[1]/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;thelist&quot;]/li[2]/div/div/div[1]/div/div/div[2]/a/table/tbody/tr[1]/td/span</value>
+   </webElementProperties>
+</WebElementEntity>

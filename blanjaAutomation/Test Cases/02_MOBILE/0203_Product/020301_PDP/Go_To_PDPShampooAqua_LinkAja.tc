@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to pdp shampoo aqua link aja
+- klik blanja sekarang</description>
+   <name>Go_To_PDPShampooAqua_LinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d18fac8b-5a9d-4872-b24c-e94f623811bc</testCaseGuid>
+</TestCaseEntity>

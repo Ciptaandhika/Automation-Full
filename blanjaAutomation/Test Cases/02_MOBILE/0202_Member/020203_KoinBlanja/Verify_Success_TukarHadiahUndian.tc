@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Buyer A memiliki koin = 80 dan buyer B memiliki koin = 100
+ 2. Pada saat yang bersamaan buyer A dan buyer B berada di halaman Hadiah Undian
+ 3. Buyer A menukar koin untuk Undian 3 dengan qty tukar = 2
+ 4. Setelah buyer A berhasil tukar, buyer B menukar koin untuk Undian 3 dengan qty tukar = 1</description>
+   <name>Verify_Success_TukarHadiahUndian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13cbcf42-2e39-4944-999f-0c7d90aa8407</testCaseGuid>
+</TestCaseEntity>

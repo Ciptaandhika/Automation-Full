@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- navigate to produk 10K warung kami
+- klik blanja sekarang</description>
+   <name>Navigate_To_PDP10K_WarungKami_QTY1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd37f428-b271-4929-a6d8-84af6ca78468</testCaseGuid>
+</TestCaseEntity>

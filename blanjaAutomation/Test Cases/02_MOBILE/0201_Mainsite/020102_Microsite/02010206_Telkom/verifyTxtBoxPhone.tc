@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get attribute maxlength
+Verify equal</description>
+   <name>verifyTxtBoxPhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>021e8a25-14c4-40d7-92e3-8506a3f069d9</testCaseGuid>
+</TestCaseEntity>

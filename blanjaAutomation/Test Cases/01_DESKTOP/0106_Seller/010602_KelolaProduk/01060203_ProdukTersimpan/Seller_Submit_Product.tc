@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- seller klik submit pada product yang sudah dibuat (pada case ini kopibubuk100)</description>
+   <name>Seller_Submit_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af6342a7-c1bc-4f86-9ca6-dfa0ff541c9b</testCaseGuid>
+</TestCaseEntity>

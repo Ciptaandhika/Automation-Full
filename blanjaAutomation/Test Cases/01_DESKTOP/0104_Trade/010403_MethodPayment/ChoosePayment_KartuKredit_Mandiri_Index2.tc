@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Last Order Number
+Choose Radio Button Debit Niaga
+Select Option Pilih Nama Promosi
+Verify label Diskon Blanja
+Konfirmasi Pembayaran</description>
+   <name>ChoosePayment_KartuKredit_Mandiri_Index2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cca99a6-3d54-460b-ba1d-2a5fba93f3dd</testCaseGuid>
+</TestCaseEntity>

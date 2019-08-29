@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy paket data and choose provider first</description>
+   <name>BuyPaketDataLandingPagePilihProvider</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88f7df8b-0ff7-4251-bf5c-a2d27ff8b223</testCaseGuid>
+</TestCaseEntity>

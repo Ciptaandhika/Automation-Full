@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verifikasi semua kondisi error pada input domain name , maka akan muncul label error warning
+(Individual Store)
+
+
+If field is empty, display message: &quot;Mohon masukkan Link/TautanToko.&quot;
+~ If domain name is less than 2 chars, display message: &quot;Tautan terlalu pendek. Masukkan minimal 2 karakter.&quot; 
+~ If domain name has been used or it is listed in shop black list, display message: &quot;Tautan ini sudah terdaftar di sistem. Mohon gunakan tautan lainnya.&quot;</description>
+   <name>Error_Validation_DomainName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8dbf3ee8-c3e4-45e7-9fed-0df2df7a7460</testCaseGuid>
+</TestCaseEntity>

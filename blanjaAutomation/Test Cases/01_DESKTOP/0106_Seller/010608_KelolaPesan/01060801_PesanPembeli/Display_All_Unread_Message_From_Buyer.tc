@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada menu pesan pembeli klik tab unread message
+- verifikasi semua pesan yang muncul (pesan dengan status unread mempunyai tag bold / bercetak tebal)</description>
+   <name>Display_All_Unread_Message_From_Buyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4db747c6-571d-4ab9-9bed-0678132f837e</testCaseGuid>
+</TestCaseEntity>

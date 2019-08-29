@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access m.blanja.com
+2. Go to favorit page</description>
+   <name>GoToFavoritPageMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f27e1011-ee86-431e-b0ac-5d94dc86dee0</testCaseGuid>
+</TestCaseEntity>

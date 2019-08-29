@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listPertamaProduk</name>
+   <tag></tag>
+   <elementGuidId>db119520-dfcd-4d52-9af1-61e2a4c1b242</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;itemsTable&quot;]/table/tbody/tr[1]/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;itemsTable&quot;]/table/tbody/tr[1]/td[2]/a</value>
+   </webElementProperties>
+</WebElementEntity>

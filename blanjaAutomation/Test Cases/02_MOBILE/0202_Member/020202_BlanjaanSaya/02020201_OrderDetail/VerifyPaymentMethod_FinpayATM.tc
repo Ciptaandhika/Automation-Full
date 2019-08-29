@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify element present: 'Kartu Kredit Cicilan'
+- Verify text tampil: 'Estimasi cicilan per bulan'
+- Verify text tampil: 'Total Pembayaran'
+- Verify text tampil: 'Tenor'</description>
+   <name>VerifyPaymentMethod_FinpayATM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd9413a9-0d08-4a62-8988-25d775342a93</testCaseGuid>
+</TestCaseEntity>

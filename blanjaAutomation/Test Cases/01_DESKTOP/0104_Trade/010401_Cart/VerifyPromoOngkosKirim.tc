@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify  promo ongkos kirim</description>
+   <name>VerifyPromoOngkosKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de84e337-a0eb-41e0-a6a2-c350d1e9c8b4</testCaseGuid>
+</TestCaseEntity>

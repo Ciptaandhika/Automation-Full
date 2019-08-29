@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search product by input product name
+Go to PDP page 
+    - Meizu M3s Tempered Glass Kaca Meizu M3s Anti Gores (15747502)</description>
+   <name>SearchProdukNameSpeakerStylishMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>906b0002-e30f-4b66-bcd4-ca64868b41bf</testCaseGuid>
+</TestCaseEntity>

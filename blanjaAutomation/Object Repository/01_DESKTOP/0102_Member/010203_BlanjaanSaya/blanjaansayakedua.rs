@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>blanjaansayakedua</name>
+   <tag></tag>
+   <elementGuidId>10bd46cc-1a8b-436c-bb7b-fc9e900f596d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tradesTable&quot;]/div[3]/div/table/thead/tr/th/div[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tradesTable&quot;]/div[3]/div/table/thead/tr/th/div[1]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

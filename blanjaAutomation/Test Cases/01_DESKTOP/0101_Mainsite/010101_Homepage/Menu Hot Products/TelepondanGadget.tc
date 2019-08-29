@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih Telepom dan Gadget di Menu hot produk
+2. sistem akan menampilkan beberapa produk yang berkaitan
+3. verifikasi semua barang yang terkait
+</description>
+   <name>TelepondanGadget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3577778b-016c-4e22-ab69-31e5707e18ac</testCaseGuid>
+</TestCaseEntity>

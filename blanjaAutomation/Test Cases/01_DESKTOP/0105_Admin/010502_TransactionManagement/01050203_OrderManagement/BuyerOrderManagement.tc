@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click order management menu.
+fill order number.
+click button search.
+click detail logistic.</description>
+   <name>BuyerOrderManagement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c21eec23-c64d-43d0-ae26-07125376fc6a</testCaseGuid>
+</TestCaseEntity>

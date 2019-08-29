@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search product name
+- Click search button
+- Click button konfirmasi perpanjangan
+- Click button tolak</description>
+   <name>RejectPerpanjangan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1619443b-6213-4be8-ac97-536dd421c375</testCaseGuid>
+</TestCaseEntity>

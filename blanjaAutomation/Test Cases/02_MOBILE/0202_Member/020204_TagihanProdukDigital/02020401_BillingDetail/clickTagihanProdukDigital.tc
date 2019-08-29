@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button account icon
+Click button Tagihan Saya
+Get URL
+Verify equal</description>
+   <name>clickTagihanProdukDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8fea012-c250-4507-a2e6-946df0c38edb</testCaseGuid>
+</TestCaseEntity>

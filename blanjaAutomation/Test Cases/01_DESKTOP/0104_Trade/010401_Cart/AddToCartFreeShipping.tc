@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>view add to cart free shipping promotion</description>
+   <name>AddToCartFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcac2962-97c6-4a8d-abdb-ccef1c581b37</testCaseGuid>
+</TestCaseEntity>

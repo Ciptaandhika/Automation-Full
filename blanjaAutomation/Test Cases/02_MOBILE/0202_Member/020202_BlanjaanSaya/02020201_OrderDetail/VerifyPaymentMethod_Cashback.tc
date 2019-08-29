@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify element present: 'Kartu Kredit Cicilan'
+- Verify text tampil: 'Estimasi cicilan per bulan'
+- Verify text tampil: 'Total Pembayaran'
+- Verify text tampil: 'Tenor'</description>
+   <name>VerifyPaymentMethod_Cashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98125aa6-4f47-4d7b-9e8f-53786425aa72</testCaseGuid>
+</TestCaseEntity>

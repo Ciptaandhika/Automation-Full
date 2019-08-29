@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pergi ke cashback melalu url</description>
+   <name>NavigateCashback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7bd13153-76bb-4b93-bf2f-ba8e22513157</testCaseGuid>
+</TestCaseEntity>

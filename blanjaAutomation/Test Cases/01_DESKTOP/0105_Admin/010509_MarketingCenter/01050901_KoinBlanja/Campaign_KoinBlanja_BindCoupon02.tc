@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description> - Admin create campaign Koin Blanja Campaign A02 dan klik Select coupon untuk prize hadiah langsung dari Campaign A02</description>
+   <name>Campaign_KoinBlanja_BindCoupon02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf5fc9a0-cf54-4f3a-a00b-68371cf2a35d</testCaseGuid>
+</TestCaseEntity>

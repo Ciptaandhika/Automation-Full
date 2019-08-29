@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. access admin.blanjadev.com
+2. admin search pending or hold or complete
+
+if status is pending and then admin change status is complate, when admin click search status is complete, tab complete will be active.</description>
+   <name>WithdrawalManagementChangeToHoldWithSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d29de2a-a1f8-47b0-ac02-b1c87fcf3c70</testCaseGuid>
+</TestCaseEntity>

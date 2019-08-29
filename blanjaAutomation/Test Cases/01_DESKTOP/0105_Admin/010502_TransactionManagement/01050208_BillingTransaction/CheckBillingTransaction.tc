@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Click link to redirect to billing transaction page
+- Verify all field showing correct data</description>
+   <name>CheckBillingTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b6b782b-e031-4ed9-9d1e-2644ab03f584</testCaseGuid>
+</TestCaseEntity>

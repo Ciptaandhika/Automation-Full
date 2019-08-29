@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text 'Tipe Pembayaran :  BRI e-Pay' is appeared</description>
+   <name>Member_OrderDetail_VerifyBRIePay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c7eea38-a987-4784-b8a9-600c21ab5b22</testCaseGuid>
+</TestCaseEntity>

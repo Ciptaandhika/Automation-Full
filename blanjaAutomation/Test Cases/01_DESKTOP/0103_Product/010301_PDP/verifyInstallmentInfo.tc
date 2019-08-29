@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify installment information</description>
+   <name>verifyInstallmentInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7c93f84-6e86-4ba1-bde8-0d446c124dc9</testCaseGuid>
+</TestCaseEntity>

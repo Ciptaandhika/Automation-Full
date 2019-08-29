@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search URL is correct
+2. Product on search result page has correct URL
+3. Search suggestion, product popular suggestion and store suggestion is showed</description>
+   <name>ClickProdukPopuler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12580ab2-9a93-4e0f-939b-52733f44a68f</testCaseGuid>
+</TestCaseEntity>

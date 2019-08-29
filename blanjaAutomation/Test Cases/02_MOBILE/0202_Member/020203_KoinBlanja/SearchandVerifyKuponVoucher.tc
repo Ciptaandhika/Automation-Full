@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Kode Kupon langsung 1
+Get Kode Kupon langsung 2
+Search Kupon 1 
+Search Kupon 2</description>
+   <name>SearchandVerifyKuponVoucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53326c10-6fa4-4f75-9277-5c9d7c62a074</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Click
+Verify element present</description>
+   <name>verifyClearButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4433bec-d79c-4e67-b40b-1cb4e4bb1d9e</testCaseGuid>
+</TestCaseEntity>

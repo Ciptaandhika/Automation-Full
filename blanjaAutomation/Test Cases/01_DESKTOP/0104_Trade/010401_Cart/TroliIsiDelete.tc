@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click &quot;Hapus&quot;
+2. system will display pop-up for make sure to move the product &quot; Are you sure you want ... &quot; , and pop-up title is 'hapus produk'
+3. if click &quot;OK&quot;, product will be delete</description>
+   <name>TroliIsiDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86adc2ae-7383-485e-bfe6-249fa00744dd</testCaseGuid>
+</TestCaseEntity>

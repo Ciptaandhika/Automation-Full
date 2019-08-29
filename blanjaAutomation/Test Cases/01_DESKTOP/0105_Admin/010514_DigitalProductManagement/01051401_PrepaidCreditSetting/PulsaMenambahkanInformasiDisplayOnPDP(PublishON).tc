@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pulsa Admin
+
+Admin harus dapat menampilkan notifikasi jika Redirect URL kosong dan Display On PDP unchecked
+
+Step :
+1. Admin create product with provider A,type A, nominal A and sku id 002, where publish status = ON</description>
+   <name>PulsaMenambahkanInformasiDisplayOnPDP(PublishON)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6bf29b6-16b4-4886-ab04-4cc83cb59c77</testCaseGuid>
+</TestCaseEntity>

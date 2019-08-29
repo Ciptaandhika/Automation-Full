@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin create campaign Koin Blanja Campaign 01 no criteria sebagai berikut :
+ a. Periode campaign : 15 - 31 Maret 2019
+ b. Pilih Points Expiration Time :1 April 2019
+ c. tick Use Redeem Time : 16 Maret - 1 April 2019
+ d. Input threshold : 10.000
+ e. Tick Applies Multiply
+ f. Input max koin : 4
+ g. Use Criteria = Yes
+ h. Set extra koin
+ -Set Extra Koin untuk product Id, input product id
+ -Set Extra Koin untuk voucher, input voucher name
+ -Set Extra Koin untuk payment method, select payment method 
+ i. Admin create direct Prize
+ - Prize 1 : tipe hadiah langsung, stock= 100, Kupon tidak bind produk, exchange koin = 5, prize redeem = 16 maret 2019 12:00 WIB sampai 16 maret 2019 22:00 
+ - Prize 2 : tipe hadiah langsung, stock= 100, Kupon tidak bind produk, exchange koin = 5, prize redeem = 19 maret 2019 12:00 WIB sampai 23 maret 2019 22:00 
+ j. Admin create Lottery Prize :
+ - Prize 3 : tipe hadiah undian, stock= 10, exchange koin = 5, prize redeem = 16 maret 2019 12:00 WIB sampai 16 maret 2019 09:00 , Draw time = 16 maret 2019 17:00 WIB
+ - Prize 4 : tipe hadiah undian, stock= unlimited, exchange koin = 10, prize redeem = 16 maret 2019 12:00 WIB sampai 1 April 2019 12:00, Draw time = 1 April 2019 12:00 WIB</description>
+   <name>Create_Extra(Product 7,Coupon 8)_Direct2_Lottery2</name>
+   <tag></tag>
+   <comment>Direct Prize Row 1
+Direct Prize Row 2
+Lottery Prize Row 1
+Lottery Prize Row 2</comment>
+   <testCaseGuid>d809827b-ba79-414d-bab4-d48435e60dfc</testCaseGuid>
+</TestCaseEntity>

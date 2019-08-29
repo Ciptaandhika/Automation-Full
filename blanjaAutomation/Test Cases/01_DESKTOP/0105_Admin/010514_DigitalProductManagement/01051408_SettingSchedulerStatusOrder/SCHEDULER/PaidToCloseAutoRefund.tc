@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill SKUID field
+- Click action radio button
+- Click paid to close radio button
+- Submit</description>
+   <name>PaidToCloseAutoRefund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad3169a5-c86e-4b7f-918b-c893b37cb775</testCaseGuid>
+</TestCaseEntity>

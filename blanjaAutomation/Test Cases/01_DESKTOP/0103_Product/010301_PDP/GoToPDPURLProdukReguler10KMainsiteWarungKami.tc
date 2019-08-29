@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL PDP Warungkami (harga 10K)</description>
+   <name>GoToPDPURLProdukReguler10KMainsiteWarungKami</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce5bc97e-abda-4451-92d5-be8e7a948d14</testCaseGuid>
+</TestCaseEntity>

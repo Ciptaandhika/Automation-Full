@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Navigate ke homepage (www.bljstaging.com)
+- input keyword warung
+- klik cari / search
+- klik tab toko blanja pada hasil pencarian
+- dari search result klik salah satu produk di warungkita 
+- verify PDP dari product tersebut
+</description>
+   <name>Click_Product_From_Search_Result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7707603f-6eec-43f3-a59c-458258a5b145</testCaseGuid>
+</TestCaseEntity>

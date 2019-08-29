@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition :
+
+ 1. seller already login
+ 2. seller already access Toko Saya
+ 3. seller already access Tambahkan Produk Page
+
+
+Step : 
+
+1. seller set product condition as 'New'
+ 2. seller fill all mandatory fields
+ 3. seller click button 'Lanjutkan'
+ 4. seller go to menu 'Pengaturan Promosi'
+ 5. create LTD and apply those product</description>
+   <name>setLTDKopiBubuk</name>
+   <tag></tag>
+   <comment>verify that the product selected is successfully applied with promotion/discount
+End Promo LTD</comment>
+   <testCaseGuid>9e8a803d-e199-44bf-ae27-8fbc3831d761</testCaseGuid>
+</TestCaseEntity>

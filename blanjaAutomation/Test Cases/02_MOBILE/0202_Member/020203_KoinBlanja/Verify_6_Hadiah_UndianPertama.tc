@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Login sebagai buyer
+ 2. Dari Halaman Akun saya tap Koin Blanja
+ 3. Halaman mweb menampilkan halaman Koin Blanja
+
+1. Section Hadiah Undian menampilkan 6 hadiah undian pertama dengan exchange koin yang paling kecil yaitu :
+ - Undian 1
+ - Undian 3
+ - Undian 2
+ - Undian 6
+ - Undian 5
+ - Undian 8</description>
+   <name>Verify_6_Hadiah_UndianPertama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7f6de9e-bd74-47a0-94f0-29d41c258002</testCaseGuid>
+</TestCaseEntity>

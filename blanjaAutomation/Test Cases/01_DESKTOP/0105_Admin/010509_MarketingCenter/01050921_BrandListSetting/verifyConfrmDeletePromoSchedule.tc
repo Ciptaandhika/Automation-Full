@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify text present</description>
+   <name>verifyConfrmDeletePromoSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fc00ec2-2735-411a-b8b8-ca7821d5bd75</testCaseGuid>
+</TestCaseEntity>

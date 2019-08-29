@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih  platform type
+2. Pilih Operator name
+3. Pilih provider name
+4. Klik search</description>
+   <name>AddBannerLandingHomepage</name>
+   <tag></tag>
+   <comment>PlatformType1</comment>
+   <testCaseGuid>570c7cae-a53c-4c7a-8946-2b4e732508a9</testCaseGuid>
+</TestCaseEntity>

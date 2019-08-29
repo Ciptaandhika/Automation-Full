@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- dari homepage seller klik profile kemudian pilih kotak masuk</description>
+   <name>SellerGoToMessageMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c26585d3-5256-4741-a6fa-c9fd7154b25f</testCaseGuid>
+</TestCaseEntity>

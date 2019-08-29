@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser
+Navigate to Homepage
+Click button Close Buku Panduan
+</description>
+   <name>GoToHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56a8ea34-90c5-49ee-83a0-b11486627bac</testCaseGuid>
+</TestCaseEntity>

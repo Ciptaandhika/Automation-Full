@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Pilih opsi pengiriman: Kurir Standar
+- Klik tab Bank BRI
+- Pilih Kartu Kredit Cicilan
+- Pilih opsi cicilan: 'BRI 3 bulan'
+- Klik button Bayar</description>
+   <name>ChooseJasaPengiriman_FinpayAlfamart_KlikBayar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>527e0301-1c27-4068-b968-a9b52d8eb2b0</testCaseGuid>
+</TestCaseEntity>

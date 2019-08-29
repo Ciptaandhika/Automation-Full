@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create coupon
+Lock Payment select more than 1 payment method
+(Ex : Select &quot;BNI&quot;, &quot;BCA&quot; , &quot;BRI&quot;, etc..)
+verify coupon
+
+The same step from point 1 to 13 and from point 15 to 16. Point 14 is below ;
+14. Select more than one bank at list of Bank.
+
+1. OP already access and login on web admin
+2. OP open Coupons page
+3. Select coupon type : Unique Code 
+3. Type all required field 
+5. Check applied only to operator : TELKOMSEL
+6. Select category which wants to applied
+7. Create coupon</description>
+   <name>Create Coupons Only Blanja Unique Code (BNI,BTN,MANDIRI with 2 Email)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7703ea23-7556-4c88-aee7-e7ebfe49d88d</testCaseGuid>
+</TestCaseEntity>

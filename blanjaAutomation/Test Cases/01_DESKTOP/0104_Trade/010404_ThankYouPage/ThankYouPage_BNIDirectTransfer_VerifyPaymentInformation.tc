@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL Succes Thank You Page
+Pastikan ada kata &quot;success'
+Verify no pesanan is appeared
+Verify 'tanggal bayar sebelum' harus 1 hari + current date
+Verify 3 digit kode unik di total pembayaran
+Klik 'Detail Pembayaran'
+Verify informasi 'Detail Pembayaran' is appeared
+- Verify 'Sub Total Pembayaran' is appeared
+- Verify 'Kode Unik' is appeared
+- Verify 'Total Pembayaran' is appeared
+- Verify 'Total Pembayaran = Sub Total + Kode Unik'
+
+Verify informasi 'Nomor Rekening Pembayaran' is appeared
+- Verify logo Bank BNI
+- Verify nomor rekening 7777234220 
+- Verify a/n PT Metraplasa Cabang Dukuh Bawah
+- Verify informasi 'Proses verifikasi dilakukan pada jam kerja.'
+- Verify link 'Salin Nomor'
+
+Verify metode pembayaran Mandiri Transfer Bank is appeared
+</description>
+   <name>ThankYouPage_BNIDirectTransfer_VerifyPaymentInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19b78614-72fd-44eb-80bb-f720e31ebe08</testCaseGuid>
+</TestCaseEntity>

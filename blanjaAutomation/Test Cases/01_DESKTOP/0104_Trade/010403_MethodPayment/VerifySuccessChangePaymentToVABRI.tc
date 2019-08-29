@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Succes Change Payment</description>
+   <name>VerifySuccessChangePaymentToVABRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f80563e5-65d7-44e2-9708-d15959559fd3</testCaseGuid>
+</TestCaseEntity>

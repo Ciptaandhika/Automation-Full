@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click checkbox potongan diskon
+verify textbox active</description>
+   <name>VerifyTextBoxAutomaticSparated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a7d10d3-2ce1-4457-815f-10c9f6f04aff</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. on payment page, for order in store A user input thematic code coupon which cant combine with all promotions
+2. click on 'USE' button
+3. on payment page, for order in store B user input thematic code coupon which cant combine with all promotions
+4. click on 'USE' button
+5. then choose payment method : points, VA, or online payment
+6. click on 'Confirm' button
+
+2.1 after input thematic code coupon then click on 'USE' button in store A, coupon can used 
+2.2 check on total payment, it should be deducted
+4.1 after input thematic code coupon then click on 'USE' button in store B, coupon cant be used 
+4.2 check on total payment, it shouldn't be deducted, cause met the minimum order
+5.1 system will tick on selected online payment method, if user paid using points or VA, system will deducted total payment due the input amount and coupon amount
+6.1 system will do payment process, and buyer can view the list order after then 
+6.2 after finished order, those coupon cant be used again
+
+</description>
+   <name>ChoosePaymentBCAVAUsingThematicAndOnceUsedCoupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>901fda3b-3b63-4a9e-a7ed-c2472f7541e9</testCaseGuid>
+</TestCaseEntity>

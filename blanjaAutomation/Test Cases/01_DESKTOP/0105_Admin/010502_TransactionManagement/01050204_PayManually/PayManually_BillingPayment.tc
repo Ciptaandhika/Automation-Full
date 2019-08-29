@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate To URL Pay Manually
+2. Masukkan nomor Payment Code 
+3. Delay 2s
+4. Klik tombol Submit
+5. Accept alert
+6. Delay 2s
+7. Verify ada kata &quot;True&quot;</description>
+   <name>PayManually_BillingPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43013f3d-1d74-46d1-87f0-6618aa9f7b63</testCaseGuid>
+</TestCaseEntity>

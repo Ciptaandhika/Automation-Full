@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search product on LTD admin campaing
+2. Select product from search result
+3. PDP will be shown</description>
+   <name>LTDMaxLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73d48c49-641d-4752-aa38-77f397a4d9d1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser and Navigate to URL
+Maximize windows</description>
+   <name>navigateToOfficialBrand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d77704a2-b29f-4c23-8c4d-85dd7df43a37</testCaseGuid>
+</TestCaseEntity>

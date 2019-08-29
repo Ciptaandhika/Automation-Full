@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek status pln (closed)</description>
+   <name>CheckStatusPLNClosed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a68f612f-6232-4088-b914-dac375b4d104</testCaseGuid>
+</TestCaseEntity>

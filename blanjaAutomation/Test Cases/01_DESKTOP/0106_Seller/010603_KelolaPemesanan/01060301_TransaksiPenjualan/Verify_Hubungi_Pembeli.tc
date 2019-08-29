@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pada halaman transaksi penjualan pilih menu status barang yang sudah di pesan / tab dipesan
+- verify button hubungi pembeli muncul di bawah nama buyer yang membeli / order barang tersebut</description>
+   <name>Verify_Hubungi_Pembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>087c13ac-b81e-4ff3-8c9c-3406d3132aeb</testCaseGuid>
+</TestCaseEntity>

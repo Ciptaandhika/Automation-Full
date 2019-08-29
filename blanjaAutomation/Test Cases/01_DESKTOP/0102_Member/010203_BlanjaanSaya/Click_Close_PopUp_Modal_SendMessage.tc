@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik close ketika pop up modal muncul pada menu send message (order  list-hubungi penjual)</description>
+   <name>Click_Close_PopUp_Modal_SendMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f429560-37ee-4dac-917d-64ac41852728</testCaseGuid>
+</TestCaseEntity>

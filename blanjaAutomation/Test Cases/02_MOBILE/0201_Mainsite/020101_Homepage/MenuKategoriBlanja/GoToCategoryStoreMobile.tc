@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click a category</description>
+   <name>GoToCategoryStoreMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b4033d1-0826-4e7d-b552-19c07aa0dc96</testCaseGuid>
+</TestCaseEntity>

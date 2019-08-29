@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Akses n verify Menu Bank Payment Promotion
+2. Select semua menu yang ada dropdown
+3. verify dropdown</description>
+   <name>Access Bank Payment Promotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e120923-79d5-4d6b-9909-b389b267e11c</testCaseGuid>
+</TestCaseEntity>

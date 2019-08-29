@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click membutuhkan konfirmasi
+klik setuju
+input password
+konfirmasi</description>
+   <name>CariOrder_ApprovedRefunds</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cedff895-cf7d-4180-8b88-b0d83c7c34a2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Windows
+Navigate to URL PDP (harga 5K)
+Maximize window
+</description>
+   <name>GoToPDPURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7fc582c-a92a-4ef7-9100-ddaa7f4f8540</testCaseGuid>
+</TestCaseEntity>

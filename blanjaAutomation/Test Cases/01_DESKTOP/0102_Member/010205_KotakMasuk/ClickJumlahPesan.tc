@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click jumlah pesan</description>
+   <name>ClickJumlahPesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bb5fd98-454e-4574-aee8-09f388409e3b</testCaseGuid>
+</TestCaseEntity>

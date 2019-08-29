@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer already added product(s) support support Installment on shopping cart</description>
+   <name>MasukProdukKranjangQtyProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4343ef2-f49e-4d39-96c8-6a6b67be2188</testCaseGuid>
+</TestCaseEntity>

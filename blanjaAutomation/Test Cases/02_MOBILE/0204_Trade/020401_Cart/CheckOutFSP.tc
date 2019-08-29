@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Konfirmasi Pesanan page, select shipping address not covered by campaign (example: Bali)</description>
+   <name>CheckOutFSP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a18ec46-2492-419b-ba7e-1da159a72ca2</testCaseGuid>
+</TestCaseEntity>

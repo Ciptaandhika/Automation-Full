@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to url.</description>
+   <name>LoginAsGuest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7bff60b-4802-43d5-9428-462f51574eb3</testCaseGuid>
+</TestCaseEntity>

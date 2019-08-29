@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Coupons Only Blanja Unique Code (Only to selected operator)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeca6615-106d-4030-90a1-44b96d4e57e3</testCaseGuid>
+</TestCaseEntity>

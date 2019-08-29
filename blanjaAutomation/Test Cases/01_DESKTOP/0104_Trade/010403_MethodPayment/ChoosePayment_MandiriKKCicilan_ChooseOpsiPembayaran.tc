@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Mandiri Kartu Kredit Cicilan
+Pilih 'Opsi Pembayaran' : 'Mandiri 3 bulan'
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_MandiriKKCicilan_ChooseOpsiPembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2109ef07-8715-40a9-99b5-3e82309216e3</testCaseGuid>
+</TestCaseEntity>

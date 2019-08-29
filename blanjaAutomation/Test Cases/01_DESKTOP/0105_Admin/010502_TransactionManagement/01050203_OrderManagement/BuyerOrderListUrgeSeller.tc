@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Urge Seller From Blanjaan Saya in Order List Page </description>
+   <name>BuyerOrderListUrgeSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4a34b4e-f5ff-4d5f-bda6-a890e468a05e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Click Toko Saya di kanan atas
+-verify URL seller</description>
+   <name>MasukTokoSayaFromBuyer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48fc28c8-6ec8-457b-8cf9-c314e7ff6eb7</testCaseGuid>
+</TestCaseEntity>

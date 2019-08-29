@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify sub akun hanya mempunyai akses tambahkan produk dan  produk dijual</description>
+   <name>Verify_Limited_Access_SubAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d129939-4966-49b3-a9f1-3a0afb2de078</testCaseGuid>
+</TestCaseEntity>

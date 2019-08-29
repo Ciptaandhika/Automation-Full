@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to Homepage
+Hover and Click 'Gratis Gabung' image
+Hover and Click 'Gratis Gabung' text
+Click 'Selengkapnya'
+Verify URL</description>
+   <name>FooterGratisGabung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57fab91d-22f1-4f5b-9e3c-a0155d8605bd</testCaseGuid>
+</TestCaseEntity>

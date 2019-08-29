@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik BNI CC
+- pilih bank payment promotion yang sudah di buat
+- klik pembayaran</description>
+   <name>ChoosePayment_BNICC_DynamicDropDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8ce34c6-d378-48a5-9ee6-69a2a50adfbf</testCaseGuid>
+</TestCaseEntity>

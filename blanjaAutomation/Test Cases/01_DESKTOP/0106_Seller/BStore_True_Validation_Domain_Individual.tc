@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on 'My Store' button in top right page
+2. User choose store type 'Individual Store'
+3. Fill field 'Store Name' 
+
+Rule: 
+~ Mandatory.
+~ Chars length should be within 2-30 chars. No char can be typed once the length reach 30 chars.
+~ Only letters (abc), numbers (123) and dashes/hyphens (---) are allowed. Spaces are not allowed and the domain can't begin or end with a dash. You can use multiple instances of hyphens, but not a double hyphen. Domain names can begin and end in a number. Other forms of punctuation, symbols or accent characters cannot be used.
+~ Can't use domain name listed in admin menu &quot;Shop Black List&quot;. Not case sensitive.
+If seller inputs &quot;samsung&quot; while the name listed in &quot;Shop Black List&quot; is &quot;Samsung&quot;, then still &quot;samsung&quot; can't be used.
+~ Can't use domain name that has been used by others.
+</description>
+   <name>BStore_True_Validation_Domain_Individual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf962e97-d5ad-4b3f-9a4f-f81fe58eb7c1</testCaseGuid>
+</TestCaseEntity>

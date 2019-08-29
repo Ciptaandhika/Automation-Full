@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Mouse over ke Profile
+- Klik Link aja</description>
+   <name>KlikProfile_KlikLinkAja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6e52f90-8bf3-4af9-92f2-38401fba765e</testCaseGuid>
+</TestCaseEntity>

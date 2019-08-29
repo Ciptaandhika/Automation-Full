@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Deleting an attribute</description>
+   <name>DeleteAttribute</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebbec89f-5724-4831-aa1d-e8f4a4e12baa</testCaseGuid>
+</TestCaseEntity>

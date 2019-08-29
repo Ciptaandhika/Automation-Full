@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to url admin free shipping promotion</description>
+   <name>GoToAdminFreeShipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0d62e98-7047-4fcd-8507-0c07e39ec964</testCaseGuid>
+</TestCaseEntity>

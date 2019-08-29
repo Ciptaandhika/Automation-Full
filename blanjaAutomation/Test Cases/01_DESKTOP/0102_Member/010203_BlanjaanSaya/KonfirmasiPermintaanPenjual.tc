@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer konfirmasi permintaan penjual terkait penundaan pengiriman</description>
+   <name>KonfirmasiPermintaanPenjual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6da6874a-d43e-4d62-8fc9-3efd82a8f0c0</testCaseGuid>
+</TestCaseEntity>

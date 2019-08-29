@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button &quot;Blanja Sekarang&quot; after input the valid billing number</description>
+   <name>PLNBillingWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c42421b5-9c56-4faf-9fc1-a61d0c9fb325</testCaseGuid>
+</TestCaseEntity>

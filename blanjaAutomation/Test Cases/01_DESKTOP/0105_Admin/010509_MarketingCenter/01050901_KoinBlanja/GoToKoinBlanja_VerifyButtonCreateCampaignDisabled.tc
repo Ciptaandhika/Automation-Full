@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to URL Koin Blanja
+2. Verify tombol 'Create Campaign' tidak tampil</description>
+   <name>GoToKoinBlanja_VerifyButtonCreateCampaignDisabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48799c45-549d-4da7-9941-57b9c134bf9b</testCaseGuid>
+</TestCaseEntity>

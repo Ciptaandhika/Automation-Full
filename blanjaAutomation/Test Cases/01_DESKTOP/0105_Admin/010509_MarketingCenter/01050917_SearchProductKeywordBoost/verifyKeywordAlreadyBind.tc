@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify pop up success input keyword</description>
+   <name>verifyKeywordAlreadyBind</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eafd9f0c-ac5f-4e37-ba1f-999a9170a39e</testCaseGuid>
+</TestCaseEntity>

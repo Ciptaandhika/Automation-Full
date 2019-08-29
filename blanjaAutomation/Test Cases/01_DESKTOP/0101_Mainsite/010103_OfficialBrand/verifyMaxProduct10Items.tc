@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify maximal product on promo are 10 items</description>
+   <name>verifyMaxProduct10Items</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3bf9242-eeb5-4df7-bff8-892754e0d30e</testCaseGuid>
+</TestCaseEntity>

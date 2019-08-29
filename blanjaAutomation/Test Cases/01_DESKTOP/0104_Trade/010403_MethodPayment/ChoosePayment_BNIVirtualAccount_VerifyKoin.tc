@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB BNI Virtual Account
+Get Label BNI Virutal Account
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_BNIVirtualAccount_VerifyKoin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2055066-fa6c-425e-b3ee-518adfc2278a</testCaseGuid>
+</TestCaseEntity>

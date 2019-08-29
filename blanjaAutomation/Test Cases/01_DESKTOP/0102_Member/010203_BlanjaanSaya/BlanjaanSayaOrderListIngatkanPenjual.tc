@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. On Order list, Urge seller button should be visible
+2. On Order list, urge seller button working correctly</description>
+   <name>BlanjaanSayaOrderListIngatkanPenjual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98b1e2c7-a3f5-41f1-ba06-bf40f154eb6f</testCaseGuid>
+</TestCaseEntity>

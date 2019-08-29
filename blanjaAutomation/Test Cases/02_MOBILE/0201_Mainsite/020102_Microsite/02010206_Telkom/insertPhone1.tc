@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Scroll to element button Bayar tagihan telkom
+Click button Bayar tagihan telkom
+Get URL
+URL contains</description>
+   <name>insertPhone1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72e12633-10af-42be-8355-7901da8b80e2</testCaseGuid>
+</TestCaseEntity>

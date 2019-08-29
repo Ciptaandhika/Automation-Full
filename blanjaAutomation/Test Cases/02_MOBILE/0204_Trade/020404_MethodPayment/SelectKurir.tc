@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. select kurir use global variable S</description>
+   <name>SelectKurir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>224b6ac6-927f-4d96-b6e4-77a29f2125a7</testCaseGuid>
+</TestCaseEntity>

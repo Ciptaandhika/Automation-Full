@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser
+Navigate to URL</description>
+   <name>navigateUrlBqodeCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d09f0306-0b30-4d76-ae9e-1449c8808228</testCaseGuid>
+</TestCaseEntity>

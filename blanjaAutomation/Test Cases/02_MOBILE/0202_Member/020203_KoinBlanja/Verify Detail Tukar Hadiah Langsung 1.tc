@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tukar Hadiah Langsung</description>
+   <name>Verify Detail Tukar Hadiah Langsung 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4014cd8-180a-4ee7-8804-13c5ea5abe0c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cari produk digital onshelf di scheduler</description>
+   <name>SearchProductOnShelf</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2b65be6-3b80-4294-b023-db8c3bdc3099</testCaseGuid>
+</TestCaseEntity>

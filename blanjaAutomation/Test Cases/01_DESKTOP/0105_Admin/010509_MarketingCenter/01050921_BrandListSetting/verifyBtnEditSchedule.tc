@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present, jika status active</description>
+   <name>verifyBtnEditSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2d2fded-b94d-4e6c-883e-07389e256736</testCaseGuid>
+</TestCaseEntity>

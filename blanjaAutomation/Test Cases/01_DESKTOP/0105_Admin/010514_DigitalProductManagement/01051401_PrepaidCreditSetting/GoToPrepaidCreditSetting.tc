@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Prepaid Credit Setting pada Product Digital Management</description>
+   <name>GoToPrepaidCreditSetting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3d1571b-8e85-4f2f-92c3-34279d4fe206</testCaseGuid>
+</TestCaseEntity>

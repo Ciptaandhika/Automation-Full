@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify full coverage blanja</description>
+   <name>VerifyCoverageBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2af3cb19-8169-46b3-9226-100ef6ad33f4</testCaseGuid>
+</TestCaseEntity>

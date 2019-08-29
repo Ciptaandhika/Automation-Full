@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search nomor order
+- klik kirim
+- klik simpan</description>
+   <name>Seller01_Confirm_Digital_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dca1388a-b7ba-471b-9bb9-95f08383be38</testCaseGuid>
+</TestCaseEntity>

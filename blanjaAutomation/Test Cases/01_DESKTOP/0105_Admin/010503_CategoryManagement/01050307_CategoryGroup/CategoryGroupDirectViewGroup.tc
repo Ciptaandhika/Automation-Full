@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Group List select Group Name and click View</description>
+   <name>CategoryGroupDirectViewGroup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ae772ec-7a18-421b-96ce-e962fc73d870</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin create campaign Koin Blanja Campaign 01 no criteria sebagai berikut :
+ a. Periode campaign : 9 maret - 30 April 2019
+ b. Pilih Points Expiration Time :1 Mei 2019
+ c. tick Use Redeem Time : 9 maret - 1 Mei 2019
+ d. Input threshold : 10.000
+ e.Untick Applies Multiply
+ f. Use Criteria = No
+ g. Set extra koin
+ -Set Extra Koin untuk product Id, input product id
+ -Set Extra Koin untuk voucher, input voucher name
+ -Set Extra Koin untuk payment method, select payment method 
+ h. Admin create Direct Prize :
+ i. Admin tidak create Lottery Prize
+ - Prize 1 : tipe hadiah langsung, stock= 100, Kupon tidak bind produk, exchange koin = 5, prize redeem = 8-31 maret 2019 00:00 WIB
+ - Prize 2 : tipe hadiah langsung, stock= 100, Kupon bind produk, exchange koin = 10, prize redeem = 1-15 maret 2019 12:00 WIB, Kupon Bind Produk
+ - Prize 3 : tipe hadiah langsung,stock= 100, Kupon tidak bind produk, exchange koin = 7, prize redeem = 1-5 maret 2019 12:00 WIB
+ - Prize 4 : tipe hadian langsung, stock=100, Kupon tidak bind produk, exchange koin = 20, prize redeem = 5-14 maret 2019 12:00 WIB
+ - Prize 5 : tipe hadian langsung,stock= 100, Kupon tidak bind produk, exchange koin = 25, prize redeem = 1-15 maret 2019 99:00 WIB
+ - Prize 6 : tipe hadian langsung, stock= 100, Kupon tidak bind produk, exchange koin = 30, prize redeem = 1-15 maret 2019 12:00 WIB
+ - Prize 7 : tipe hadiah langsung,stock= 100, Kupon tidak bind produk, exchange koin = 8, prize redeem = 1-15 maret 2019 12:00 WIB
+ - Prize 8 : tipe hadiah langsung,stock= 9.999, Kupon tidak bind produk, exchange koin = 7, prize redeem = 1-15 maret 2019 12:00 WIB
+ - Prize 9 : tipe hadiah langsung,stock= 1, Kupon tidak bind produk, exchange koin = 5, prize redeem = 1-15 maret 2019 12:00 WIB
+ - Prize 10 : tipe hadiah langsung,stock= 100, Kupon tidak bind produk, exchange koin = 9.999, prize redeem = 1-15 maret 2019 12:00 WIB</description>
+   <name>Create_Direct_Prize_3Times_Special - Copy</name>
+   <tag></tag>
+   <comment>Direct Prize Row 1
+Direct Prize Row 2
+Direct Prize Row 3</comment>
+   <testCaseGuid>5a84238c-4bc2-442d-89e9-cd0e76a23d18</testCaseGuid>
+</TestCaseEntity>

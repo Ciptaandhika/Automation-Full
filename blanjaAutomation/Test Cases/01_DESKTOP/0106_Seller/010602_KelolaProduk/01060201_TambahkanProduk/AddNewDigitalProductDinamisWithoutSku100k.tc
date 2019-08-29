@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding new digital product</description>
+   <name>AddNewDigitalProductDinamisWithoutSku100k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4cce41d-ec49-4e25-bc12-08a217264aa9</testCaseGuid>
+</TestCaseEntity>

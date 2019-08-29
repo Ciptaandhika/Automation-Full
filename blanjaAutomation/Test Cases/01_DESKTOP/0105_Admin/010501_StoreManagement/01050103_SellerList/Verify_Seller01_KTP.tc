@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search seller01
+- klik search
+- klik view
+- verify terdapat file KTP di halaman tersebut</description>
+   <name>Verify_Seller01_KTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45c52d9d-0758-49d2-9cc1-51149bec4daa</testCaseGuid>
+</TestCaseEntity>

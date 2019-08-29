@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browser
+max windows
+go to URLMemberMainsite
+isi txtBoxUsername
+isi txtBoxPassword
+klik masuk
+close btnX
+buka Toko Saya</description>
+   <name>LoginSeller2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f68a079-e6ee-49df-a200-e9aa874a654d</testCaseGuid>
+</TestCaseEntity>

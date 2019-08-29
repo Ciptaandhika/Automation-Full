@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BintangLayanan</name>
+   <tag></tag>
+   <elementGuidId>0669d00e-622b-44d5-ba66-01feb6a821e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;scoreForm&quot;]/div/ul[3]/li[1]/div/div/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;scoreForm&quot;]/div/ul[3]/li[1]/div/div/ul/li[5]</value>
+   </webElementProperties>
+</WebElementEntity>

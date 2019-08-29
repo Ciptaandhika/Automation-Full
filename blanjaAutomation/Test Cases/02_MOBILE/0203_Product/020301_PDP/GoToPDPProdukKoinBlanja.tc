@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan menampilkan produk yang sudah di seting koin blanja</description>
+   <name>GoToPDPProdukKoinBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea1e851b-8078-44fb-8863-e1f880c0db47</testCaseGuid>
+</TestCaseEntity>

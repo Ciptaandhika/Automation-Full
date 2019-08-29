@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sistem akan memverifikasi hal tsb</description>
+   <name>VerifyPartnerPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>937b556b-9e01-4955-84f7-2e002e40ddeb</testCaseGuid>
+</TestCaseEntity>

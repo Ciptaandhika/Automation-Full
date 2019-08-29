@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify email setelah daftar</description>
+   <name>VerifyEmailAfterRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9bd0ae5-e39a-4389-ae22-bdadb7b8ddb4</testCaseGuid>
+</TestCaseEntity>

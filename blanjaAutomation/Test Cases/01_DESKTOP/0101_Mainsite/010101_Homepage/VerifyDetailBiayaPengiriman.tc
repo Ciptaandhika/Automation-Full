@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik detail biaya pengiriman</description>
+   <name>VerifyDetailBiayaPengiriman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>417181ec-c429-4239-9482-d66b921155b5</testCaseGuid>
+</TestCaseEntity>

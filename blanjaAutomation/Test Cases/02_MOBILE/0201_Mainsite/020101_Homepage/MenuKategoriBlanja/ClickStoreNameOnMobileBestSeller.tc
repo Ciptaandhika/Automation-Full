@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click store name on the PDP</description>
+   <name>ClickStoreNameOnMobileBestSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d69daaba-82a7-4bad-8311-c06f7e8362f5</testCaseGuid>
+</TestCaseEntity>

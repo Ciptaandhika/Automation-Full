@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set order number.
+Click search.</description>
+   <name>VerifyRefundSuccessfullyAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21590bf5-2922-4ac9-bfbe-1a37a7383b86</testCaseGuid>
+</TestCaseEntity>

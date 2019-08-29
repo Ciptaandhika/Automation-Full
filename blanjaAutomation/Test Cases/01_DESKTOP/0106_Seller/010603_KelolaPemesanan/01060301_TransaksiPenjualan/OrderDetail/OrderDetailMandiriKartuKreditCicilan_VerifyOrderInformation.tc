@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify informasi method payment contains 'Mandiri Credit Card Installment (Midtrans)'
+</description>
+   <name>OrderDetailMandiriKartuKreditCicilan_VerifyOrderInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be86e961-8b34-48e6-82ff-e06e4f1d0534</testCaseGuid>
+</TestCaseEntity>

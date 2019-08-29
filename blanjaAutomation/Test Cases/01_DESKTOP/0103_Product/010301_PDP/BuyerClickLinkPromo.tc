@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search product
+Select product to displays PDP</description>
+   <name>BuyerClickLinkPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5793d8b-643b-40a5-bd10-f5e3961a1b4c</testCaseGuid>
+</TestCaseEntity>

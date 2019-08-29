@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin create default TR setting for group name = Mobile Phone.
+- Take Rate = 1% (flat)
+- Periode = Tanggal Awal - Tanggal Akhir</description>
+   <name>TakeRateMobilePhone1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cda5fda-ddb1-45d0-be37-56411277197a</testCaseGuid>
+</TestCaseEntity>

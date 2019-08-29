@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- klik salah satu pesan buyer
+- pop up pesan muncul, balas pesan dari buyer (misalnya ketik Halo)
+- klik send</description>
+   <name>Seller_WarungKita_Reply_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20ffcaeb-def3-41f2-bc15-11d59dd362bc</testCaseGuid>
+</TestCaseEntity>

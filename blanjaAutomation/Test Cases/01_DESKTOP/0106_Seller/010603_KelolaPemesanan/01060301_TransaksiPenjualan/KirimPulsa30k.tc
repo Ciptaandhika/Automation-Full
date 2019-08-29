@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send kopi bubuk
+- Search item kopi bubuk (paid)
+- Klik button kirim
+- Fill textbox</description>
+   <name>KirimPulsa30k</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>937e2d05-7ec1-4397-89af-614d13d5712f</testCaseGuid>
+</TestCaseEntity>

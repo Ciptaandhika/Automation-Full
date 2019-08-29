@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display order confirm page, then tap on product name
+2. system will redirect to PDP page for this product</description>
+   <name>OrderConfirmPageDirectPDPPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60a40799-22c7-467e-bf72-eac74ffb808c</testCaseGuid>
+</TestCaseEntity>

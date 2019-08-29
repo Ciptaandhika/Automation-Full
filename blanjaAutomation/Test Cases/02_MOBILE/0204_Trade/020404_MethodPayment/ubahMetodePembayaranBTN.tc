@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose metode pembayaran
+click btn konfirmasi</description>
+   <name>ubahMetodePembayaranBTN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67bb14ba-d24b-4caa-974c-de106f245567</testCaseGuid>
+</TestCaseEntity>

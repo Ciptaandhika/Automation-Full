@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get URL
+Verify equal</description>
+   <name>verifyChoosePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>213e7c10-4f9a-46c2-bf74-5c560629fc27</testCaseGuid>
+</TestCaseEntity>

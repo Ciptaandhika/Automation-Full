@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display choose payment page with online payment 
+2. system will display choose payment page, e.g. :
+- store name
+- order number
+- product name
+- SKU
+- voucher/ blanja coupon field
+- subtotal
+- blanja point field
+- VA &amp; password VA field
+- online payment method choosed
+- total payment order
+3. after choose online payment 
+4. click on 'Confirm' button, system will display sprint asia or veritrans payment page or success payment page</description>
+   <name>ChoosePaymentBCAKlikVerify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a1b6c55-6682-4028-8b1b-93dc075466f8</testCaseGuid>
+</TestCaseEntity>

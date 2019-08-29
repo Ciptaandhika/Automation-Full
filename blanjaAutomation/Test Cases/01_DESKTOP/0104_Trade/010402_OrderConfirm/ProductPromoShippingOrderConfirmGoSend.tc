@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose jasa pengiriman Go Send.
+click button Lanjutkan Pembayaran.</description>
+   <name>ProductPromoShippingOrderConfirmGoSend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb566148-0c46-4fa2-b7f8-60f55bb0d50c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Admin create default TR periode for product TR = Seller
+ - Periode = all
+ - Take rate = 8%
+ - Scope = Seller (seller id =)</description>
+   <name>TakeRateSettingSellerFlatAllPeriod8Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d1424b1-f997-4fe4-bb62-c0e85833b54d</testCaseGuid>
+</TestCaseEntity>

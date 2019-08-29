@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- input username salah satu toko apapun yang sudah terdaftar (misalnya seller01)
+- hapus startdate dan end date yang muncul (defaultnya adalah today)
+- klik search
+- verify hasil search (Store Name)</description>
+   <name>Admin_Search_Store_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a43b617-f6ee-4716-9b20-864817d35acb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click search bar
+2. Input store name
+3. On store hover search result page filter 
+4. Verify default unchecked</description>
+   <name>Verify_Filter_Checkbox_Unchecked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b383575f-d080-424b-af9a-78b730b64cf3</testCaseGuid>
+</TestCaseEntity>

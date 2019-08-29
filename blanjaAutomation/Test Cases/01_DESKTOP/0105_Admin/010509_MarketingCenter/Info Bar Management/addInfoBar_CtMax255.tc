@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Set text
+Set text CTA
+Click redirect URL desktop
+Set text redirect URL Desktop
+Click redirect URL mobile
+Set text redirect URL Mobile
+Click button save
+Verify text present</description>
+   <name>addInfoBar_CtMax255</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ec6cf31-8922-47a7-ad30-da3611f86c83</testCaseGuid>
+</TestCaseEntity>

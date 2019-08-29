@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Inisiasi log
+Get attribute
+LogInfo
+Navigate to URL</description>
+   <name>copyUrlUtmToBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>094f99cd-f825-4737-aeff-4dac5725f69b</testCaseGuid>
+</TestCaseEntity>

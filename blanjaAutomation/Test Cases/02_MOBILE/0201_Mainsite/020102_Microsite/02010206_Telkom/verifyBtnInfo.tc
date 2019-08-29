@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click btn i
+Verify text present</description>
+   <name>verifyBtnInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96a1a037-1564-41ed-9a2a-79139734d97c</testCaseGuid>
+</TestCaseEntity>

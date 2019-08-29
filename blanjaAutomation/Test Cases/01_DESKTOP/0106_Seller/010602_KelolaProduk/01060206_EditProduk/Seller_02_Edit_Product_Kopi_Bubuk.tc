@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click &quot;Sold Product&quot;
+2. Click Edit
+3. Make sure it can be edited.</description>
+   <name>Seller_02_Edit_Product_Kopi_Bubuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67b7d7e0-0f8d-4ebe-9a8d-5579aa262983</testCaseGuid>
+</TestCaseEntity>

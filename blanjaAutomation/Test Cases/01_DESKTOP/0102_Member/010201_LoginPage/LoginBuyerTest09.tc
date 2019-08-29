@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- open browser
+- navigate URL member.bljstaging.com
+- isi username 
+- isi form password
+- klik lanjutkan</description>
+   <name>LoginBuyerTest09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a1e77e-b70e-43f7-9dd3-8baa70923c3b</testCaseGuid>
+</TestCaseEntity>

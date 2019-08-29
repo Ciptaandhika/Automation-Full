@@ -1,0 +1,62 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+
+WebUI.navigateToUrl(GlobalVariable.urlOrderManagementOrderManagement)
+
+WebUI.setText(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/01050203_OrderManagement/OrderManagementPage/txtboxOrderNumNew'), 
+    GlobalVariable.lastOrderNumberBlanjaanSaya)
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/01050203_OrderManagement/btnSearchOrange'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/01050203_OrderManagement/btnKirimOrderAdmin'))
+
+WebUI.delay(5)
+
+String mynumber = GlobalVariable.nomorResiFLRandom
+
+int mylength = mynumber.length()
+
+String submynumber = mynumber.substring(0, mylength - 8)
+
+mydate = new Date()
+
+formattedDate = mydate.format('dd MM ')
+
+datehour = mydate.format('HHmm')
+
+String flresi_new = (submynumber + formattedDate) + datehour
+
+String flresirandom = flresi_new.replaceAll('\\s+', '')
+
+WebUI.setText(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/01050203_OrderManagement/txtboxInputOrderNumberAdmin'), 
+    flresirandom)
+
+WebUI.delay(5)
+
+WebUI.verifyElementPresent(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/b_First Logistics'), 0)
+
+WebUI.verifyElementPresent(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/b_Reguler'), 0)
+
+WebUI.verifyElementPresent(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/01050203_OrderManagement/btnOKAdmin'), 
+    0)
+
+WebUI.click(findTestObject('01_DESKTOP/0105_Admin/010502_TransactionManagement/01050203_OrderManagement/btnOKAdmin'))
+
+WebUI.verifyAlertPresent(0)
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. seller set product condition as 'New'
+ 2. seller fill all mandatory fields
+ 3. seller click button 'Lanjutkan'</description>
+   <name>Seller_Create_NewVersion_Product_Fashion3SKU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a922d6f-f2ac-4063-86d4-7a286f7b36af</testCaseGuid>
+</TestCaseEntity>

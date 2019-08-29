@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. system will display order confirm page
+2. tap button 'lanjutkan pembayaran' on order confirm page</description>
+   <name>OrderConfirmPageDirectChoosePaymentDifferentStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>486c068d-d890-4779-b6ad-2235be678aff</testCaseGuid>
+</TestCaseEntity>

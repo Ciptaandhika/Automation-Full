@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search product that have &quot;paid to close&quot; scheduler settings</description>
+   <name>SearchProductScheduler3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36b91442-08b7-40dd-967e-b9ad163ca7d5</testCaseGuid>
+</TestCaseEntity>

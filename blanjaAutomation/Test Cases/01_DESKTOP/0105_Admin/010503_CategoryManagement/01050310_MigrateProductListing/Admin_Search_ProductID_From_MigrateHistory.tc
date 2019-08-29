@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Admin klik History Migrate Listing
+- Admin Search ProductID 21888505
+- Cleartext Startdate
+- Cleartext End Date
+- klik search</description>
+   <name>Admin_Search_ProductID_From_MigrateHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6bb45ff-19d7-47d1-b65e-01cac09da51f</testCaseGuid>
+</TestCaseEntity>

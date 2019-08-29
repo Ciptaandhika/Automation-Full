@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- member klik hubungi penjual/kirim pesan tanpa login terlebih
+ dahulu (guest)</description>
+   <name>PDP_Guest_Klik_KirimPesan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75851e9d-8f49-4c2b-a546-15a9a2000594</testCaseGuid>
+</TestCaseEntity>

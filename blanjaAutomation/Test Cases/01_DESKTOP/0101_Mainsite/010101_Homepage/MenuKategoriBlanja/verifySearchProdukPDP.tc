@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Search URL is correct
+2. Product on search result page has correct URL
+3. Search suggestion, product popular suggestion and store suggestion is showed</description>
+   <name>verifySearchProdukPDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f76fcdbd-4d9c-49b4-a291-78cb399f5cd3</testCaseGuid>
+</TestCaseEntity>

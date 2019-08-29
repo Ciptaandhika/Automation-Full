@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Pilih Kategori Fotografi dan Video
+2. klik  tombol lebih banyak lagi untuk menampilkan beberapa produk
+3. klik  tombol lebih banyak lagi untuk menampilkan semua produk
+4. SIstem akan memverifikasi semua produk yang berkaitan</description>
+   <name>FotografidanVideo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cc797c6-cfe3-4fef-a733-783307710835</testCaseGuid>
+</TestCaseEntity>

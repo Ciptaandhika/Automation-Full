@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url Admin-Transaksi Penjualan
+Masukkan nomor order
+Klik tombol Cari
+Verify payment methode = 'Kredivo'
+Verify status 'Paid'
+Klik 'Detail Pesanan'</description>
+   <name>GoToTransaksiPenjualan_LinkAja_InputOrderNumber_KlikBtnCari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13d68467-a32b-4c77-b7a8-c68a5a4da70f</testCaseGuid>
+</TestCaseEntity>

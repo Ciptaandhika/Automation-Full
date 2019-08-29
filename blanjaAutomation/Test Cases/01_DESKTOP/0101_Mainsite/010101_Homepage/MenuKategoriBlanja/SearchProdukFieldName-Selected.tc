@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input product name on search field
+ie : baju</description>
+   <name>SearchProdukFieldName-Selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35f60dba-a376-4c6b-a2fc-83a7df50607c</testCaseGuid>
+</TestCaseEntity>

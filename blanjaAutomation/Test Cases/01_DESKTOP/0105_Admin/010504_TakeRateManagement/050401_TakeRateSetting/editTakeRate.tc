@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn edit</description>
+   <name>editTakeRate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ded56860-8661-4224-a677-e3868bb213f2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input phone number</description>
+   <name>InputNomorTelkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcb477e1-b3a0-45f1-b47b-c34b578728ed</testCaseGuid>
+</TestCaseEntity>

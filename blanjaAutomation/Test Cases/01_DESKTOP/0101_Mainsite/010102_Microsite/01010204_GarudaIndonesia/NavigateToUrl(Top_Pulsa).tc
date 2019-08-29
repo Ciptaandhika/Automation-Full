@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition :
+
+Akses landing page https://www.bljstaging.com/top-up/pulsa</description>
+   <name>NavigateToUrl(Top_Pulsa)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51345213-2eb6-43f9-9881-4bf2382c9ca0</testCaseGuid>
+</TestCaseEntity>

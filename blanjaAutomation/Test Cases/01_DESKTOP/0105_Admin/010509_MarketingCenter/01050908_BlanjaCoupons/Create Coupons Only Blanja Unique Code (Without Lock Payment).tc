@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create coupon
+create unique coupon  without Lock Payment
+verify coupon
+
+1. Click Marketing Center - Blanja Coupons, and choose 'Code coupon' tab
+2. Input coupon name on 'Coupon Name' field (Mandatory)
+3. Select coupon type :
+ 'Unique Code' or 'Custom Code (Thematic)'
+ * select Unique Code, based on the scenario for this TC number
+4. Select discount type whether : 
+ 'Rp-off' or '%-off' on “please choose value&quot; field. (Mandatory)
+5. Then enter discount amount in the “please choose value” field, beside the selected discount type. (Mandatory)
+ Specify “Up to” amount to limit the discount amount. (Optional)
+6. Enter the threshold: Buy the product over X. (Mandatory) (Default: 0)
+7. Select start date, hour and end date, hour in the “Validity Period” field. (Mandatory)
+ Start date &amp; End date – default to today’s date.
+ Hour – default to 00.
+8. Enter how many coupons can collect by buyer in the “Each buyer can collect” field. (Mandatory)
+9. Input coupon code ( Input the first 2 characters and Max 4 characters ).
+10. Select whether this coupon can be used on PC field. (Mandatory) 
+11. Choose one/more promotions that cant combine with code coupon whether:
+ 'LTD Special', 'LTD seller ', 'Pre-Order', 'First Purchase', 'All-Kill',  'Time Deals', 'WOW!' on 'Exclude' field (Mandatory)
+ By default to LTD Special Price will checked(V) and disable
+12. Select or unselect &quot;Applied Only to Operator&quot;
+13. Apply filter 'Backend Product Category' which we must choose the 'Include Category' and 'Exclude Category' or 'Product ID' which means we must input 'Product ID' .
+14. Unselect Bank on Lock Payment which is at list of Bank. Combine with user name or email.
+*in this TC Doesn't combine with both.
+15. Input total budget and select type budget at Coupon Budget Settings
+16. Click on 'Create' button</description>
+   <name>Create Coupons Only Blanja Unique Code (Without Lock Payment)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>951a3bab-1f08-4777-ae6a-34d96e4939a5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Week 1, since there is no approval flow then once TR is created then TR status = active
+
+On Take Rate setting -> Category Group, Option column only available Deactive button</description>
+   <name>TakeRateSettingVerifyDeactiveOptionCategoryGroup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f81325d-ed02-4ded-97e7-7cb9fe09095b</testCaseGuid>
+</TestCaseEntity>

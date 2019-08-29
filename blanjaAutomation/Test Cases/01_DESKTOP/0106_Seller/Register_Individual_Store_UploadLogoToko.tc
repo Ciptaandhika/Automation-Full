@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Condition 1 : 
+- Jika member belum pernah memilih tipe toko maka akan di direct ke halaman type store
+- member klik open individual store
+- member klik text di sini pada form logo toko
+- member upload image
+Condition 2 : 
+- Jika member sudah pernah memilih tipe toko maka langsung di direct ke form registrasi individual store
+- member klik open individual store
+- member klik text di sini pada form logo toko</description>
+   <name>Register_Individual_Store_UploadLogoToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34551209-755f-4b69-9f57-02905e2cee0e</testCaseGuid>
+</TestCaseEntity>

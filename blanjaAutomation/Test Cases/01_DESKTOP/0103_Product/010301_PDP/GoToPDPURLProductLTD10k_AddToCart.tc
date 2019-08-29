@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer already added product(s) support First Purchase or LTD on shopping cart</description>
+   <name>GoToPDPURLProductLTD10k_AddToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7ab6bab-6ba0-4414-b966-25d0c6d9ecee</testCaseGuid>
+</TestCaseEntity>

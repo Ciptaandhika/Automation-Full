@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to url coin blanja
+Close Button link aja</description>
+   <name>AksesKoinBlanja_CloseTCash</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a5cf972-e0ef-408e-97ae-6a956733f3f9</testCaseGuid>
+</TestCaseEntity>

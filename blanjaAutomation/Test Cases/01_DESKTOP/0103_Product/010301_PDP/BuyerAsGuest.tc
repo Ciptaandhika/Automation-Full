@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browser</description>
+   <name>BuyerAsGuest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89618cc9-b138-4fcf-b928-cd7f3847a67b</testCaseGuid>
+</TestCaseEntity>

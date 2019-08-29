@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify tulisan 'Payment method :  Online	(BRI e-Pay)' tampil
+Verify state = 'placed'</description>
+   <name>OrderDetail_VerifyOrderInformationOthersDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db354254-863c-4aab-a0d7-cabd79194999</testCaseGuid>
+</TestCaseEntity>

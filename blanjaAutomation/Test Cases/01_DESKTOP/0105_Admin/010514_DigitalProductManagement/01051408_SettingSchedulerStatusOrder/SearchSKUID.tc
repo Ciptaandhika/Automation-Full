@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Search using SKU id
+- Fill SKU id 
+- Click search button</description>
+   <name>SearchSKUID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e3f084e-a398-4992-93ff-c7a5c2f3dfe9</testCaseGuid>
+</TestCaseEntity>

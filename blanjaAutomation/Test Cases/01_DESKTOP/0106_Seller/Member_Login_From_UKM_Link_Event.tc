@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre condition : 
+Member Belum terdaftar / belum memiliki toko
+
+- Member akses salah satu link ukm event (https://member.bljstaging.com/ukmbukatoko/registernewstore)
+- klik masuk disini
+- member input username dan password
+</description>
+   <name>Member_Login_From_UKM_Link_Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0f8e414-e963-4c58-9851-da364b418a5a</testCaseGuid>
+</TestCaseEntity>

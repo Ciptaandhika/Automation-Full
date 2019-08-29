@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin end ltd campaign</description>
+   <name>LTDEndCampaign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee924796-c62b-43d5-a2d9-18db32c5c1f5</testCaseGuid>
+</TestCaseEntity>

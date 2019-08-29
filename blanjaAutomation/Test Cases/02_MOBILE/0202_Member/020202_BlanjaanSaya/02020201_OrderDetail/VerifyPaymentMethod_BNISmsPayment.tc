@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On Order list text &quot;Menunggu Pengiriman&quot;/ &quot;Telah di bayar&quot; (Mweb)  should change to &quot;Menunggu Verifikasi&quot;</description>
+   <name>VerifyPaymentMethod_BNISmsPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82701d43-191f-4de2-8b12-9296453d372e</testCaseGuid>
+</TestCaseEntity>

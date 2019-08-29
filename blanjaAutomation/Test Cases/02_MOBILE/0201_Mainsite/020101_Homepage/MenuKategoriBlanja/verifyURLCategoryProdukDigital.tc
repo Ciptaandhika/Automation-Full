@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The URL is https://m.bljstaging.com/c/dgt/produk-digital</description>
+   <name>verifyURLCategoryProdukDigital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64aa9b75-929a-4ecb-bddd-3bc31f31fa8d</testCaseGuid>
+</TestCaseEntity>

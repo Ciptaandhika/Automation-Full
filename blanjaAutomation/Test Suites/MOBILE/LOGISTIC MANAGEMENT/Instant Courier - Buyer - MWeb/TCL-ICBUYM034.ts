@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TCL-ICBUYM034</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>404614a4-5e4c-459a-9081-663ea2575c8f</testSuiteGuid>
+   <testCaseLink>
+      <guid>e8863744-3435-40f3-9f1f-0641a4b7b4ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_MOBILE/0202_Member/020201_LoginPage/SellerLogin01</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>41a2f1fb-e10e-45a4-b85e-4fbd1a992a46</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_MOBILE/0202_Member/020201_LoginPage/buyerLogin2</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e908e467-4891-4942-b13a-72c49e379ad0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_MOBILE/0203_Product/020301_PDP/GoToMPDPBlackShineBotolAdd10qty</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d802a75e-195b-47d1-aa58-da70ac7d247d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_MOBILE/0203_Product/020301_PDP/ClickBlanjaSekarangFromPDP</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>69dd6702-e3b9-4b2f-9112-e05c2a43d3f6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_MOBILE/0204_Trade/020401_Cart/KlikPembayaran</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a5d8792c-86c2-4782-b5cc-00c57f0fc34b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_MOBILE/0204_Trade/020402_OrderConfirm/Verify20k</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

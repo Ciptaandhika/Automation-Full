@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Installment information is showed on the PDP</description>
+   <name>verifyInstallmentInformationShowed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f8a54a7-1252-4e9a-ae31-cfd537a28d58</testCaseGuid>
+</TestCaseEntity>

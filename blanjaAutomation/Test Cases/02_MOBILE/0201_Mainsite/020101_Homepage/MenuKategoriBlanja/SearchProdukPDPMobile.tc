@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to PDP
+Do search with some combination</description>
+   <name>SearchProdukPDPMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7bf6d8d-6641-4a7b-9b22-87641d0b533d</testCaseGuid>
+</TestCaseEntity>

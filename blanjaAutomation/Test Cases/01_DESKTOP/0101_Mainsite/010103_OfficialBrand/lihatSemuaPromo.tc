@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click btn &quot;lihat semua&quot;</description>
+   <name>lihatSemuaPromo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65fa1843-b4e1-49cf-a57d-07b988903bb8</testCaseGuid>
+</TestCaseEntity>

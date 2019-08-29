@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify informasi method payment contains 'Tipe Pembayaran :
+LinkAja'
+</description>
+   <name>OrderDetailLinkAja_VerifyOrderInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd527101-fd36-4c3b-8b51-30cee95e77d1</testCaseGuid>
+</TestCaseEntity>

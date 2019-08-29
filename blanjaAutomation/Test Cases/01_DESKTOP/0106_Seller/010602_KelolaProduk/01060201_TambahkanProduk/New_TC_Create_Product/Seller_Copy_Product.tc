@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- seller navigate ke menu produk dijual
+- seller klik copy product 
+- verify pesan berhasil</description>
+   <name>Seller_Copy_Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ce2e3ab-aaf9-497d-99e8-0874e515517e</testCaseGuid>
+</TestCaseEntity>

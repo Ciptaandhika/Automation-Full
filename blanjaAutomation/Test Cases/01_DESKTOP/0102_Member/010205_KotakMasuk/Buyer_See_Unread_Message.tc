@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- seller melihat pesan yang belum dibaca pada menu My Message
+- klik belum dibaca
+-  verify jika tidak terdapat label belum ada pesan, maka terdapat pesan yang belum dibaca (status unread) </description>
+   <name>Buyer_See_Unread_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>094b47e4-ebc7-4f87-aa00-5ecebad0f199</testCaseGuid>
+</TestCaseEntity>

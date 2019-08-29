@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Get Text Last Order dan di simpan di Global Variable
+Get Text Verify Pembayaran
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.</description>
+   <name>Member_OrderList_FinpayPegadaian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0333103-4c73-43e8-9870-dbd41507399c</testCaseGuid>
+</TestCaseEntity>

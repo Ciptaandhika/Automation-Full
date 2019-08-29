@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>navigate to URL Transaksi Penjualan Seller
+Get Text Nomor Pesanan Barang terakhir
+Set Text Nomor Pesanan Barang terakhir
+Search Nomor pesanan barang terakhir
+Ship Nomor pesanan Terakhir
+Set Nomor Pesanan Terakhir
+Btn Simpan resi Pengiriman</description>
+   <name>GoToTransaksiPenjualan_Kredivo_SearchSpesificOrder_KlikKirim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f22b6f33-9dff-4077-a697-0817f49ec008</testCaseGuid>
+</TestCaseEntity>

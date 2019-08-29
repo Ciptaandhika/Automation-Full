@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pre Condition :
+
+1. seller already login
+ 2. seller already access Toko Saya
+ 3. seller already access Tambahkan Produk Page
+
+Step : 
+
+1. seller set product condition randomly
+ 2. seller fill all mandatory fields
+ 3. seller click button 'Lanjutkan'</description>
+   <name>Seller_Create_Product_Without_Condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f86fc3e7-a81f-46ba-9903-cbb5b2c0018a</testCaseGuid>
+</TestCaseEntity>

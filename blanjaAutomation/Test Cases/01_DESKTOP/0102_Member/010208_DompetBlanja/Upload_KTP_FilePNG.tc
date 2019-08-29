@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- upload KTP dengan kondisi error (File PNG)
+- verifikasi warning error yang muncul</description>
+   <name>Upload_KTP_FilePNG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>004c4176-125e-4ac5-9c15-64711a66378a</testCaseGuid>
+</TestCaseEntity>

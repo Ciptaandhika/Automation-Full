@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in as Buyer</description>
+   <name>LoginBuyer_secondlogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a63943ef-52c6-425f-89f0-34e72234e9ec</testCaseGuid>
+</TestCaseEntity>

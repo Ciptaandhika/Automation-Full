@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buyer will redirect to Sandbox payment</description>
+   <name>verifySandboxPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f702381e-043b-437c-acba-93c970e8ce75</testCaseGuid>
+</TestCaseEntity>

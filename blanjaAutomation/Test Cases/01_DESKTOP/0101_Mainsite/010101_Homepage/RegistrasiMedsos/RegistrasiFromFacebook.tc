@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. klik tombol daftar
+2. klik label daftar dengan google
+3. sistem menampilkan hal masuk google
+4. verifikasi lbl masuk google</description>
+   <name>RegistrasiFromFacebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbbc566f-70b4-478b-927d-60d12fd57976</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin created normal take rate :
+Category : Fashion
+Flat 5%
+All Periode</description>
+   <name>TakeRateSettingGroupDiscountSpesificTimeFashion10Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5f22358-a594-4b08-95aa-8e3ec2176292</testCaseGuid>
+</TestCaseEntity>

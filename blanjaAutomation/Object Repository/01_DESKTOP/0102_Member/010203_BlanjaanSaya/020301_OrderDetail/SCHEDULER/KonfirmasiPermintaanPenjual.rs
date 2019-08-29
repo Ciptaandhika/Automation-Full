@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>KonfirmasiPermintaanPenjual</name>
+   <tag></tag>
+   <elementGuidId>6dc74cb1-19ab-4f70-aeb4-d02e34f53181</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tradesTable&quot;]/div[3]/div/table/tbody/tr[1]/td[7]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tradesTable&quot;]/div[3]/div/table/tbody/tr[1]/td[7]/p/a</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. The QR code is exist
+2. User can click the QR code and showed the pop-up</description>
+   <name>verifyPopupScanQRToko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d389ad4-2f2c-446a-87c0-b341a9c8854f</testCaseGuid>
+</TestCaseEntity>

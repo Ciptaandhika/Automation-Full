@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Access Blanja Coupon
+2. Create Coupons Only Partner (Unique Code)
+3. Verify</description>
+   <name>Create Coupons Only Partner Unique Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>010044f8-b12d-461e-8cbc-94082326720c</testCaseGuid>
+</TestCaseEntity>

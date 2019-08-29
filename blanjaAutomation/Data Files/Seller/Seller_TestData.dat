@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Seller_TestData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>75c43167-f3c8-4f0b-a714-70eaedaae1d7</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>08956175141955 test07 %5C%5Cimage%5C%5Cfix.png 123qwe 60</data>
+   <data>081234 test13 %5C%5Cimage%5C%5C4kimage.jpg mii123 null</data>
+   <data>02121212121 null null null null</data>
+   <data>085778020700 null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Phonenumber</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>username</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>sampleimage</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>password</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>setTimeOut</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. User log in at Blanja.com
+2. User Click Account menu
+3. In header menu, If member click “Informasi Akun” menu, member will be redirected to “Informasi Akun” page
+If member click “Informasi Akun” menu, member will be redirected to “Informasi Akun” page</description>
+   <name>VerifyInformasiAkun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf27c258-c242-4023-9e3a-6e797f7b63d0</testCaseGuid>
+</TestCaseEntity>

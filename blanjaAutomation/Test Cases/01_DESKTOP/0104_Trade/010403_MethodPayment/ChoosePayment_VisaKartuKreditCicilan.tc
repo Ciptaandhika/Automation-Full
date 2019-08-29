@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik RB Mandiri Kartu Kredit
+Get Label Mandiri Kartu Kredit
+Klik Konfrimasi Pembayaran</description>
+   <name>ChoosePayment_VisaKartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04d49800-f61e-4c99-97ed-613b9f0c1b29</testCaseGuid>
+</TestCaseEntity>

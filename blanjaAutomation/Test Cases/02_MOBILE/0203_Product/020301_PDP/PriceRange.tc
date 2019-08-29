@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik kisaran harga</description>
+   <name>PriceRange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5852f2fa-ba35-4cec-af09-c5ce5ada38ad</testCaseGuid>
+</TestCaseEntity>

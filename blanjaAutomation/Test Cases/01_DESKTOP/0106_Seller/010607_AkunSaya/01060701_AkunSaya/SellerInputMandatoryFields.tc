@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click shipping address
+Input all fields especially mandatory field
+Click Save button</description>
+   <name>SellerInputMandatoryFields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8818cdf1-a5a6-4e2b-a72e-2b9f758f18d9</testCaseGuid>
+</TestCaseEntity>

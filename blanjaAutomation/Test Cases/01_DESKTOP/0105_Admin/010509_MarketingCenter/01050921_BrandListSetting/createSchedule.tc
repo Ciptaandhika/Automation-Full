@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose promo name
+fillin period
+click save</description>
+   <name>createSchedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8da7f3a6-8376-4bac-8d1f-7b48961c2045</testCaseGuid>
+</TestCaseEntity>

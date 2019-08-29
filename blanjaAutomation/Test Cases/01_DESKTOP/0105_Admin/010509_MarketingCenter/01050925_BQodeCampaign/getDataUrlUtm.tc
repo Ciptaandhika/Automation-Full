@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Inisiasi log
+Get attribute
+LogInfo
+</description>
+   <name>getDataUrlUtm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57c9b706-84e3-43d2-99c4-d6bdee7adb7d</testCaseGuid>
+</TestCaseEntity>

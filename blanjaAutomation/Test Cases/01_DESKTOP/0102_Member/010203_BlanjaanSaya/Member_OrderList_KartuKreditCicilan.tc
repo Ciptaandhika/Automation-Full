@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Klik button close TCash
+Get Text Last Order dan di simpan di Global Variable
+Get Text last order number Blanjaan Saya
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.</description>
+   <name>Member_OrderList_KartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4cd5711-2abd-460e-b910-67d8ac5a7277</testCaseGuid>
+</TestCaseEntity>

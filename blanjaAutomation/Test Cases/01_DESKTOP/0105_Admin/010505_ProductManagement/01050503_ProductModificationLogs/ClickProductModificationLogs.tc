@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ClickProductModificationLogs</description>
+   <name>ClickProductModificationLogs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>121ec6f0-d812-4b33-9ab6-b2863aad7e46</testCaseGuid>
+</TestCaseEntity>

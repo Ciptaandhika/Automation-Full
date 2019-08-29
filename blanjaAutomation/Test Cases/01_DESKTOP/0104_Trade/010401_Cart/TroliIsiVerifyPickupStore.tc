@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Check on cart page
+2. Display label &quot;Barang ini dapat diambil di lokasi yang telah ditentukan oleh penjual&quot; below product name</description>
+   <name>TroliIsiVerifyPickupStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d98e3eb7-ead0-45fa-960b-15a8a87c27d5</testCaseGuid>
+</TestCaseEntity>

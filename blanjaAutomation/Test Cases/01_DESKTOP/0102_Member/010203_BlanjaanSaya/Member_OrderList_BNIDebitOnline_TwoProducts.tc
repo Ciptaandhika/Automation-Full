@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Input no order pertama
+klik cari
+Verify text 'Telah DItempatkan'
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.
+Input no order kedua
+klik cari
+Verify text 'Telah DItempatkan'
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.</description>
+   <name>Member_OrderList_BNIDebitOnline_TwoProducts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96adebf1-111c-4be3-909f-7896963290eb</testCaseGuid>
+</TestCaseEntity>

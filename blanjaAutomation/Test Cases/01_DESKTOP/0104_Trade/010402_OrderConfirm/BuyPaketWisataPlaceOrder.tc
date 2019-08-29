@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Fill attribute (email, phone)
+- Click button lanjutkan pembayaran
+- Choose payment method
+- Click button konfirmasi pembayaran</description>
+   <name>BuyPaketWisataPlaceOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b023d523-1946-47df-b9cf-17d845b2a338</testCaseGuid>
+</TestCaseEntity>

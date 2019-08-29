@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik create promotion
+input program name
+input promotion name
+input promotion date
+input store id
+input produk id
+input total budget
+input budget type
+input partner covereage
+inut partner name
+input each buyer
+input promotion inventory
+input seller net
+input chip-in
+save</description>
+   <name>LTDCreatePartialType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>771fb8d9-2615-4aa5-88f1-d9fc4c913140</testCaseGuid>
+</TestCaseEntity>

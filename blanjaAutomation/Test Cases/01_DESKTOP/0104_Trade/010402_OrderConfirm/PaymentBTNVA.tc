@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment with BTN virtual account</description>
+   <name>PaymentBTNVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>762c2a49-1fb1-44f6-b3b2-762ecaafdedd</testCaseGuid>
+</TestCaseEntity>

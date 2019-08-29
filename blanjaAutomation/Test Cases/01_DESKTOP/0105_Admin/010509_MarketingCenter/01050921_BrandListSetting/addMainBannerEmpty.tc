@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Banner Setting
+Upload file
+Set Banner Title
+Set Banner Link
+Click button Add Main Banner
+Click button OK
+Verify text present</description>
+   <name>addMainBannerEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d910d6b-a244-42c3-834f-74762bae1b39</testCaseGuid>
+</TestCaseEntity>

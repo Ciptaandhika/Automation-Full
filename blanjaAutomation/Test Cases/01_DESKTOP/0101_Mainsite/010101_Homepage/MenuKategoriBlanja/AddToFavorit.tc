@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AddToFavorit pada store page</description>
+   <name>AddToFavorit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cca5c1dd-e101-4178-8d51-1f7264d88e44</testCaseGuid>
+</TestCaseEntity>

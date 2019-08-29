@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik btn pre-order</description>
+   <name>PDPPre-Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc7b45ba-5ce2-4b5e-a4c9-ce298d070d31</testCaseGuid>
+</TestCaseEntity>

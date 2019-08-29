@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 : 
+
+- Jika member belum pernah memilih type store maka akan di direct ke   halaman tersebut
+-  member pilih/ klik business store
+
+Kondisi 2  :
+- Pada form registrasi business store isi form nama pemilik toko</description>
+   <name>Regsiter_Business_Store_SetText_OwnerName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6fc475e-8827-4048-a175-06a82829c847</testCaseGuid>
+</TestCaseEntity>

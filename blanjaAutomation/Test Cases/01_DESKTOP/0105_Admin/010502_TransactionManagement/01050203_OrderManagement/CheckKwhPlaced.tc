@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify kwh (placed)</description>
+   <name>CheckKwhPlaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>337b2ef8-b229-4dc7-aae4-81f16f556dc9</testCaseGuid>
+</TestCaseEntity>

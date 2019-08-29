@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Total products count is show with the correct number</description>
+   <name>verifyProdukCount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6daefad8-79ed-43e9-98cc-512e26d28297</testCaseGuid>
+</TestCaseEntity>

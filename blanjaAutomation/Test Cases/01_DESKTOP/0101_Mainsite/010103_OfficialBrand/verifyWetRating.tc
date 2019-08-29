@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Click Cetaphil
+Get URL
+Delay
+Verify element present
+Click product
+Click button X
+Delay
+Verify element present</description>
+   <name>verifyWetRating</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77255b4a-53e0-4630-b1b5-673f0545b41e</testCaseGuid>
+</TestCaseEntity>

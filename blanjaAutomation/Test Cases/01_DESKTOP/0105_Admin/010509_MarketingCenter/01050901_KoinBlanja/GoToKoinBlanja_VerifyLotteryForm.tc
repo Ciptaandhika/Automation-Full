@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Go to Koin Blanja
+- Verify All Form in Lottery Prize</description>
+   <name>GoToKoinBlanja_VerifyLotteryForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>777d3cd0-645f-4ff3-a23f-ff2a74472b3f</testCaseGuid>
+</TestCaseEntity>

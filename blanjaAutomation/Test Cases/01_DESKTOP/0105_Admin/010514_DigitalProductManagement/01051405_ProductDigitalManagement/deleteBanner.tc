@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Banner
+
+1. Klik banner yang sudah ada banner sebelumnya
+2. Delete
+
+</description>
+   <name>deleteBanner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>603d7e0d-7cb6-42bc-a9ef-600cc2a1d3e8</testCaseGuid>
+</TestCaseEntity>

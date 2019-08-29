@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirected url is correct
+
+https://www.bljstaging.com/katalog/p/mnb/pantene-black-shine-botol-180ml-21689250</description>
+   <name>verifyURLIsCorrect</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e1ef972-704c-4dda-a18a-c9f1ed75a7ff</testCaseGuid>
+</TestCaseEntity>

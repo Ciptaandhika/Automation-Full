@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- search order A
+- verify button export
+- search order B
+- verify button export
+- search order C
+- verify button export</description>
+   <name>Seller01_Search_OrderA,B,C_And_VerifyExport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f637b830-baa5-4ce6-9abc-81df643d46e4</testCaseGuid>
+</TestCaseEntity>

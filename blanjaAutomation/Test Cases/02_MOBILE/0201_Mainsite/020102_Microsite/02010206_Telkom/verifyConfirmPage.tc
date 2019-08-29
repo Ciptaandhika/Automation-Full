@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delay
+Get URL
+Verify contains
+</description>
+   <name>verifyConfirmPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6ccdf66-79e1-4b55-877d-4a38a6cdce65</testCaseGuid>
+</TestCaseEntity>

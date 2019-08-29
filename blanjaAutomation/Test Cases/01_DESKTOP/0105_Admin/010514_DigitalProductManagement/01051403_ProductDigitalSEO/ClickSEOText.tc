@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SEO Text
+
+1. Klik SEO text
+2. Masukkan SEO Text</description>
+   <name>ClickSEOText</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50cf5e75-720c-442e-8ee0-21475130c52f</testCaseGuid>
+</TestCaseEntity>

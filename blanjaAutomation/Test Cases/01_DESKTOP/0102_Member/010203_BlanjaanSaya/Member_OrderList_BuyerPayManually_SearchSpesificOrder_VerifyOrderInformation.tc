@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+isi order Number 
+click Search
+Verify order must be 'Closed'</description>
+   <name>Member_OrderList_BuyerPayManually_SearchSpesificOrder_VerifyOrderInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>996afa4b-c0ab-48e1-92c9-1f48865c067f</testCaseGuid>
+</TestCaseEntity>

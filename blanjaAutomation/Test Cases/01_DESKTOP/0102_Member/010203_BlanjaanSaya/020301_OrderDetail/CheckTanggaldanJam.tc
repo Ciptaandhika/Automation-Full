@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify tanggal dan jam</description>
+   <name>CheckTanggaldanJam</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84490a78-3acb-4b23-a6ab-186c48973236</testCaseGuid>
+</TestCaseEntity>

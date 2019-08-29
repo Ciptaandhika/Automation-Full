@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button product ltd
+Switch to window index
+Get url
+Verify equal</description>
+   <name>clickProdukLtd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ce6ca22-d8ea-4e6d-8175-58c9a21f35da</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- pilih jasa pengiriman ninja xpress
+- verify button pembayaran ketika area tidak terjangkau</description>
+   <name>Verify_ButtonPembayaran_Disable_NinjaXpress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdff9c47-5c39-4461-b9cf-4551e54f9072</testCaseGuid>
+</TestCaseEntity>

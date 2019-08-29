@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Select product non-digital from multiple store (ex : select 3 product from 3 different store)
+2. One of store distance from buyer > 40 Km
+3. On order confirm buyer select Jasa Pengiriman = Go-send - Same Day Delivery</description>
+   <name>3Products3StoresSameDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6a4528a-274f-4293-a866-b92053a18b48</testCaseGuid>
+</TestCaseEntity>

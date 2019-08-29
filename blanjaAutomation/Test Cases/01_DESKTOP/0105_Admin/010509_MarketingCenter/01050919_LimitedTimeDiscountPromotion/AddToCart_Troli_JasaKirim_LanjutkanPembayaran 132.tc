@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click button GoSend
+Verify text present
+Set text
+Verify text present
+Delay
+Verify element not visible
+Verify element not visible</description>
+   <name>AddToCart_Troli_JasaKirim_LanjutkanPembayaran 132</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d00152f7-005a-42f5-9683-65a790b74e78</testCaseGuid>
+</TestCaseEntity>

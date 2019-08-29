@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kondisi 1 :
+
+- member pilih type store terlebih dahulu (Business Store)
+- member menuju halaman info store page
+- member leave store info page
+- member login kembali dan akses mystore (later)
+Kondisi 2 :
+- member sudah memilih type store (Business Store)
+- member leave store info page
+- member login kembali dan akses mystore (later)</description>
+   <name>BStore_Go_StoreInfo_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>873bbaae-db89-4a6f-8cbb-443e09af1863</testCaseGuid>
+</TestCaseEntity>

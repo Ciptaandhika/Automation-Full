@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Note : 
+
+Menu ini sudah di coba file dengan format excel yang sesuai (.xls) tetapi tetap di direct ke halaman system busy
+
+
+- upload file excel
+- klik upload
+- verify link system busy jika file bukan excel</description>
+   <name>Admin_Upload_Excel_And_Verify_BulkUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e2d5eec-7d7c-4d88-9b3a-d9edc07ca12a</testCaseGuid>
+</TestCaseEntity>

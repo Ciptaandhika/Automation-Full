@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to seller page (kotak masuk)</description>
+   <name>Seller_Click_Kotak_Masuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f13d1136-b2df-413c-a481-600dd51f70a2</testCaseGuid>
+</TestCaseEntity>

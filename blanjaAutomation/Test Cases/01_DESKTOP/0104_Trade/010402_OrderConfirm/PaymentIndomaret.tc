@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment with Indomaret</description>
+   <name>PaymentIndomaret</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fafef6c7-d9b3-45c2-9a9c-5df1fa075616</testCaseGuid>
+</TestCaseEntity>

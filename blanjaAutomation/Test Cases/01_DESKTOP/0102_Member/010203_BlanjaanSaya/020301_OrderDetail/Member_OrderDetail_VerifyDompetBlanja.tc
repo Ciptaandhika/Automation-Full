@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify text 'Tipe Pembayaran :  Mandiri E-Cash' is appeared</description>
+   <name>Member_OrderDetail_VerifyDompetBlanja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc041f82-adbd-4253-9dff-2cac925377d0</testCaseGuid>
+</TestCaseEntity>

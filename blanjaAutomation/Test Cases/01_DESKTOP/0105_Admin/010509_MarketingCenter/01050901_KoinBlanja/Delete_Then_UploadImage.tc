@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- upload image direct prize
+- delete
+- upload kembali image tersebut</description>
+   <name>Delete_Then_UploadImage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82378c5d-1041-4e85-966d-bd1ef0c822e9</testCaseGuid>
+</TestCaseEntity>

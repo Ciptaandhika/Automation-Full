@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Buyer choose operator
+- Input phonenumber
+- Verify buyer could choose nominal
+- Click button blanja paket data</description>
+   <name>BlanjaPaketDataPilihOperator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc9b7292-5393-4ac4-a901-64fc789c8346</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- verify text yang sudah dibaca / statusnya tidak unread maka berubah menjadi regular / warnanya tidak bold</description>
+   <name>Verify_Message_Read_RegularText</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f715a79a-431b-4941-97de-88f9b4f924c6</testCaseGuid>
+</TestCaseEntity>

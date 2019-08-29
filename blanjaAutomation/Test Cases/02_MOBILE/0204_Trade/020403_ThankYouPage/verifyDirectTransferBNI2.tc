@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify element present iconBNI
+verify element present accountBNI
+verify element present lblAnPTMetraplasaCabang</description>
+   <name>verifyDirectTransferBNI2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce2a878d-34be-4212-a9ad-7d4a8d22e12b</testCaseGuid>
+</TestCaseEntity>

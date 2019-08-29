@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Wait For alert
+Accept alert</description>
+   <name>AcceptAlertAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>524e40b0-168b-498a-a7ea-bd000e5a20bb</testCaseGuid>
+</TestCaseEntity>

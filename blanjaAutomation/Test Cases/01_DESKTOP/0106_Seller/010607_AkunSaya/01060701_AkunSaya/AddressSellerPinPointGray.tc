@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose Alamat Pengiriman.
+verify pin point Gray or Red.</description>
+   <name>AddressSellerPinPointGray</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>765d69d2-4781-4dc2-bee1-ccca2d93ba00</testCaseGuid>
+</TestCaseEntity>

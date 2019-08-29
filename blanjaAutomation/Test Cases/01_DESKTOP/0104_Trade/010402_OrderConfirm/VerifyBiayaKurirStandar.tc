@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to transaction page (select courier).
+Dropdown pilih kurir main (Kurir Standar)
+Click btn Lanjutkan pembayaran
+Verify Element present Lokasi Jakarta Selatan</description>
+   <name>VerifyBiayaKurirStandar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49ff780d-57dd-438f-bd37-75b907f945ba</testCaseGuid>
+</TestCaseEntity>

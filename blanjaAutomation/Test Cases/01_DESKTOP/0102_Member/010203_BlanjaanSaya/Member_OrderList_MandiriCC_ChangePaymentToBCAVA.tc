@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To url Member Blanjaan Saya
+Get Text Last Order dan di simpan di Global Variable
+Get Text Verify Pembayaran
+Verify Ada kata sesuai Bank yang dipilih saat pembayaran.</description>
+   <name>Member_OrderList_MandiriCC_ChangePaymentToBCAVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dca4e6e0-f41c-44d2-9b7d-37dbf887ae6c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify List Bandara</description>
+   <name>verifyListBandaraTujuan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bfbb6d9-7a9d-4c9b-a6e0-63c0796b38e1</testCaseGuid>
+</TestCaseEntity>

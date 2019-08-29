@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product
+Click Select Courier
+Choose &quot;Go Send&quot;
+Click Same Day / Instant Courier
+Click beli sekarang
+Choose Select Courier again
+Click Same Day / Instant Courier again</description>
+   <name>InstantCourierOrderConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>863b91d2-c27c-4491-bb1b-41b42da18e94</testCaseGuid>
+</TestCaseEntity>

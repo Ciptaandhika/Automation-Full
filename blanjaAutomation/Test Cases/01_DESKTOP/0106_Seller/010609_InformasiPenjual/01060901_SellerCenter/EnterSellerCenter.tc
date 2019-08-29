@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Url Seller Center</description>
+   <name>EnterSellerCenter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8eb34765-4a7f-41d7-805f-afb8e8f46aee</testCaseGuid>
+</TestCaseEntity>

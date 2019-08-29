@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as an OP, on web admin want to Export Coupon - from Report page
+
+1. on selected code coupon click on 'Report' hyperlink
+2. on Report page, click on 'Export' button</description>
+   <name>Export Coupon from Report page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8a32483-7855-4811-999f-ac351bf8ca39</testCaseGuid>
+</TestCaseEntity>

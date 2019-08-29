@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Tap on shopping cart icon
+2. Click on blanja logo
+3. System will redirect to Blanja Homepage</description>
+   <name>TroliIsiDirectBlanjaHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f775fcd0-db9f-4aff-bfd2-130a3d8b155d</testCaseGuid>
+</TestCaseEntity>

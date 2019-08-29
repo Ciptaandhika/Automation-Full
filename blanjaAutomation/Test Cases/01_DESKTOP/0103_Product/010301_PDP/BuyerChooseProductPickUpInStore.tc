@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose product pick up in store.
+See info.</description>
+   <name>BuyerChooseProductPickUpInStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9734e03-9d02-4ede-89d3-b093867548c2</testCaseGuid>
+</TestCaseEntity>

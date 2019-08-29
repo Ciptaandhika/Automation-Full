@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Seller klik pengaturan promosi</description>
+   <name>Seller_Go_To_Pengaturan_Promosi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f04b6a4-4da7-47c8-ab0e-2284715026d0</testCaseGuid>
+</TestCaseEntity>

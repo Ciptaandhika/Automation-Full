@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check pickup store</description>
+   <name>CheckPickupInStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63e82fc9-608b-4e20-bfeb-5acdc9b6539d</testCaseGuid>
+</TestCaseEntity>

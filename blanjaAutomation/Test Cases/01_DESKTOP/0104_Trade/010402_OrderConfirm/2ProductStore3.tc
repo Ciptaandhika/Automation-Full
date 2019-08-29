@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>choose jasa pengiriman GOSEND.
+click button Blanja Sekarang.</description>
+   <name>2ProductStore3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e8d9dcd-04bd-4044-b619-6040c7bc4c12</testCaseGuid>
+</TestCaseEntity>

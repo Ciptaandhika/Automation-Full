@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ratingWetNWild2</name>
+   <tag></tag>
+   <elementGuidId>f02889e1-e2fe-4817-9d2b-3d49b4481bef</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemScore</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;clearfix pdpv2-canvas&quot;]/div[@class=&quot;pdpv2&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row section properties&quot;]/div[@class=&quot;col-3 right&quot;]/div[@class=&quot;sidebar-box seller&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-10 seller-info&quot;]/div[@class=&quot;meta-rating&quot;]/span[@class=&quot;mpdp-rating&quot;]/span[@class=&quot;mpdp-rating-container&quot;]/em[@id=&quot;itemScore&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>(//em[@id='itemScore'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wet n Wild Indonesia'])[1]/following::em[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagikan Produk:'])[1]/following::em[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota Jakarta Barat,'])[1]/preceding::em[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[2]/div/span/span/em</value>
+   </webElementXpaths>
+</WebElementEntity>
